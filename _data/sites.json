@@ -24,5 +24,6 @@
     { "name": "Mihobu", "url": "https://mihobu.lol/defaults" },
     { "name": "Arne", "url": "https://arne.me/articles/app-defaults", "rss": "https://arne.me/feed.xml" },
     { "name": "Devon", "url": "https://devondundee.com/blog/default-apps", "rss": "https://devondundee.com/blog?format=rss" },
-    { "name": "jomalo", "url": "https://jomalo.com/defaults/", "rss": "https://jomalo.com/feed.xml" }
+    { "name": "jomalo", "url": "https://jomalo.com/defaults/", "rss": "https://jomalo.com/feed.xml" },
+    { "name": "Matt", "url": "https://birchtree.me/blog/my-default-apps-at-the-end-of-2023/", "rss": "https://birchtree.me/rss/" }
 ]

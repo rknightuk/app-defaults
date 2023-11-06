@@ -13,16 +13,16 @@
     <meta property='og:type' content='article' />
     <meta property='og:url' content='https://defaults.rknight.me' />
     <meta property='og:url' content='https://defaults.rknight.me' />
-    <meta property="og:image" content="https://defaults.rknight.me/preview.png">
+    <meta property="og:image" content="https://defaults.rknight.me/icons/preview.png">
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    <link rel="manifest" href="/icons/site.webmanifest">
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#fdbd30">
     <meta name="theme-color" content="#fdbd30">
-    <link rel='icon' type='image/x-icon' href='/favicon.ico'>
+    <link rel='icon' type='image/x-icon' href='/icons/favicon.ico'>
 
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=atkinson-hyperlegible:400,400i,700,700i" rel="stylesheet" />
@@ -101,32 +101,9 @@
         <div class="container">
 
         <ul>
-            <li><a href="https://gabz.blog/2023/11/03/my-defaults.html">Gabz</a></li>
-            <li><a href="https://rknight.me/app-defaults/">Robb</a></li>
-            <li><a href="https://maique.eu/2023/11/03/defaults.html">Maique</a></li>
-            <li><a href="https://lmika.org/2023/11/04/defaults.html">Leon</a></li>
-            <li><a href="https://alpine.weblog.lol/2023/11/the-defaults">Zachary</a></li>
-            <li><a href="https://canion.blog/2023/11/04/duel-of-the.html">Andrew</a></li>
-            <li><a href="https://www.andycarolan.com/appdefaults">Andy</a></li>
-            <li><a href="https://mb.esamecar.net/2023/11/04/app-defaults.html">Marco</a></li>
-            <li><a href="https://matt.routleynet.org/2023/11/04/duel-of-the.html">Matt</a></li>
-            <li><a href="https://www.neilmacy.co.uk/blog/app-defaults">Neil</a></li>
-            <li><a href="https://mastodon.social/@Qiu/111354288897085324">Qiu</a></li>
-            <li><a href="https://www.chamline.net/default-apps/">Habib</a></li>
-            <li><a href="https://eay.cc/2023/my-app-defaults/">Stefan</a></li>
-            <li><a href="https://flamedfury.com/posts/app-defaults">fLaMEd</a></li>
-            <li><a href="https://txt.laker.tech/defaults">Laker</a></li>
-            <li><a href="https://jeffperry.me/default-apps/">Jeff Perry</a></li>
-            <li><a href="https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring">Jarrod</a></li>
-            <li><a href="https://sylvia.micro.blog/2023/11/05/my-defaults.html">Sylvia</a></li>
-            <li><a href="https://umerez.eu/2023/11/03/defaults.html">Esteban</a></li>
-            <li><a href="https://andreas-spiegler.de/2023/11/05/app-defaults/">Andreas</a></li>
-            <li><a href="https://www.superdavey.com/2023/11/05/defaults.html">David</a></li>
-            <li><a href="https://tekphloyd.com/defaults">tekphloyd</a></li>
-            <li><a href="https://mihobu.lol/defaults">Mihobu</a></li>
-            <li><a href="https://arne.me/articles/app-defaults">Arne</a></li>
-            <li><a href="https://devondundee.com/blog/default-apps">Devon</a></li>
-            <li><a href="https://jomalo.com/defaults/">jamolo</a></li>
+            {%- for site in sites %}
+                <li><a href="{{ site.url }}">{{ site.name }}</a> {% if site.rss %}<small><a style="font-weight: normal" href="{{ site.rss }}">RSS</a></small>{% endif %}</li>
+            {% endfor%}
         </ul>
 
         <p>Post your own list of defaults and either <a href="https://github.com/rknightuk/app-defaults">add it on GitHub</a> or <a href="https://social.lol/@robb">let Robb know</a>.</p>

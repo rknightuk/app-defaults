@@ -25,5 +25,6 @@
     { "name": "Arne", "url": "https://arne.me/articles/app-defaults", "rss": "https://arne.me/feed.xml" },
     { "name": "Devon Dundee", "url": "https://devondundee.com/blog/default-apps", "rss": "https://devondundee.com/blog?format=rss" },
     { "name": "jomalo", "url": "https://jomalo.com/defaults/", "rss": "https://jomalo.com/feed.xml" },
-    { "name": "Matt Birchler", "url": "https://birchtree.me/blog/my-default-apps-at-the-end-of-2023/", "rss": "https://birchtree.me/rss/" }
+    { "name": "Matt Birchler", "url": "https://birchtree.me/blog/my-default-apps-at-the-end-of-2023/", "rss": "https://birchtree.me/rss/" },
+    { "name": "Eric Walker", "url": "https://ericmwalk.blog/2023/11/06/application-defaults.html", "rss": "https://ericmwalk.blog/feed.xml" }
 ]

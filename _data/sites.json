@@ -54,5 +54,6 @@
     { "name": "Andy", "url": "https://acn.lol/2023/11/07/default-apps", "rss": "https://acn.lol/rss.xml", "date": "2023-11-07 20:51" },
     { "name": "Curt Merrill", "url": "https://curtmerrill.com/blog/2023/default-apps/", "rss": "https://curtmerrill.com/blog/feed/", "date": "2023-11-07 19:52"},
     { "name": "Dmitry Dolzhenko", "url": "https://dolzhenko.me/blog/2023/11/default-apps/", "rss": "https://dolzhenko.me/feed.xml", "date": "2023-11-07 22:00" },
-    { "name": "Paweł Orzech", "url": "https://pawel.orzech.me/2023/11/07/my-defaults.html", "rss": "https://pawel.orzech.me/rss", "date": "2023-11-07 21:17" }
+    { "name": "Paweł Orzech", "url": "https://pawel.orzech.me/2023/11/07/my-defaults.html", "rss": "https://pawel.orzech.me/rss", "date": "2023-11-07 21:17" },
+    { "name": "Konstantin Tutsch", "url": "https://konstantintutsch.com/my-app-defaults-because-everyone-is-doing-them/", "rss": "https://konstantintutsch.com/feed.xml", "date": "2023-11-07 22:25" }
 ]

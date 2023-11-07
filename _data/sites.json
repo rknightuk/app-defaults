@@ -29,5 +29,7 @@
     { "name": "Eric Walker", "url": "https://ericmwalk.blog/2023/11/06/application-defaults.html", "rss": "https://ericmwalk.blog/feed.xml" },
     { "name": "Cory Dransfeldt", "url": "https://coryd.dev/posts/2023/default-apps-2023/", "rss": "https://feedpress.me/coryd" },
     { "name": "Sébastien Etter", "url": "https://kleinheld.ch/posts/meine-default-apps/", "rss": "https://kleinheld.ch/index.xml" },
-    { "name": "Adam Fortuna", "url": "https://adamfortuna.com/apps-i-use-2023", "rss": "https://adamfortuna.com/api/feed" }
+    { "name": "Adam Fortuna", "url": "https://adamfortuna.com/apps-i-use-2023", "rss": "https://adamfortuna.com/api/feed" },
+    { "name": "Austin White", "url": "https://austinwhite.org/default-apps", "rss": "https://austinwhite.org/feed.rss" }
+
 ]

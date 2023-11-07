@@ -55,5 +55,6 @@
     { "name": "Curt Merrill", "url": "https://curtmerrill.com/blog/2023/default-apps/", "rss": "https://curtmerrill.com/blog/feed/", "date": "2023-11-07 19:52"},
     { "name": "Dmitry Dolzhenko", "url": "https://dolzhenko.me/blog/2023/11/default-apps/", "rss": "https://dolzhenko.me/feed.xml", "date": "2023-11-07 22:00" },
     { "name": "Paweł Orzech", "url": "https://pawel.orzech.me/2023/11/07/my-defaults.html", "rss": "https://pawel.orzech.me/rss", "date": "2023-11-07 21:17" },
-    { "name": "Konstantin Tutsch", "url": "https://konstantintutsch.com/my-app-defaults-because-everyone-is-doing-them/", "rss": "https://konstantintutsch.com/feed.xml", "date": "2023-11-07 21:26"}
+    { "name": "Konstantin Tutsch", "url": "https://konstantintutsch.com/my-app-defaults-because-everyone-is-doing-them/", "rss": "https://konstantintutsch.com/feed.xml", "date": "2023-11-07 21:26"},
+    { "name": "May", "url": "https://www.maymeow.com/posts/2023/11/my-app-defaults-2023-edition/", "rss": "https://www.maymeow.com/posts/index.xml", "date": "2023-11-07 21:28" }
 ]

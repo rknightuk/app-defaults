@@ -1,0 +1,24 @@
+---
+permalink: feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>App Defaults</title>
+  <link href="https://defaults.rknight.me/feed.xml" rel="self"/>
+  <link href="https://defaults.rknight.me"/>
+  <id>defaults.rknight.me</id>
+  <author>
+    <name>Hemispheric Views × Robb Knight</name>
+    <email></email>
+  </author>
+  {%- for site in sites.reverse() %}
+  <entry>
+    <title>{{ site.name }}</title>
+    <link href="{{ site.url }}"/>
+    <updated>{{ site.date }}</updated>
+    <id>{{ site.url }}</id>
+    <content type="html"><a href="{{ site.url }}">{{ site.url }}</a></content>
+  </entry>
+  {%- endfor %}
+</feed>

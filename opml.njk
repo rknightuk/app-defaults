@@ -1,0 +1,18 @@
+---
+permalink: opml.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>RSS Feeds for all App Default publishers</title>
+        <dateCreated>Tue, 7 Nov 2023 16:55:40 +0000</dateCreated>
+    </head>
+    <body>
+        {%- for site in sites %}
+            {%if site.rss %}
+                <outline text="{{ site.name }}" title="{{ site.name }}" type="rss" xmlUrl="{{ site.rss }}" htmlUrl="{{ site.url }}"/>
+            {% endif %}
+        {% endfor %}
+    </body>
+</opml>

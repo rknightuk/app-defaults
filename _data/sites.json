@@ -44,5 +44,6 @@
     { "name": "Alexandra", "url": "https://alexink.micro.blog/2023/11/07/my-default-apps.html", "rss": "https://alexink.micro.blog/rss" , "date": "2023-11-07 16:49"},
     { "name": "Kirsty", "url": "https://nocto.com/posts/app-defaults-2023", "rss": "https://nocto.com/posts/rss.xml" , "date": "2023-11-07 16:49"},
     { "name": "Jose Munoz", "url": "https://www.josemunozmatos.com/blog/my-app-defaults-2023-edition", "rss": "https://www.josemunozmatos.com/blog/rss.xml" , "date": "2023-11-07 16:49"},
-    { "name": "Topslakr", "url": "https://topslakr.com/2023/11/my-default-apps-at-the-end-of-2023/", "rss": "https://topslakr.com/feed/", "date": "2023-11-07 16:49" }
+    { "name": "Topslakr", "url": "https://topslakr.com/2023/11/my-default-apps-at-the-end-of-2023/", "rss": "https://topslakr.com/feed/", "date": "2023-11-07 16:49" },
+    { "name": "Shariq", "url": "https://cosmicqbit.dev/default-apps-2023/", "rss": "https://cosmicqbit.dev/index.xml", "date": "2023-11-07 16:49"}
 ]

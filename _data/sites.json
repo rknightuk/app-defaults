@@ -37,6 +37,7 @@
     { "name": "Numeric Citizen", "url": "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html", "rss": "https://blog.numericcitizen.me/feed.xml" },
     { "name": "Matt Fantinel", "url": "https://fantinel.dev/default-apps-2023", "rss": "https://fantinel.dev/rss.xml" },
     { "name": "kOoLiNuS", "url": "https://koolinus.wordpress.com/2023/11/07/app-defaults/", "rss": "https://koolinus.wordpress.com/feed/" },
-    { "name": "Ankur Sethi", "url": "https://ankursethi.in/posts/default-apps-2023-edition/", "rss": "https://ankursethi.in/index.xml" }
+    { "name": "Ankur Sethi", "url": "https://ankursethi.in/posts/default-apps-2023-edition/", "rss": "https://ankursethi.in/index.xml" },
+    { "name": "Vincent", "url": "https://www.vincentlammens.be/app-defaults.html", "rss": "https://www.vincentlammens.be/feeds/all.atom.xml" }
 
 ]

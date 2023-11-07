@@ -59,5 +59,6 @@
     { "name": "May", "url": "https://www.maymeow.com/posts/2023/11/my-app-defaults-2023-edition/", "rss": "https://www.maymeow.com/posts/index.xml", "date": "2023-11-07 21:28" },
     { "name": "Jonas Brusman", "url": "https://jonas.brusman.se/my-default-apps-at-the-end-of-2023/", "rss": "https://jonas.brusman.se/rss.xml", "date": "2023-11-07 22:59" },
     { "name": "humdrum", "url": "https://tiv.today/2023/11/defaultapps", "rss": "https://tiv.today/feed.rss", "date": "2023-11-07 21:51" },
-    { "name": "Yury Molodtsov", "url": "https://molodtsov.me/2023/11/my-default-apps/", "rss": "https://molodtsov.me/blog/index.xml", "date": "2023-11-07 22:30" }
+    { "name": "Yury Molodtsov", "url": "https://molodtsov.me/2023/11/my-default-apps/", "rss": "https://molodtsov.me/blog/index.xml", "date": "2023-11-07 22:30" },
+    { "name": "Johan Bleuzen", "url": "https://www.johanbleuzen.fr/blog/defaults-apps-2023", "rss": "https://www.johanbleuzen.fr/feed.xml", "date": "2023-11-07 23:44" }
 ]

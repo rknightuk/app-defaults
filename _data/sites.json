@@ -33,6 +33,8 @@
     { "name": "Austin White", "url": "https://austinwhite.org/default-apps", "rss": "https://austinwhite.org/feed.rss" },
     { "name": "David H", "url": "https://notes.1705.net/posts/default-apps/", "rss": "https://notes.1705.net/index.xml" },
     { "name": "Andrea Contino", "url": "https://gwtf.it/blog/2023/11/7/le-mie-app-di-default-del-2023", "rss": "https://gwtf.it/blog?format=rss" },
-    { "name": "Kev Quirk", "url": "https://kevquirk.com/my-default-apps-at-the-end-of-2023", "rss": "https://kevquirk.com/feed" }
+    { "name": "Kev Quirk", "url": "https://kevquirk.com/my-default-apps-at-the-end-of-2023", "rss": "https://kevquirk.com/feed" },
+    { "name": "Numeric Citizen", "url": "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html", "rss": "https://blog.numericcitizen.me/feed.xml" }
+
 
 ]

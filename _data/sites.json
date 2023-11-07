@@ -40,5 +40,6 @@
     { "name": "Ankur Sethi", "url": "https://ankursethi.in/posts/default-apps-2023-edition/", "rss": "https://ankursethi.in/index.xml" },
     { "name": "Vincent", "url": "https://www.vincentlammens.be/app-defaults.html", "rss": "https://www.vincentlammens.be/feeds/all.atom.xml" },
     { "name": "Garrit Franke", "url": "https://garrit.xyz/posts/2023-11-07-app-defaults", "rss": "https://garrit.xyz/rss.xml" },
-    { "name": "peroty", "url": "https://peroty.micro.blog/2023/11/07/defaults.html", "rss": "https://peroty.micro.blog/rss" }
+    { "name": "peroty", "url": "https://peroty.micro.blog/2023/11/07/defaults.html", "rss": "https://peroty.micro.blog/rss" },
+    { "name": "Alexandra", "url": "https://alexink.micro.blog/2023/11/07/my-default-apps.html", "rss": "https://alexink.micro.blog/rss" }
 ]

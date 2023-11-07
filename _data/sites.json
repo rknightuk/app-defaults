@@ -51,5 +51,6 @@
     { "name": "Paul Stockton", "url": "https://social.lol/@pauls/111370801335250636", "date": "2023-11-07 19:01"},
     { "name": "Gregory Hammond", "url": "https://gregoryhammond.ca/blog/my-app-defaults-for-november-2023/", "rss": "https://gregoryhammond.ca/feed/", "date": "2023-11-07 20:49" },
     { "name": "Rodrigo Ghedin", "url": "https://notes.ghed.in/posts/2023/app-defaults-2023/", "rss": "https://notes.ghed.in/feed.xml", "date": "2023-11-07 20:50" },
-    { "name": "Andy", "url": "https://acn.lol/2023/11/07/default-apps", "rss": "https://acn.lol/rss.xml", "date": "2023-11-07 20:51" }
+    { "name": "Andy", "url": "https://acn.lol/2023/11/07/default-apps", "rss": "https://acn.lol/rss.xml", "date": "2023-11-07 20:51" },
+    { "name": "Curt Merrill", "url": "https://curtmerrill.com/blog/2023/default-apps/", "rss": "https://curtmerrill.com/blog/feed/", "date": "2023-11-07 19:52"}
 ]

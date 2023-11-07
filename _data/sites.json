@@ -43,5 +43,6 @@
     { "name": "peroty", "url": "https://peroty.micro.blog/2023/11/07/defaults.html", "rss": "https://peroty.micro.blog/rss" },
     { "name": "Alexandra", "url": "https://alexink.micro.blog/2023/11/07/my-default-apps.html", "rss": "https://alexink.micro.blog/rss" },
     { "name": "Kirsty", "url": "https://nocto.com/posts/app-defaults-2023", "rss": "https://nocto.com/posts/rss.xml" },
-    { "name": "Jose Munoz", "url": "https://www.josemunozmatos.com/blog/my-app-defaults-2023-edition", "rss": "https://www.josemunozmatos.com/blog/rss.xml" }
+    { "name": "Jose Munoz", "url": "https://www.josemunozmatos.com/blog/my-app-defaults-2023-edition", "rss": "https://www.josemunozmatos.com/blog/rss.xml" },
+    { "name": "Topslakr", "url": "https://topslakr.com/2023/11/my-default-apps-at-the-end-of-2023/", "rss": "https://topslakr.com/feed/" }
 ]

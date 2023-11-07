@@ -61,5 +61,6 @@
     { "name": "humdrum", "url": "https://tiv.today/2023/11/defaultapps", "rss": "https://tiv.today/feed.rss", "date": "2023-11-07 21:51" },
     { "name": "Yury Molodtsov", "url": "https://molodtsov.me/2023/11/my-default-apps/", "rss": "https://molodtsov.me/blog/index.xml", "date": "2023-11-07 22:30" },
     { "name": "Johan Bleuzen", "url": "https://www.johanbleuzen.fr/blog/defaults-apps-2023", "rss": "https://www.johanbleuzen.fr/feed.xml", "date": "2023-11-07 23:44" },
-    { "name": "Maarten van Gompel", "url": "https://proycon.anaproy.nl/posts/default-apps/", "rss": "https://proycon.anaproy.nl/rss.xml", "date": "2023-11-07 23:46" }
+    { "name": "Maarten van Gompel", "url": "https://proycon.anaproy.nl/posts/default-apps/", "rss": "https://proycon.anaproy.nl/rss.xml", "date": "2023-11-07 23:46" },
+    { "name": "jwb", "url": "https://blog.bdw.li/posts/app-defaults/", "rss": "https://blog.bdw.li/posts/index.xml", "date": "2023-11-07 23:01" }
 ]

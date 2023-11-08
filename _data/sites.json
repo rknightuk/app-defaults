@@ -65,5 +65,9 @@
     { "name": "jwb", "url": "https://blog.bdw.li/posts/app-defaults/", "rss": "https://blog.bdw.li/posts/index.xml", "date": "2023-11-07 23:01" },
     { "name": "Chris ODonnell", "url": "https://odonnellweb.com/pelican/default-apps-2023.html", "rss": "https://odonnellweb.com/pelican/feeds/all.atom.xml", "date": "2023-11-07 18:45" },
     { "name": "Bryce Wray", "url": "https://www.brycewray.com/posts/2023/11/riding-trend-my-defaults/", "rss": "https://www.brycewray.com/index.xml", "date": "2023-11-08 01:56" },
-    { "name": "Jan-Lukas Else", "url": "https://jlelse.blog/posts/default-apps-late-2023", "rss": "https://jlelse.blog/.rss", "date": "2023-11-08 07:37" }
+    { "name": "Jan-Lukas Else", "url": "https://jlelse.blog/posts/default-apps-late-2023", "rss": "https://jlelse.blog/.rss", "date": "2023-11-08 07:37" },
+    { "name": "Dustin", "url": "https://0xdstn.site/thoughts/default-apps-2023/", "rss": "https://0xdstn.site/index.xml", "date": "2023-11-08 08:44"},
+    { "name": "Abhinav", "url": "https://notes.abhinavsarkar.net/2023/default-apps", "rss": "https://notes.abhinavsarkar.net/feed.atom", "date": "2023-11-08 08:46" },
+    { "name": "Otávio Cordeiro", "url": "https://otavio.cc/app-defaults/", "rss": "https://otavio.cc/rss", "date": "2023-11-08 08:47" },
+    { "name": "Thord D. Hedengren", "url": "https://bored.horse/post/app-defaults-late-2023/", "rss": "https://bored.horse/feed.xml", "date": "2023-11-08 08:47"}
 ]

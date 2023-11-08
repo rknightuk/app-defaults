@@ -76,4 +76,5 @@
     { "name": "Thomas Rigby", "url": "https://thomasrigby.com/posts/duel-of-the-defaults-2023/", "rss": "https://thomasrigby.com/feed.xml", "date": "2023-11-08 13:44"},
     { "name": "Caleb Hearth", "url": "https://calebhearth.com/apps-i-use-2023", "rss": "https://calebhearth.com/atom.xml", "date": "2023-11-08 14:02" },
     { "name": "Jason Kratz", "url": "https://blog.jasonkratz.me/2023/11/08/my-default-apps-2023/", "rss": "https://blog.jasonkratz.me/rss/", "date": "2023-11-08 14:38" }
+    { "name": "Ankaph", "url": "https://ankaph.xyz/posts/app-defaults/", "rss" "https://ankaph.xyz/index.xml", "date": "2023-11-08 15:35" }
 ]

@@ -81,5 +81,6 @@
     { "name": "Mike Rockwell", "url": "https://initialcharge.net/2023/11/default-apps-services/", "rss": "https://initialcharge.net/feed/", "date": "2023-11-08 16:47" },
     { "name": "Camiel Schoonens", "url": "https://schoonens.social/2023/11/08/default-apps.html", "rss": "https://schoonens.social/rss", "date": "2023-11-08 16:56"},
     { "name": "Jack Baty", "url": "https://baty.net/posts/2023/11/app-defaults", "rss": "https://baty.net/feed", "date": "2023-11-08 18:46"},
-    { "name": "Mandaris", "url": "https://mandarismoore.com/2023/11/08/defaults-in.html", "rss": "https://mandarismoore.com/feed.xml", "date": "2023-11-08 19:35" }
+    { "name": "Mandaris", "url": "https://mandarismoore.com/2023/11/08/defaults-in.html", "rss": "https://mandarismoore.com/feed.xml", "date": "2023-11-08 19:35" },
+      { "name": "Robin Opletal", "url": "https://robinopletal.com/posts/default-apps-fall-2023", "rss": "https://robinopletal.com/rss.xml", "date": "2023-11-08 20:26"},
 ]

@@ -62,6 +62,7 @@
     { "name": "Yury Molodtsov", "url": "https://molodtsov.me/2023/11/my-default-apps/", "rss": "https://molodtsov.me/blog/index.xml", "date": "2023-11-07 22:30" },
     { "name": "Johan Bleuzen", "url": "https://www.johanbleuzen.fr/blog/defaults-apps-2023", "rss": "https://www.johanbleuzen.fr/feed.xml", "date": "2023-11-07 23:44" },
     { "name": "Maarten van Gompel", "url": "https://proycon.anaproy.nl/posts/default-apps/", "rss": "https://proycon.anaproy.nl/rss.xml", "date": "2023-11-07 23:46" },
-    { "name": "jwb", "url": "https://blog.bdw.li/posts/app-defaults/", "rss": "https://blog.bdw.li/posts/index.xml", "date": "2023-11-07 23:01" }
-    { "name": "Chris ODonnell", "url": "https://odonnellweb.com/pelican/default-apps-2023.html", "rss": "https://odonnellweb.com/pelican/feeds/all.atom.xml", "date": "2023-11-07 18:45" }
+    { "name": "jwb", "url": "https://blog.bdw.li/posts/app-defaults/", "rss": "https://blog.bdw.li/posts/index.xml", "date": "2023-11-07 23:01" },
+    { "name": "Chris ODonnell", "url": "https://odonnellweb.com/pelican/default-apps-2023.html", "rss": "https://odonnellweb.com/pelican/feeds/all.atom.xml", "date": "2023-11-07 18:45" },
+    { "name": "Bryce Wray", "url": "https://www.brycewray.com/posts/2023/11/riding-trend-my-defaults/", "rss": "https://www.brycewray.com/index.xml", "date": "2023-11-08 01:56" }
 ]

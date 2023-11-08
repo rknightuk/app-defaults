@@ -79,5 +79,6 @@
     { "name": "Ankaph", "url": "https://ankaph.xyz/posts/app-defaults/", "rss": "https://ankaph.xyz/index.xml", "date": "2023-11-08 15:35" },
     { "name": "Lee Peterson", "url": "https://ljpuk.net/2023/11/08/my-default-apps-at-the-end-of-2023/", "rss": "https://ljpuk.net/feed/", "date": "2023-11-08 16:46" },
     { "name": "Mike Rockwell", "url": "https://initialcharge.net/2023/11/default-apps-services/", "rss": "https://initialcharge.net/feed/", "date": "2023-11-08 16:47" },
-    { "name": "Camiel Schoonens", "url": "https://schoonens.social/2023/11/08/default-apps.html", "rss": "https://schoonens.social/rss", "date": "2023-11-08 16:56"}
+    { "name": "Camiel Schoonens", "url": "https://schoonens.social/2023/11/08/default-apps.html", "rss": "https://schoonens.social/rss", "date": "2023-11-08 16:56"},
+    { "name": "Robin Opletal", "url": "https://robinopletal.com/posts/default-apps-fall-2023", "rss": "https://robinopletal.com/rss.xml", "date": "2023-11-08 20:26"}
 ]

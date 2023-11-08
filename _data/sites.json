@@ -1,6 +1,6 @@
 [
     { "name": "Gabz", "url": "https://gabz.blog/2023/11/03/my-defaults.html", "rss": "https://gabz.blog/feed.xml" , "date": "2023-11-07 16:49"},
-    { "name": "Robb Knight", "url": "https://rknight.me/app-defaults/", "rss": "https://rknight.me/subscribe" , "date": "2023-11-07 16:49"},
+    { "name": "Robb Knight", "url": "https://rknight.me/app-defaults/", "rss": "https://rknight.me/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "Maique", "url": "https://maique.eu/2023/11/03/defaults.html", "rss": "https://maique.eu/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "Leon Mika", "url": "https://lmika.org/2023/11/04/defaults.html", "rss": "https://lmika.org/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "Zachary", "url": "https://alpine.weblog.lol/2023/11/the-defaults", "rss": "https://alpine.weblog.lol/rss.xml" , "date": "2023-11-07 16:49"},
@@ -12,7 +12,7 @@
     { "name": "Qiu", "url": "https://mastodon.social/@Qiu/111354288897085324" , "date": "2023-11-07 16:49"},
     { "name": "Habib", "url": "https://www.chamline.net/default-apps/", "rss": "https://www.chamline.net/blog/rss/" , "date": "2023-11-07 16:49"},
     { "name": "Stefan", "url": "https://eay.cc/2023/my-app-defaults/", "rss": "https://eay.cc/feed/" , "date": "2023-11-07 16:49"},
-    { "name": "fLaMEd", "url": "https://flamedfury.com/posts/app-defaults", "rss": "https://flamedfury.com/feeds" , "date": "2023-11-07 16:49"},
+    { "name": "fLaMEd", "url": "https://flamedfury.com/posts/app-defaults", "rss": "https://flamedfury.com/feed.xml/" , "date": "2023-11-07 16:49"},
     { "name": "Laker", "url": "https://txt.laker.tech/defaults" , "date": "2023-11-07 16:49"},
     { "name": "Jeff Perry", "url": "https://jeffperry.me/default-apps/", "rss": "https://jeffperry.me/feed/" , "date": "2023-11-07 16:49"},
     { "name": "Jarrod Blundy", "url": "https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring", "rss": "https://heydingus.net/feed.rss" , "date": "2023-11-07 16:49"},

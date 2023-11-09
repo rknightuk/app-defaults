@@ -87,5 +87,6 @@
     { "name": "Tim Bornholdt", "url": "https://timbornholdt.com/blog/my-default-apps-at-the-end-of-2023", "rss": "https://timbornholdt.com/blog/feed.rss", "date": "2023-11-08 21:50"},
     { "name": "Cedric", "url": "https://www.cedricbonhomme.org/2023/11/08/my-default-apps-at-the-end-of-2023/", "rss": "https://www.cedricbonhomme.org/blog/index.xml", "date": "2023-11-08 22:07"},
     { "name": "Alberto Marinucci", "url": "https://alby.xyz/index.php/2023/11/08/le-mie-app-di-default-2023/", "rss": "https://alby.xyz/index.php/feed/", "date": "2023-11-08 22:29"},
-    { "name": "Tim Apple", "url": "https://timapple.com/2023/11/08/end-of-default.html", "rss": "https://timapple.com/rss", "date": "2023-11-09 23:08" }
+    { "name": "Tim Apple", "url": "https://timapple.com/2023/11/08/end-of-default.html", "rss": "https://timapple.com/rss", "date": "2023-11-09 23:08" },
+    { "name": "Dominik Schwind", "url": "https://lostfocus.de/2023/11/09/defaults/", "rss": "https://lostfocus.de/feed", "date": "2023-11-09 08:30" }
 ]

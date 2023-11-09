@@ -93,5 +93,6 @@
     { "name": "Michael Fürstenberg", "url": "https://furstenberg.co/defaults/", "rss": "https://furstenberg.co/feed.xml", "date": "2023-11-09 11:45" },
     { "name": "Kush", "url": "https://krabf.com/my-app-defaults-2023/", "rss": "https://krabf.com/index.xml", "date": "2023-11-09 11:17" },
     { "name": "Greg Morris", "url": "https://www.gr36.com/2023/11/09/on-defaults.html", "rss": "https://www.gr36.com/rss", "date": "2023-11-09 12:02" },
-    { "name": "Joel", "url": "https://joelchrono.xyz/blog/default-apps-2023/", "rss": "https://joelchrono.xyz/feed.xml", "date": "2023-11-09 12:24" }
+    { "name": "Joel", "url": "https://joelchrono.xyz/blog/default-apps-2023/", "rss": "https://joelchrono.xyz/feed.xml", "date": "2023-11-09 12:24" },
+    { "name": "Clayton Errington", "url": "https://claytonerrington.com/blog/default-apps/", "rss": "https://claytonerrington.com/feed.xml", "date": "2023-11-09 15:09" }
 ]

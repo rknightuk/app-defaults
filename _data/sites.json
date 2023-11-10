@@ -21,7 +21,7 @@
     { "name": "Andreas", "url": "https://andreas-spiegler.de/2023/11/05/app-defaults/", "rss": "https://andreas-spiegler.de/feed/" , "date": "2023-11-07 16:49"},
     { "name": "David", "url": "https://www.superdavey.com/2023/11/05/defaults.html", "rss": "https://www.superdavey.com/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "tekphloyd", "url": "https://tekphloyd.com/defaults", "rss": "https://tekphloyd.com/rss.xml" , "date": "2023-11-07 16:49"},
-    { "name": "Mihobu", "url": "https://mihobu.lol/defaults" , "date": "2023-11-07 16:49"},
+    { "name": "Michael Burkhardt", "url": "https://mihobu.lol/defaults", "rss": "https://mihobu.lol/rss.xml", "date": "2023-11-09 00:40"},
     { "name": "Arne", "url": "https://arne.me/articles/app-defaults", "rss": "https://arne.me/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "Devon Dundee", "url": "https://devondundee.com/blog/default-apps", "rss": "https://devondundee.com/blog?format=rss" , "date": "2023-11-07 16:49"},
     { "name": "jomalo", "url": "https://jomalo.com/defaults/", "rss": "https://jomalo.com/feed.xml" , "date": "2023-11-07 16:49"},

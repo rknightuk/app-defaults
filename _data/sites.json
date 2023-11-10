@@ -107,5 +107,6 @@
     { "name": "alienlebarge", "url": "https://alienlebarge.ch/articles/2023/11/my-defaults-apps-end-of/", "rss": "https://alienlebarge.ch/feed.xml", "date": "2023-11-10 10:47"},
     { "name": "Another Dayu", "url": "https://anotherdayu.com/2023/5452/", "rss": "https://anotherdayu.com/feed/", "date": "2023-11-10 21:28"},
     { "name": "Jason Becker", "url": "https://json.blog/2023/11/10/default-apps-alright.html", "rss": "https://json.blog/rss", "date": "2023-11-10 20:07" },
-    { "name": "Chris Hannah", "url": "https://chrishannah.me/2023-app-defaults", "rss": "https://chrishannah.me/feed", "date": "2023-11-10 20:12" }
+    { "name": "Chris Hannah", "url": "https://chrishannah.me/2023-app-defaults", "rss": "https://chrishannah.me/feed", "date": "2023-11-10 20:12" },
+    { "name": "FuzzyGrim", "url": "https://www.fuzzygrim.com/posts/default-apps-2023", "rss": "https://www.fuzzygrim.com/feed.xml", "date": "2023-11-10 20:29" }
 ]

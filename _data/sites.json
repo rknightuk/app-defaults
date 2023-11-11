@@ -112,5 +112,6 @@
     { "name": "面条", "url": "https://chi.miantiao.me/post/app-defaults-2023/", "rss": "https://feed.miantiao.me/", "date": "2023-11-11 11:11" },
     { "name": "Marty Day", "url": "https://www.blast-o-rama.com/2023/11/10/hopping-aboard-that-default-apps-2023-train/", "rss": "https://www.blast-o-rama.com/feed/", "date": "2023-11-11 08:20" },
     { "name": "MereCivilian", "url": "https://merecivilian.com/merecivilians-default-apps-2023/", "rss": "https://merecivilian.com/rss/", "date": "2023-11-11 08:21" },
-    { "name": "Frank Meeuwsen", "url": "https://frank.micro.blog/2023/11/11/default-apps-of.html", "rss": "https://frank.micro.blog/rss", "date": "2023-11-11 09:36" }
+    { "name": "Frank Meeuwsen", "url": "https://frank.micro.blog/2023/11/11/default-apps-of.html", "rss": "https://frank.micro.blog/rss", "date": "2023-11-11 09:36" },
+    { "name": "TheHolyTachanka", "url": "https://theholytachanka.com/posts/default-apps/", "rss": "https://theholytachanka.com/index.xml" , "date": "2023-11-09 15:23"}
 ]

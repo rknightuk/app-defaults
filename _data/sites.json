@@ -108,5 +108,7 @@
     { "name": "Another Dayu", "url": "https://anotherdayu.com/2023/5452/", "rss": "https://anotherdayu.com/feed/", "date": "2023-11-10 21:28"},
     { "name": "Jason Becker", "url": "https://json.blog/2023/11/10/default-apps-alright.html", "rss": "https://json.blog/rss", "date": "2023-11-10 20:07" },
     { "name": "Chris Hannah", "url": "https://chrishannah.me/2023-app-defaults", "rss": "https://chrishannah.me/feed", "date": "2023-11-10 20:12" },
-    { "name": "FuzzyGrim", "url": "https://www.fuzzygrim.com/posts/default-apps-2023", "rss": "https://www.fuzzygrim.com/feed.xml", "date": "2023-11-10 20:29" }
+    { "name": "FuzzyGrim", "url": "https://www.fuzzygrim.com/posts/default-apps-2023", "rss": "https://www.fuzzygrim.com/feed.xml", "date": "2023-11-10 20:29" },
+    { "name": "Marty Day", "url": "https://www.blast-o-rama.com/2023/11/10/hopping-aboard-that-default-apps-2023-train/", "rss": "https://www.blast-o-rama.com/feed/", "date": "2023-11-11 08:20" },
+    { "name": "MereCivilian", "url": "https://merecivilian.com/merecivilians-default-apps-2023/", "rss": "https://merecivilian.com/rss/", "date": "2023-11-11 08:21" }
 ]

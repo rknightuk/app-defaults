@@ -117,9 +117,10 @@
     { "name": "TheHolyTachanka", "url": "https://theholytachanka.com/posts/default-apps/", "rss": "https://theholytachanka.com/index.xml" , "date": "2023-11-09 15:23"},
     { "name": "James Kupke", "url": "https://www.jameskupke.com/posts/my-default-apps-2023/", "rss": "https://www.jameskupke.com/posts/index.xml", "date": "2023-11-11 14:47" },
     { "name": "Manuel Moreale", "url": "https://manuelmoreale.com/app-defaults", "rss": "https://manuelmoreale.com/feed/rss", "date": "2023-11-11 16:02" },
-    { "name": "Victor Kropp", "url": "https://victor.kropp.name/blog/app-defaults/", "rss": "https://victor.kropp.name/blog/index.xml", "date": "2023-11-11 19:22" },
+    { "name": "Victor Kropp", "url": "https://victor.kropp.name/blog/app-defaults/", "rss": "https://victor.kropp.name/blog/index.xml", "date": "2023-11-11 19:22" }, 
     { "name": "Ghordano", "url": "https://ghordano.com/2023/11/11/default-apps-2023/", "rss": "https://ghordano.com/feed/", "date": "2023-11-11 19:14" },
     { "name": "Bodo Tasche", "url": "https://bitboxer.de/2023/11/12/default-apps-2023/", "rss": "https://bitboxer.de/atom.xml", "date": "2023-11-12 09:00" },
     { "name": "Steve Makofsky", "url": "https://makoism.com/defaults/", "rss": "https://makoism.com/rss/", "date": "2023-11-12 08:46" },
-    { "name": "Mike Haynes", "url": "https://mikehaynes.blog/post/3734/", "rss": "https://mikehaynes.blog/feed/rss", "date": "2023-11-12 08:47" }
+    { "name": "Mike Haynes", "url": "https://mikehaynes.blog/post/3734/", "rss": "https://mikehaynes.blog/feed/rss", "date": "2023-11-12 08:47" },
+    { "name": "Jason Burk", "url": "https://grepjason.sh/2023/duel-of-the-defaults", "rss": "https://grepjason.sh/rss.xml", "date": "2023-11-12 18:32" }
 ]

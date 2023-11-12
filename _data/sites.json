@@ -125,5 +125,6 @@
     { "name": "Jason Burk", "url": "https://grepjason.sh/2023/duel-of-the-defaults", "rss": "https://grepjason.sh/rss.xml", "date": "2023-11-12 18:32" },
     { "name": "V", "url": "https://vmac.ch/posts/2023-11-05-app-default/", "rss": "https://vmac.ch/index.xml", "date": "2023-11-12 19:34" },
     { "name": "Pratik", "url": "https://microblog.pratikmhatre.com/2023/11/12/default-apps.html", "rss": "https://microblog.pratikmhatre.com/rss", "date": "2023-11-12 18:59" },
-    { "name": "polarhive", "url": "https://polarhive.net/blog/app-defaults", "rss": "https://polarhive.net/blog/index.xml", "date": "2023-11-12 18:54" }
+    { "name": "polarhive", "url": "https://polarhive.net/blog/app-defaults", "rss": "https://polarhive.net/blog/index.xml", "date": "2023-11-12 18:54" },
+    { "name": "Dan Q", "url": "https://danq.me/2023/11/12/lifestack-2023/", "rss": "https://danq.me/feed/", "date": "2023-11-12 19:54" }
 ]

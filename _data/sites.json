@@ -122,5 +122,6 @@
     { "name": "Bodo Tasche", "url": "https://bitboxer.de/2023/11/12/default-apps-2023/", "rss": "https://bitboxer.de/atom.xml", "date": "2023-11-12 09:00" },
     { "name": "Steve Makofsky", "url": "https://makoism.com/defaults/", "rss": "https://makoism.com/rss/", "date": "2023-11-12 08:46" },
     { "name": "Mike Haynes", "url": "https://mikehaynes.blog/post/3734/", "rss": "https://mikehaynes.blog/feed/rss", "date": "2023-11-12 08:47" },
-    { "name": "Jason Burk", "url": "https://grepjason.sh/2023/duel-of-the-defaults", "rss": "https://grepjason.sh/rss.xml", "date": "2023-11-12 18:32" }
+    { "name": "Jason Burk", "url": "https://grepjason.sh/2023/duel-of-the-defaults", "rss": "https://grepjason.sh/rss.xml", "date": "2023-11-12 18:32" },
+    { "name": "polarhive", "url": "https://polarhive.net/blog/app-defaults", "rss": "https://polarhive.net/blog/index.xml", "date": "2023-11-12 18:54" }
 ]

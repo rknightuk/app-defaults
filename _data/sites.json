@@ -131,5 +131,7 @@
     { "name": "Michal Zelazny", "url": "https://www.michalzelazny.com/joining-the-party/", "rss": "https://www.michalzelazny.com/feed/", "date": "2023-11-12 20:59" },
     { "name": "soeren", "url": "https://gluecko.se/2023/default-apps-2023/", "rss": "https://gluecko.se/index.xml", "date": "2023-11-12 20:58" },
     { "name": "Zack Apiratitham", "url": "https://vatthikorn.com/2023-default-apps", "rss": "https://vatthikorn.com/rss", "date": "2023-11-13 01:30" },
-    { "name": "Mt Front", "url": "https://blog.douchi.space/app-defaults/", "rss": "https://blog.douchi.space/index.xml", "date": "2023-11-12 21:55" }
+    { "name": "Mt Front", "url": "https://blog.douchi.space/app-defaults/", "rss": "https://blog.douchi.space/index.xml", "date": "2023-11-12 21:55" },
+    { "name": "Kyle Nichols", "url": "https://world.hey.com/kylenichols/my-defaults-0b855cc1", "rss": "https://world.hey.com/kylenichols/feed.atom", "date": "2023-11-13 08:05" },
+    { "name": "Bruce Hu 小胡同学", "url": "https://yinji.org/5179.html ", "rss": "https://yinji.org/feed", "date": "2023-11-13 08:07" }
 ]

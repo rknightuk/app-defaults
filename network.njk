@@ -3,6 +3,8 @@ layout: base
 isNetworkPage: true
 ---
 
+<p>Each node represents a blog post and each line represents a link included in a blog post linking to another</p>
+
 <div id="selected" class="selected">
     <span id="selected--empty"><em>Click on a node to see the app defaults for that person.</em></span>
     <span id="selected--container">
@@ -12,22 +14,26 @@ isNetworkPage: true
     </span>
 </div>
 
+<p id="loading" style="text-align: center; font-size: 0.8em;">Loading...</p>
+
 <div id="hemisphericnetwork" class="networkmap"></div>
 
 <script type="text/javascript">
 
-  // create an array with nodes
-  var nodes = new vis.DataSet({{ nodes.nodes | stringify | safe }})
-
-  // create an array with edges
-  var edges = new vis.DataSet({{ nodes.edges | stringify | safe }})
+    const nodes = new vis.DataSet({{ nodes.nodes | stringify | safe }})
+    const edges = new vis.DataSet({{ nodes.edges | stringify | safe }})
 
     const container = document.getElementById("hemisphericnetwork")
     const data = {
         nodes: nodes,
         edges: edges
     }
-    const options = {}
+    const options = {
+        layout: {
+            randomSeed: undefined,
+            improvedLayout:false
+        }
+    }
     const network = new vis.Network(container, data, options)
 
     const selectedContainer = document.getElementById('selected--container')
@@ -35,7 +41,7 @@ isNetworkPage: true
     const name = document.getElementById('selected--name')
     const rss = document.getElementById('selected--rss')
     const postId = document.getElementById('selected--id')
-    
+
     const emptyContainer = document.getElementById('selected--empty')
 
     network.on('click', function (properties) {
@@ -60,5 +66,15 @@ isNetworkPage: true
             selectedContainer.style.display = 'none'
             emptyContainer.style.display = 'block'
         }
+    })
+
+    const elem = document.getElementById('loading')
+
+    network.on("stabilizationProgress", function (params) {
+        elem.innerHTML = 'Loading: ' + Math.round((params.iterations / params.total) * 100) + '%'
+    })
+
+    network.once("stabilizationIterationsDone", function () {
+        elem.remove()
     })
 </script>

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+    <title>Hemispheric Views - App Defaults</title>
+
+    <meta property='og:title' content='Hemispheric Views - App Defaults' />
+    <meta property='description' content='Hemispheric Views - App Defaults' />
+    <meta property='og:description' content='Hemispheric Views - App Defaults' />
+    <meta property='og:type' content='article' />
+    <meta property='og:url' content='https://defaults.rknight.me' />
+    <meta property='og:url' content='https://defaults.rknight.me' />
+    <meta property="og:image" content="https://defaults.rknight.me/icons/preview.png">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    <link rel="manifest" href="/icons/site.webmanifest">
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#fdbd30">
+    <meta name="theme-color" content="#fdbd30">
+    <link rel='icon' type='image/x-icon' href='/icons/favicon.ico'>
+
+    <link rel="alternate" type="application/rss+xml" title="App Defaults" href="https://defaults.rknight.me/feed.xml" />
+
+    <link rel="preconnect" href="https://fonts.bunny.net">
+    <link href="https://fonts.bunny.net/css?family=atkinson-hyperlegible:400,400i,700,700i" rel="stylesheet" />
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            padding: 0;
+            margin: 0;
+            font-family: 'Atkinson Hyperlegible', sans-serif;
+            font-size: 1.5em;
+            height: 100vh;
+            background-color: #01a4df;
+        }
+
+        header {
+            text-align: center;
+            background-color: #fdbd30;
+            overflow: auto;
+            padding: 20px;
+        }
+
+        section {
+            background-color: #01a4df;
+            overflow: auto;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 10px 15px;
+        }
+
+        h1 {
+            margin-bottom: 0;
+        }
+
+        a {
+            color: black;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: none;
+        }
+
+        footer {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        pre {
+            padding: 10px;
+            background-color: white;
+        }
+
+        details:hover {
+            cursor: pointer;
+        }
+
+        iframe {
+            width: 740px;
+            max-width: 100%;
+            height: 200px;
+        }
+
+        @media (max-width: 600px) {
+            iframe {
+                height: 100px;
+            }
+        }
+
+        nav {
+            display: flex;
+            max-width: 720px;
+            margin: 0 auto;
+            justify-content: space-between;
+            font-size: 0.9em;
+            margin-top: 10px;
+        }
+
+        @media (max-width: 400px) {
+            nav {
+                margin-top: 0;
+                flex-direction: column;
+            }
+        }
+
+        .networkmap {
+            border: 1px solid black;
+            background-color: white;
+            width: 100%;
+            height: 500px;
+        }
+
+        .selected {
+            font-size: 0.8em;
+            margin: 20px 0;
+        }
+
+        #selected--container {
+            display: none;
+        }
+    </style>
+
+    {% if isNetworkPage %}
+        <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    {% endif %}
+
+</head>
+
+<body>
+
+    <header>
+        <h1>App Defaults</h1>
+        <p class="subtitle">Inspired by <a href="https://listen.hemisphericviews.com/097">Hemispheric Views 097 - Duel of the Defaults!</a></p>
+
+        {% if isNetworkPage %}
+        {% else %}
+            <iframe src="https://player.fireside.fm/v2/6MInpziV+pRrVuoJB?theme=dark" frameborder="0" scrolling="no"></iframe>
+        {% endif %}
+
+        <nav>
+            <a href="/">Blog Post List</a>
+            <a href="/network">Network Map</a>
+        </nav>
+    </header>
+
+    <section>
+
+        <div class="container">
+
+            {{ content | safe }}
+
+        </div>
+
+        <footer>
+            <small>Links collected by <a href="https://social.lol/@robb">Robb</a></small>
+        </footer>
+
+    </section>
+
+</body>
+
+</html>

@@ -1,0 +1,64 @@
+---
+layout: base
+isNetworkPage: true
+---
+
+<div id="selected" class="selected">
+    <span id="selected--empty"><em>Click on a node to see the app defaults for that person.</em></span>
+    <span id="selected--container">
+        <span id="selected--id"></span>
+        <a href="#" id="selected--url"><span id="selected--name"></span></a>
+        <a href="#" id="selected--rss"><span id="selected--rssname">RSS</span></a>
+    </span>
+</div>
+
+<div id="hemisphericnetwork" class="networkmap"></div>
+
+<script type="text/javascript">
+
+  // create an array with nodes
+  var nodes = new vis.DataSet({{ nodes.nodes | stringify | safe }})
+
+  // create an array with edges
+  var edges = new vis.DataSet({{ nodes.edges | stringify | safe }})
+
+    const container = document.getElementById("hemisphericnetwork")
+    const data = {
+        nodes: nodes,
+        edges: edges
+    }
+    const options = {}
+    const network = new vis.Network(container, data, options)
+
+    const selectedContainer = document.getElementById('selected--container')
+    const url = document.getElementById('selected--url')
+    const name = document.getElementById('selected--name')
+    const rss = document.getElementById('selected--rss')
+    const postId = document.getElementById('selected--id')
+    
+    const emptyContainer = document.getElementById('selected--empty')
+
+    network.on('click', function (properties) {
+        const ids = properties.nodes
+        const clickedNodes = nodes.get(ids)
+        const selected = clickedNodes[0] || null
+        if (selected)
+        {
+            postId.innerText = selected.id < 1000 ? `Number #${selected.id}` : ''
+            name.innerText = selected.label
+            url.href = selected.url
+            if (selected.rss) 
+            {
+                rss.href = selected.rss
+            } else {
+                rss.style.display = 'none'
+            }
+
+            selectedContainer.style.display = 'block'
+            emptyContainer.style.display = 'none'
+        } else {
+            selectedContainer.style.display = 'none'
+            emptyContainer.style.display = 'block'
+        }
+    })
+</script>

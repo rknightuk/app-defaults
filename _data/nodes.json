@@ -1,0 +1,1661 @@
+{
+  "nodes": [
+    {
+      "id": 1000,
+      "label": "Hemispheric Views",
+      "url": "https://listen.hemisphericviews.com/097",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 1001,
+      "label": "App Defaults",
+      "url": "https://defaults.rknight.me",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 1,
+      "label": "Gabz",
+      "url": "https://gabz.blog/2023/11/03/my-defaults.html",
+      "rss": "https://gabz.blog/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 2,
+      "label": "Robb Knight",
+      "url": "https://rknight.me/app-defaults/",
+      "rss": "https://rknight.me/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 3,
+      "label": "Maique",
+      "url": "https://maique.eu/2023/11/03/defaults.html",
+      "rss": "https://maique.eu/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 4,
+      "label": "Leon Mika",
+      "url": "https://lmika.org/2023/11/04/defaults.html",
+      "rss": "https://lmika.org/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 5,
+      "label": "Zachary",
+      "url": "https://alpine.weblog.lol/2023/11/the-defaults",
+      "rss": "https://alpine.weblog.lol/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 6,
+      "label": "Andrew Canion",
+      "url": "https://canion.blog/2023/11/04/duel-of-the.html",
+      "rss": "https://canion.blog/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 7,
+      "label": "Andy Carolan",
+      "url": "https://www.andycarolan.com/appdefaults",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 8,
+      "label": "Marco",
+      "url": "https://mb.esamecar.net/2023/11/04/app-defaults.html",
+      "rss": "https://mb.esamecar.net/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 9,
+      "label": "Matt",
+      "url": "https://matt.routleynet.org/2023/11/04/duel-of-the.html",
+      "rss": "https://matt.routleynet.org/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 10,
+      "label": "Neil Macy",
+      "url": "https://www.neilmacy.co.uk/blog/app-defaults",
+      "rss": "https://www.neilmacy.co.uk/feed.rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 11,
+      "label": "Qiu",
+      "url": "https://mastodon.social/@Qiu/111354288897085324",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 12,
+      "label": "Habib",
+      "url": "https://www.chamline.net/default-apps/",
+      "rss": "https://www.chamline.net/blog/rss/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 13,
+      "label": "Stefan",
+      "url": "https://eay.cc/2023/my-app-defaults/",
+      "rss": "https://eay.cc/feed/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 14,
+      "label": "fLaMEd",
+      "url": "https://flamedfury.com/posts/app-defaults",
+      "rss": "https://flamedfury.com/feed.xml/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 15,
+      "label": "Laker",
+      "url": "https://txt.laker.tech/defaults",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 16,
+      "label": "Jarrod Blundy",
+      "url": "https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring",
+      "rss": "https://heydingus.net/feed.rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 17,
+      "label": "Sylvia",
+      "url": "https://sylvia.micro.blog/2023/11/05/my-defaults.html",
+      "rss": "https://sylvia.micro.blog/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 18,
+      "label": "Esteban",
+      "url": "https://umerez.eu/2023/11/03/defaults.html",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 19,
+      "label": "Andreas",
+      "url": "https://andreas-spiegler.de/2023/11/05/app-defaults/",
+      "rss": "https://andreas-spiegler.de/feed/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 20,
+      "label": "David",
+      "url": "https://www.superdavey.com/2023/11/05/defaults.html",
+      "rss": "https://www.superdavey.com/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 21,
+      "label": "tekphloyd",
+      "url": "https://tekphloyd.com/defaults",
+      "rss": "https://tekphloyd.com/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 22,
+      "label": "Michael Burkhardt",
+      "url": "https://mihobu.lol/defaults",
+      "rss": "https://mihobu.lol/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 23,
+      "label": "Arne",
+      "url": "https://arne.me/articles/app-defaults",
+      "rss": "https://arne.me/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 24,
+      "label": "Devon Dundee",
+      "url": "https://devondundee.com/blog/default-apps",
+      "rss": "https://devondundee.com/blog?format=rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 25,
+      "label": "jomalo",
+      "url": "https://jomalo.com/defaults/",
+      "rss": "https://jomalo.com/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 26,
+      "label": "Matt Birchler",
+      "url": "https://birchtree.me/blog/my-default-apps-at-the-end-of-2023/",
+      "rss": "https://birchtree.me/rss/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 27,
+      "label": "Eric Walker",
+      "url": "https://ericmwalk.blog/2023/11/06/application-defaults.html",
+      "rss": "https://ericmwalk.blog/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 28,
+      "label": "Cory Dransfeldt",
+      "url": "https://coryd.dev/posts/2023/default-apps-2023/",
+      "rss": "https://feedpress.me/coryd",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 29,
+      "label": "Sébastien Etter",
+      "url": "https://kleinheld.ch/posts/meine-default-apps/",
+      "rss": "https://kleinheld.ch/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 30,
+      "label": "Adam Fortuna",
+      "url": "https://adamfortuna.com/apps-i-use-2023",
+      "rss": "https://adamfortuna.com/api/feed",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 31,
+      "label": "Austin White",
+      "url": "https://austinwhite.org/default-apps",
+      "rss": "https://austinwhite.org/feed.rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 32,
+      "label": "David H",
+      "url": "https://notes.1705.net/posts/default-apps/",
+      "rss": "https://notes.1705.net/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 33,
+      "label": "Andrea Contino",
+      "url": "https://gwtf.it/blog/2023/11/7/le-mie-app-di-default-del-2023",
+      "rss": "https://gwtf.it/blog?format=rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 34,
+      "label": "Kev Quirk",
+      "url": "https://kevquirk.com/my-default-apps-at-the-end-of-2023",
+      "rss": "https://kevquirk.com/feed",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 35,
+      "label": "Numeric Citizen",
+      "url": "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html",
+      "rss": "https://blog.numericcitizen.me/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 36,
+      "label": "Matt Fantinel",
+      "url": "https://fantinel.dev/default-apps-2023",
+      "rss": "https://fantinel.dev/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 37,
+      "label": "kOoLiNuS",
+      "url": "https://koolinus.wordpress.com/2023/11/07/app-defaults/",
+      "rss": "https://koolinus.wordpress.com/feed/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 38,
+      "label": "Ankur Sethi",
+      "url": "https://ankursethi.in/posts/default-apps-2023-edition/",
+      "rss": "https://ankursethi.in/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 39,
+      "label": "Vincent",
+      "url": "https://www.vincentlammens.be/app-defaults.html",
+      "rss": "https://www.vincentlammens.be/feeds/all.atom.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 40,
+      "label": "Garrit Franke",
+      "url": "https://garrit.xyz/posts/2023-11-07-app-defaults",
+      "rss": "https://garrit.xyz/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 41,
+      "label": "peroty",
+      "url": "https://peroty.micro.blog/2023/11/07/defaults.html",
+      "rss": "https://peroty.micro.blog/rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 42,
+      "label": "Alexandra",
+      "url": "https://alexink.micro.blog/2023/11/07/my-default-apps.html",
+      "rss": "https://alexink.micro.blog/rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 43,
+      "label": "Kirsty",
+      "url": "https://nocto.com/posts/app-defaults-2023",
+      "rss": "https://nocto.com/posts/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 44,
+      "label": "Jose Munoz",
+      "url": "https://www.josemunozmatos.com/blog/my-app-defaults-2023-edition",
+      "rss": "https://www.josemunozmatos.com/blog/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 45,
+      "label": "Topslakr",
+      "url": "https://topslakr.com/2023/11/my-default-apps-at-the-end-of-2023/",
+      "rss": "https://topslakr.com/feed/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 46,
+      "label": "mitten",
+      "url": "https://mitten.lol/2023/11/07/my-default-apps.html",
+      "rss": "https://mitten.lol/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 47,
+      "label": "Shariq",
+      "url": "https://cosmicqbit.dev/default-apps-2023/",
+      "rss": "https://cosmicqbit.dev/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 48,
+      "label": "Keenan",
+      "url": "https://gkeenan.co/avgb/app-defaults",
+      "rss": "https://gkeenan.co/avgb?format=rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 49,
+      "label": "Paul Stockton",
+      "url": "https://social.lol/@pauls/111370801335250636",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 50,
+      "label": "Gregory Hammond",
+      "url": "https://gregoryhammond.ca/blog/my-app-defaults-for-november-2023/",
+      "rss": "https://gregoryhammond.ca/feed/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 51,
+      "label": "Rodrigo Ghedin",
+      "url": "https://notes.ghed.in/posts/2023/app-defaults-2023/",
+      "rss": "https://notes.ghed.in/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 52,
+      "label": "Andy",
+      "url": "https://acn.lol/2023/11/07/default-apps",
+      "rss": "https://acn.lol/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 53,
+      "label": "Curt Merrill",
+      "url": "https://curtmerrill.com/blog/2023/default-apps/",
+      "rss": "https://curtmerrill.com/blog/feed/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 54,
+      "label": "Dmitry Dolzhenko",
+      "url": "https://dolzhenko.me/blog/2023/11/default-apps/",
+      "rss": "https://dolzhenko.me/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 55,
+      "label": "Paweł Orzech",
+      "url": "https://pawel.orzech.me/2023/11/07/my-defaults.html",
+      "rss": "https://pawel.orzech.me/rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 56,
+      "label": "Konstantin Tutsch",
+      "url": "https://konstantintutsch.com/my-app-defaults-because-everyone-is-doing-them/",
+      "rss": "https://konstantintutsch.com/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 57,
+      "label": "May",
+      "url": "https://www.maymeow.com/posts/2023/11/my-app-defaults-2023-edition/",
+      "rss": "https://www.maymeow.com/posts/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 58,
+      "label": "Jonas Brusman",
+      "url": "https://jonas.brusman.se/my-default-apps-at-the-end-of-2023/",
+      "rss": "https://jonas.brusman.se/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 59,
+      "label": "humdrum",
+      "url": "https://tiv.today/2023/11/defaultapps",
+      "rss": "https://tiv.today/feed.rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 60,
+      "label": "Yury Molodtsov",
+      "url": "https://molodtsov.me/2023/11/my-default-apps/",
+      "rss": "https://molodtsov.me/blog/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 61,
+      "label": "Johan Bleuzen",
+      "url": "https://www.johanbleuzen.fr/blog/defaults-apps-2023",
+      "rss": "https://www.johanbleuzen.fr/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 62,
+      "label": "Maarten van Gompel",
+      "url": "https://proycon.anaproy.nl/posts/default-apps/",
+      "rss": "https://proycon.anaproy.nl/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 63,
+      "label": "jwb",
+      "url": "https://blog.bdw.li/posts/app-defaults/",
+      "rss": "https://blog.bdw.li/posts/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 64,
+      "label": "Chris ODonnell",
+      "url": "https://odonnellweb.com/pelican/default-apps-2023.html",
+      "rss": "https://odonnellweb.com/pelican/feeds/all.atom.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 65,
+      "label": "Bryce Wray",
+      "url": "https://www.brycewray.com/posts/2023/11/riding-trend-my-defaults/",
+      "rss": "https://www.brycewray.com/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 66,
+      "label": "Jan-Lukas Else",
+      "url": "https://jlelse.blog/posts/default-apps-late-2023",
+      "rss": "https://jlelse.blog/.rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 67,
+      "label": "Dustin",
+      "url": "https://0xdstn.site/thoughts/default-apps-2023/",
+      "rss": "https://0xdstn.site/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 68,
+      "label": "Abhinav",
+      "url": "https://notes.abhinavsarkar.net/2023/default-apps",
+      "rss": "https://notes.abhinavsarkar.net/feed.atom",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 69,
+      "label": "Otávio Cordeiro",
+      "url": "https://otavio.cc/app-defaults/",
+      "rss": "https://otavio.cc/rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 70,
+      "label": "Thord D. Hedengren",
+      "url": "https://bored.horse/post/app-defaults-late-2023/",
+      "rss": "https://bored.horse/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 71,
+      "label": "Niko",
+      "url": "https://nikokultalahti.com/posts/my-default-apps-late-2023/",
+      "rss": "https://nikokultalahti.com/rss/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 72,
+      "label": "Colin Walker",
+      "url": "https://colinwalker.blog/blog/?date=2023-11-08",
+      "rss": "https://colinwalker.blog/livefeed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 73,
+      "label": "82MHz",
+      "url": "https://82mhz.net/posts/2023/11/apps-im-using-in-2023/",
+      "rss": "https://82mhz.net/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 74,
+      "label": "Thomas Rigby",
+      "url": "https://thomasrigby.com/posts/duel-of-the-defaults-2023/",
+      "rss": "https://thomasrigby.com/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 75,
+      "label": "Caleb Hearth",
+      "url": "https://calebhearth.com/apps-i-use-2023",
+      "rss": "https://calebhearth.com/atom.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 76,
+      "label": "Jason Kratz",
+      "url": "https://blog.jasonkratz.me/2023/11/08/my-default-apps-2023/",
+      "rss": "https://blog.jasonkratz.me/rss/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 77,
+      "label": "Ankaph",
+      "url": "https://ankaph.xyz/posts/app-defaults/",
+      "rss": "https://ankaph.xyz/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 78,
+      "label": "Lee Peterson",
+      "url": "https://ljpuk.net/2023/11/08/my-default-apps-at-the-end-of-2023/",
+      "rss": "https://ljpuk.net/feed/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 79,
+      "label": "Mike Rockwell",
+      "url": "https://initialcharge.net/2023/11/default-apps-services/",
+      "rss": "https://initialcharge.net/feed/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 80,
+      "label": "Camiel Schoonens",
+      "url": "https://schoonens.social/2023/11/08/default-apps.html",
+      "rss": "https://schoonens.social/rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 81,
+      "label": "Jack Baty",
+      "url": "https://baty.net/posts/2023/11/app-defaults",
+      "rss": "https://baty.net/feed",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 82,
+      "label": "Mandaris",
+      "url": "https://mandarismoore.com/2023/11/08/defaults-in.html",
+      "rss": "https://mandarismoore.com/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 83,
+      "label": "Robin Opletal",
+      "url": "https://robinopletal.com/posts/default-apps-fall-2023",
+      "rss": "https://robinopletal.com/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 84,
+      "label": "Henrique Dias",
+      "url": "https://hacdias.com/2023/11/08/app-defaults-late-2023/",
+      "rss": "https://hacdias.com/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 85,
+      "label": "Tim Bornholdt",
+      "url": "https://timbornholdt.com/blog/my-default-apps-at-the-end-of-2023",
+      "rss": "https://timbornholdt.com/blog/feed.rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 86,
+      "label": "Cedric",
+      "url": "https://www.cedricbonhomme.org/2023/11/08/my-default-apps-at-the-end-of-2023/",
+      "rss": "https://www.cedricbonhomme.org/blog/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 87,
+      "label": "Alberto Marinucci",
+      "url": "https://alby.xyz/index.php/2023/11/08/le-mie-app-di-default-2023/",
+      "rss": "https://alby.xyz/index.php/feed/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 88,
+      "label": "Tim Apple",
+      "url": "https://timapple.com/2023/11/08/end-of-default.html",
+      "rss": "https://timapple.com/rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 89,
+      "label": "Dominik Schwind",
+      "url": "https://lostfocus.de/2023/11/09/defaults/",
+      "rss": "https://lostfocus.de/feed",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 90,
+      "label": "Josh Ginter",
+      "url": "https://thenewsprint.co/2023/11/09/my-default-apps-in-2023/",
+      "rss": "https://thenewsprint.co/rss/",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 91,
+      "label": "Michael Fürstenberg",
+      "url": "https://furstenberg.co/defaults/",
+      "rss": "https://furstenberg.co/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 92,
+      "label": "Kush",
+      "url": "https://krabf.com/my-app-defaults-2023/",
+      "rss": "https://krabf.com/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 93,
+      "label": "Greg Morris",
+      "url": "https://www.gr36.com/2023/11/09/on-defaults.html",
+      "rss": "https://www.gr36.com/rss",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 94,
+      "label": "Joel",
+      "url": "https://joelchrono.xyz/blog/default-apps-2023/",
+      "rss": "https://joelchrono.xyz/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 95,
+      "label": "Clayton Errington",
+      "url": "https://claytonerrington.com/blog/default-apps/",
+      "rss": "https://claytonerrington.com/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 96,
+      "label": "benji",
+      "url": "https://benji.dog/articles/defaults-2023/",
+      "rss": "https://benji.dog/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 97,
+      "label": "Juan B. Rodriguez",
+      "url": "https://jbrio.net/posts/default-apps-2023/",
+      "rss": "https://jbrio.net/posts/index.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 98,
+      "label": "Johnny Noble",
+      "url": "https://johnnydecimal.com/20-29-communication/22-blog/22.00.0018-defaults/",
+      "rss": "https://johnnydecimal.com/rss.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 99,
+      "label": "Wade Urry",
+      "url": "https://iwader.co.uk/posts/2023/11/app-defaults/",
+      "rss": "https://iwader.co.uk/feed.xml",
+      "shape": "box",
+      "color": "#fdbd30"
+    },
+    {
+      "id": 100,
+      "label": "Martin Schneider",
+      "url": "https://www.dertagundich.de/2023/11/meine-programme",
+      "rss": "https://www.dertagundich.de/feed",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 101,
+      "label": "Rebecca Owen",
+      "url": "https://beccais.online/2023/11/default-apps-2023/",
+      "rss": "https://beccais.online/feed",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 102,
+      "label": "Yinan",
+      "url": "https://yinan.me/my-defaults",
+      "rss": "https://yinan.me/atom.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 103,
+      "label": "Garrett",
+      "url": "https://blog.heygarrett.com/2023/11/app-defaults",
+      "rss": "https://heygarrett.weblog.lol/rss.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 104,
+      "label": "mb",
+      "url": "https://jarunmb.com/2023/11/09/my-2023-default-apps/",
+      "rss": "https://jarunmb.com/feed/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 105,
+      "label": "alienlebarge",
+      "url": "https://alienlebarge.ch/articles/2023/11/my-defaults-apps-end-of/",
+      "rss": "https://alienlebarge.ch/feed.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 106,
+      "label": "Another Dayu",
+      "url": "https://anotherdayu.com/2023/5452/",
+      "rss": "https://anotherdayu.com/feed/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 107,
+      "label": "Jason Becker",
+      "url": "https://json.blog/2023/11/10/default-apps-alright.html",
+      "rss": "https://json.blog/rss",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 108,
+      "label": "Chris Hannah",
+      "url": "https://chrishannah.me/2023-app-defaults",
+      "rss": "https://chrishannah.me/feed",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 109,
+      "label": "FuzzyGrim",
+      "url": "https://www.fuzzygrim.com/posts/default-apps-2023",
+      "rss": "https://www.fuzzygrim.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 110,
+      "label": "面条",
+      "url": "https://chi.miantiao.me/post/app-defaults-2023/",
+      "rss": "https://feed.miantiao.me/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 111,
+      "label": "Marty Day",
+      "url": "https://www.blast-o-rama.com/2023/11/10/hopping-aboard-that-default-apps-2023-train/",
+      "rss": "https://www.blast-o-rama.com/feed/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 112,
+      "label": "MereCivilian",
+      "url": "https://merecivilian.com/merecivilians-default-apps-2023/",
+      "rss": "https://merecivilian.com/rss/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 113,
+      "label": "Frank Meeuwsen",
+      "url": "https://frank.micro.blog/2023/11/11/default-apps-of.html",
+      "rss": "https://frank.micro.blog/rss",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 114,
+      "label": "Oskar van Rijswijk",
+      "url": "https://ovr.micro.blog/2023/11/11/app-defaults.html",
+      "rss": "https://ovr.micro.blog/rss",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 115,
+      "label": "TheHolyTachanka",
+      "url": "https://theholytachanka.com/posts/default-apps/",
+      "rss": "https://theholytachanka.com/index.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 116,
+      "label": "James Kupke",
+      "url": "https://www.jameskupke.com/posts/my-default-apps-2023/",
+      "rss": "https://www.jameskupke.com/posts/index.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 117,
+      "label": "Manuel Moreale",
+      "url": "https://manuelmoreale.com/app-defaults",
+      "rss": "https://manuelmoreale.com/feed/rss",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 118,
+      "label": "Victor Kropp",
+      "url": "https://victor.kropp.name/blog/app-defaults/",
+      "rss": "https://victor.kropp.name/blog/index.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 119,
+      "label": "Ghordano",
+      "url": "https://ghordano.com/2023/11/11/default-apps-2023/",
+      "rss": "https://ghordano.com/feed/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 120,
+      "label": "Bodo Tasche",
+      "url": "https://bitboxer.de/2023/11/12/default-apps-2023/",
+      "rss": "https://bitboxer.de/atom.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 121,
+      "label": "Steve Makofsky",
+      "url": "https://makoism.com/defaults/",
+      "rss": "https://makoism.com/rss/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 122,
+      "label": "Mike Haynes",
+      "url": "https://mikehaynes.blog/post/3734/",
+      "rss": "https://mikehaynes.blog/feed/rss",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 123,
+      "label": "Jason Burk",
+      "url": "https://grepjason.sh/2023/duel-of-the-defaults",
+      "rss": "https://grepjason.sh/rss.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 124,
+      "label": "V",
+      "url": "https://vmac.ch/posts/2023-11-05-app-default/",
+      "rss": "https://vmac.ch/index.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 125,
+      "label": "Pratik",
+      "url": "https://microblog.pratikmhatre.com/2023/11/12/default-apps.html",
+      "rss": "https://microblog.pratikmhatre.com/rss",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 126,
+      "label": "polarhive",
+      "url": "https://polarhive.net/blog/app-defaults",
+      "rss": "https://polarhive.net/blog/index.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 127,
+      "label": "Dan Q",
+      "url": "https://danq.me/2023/11/12/lifestack-2023/",
+      "rss": "https://danq.me/feed/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 128,
+      "label": "Dhruva Sambrani",
+      "url": "https://dhruvasambrani.github.io/blog/2023-11-12_003358",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 129,
+      "label": "Michal Zelazny",
+      "url": "https://www.michalzelazny.com/joining-the-party/",
+      "rss": "https://www.michalzelazny.com/feed/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 130,
+      "label": "soeren",
+      "url": "https://gluecko.se/2023/default-apps-2023/",
+      "rss": "https://gluecko.se/index.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 131,
+      "label": "Zack Apiratitham",
+      "url": "https://vatthikorn.com/2023-default-apps",
+      "rss": "https://vatthikorn.com/rss",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 132,
+      "label": "Mt Front",
+      "url": "https://blog.douchi.space/app-defaults/",
+      "rss": "https://blog.douchi.space/index.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 133,
+      "label": "Kyle Nichols",
+      "url": "https://world.hey.com/kylenichols/my-defaults-0b855cc1",
+      "rss": "https://world.hey.com/kylenichols/feed.atom",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 134,
+      "label": "Bruce Hu 小胡同学",
+      "url": "https://yinji.org/5179.html ",
+      "rss": "https://yinji.org/feed",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 135,
+      "label": "Robert P",
+      "url": "https://frittiert.es/articles/2023/11/app-defaults",
+      "rss": "https://frittiert.es/feed/page:feed.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 136,
+      "label": "Lucas",
+      "url": "https://lucas.art/blog/app-defaults/",
+      "rss": "https://lucas.art/rss/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 137,
+      "label": "Dom Jay",
+      "url": "https://dominickjay.com/writing/default-apps/",
+      "rss": "https://dominickjay.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 138,
+      "label": "Nikola Kotur",
+      "url": "https://nikola.kotur.org/my-default-apps-and-services-in-late-2023",
+      "rss": "https://nikola.kotur.org/feed",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 139,
+      "label": "Kevin",
+      "url": "https://itskev.in/2023/11/13/app-defaults.html",
+      "rss": "https://itskev.in/feed.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 140,
+      "label": "Martin Schuhmann",
+      "url": "https://martinschuhmann.com/2023/11/13/my-default-apps.html",
+      "rss": "https://martinschuhmann.com/rss",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 141,
+      "label": "Jarkko Tervonen",
+      "url": "https://jarkko.dev/blog/my-default-apps-at-2023/",
+      "rss": "https://jarkko.dev/feed.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 142,
+      "label": "Dan Hill",
+      "url": "https://pileoftext.mataroa.blog/blog/default-apps-in-2023/",
+      "rss": "https://pileoftext.mataroa.blog/rss/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 143,
+      "label": "L. Carlos Pando",
+      "url": "https://blog.luiscarlospando.com/personal/2023/11/app-defaults-mis-apps-predeterminadas/",
+      "rss": "https://blog.luiscarlospando.com/feed/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 144,
+      "label": "Nate",
+      "url": "https://nate.mecca1.net/posts/2023-11-14_defaults/",
+      "rss": "https://nate.mecca1.net/index.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 145,
+      "label": "Jason Fry",
+      "url": "https://jasonfry.co.uk/blog/app-defaults/",
+      "rss": "https://jasonfry.co.uk/rss.xml",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 146,
+      "label": "Xiaofei Ge",
+      "url": "https://xiaofei.ge/posts/default-app-2023/",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 147,
+      "label": "Nicolas Devenet",
+      "url": "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023",
+      "rss": "https://www.nicolas.pm/feed/atom",
+      "shape": "box",
+      "color": "#03a4df"
+    },
+    {
+      "id": 148,
+      "label": "Blake Watson",
+      "url": "https://blakewatson.com/journal/default-apps-2023/",
+      "rss": "https://blakewatson.com/feed",
+      "shape": "box",
+      "color": "#03a4df"
+    }
+  ],
+  "edges": [
+    {
+      "from": 1000,
+      "to": 1
+    },
+    {
+      "from": 1000,
+      "to": 3
+    },
+    {
+      "from": 1000,
+      "to": 4
+    },
+    {
+      "from": 1000,
+      "to": 5
+    },
+    {
+      "from": 1000,
+      "to": 6
+    },
+    {
+      "from": 1000,
+      "to": 7
+    },
+    {
+      "from": 1000,
+      "to": 8
+    },
+    {
+      "from": 1000,
+      "to": 9
+    },
+    {
+      "from": 1000,
+      "to": 14
+    },
+    {
+      "from": 1000,
+      "to": 16
+    },
+    {
+      "from": 1000,
+      "to": 20
+    },
+    {
+      "from": 1000,
+      "to": 21
+    },
+    {
+      "from": 1000,
+      "to": 22
+    },
+    {
+      "from": 1000,
+      "to": 24
+    },
+    {
+      "from": 1000,
+      "to": 27
+    },
+    {
+      "from": 1000,
+      "to": 31
+    },
+    {
+      "from": 1000,
+      "to": 35
+    },
+    {
+      "from": 1000,
+      "to": 39
+    },
+    {
+      "from": 1000,
+      "to": 41
+    },
+    {
+      "from": 1000,
+      "to": 48
+    },
+    {
+      "from": 1000,
+      "to": 52
+    },
+    {
+      "from": 1000,
+      "to": 80
+    },
+    {
+      "from": 1000,
+      "to": 82
+    },
+    {
+      "from": 1000,
+      "to": 114
+    },
+    {
+      "from": 1000,
+      "to": 123
+    },
+    {
+      "from": 1000,
+      "to": 123
+    },
+    {
+      "from": 1000,
+      "to": 126
+    },
+    {
+      "from": 1000,
+      "to": 131
+    },
+    {
+      "from": 1000,
+      "to": 133
+    },
+    {
+      "from": 1000,
+      "to": 140
+    },
+    {
+      "from": 1001,
+      "to": 4
+    },
+    {
+      "from": 1001,
+      "to": 14
+    },
+    {
+      "from": 1001,
+      "to": 14
+    },
+    {
+      "from": 1001,
+      "to": 16
+    },
+    {
+      "from": 1001,
+      "to": 17
+    },
+    {
+      "from": 1001,
+      "to": 21
+    },
+    {
+      "from": 1001,
+      "to": 22
+    },
+    {
+      "from": 1001,
+      "to": 23
+    },
+    {
+      "from": 1001,
+      "to": 24
+    },
+    {
+      "from": 1001,
+      "to": 27
+    },
+    {
+      "from": 1001,
+      "to": 33
+    },
+    {
+      "from": 1001,
+      "to": 40
+    },
+    {
+      "from": 1001,
+      "to": 41
+    },
+    {
+      "from": 1001,
+      "to": 43
+    },
+    {
+      "from": 1001,
+      "to": 44
+    },
+    {
+      "from": 1001,
+      "to": 52
+    },
+    {
+      "from": 1001,
+      "to": 55
+    },
+    {
+      "from": 1001,
+      "to": 59
+    },
+    {
+      "from": 1001,
+      "to": 61
+    },
+    {
+      "from": 1001,
+      "to": 68
+    },
+    {
+      "from": 1001,
+      "to": 81
+    },
+    {
+      "from": 1001,
+      "to": 82
+    },
+    {
+      "from": 1001,
+      "to": 83
+    },
+    {
+      "from": 1001,
+      "to": 83
+    },
+    {
+      "from": 1001,
+      "to": 100
+    },
+    {
+      "from": 1001,
+      "to": 108
+    },
+    {
+      "from": 1001,
+      "to": 109
+    },
+    {
+      "from": 1001,
+      "to": 113
+    },
+    {
+      "from": 1001,
+      "to": 114
+    },
+    {
+      "from": 1001,
+      "to": 123
+    },
+    {
+      "from": 1001,
+      "to": 126
+    },
+    {
+      "from": 1001,
+      "to": 131
+    },
+    {
+      "from": 1001,
+      "to": 134
+    },
+    {
+      "from": 1001,
+      "to": 139
+    },
+    {
+      "from": 1001,
+      "to": 140
+    },
+    {
+      "from": 1001,
+      "to": 147
+    },
+    {
+      "from": 1,
+      "to": 3
+    },
+    {
+      "from": 1,
+      "to": 4
+    },
+    {
+      "from": 1,
+      "to": 6
+    },
+    {
+      "from": 1,
+      "to": 16
+    },
+    {
+      "from": 1,
+      "to": 48
+    },
+    {
+      "from": 1,
+      "to": 61
+    },
+    {
+      "from": 1,
+      "to": 147
+    },
+    {
+      "from": 1,
+      "to": 147
+    },
+    {
+      "from": 2,
+      "to": 3
+    },
+    {
+      "from": 2,
+      "to": 4
+    },
+    {
+      "from": 2,
+      "to": 6
+    },
+    {
+      "from": 2,
+      "to": 7
+    },
+    {
+      "from": 2,
+      "to": 8
+    },
+    {
+      "from": 2,
+      "to": 10
+    },
+    {
+      "from": 2,
+      "to": 14
+    },
+    {
+      "from": 2,
+      "to": 27
+    },
+    {
+      "from": 2,
+      "to": 48
+    },
+    {
+      "from": 2,
+      "to": 61
+    },
+    {
+      "from": 3,
+      "to": 4
+    },
+    {
+      "from": 3,
+      "to": 6
+    },
+    {
+      "from": 3,
+      "to": 18
+    },
+    {
+      "from": 4,
+      "to": 6
+    },
+    {
+      "from": 5,
+      "to": 6
+    },
+    {
+      "from": 9,
+      "to": 14
+    },
+    {
+      "from": 9,
+      "to": 27
+    },
+    {
+      "from": 24,
+      "to": 80
+    },
+    {
+      "from": 26,
+      "to": 30
+    },
+    {
+      "from": 26,
+      "to": 36
+    },
+    {
+      "from": 26,
+      "to": 75
+    },
+    {
+      "from": 26,
+      "to": 75
+    },
+    {
+      "from": 26,
+      "to": 85
+    },
+    {
+      "from": 26,
+      "to": 107
+    },
+    {
+      "from": 34,
+      "to": 64
+    },
+    {
+      "from": 34,
+      "to": 83
+    },
+    {
+      "from": 34,
+      "to": 88
+    },
+    {
+      "from": 34,
+      "to": 126
+    },
+    {
+      "from": 38,
+      "to": 68
+    },
+    {
+      "from": 40,
+      "to": 83
+    },
+    {
+      "from": 40,
+      "to": 126
+    },
+    {
+      "from": 52,
+      "to": 93
+    },
+    {
+      "from": 61,
+      "to": 147
+    },
+    {
+      "from": 66,
+      "to": 100
+    },
+    {
+      "from": 66,
+      "to": 138
+    },
+    {
+      "from": 89,
+      "to": 100
+    },
+    {
+      "from": 90,
+      "to": 16
+    },
+    {
+      "from": 101,
+      "to": 103
+    },
+    {
+      "from": 101,
+      "to": 131
+    },
+    {
+      "from": 106,
+      "to": 134
+    },
+    {
+      "from": 123,
+      "to": 114
+    },
+    {
+      "from": 128,
+      "to": 126
+    }
+  ]
+}

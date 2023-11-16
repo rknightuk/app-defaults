@@ -134,6 +134,7 @@ const run = async () => {
             rss: d.rss,
             shape: 'box',
             color: (d.id >= 1000 || hosts.includes(d.name)) ? '#fdbd30' : '#03a4df',
+            linkCount: (d.links || []).length,
         })
         d.links.forEach((link) => {
             const id = postdata[normaliseUrl(link)]?.id

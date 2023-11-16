@@ -11,6 +11,7 @@ isNetworkPage: true
         <span id="selected--id"></span>
         <a href="#" id="selected--url"><span id="selected--name"></span></a>
         <a href="#" id="selected--rss"><span id="selected--rssname">RSS</span></a>
+        <span id="selected--linked"></span></a>
     </span>
 </div>
 
@@ -41,6 +42,7 @@ isNetworkPage: true
     const name = document.getElementById('selected--name')
     const rss = document.getElementById('selected--rss')
     const postId = document.getElementById('selected--id')
+    const linked = document.getElementById('selected--linked')
 
     const emptyContainer = document.getElementById('selected--empty')
 
@@ -58,6 +60,12 @@ isNetworkPage: true
                 rss.href = selected.rss
             } else {
                 rss.style.display = 'none'
+            }
+
+            if (selected.linkCount > 0) {
+                linked.innerText = `Linked from ${selected.linkCount} other post${selected.linkCount > 1 ? 's' : ''}`
+            } else {
+                linked.innerText = ''
             }
 
             selectedContainer.style.display = 'block'

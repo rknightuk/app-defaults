@@ -5,14 +5,16 @@
       "label": "Hemispheric Views",
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
-      "color": "#fdbd30"
+      "color": "#fdbd30",
+      "linkCount": 62
     },
     {
       "id": 1001,
       "label": "App Defaults",
       "url": "https://defaults.rknight.me",
       "shape": "box",
-      "color": "#fdbd30"
+      "color": "#fdbd30",
+      "linkCount": 96
     },
     {
       "id": 1,
@@ -20,7 +22,8 @@
       "url": "https://gabz.blog/2023/11/03/my-defaults.html",
       "rss": "https://gabz.blog/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 9
     },
     {
       "id": 2,
@@ -28,7 +31,8 @@
       "url": "https://rknight.me/app-defaults",
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 13
     },
     {
       "id": 3,
@@ -36,7 +40,8 @@
       "url": "https://maique.eu/2023/11/03/defaults.html",
       "rss": "https://maique.eu/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 5
     },
     {
       "id": 4,
@@ -44,7 +49,8 @@
       "url": "https://lmika.org/2023/11/04/defaults.html",
       "rss": "https://lmika.org/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 5,
@@ -52,7 +58,8 @@
       "url": "https://alpine.weblog.lol/2023/11/the-defaults",
       "rss": "https://alpine.weblog.lol/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 6,
@@ -60,14 +67,16 @@
       "url": "https://canion.blog/2023/11/04/duel-of-the.html",
       "rss": "https://canion.blog/feed.xml",
       "shape": "box",
-      "color": "#fdbd30"
+      "color": "#fdbd30",
+      "linkCount": 1
     },
     {
       "id": 7,
       "label": "Andy Carolan",
       "url": "https://www.andycarolan.com/appdefaults",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 8,
@@ -75,7 +84,8 @@
       "url": "https://mb.esamecar.net/2023/11/04/app-defaults.html",
       "rss": "https://mb.esamecar.net/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 9,
@@ -83,7 +93,8 @@
       "url": "https://matt.routleynet.org/2023/11/04/duel-of-the.html",
       "rss": "https://matt.routleynet.org/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 2
     },
     {
       "id": 10,
@@ -91,14 +102,16 @@
       "url": "https://www.neilmacy.co.uk/blog/app-defaults",
       "rss": "https://www.neilmacy.co.uk/feed.rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 11,
       "label": "Qiu",
       "url": "https://mastodon.social/@Qiu/111354288897085324",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 12,
@@ -106,7 +119,8 @@
       "url": "https://www.chamline.net/default-apps",
       "rss": "https://www.chamline.net/blog/rss/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 13,
@@ -114,7 +128,8 @@
       "url": "https://eay.cc/2023/my-app-defaults",
       "rss": "https://eay.cc/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 4
     },
     {
       "id": 14,
@@ -122,14 +137,16 @@
       "url": "https://flamedfury.com/posts/app-defaults",
       "rss": "https://flamedfury.com/feed.xml/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 15,
       "label": "Laker",
       "url": "https://txt.laker.tech/defaults",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 16,
@@ -137,7 +154,8 @@
       "url": "https://jeffperry.me/2023/11/16/my-default-apps.html",
       "rss": "https://jeffperry.me/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 17,
@@ -145,7 +163,8 @@
       "url": "https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring",
       "rss": "https://heydingus.net/feed.rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 2
     },
     {
       "id": 18,
@@ -153,14 +172,16 @@
       "url": "https://sylvia.micro.blog/2023/11/05/my-defaults.html",
       "rss": "https://sylvia.micro.blog/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 19,
       "label": "Esteban",
       "url": "https://umerez.eu/2023/11/03/defaults.html",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 20,
@@ -168,7 +189,8 @@
       "url": "https://andreas-spiegler.de/2023/11/05/app-defaults",
       "rss": "https://andreas-spiegler.de/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 21,
@@ -176,7 +198,8 @@
       "url": "https://www.superdavey.com/2023/11/05/defaults.html",
       "rss": "https://www.superdavey.com/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 22,
@@ -184,7 +207,8 @@
       "url": "https://tekphloyd.com/defaults",
       "rss": "https://tekphloyd.com/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 23,
@@ -192,7 +216,8 @@
       "url": "https://mihobu.lol/defaults",
       "rss": "https://mihobu.lol/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 24,
@@ -200,7 +225,8 @@
       "url": "https://arne.me/articles/app-defaults",
       "rss": "https://arne.me/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 25,
@@ -208,7 +234,8 @@
       "url": "https://devondundee.com/blog/default-apps",
       "rss": "https://devondundee.com/blog?format=rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 2
     },
     {
       "id": 26,
@@ -216,7 +243,8 @@
       "url": "https://jomalo.com/defaults",
       "rss": "https://jomalo.com/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 27,
@@ -224,7 +252,8 @@
       "url": "https://birchtree.me/blog/my-default-apps-at-the-end-of-2023",
       "rss": "https://birchtree.me/rss/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 9
     },
     {
       "id": 28,
@@ -232,7 +261,8 @@
       "url": "https://ericmwalk.blog/2023/11/06/application-defaults.html",
       "rss": "https://ericmwalk.blog/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 29,
@@ -240,7 +270,8 @@
       "url": "https://coryd.dev/posts/2023/default-apps-2023",
       "rss": "https://feedpress.me/coryd",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 30,
@@ -248,7 +279,8 @@
       "url": "https://kleinheld.ch/posts/meine-default-apps",
       "rss": "https://kleinheld.ch/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 31,
@@ -256,7 +288,8 @@
       "url": "https://adamfortuna.com/apps-i-use-2023",
       "rss": "https://adamfortuna.com/api/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 32,
@@ -264,7 +297,8 @@
       "url": "https://austinwhite.org/default-apps",
       "rss": "https://austinwhite.org/feed.rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 33,
@@ -272,7 +306,8 @@
       "url": "https://notes.1705.net/posts/default-apps",
       "rss": "https://notes.1705.net/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 34,
@@ -280,7 +315,8 @@
       "url": "https://gwtf.it/blog/2023/11/7/le-mie-app-di-default-del-2023",
       "rss": "https://gwtf.it/blog?format=rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 35,
@@ -288,7 +324,8 @@
       "url": "https://kevquirk.com/my-default-apps-at-the-end-of-2023",
       "rss": "https://kevquirk.com/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 10
     },
     {
       "id": 36,
@@ -296,7 +333,8 @@
       "url": "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html",
       "rss": "https://blog.numericcitizen.me/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 37,
@@ -304,7 +342,8 @@
       "url": "https://fantinel.dev/default-apps-2023",
       "rss": "https://fantinel.dev/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 38,
@@ -312,7 +351,8 @@
       "url": "https://koolinus.wordpress.com/2023/11/07/app-defaults",
       "rss": "https://koolinus.wordpress.com/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 39,
@@ -320,7 +360,8 @@
       "url": "https://ankursethi.in/posts/default-apps-2023-edition",
       "rss": "https://ankursethi.in/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 40,
@@ -328,7 +369,8 @@
       "url": "https://www.vincentlammens.be/app-defaults.html",
       "rss": "https://www.vincentlammens.be/feeds/all.atom.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 41,
@@ -336,7 +378,8 @@
       "url": "https://garrit.xyz/posts/2023-11-07-app-defaults",
       "rss": "https://garrit.xyz/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 3
     },
     {
       "id": 42,
@@ -344,7 +387,8 @@
       "url": "https://peroty.micro.blog/2023/11/07/defaults.html",
       "rss": "https://peroty.micro.blog/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 43,
@@ -352,7 +396,8 @@
       "url": "https://alexink.micro.blog/2023/11/07/my-default-apps.html",
       "rss": "https://alexink.micro.blog/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 44,
@@ -360,7 +405,8 @@
       "url": "https://nocto.com/posts/app-defaults-2023",
       "rss": "https://nocto.com/posts/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 45,
@@ -368,7 +414,8 @@
       "url": "https://www.josemunozmatos.com/blog/my-app-defaults-2023-edition",
       "rss": "https://www.josemunozmatos.com/blog/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 46,
@@ -376,7 +423,8 @@
       "url": "https://topslakr.com/2023/11/my-default-apps-at-the-end-of-2023",
       "rss": "https://topslakr.com/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 47,
@@ -384,7 +432,8 @@
       "url": "https://mitten.lol/2023/11/07/my-default-apps.html",
       "rss": "https://mitten.lol/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 48,
@@ -392,7 +441,8 @@
       "url": "https://cosmicqbit.dev/default-apps-2023",
       "rss": "https://cosmicqbit.dev/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 49,
@@ -400,14 +450,16 @@
       "url": "https://gkeenan.co/avgb/app-defaults",
       "rss": "https://gkeenan.co/avgb?format=rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 50,
       "label": "Paul Stockton",
       "url": "https://social.lol/@pauls/111370801335250636",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 51,
@@ -415,7 +467,8 @@
       "url": "https://gregoryhammond.ca/blog/my-app-defaults-for-november-2023",
       "rss": "https://gregoryhammond.ca/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 52,
@@ -423,7 +476,8 @@
       "url": "https://notes.ghed.in/posts/2023/app-defaults-2023",
       "rss": "https://notes.ghed.in/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 53,
@@ -431,7 +485,8 @@
       "url": "https://acn.lol/2023/11/07/default-apps",
       "rss": "https://acn.lol/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 2
     },
     {
       "id": 54,
@@ -439,7 +494,8 @@
       "url": "https://curtmerrill.com/blog/2023/default-apps",
       "rss": "https://curtmerrill.com/blog/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 55,
@@ -447,7 +503,8 @@
       "url": "https://dolzhenko.me/blog/2023/11/default-apps",
       "rss": "https://dolzhenko.me/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 56,
@@ -455,7 +512,8 @@
       "url": "https://pawel.orzech.me/2023/11/07/my-defaults.html",
       "rss": "https://pawel.orzech.me/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 57,
@@ -463,7 +521,8 @@
       "url": "https://konstantintutsch.com/my-app-defaults-because-everyone-is-doing-them",
       "rss": "https://konstantintutsch.com/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 58,
@@ -471,7 +530,8 @@
       "url": "https://www.maymeow.com/posts/2023/11/my-app-defaults-2023-edition",
       "rss": "https://www.maymeow.com/posts/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 59,
@@ -479,7 +539,8 @@
       "url": "https://jonas.brusman.se/my-default-apps-at-the-end-of-2023",
       "rss": "https://jonas.brusman.se/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 60,
@@ -487,7 +548,8 @@
       "url": "https://tiv.today/2023/11/defaultapps",
       "rss": "https://tiv.today/feed.rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 61,
@@ -495,7 +557,8 @@
       "url": "https://molodtsov.me/2023/11/my-default-apps",
       "rss": "https://molodtsov.me/blog/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 62,
@@ -503,7 +566,8 @@
       "url": "https://www.johanbleuzen.fr/blog/defaults-apps-2023",
       "rss": "https://www.johanbleuzen.fr/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 63,
@@ -511,7 +575,8 @@
       "url": "https://proycon.anaproy.nl/posts/default-apps",
       "rss": "https://proycon.anaproy.nl/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 64,
@@ -519,7 +584,8 @@
       "url": "https://blog.bdw.li/posts/app-defaults",
       "rss": "https://blog.bdw.li/posts/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 65,
@@ -527,7 +593,8 @@
       "url": "https://odonnellweb.com/pelican/default-apps-2023.html",
       "rss": "https://odonnellweb.com/pelican/feeds/all.atom.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 66,
@@ -535,7 +602,8 @@
       "url": "https://www.brycewray.com/posts/2023/11/riding-trend-my-defaults",
       "rss": "https://www.brycewray.com/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 67,
@@ -543,7 +611,8 @@
       "url": "https://jlelse.blog/posts/default-apps-late-2023",
       "rss": "https://jlelse.blog/.rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 2
     },
     {
       "id": 68,
@@ -551,7 +620,8 @@
       "url": "https://0xdstn.site/thoughts/default-apps-2023",
       "rss": "https://0xdstn.site/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 2
     },
     {
       "id": 69,
@@ -559,7 +629,8 @@
       "url": "https://notes.abhinavsarkar.net/2023/default-apps",
       "rss": "https://notes.abhinavsarkar.net/feed.atom",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 70,
@@ -567,7 +638,8 @@
       "url": "https://otavio.cc/app-defaults",
       "rss": "https://otavio.cc/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 71,
@@ -575,7 +647,8 @@
       "url": "https://bored.horse/post/app-defaults-late-2023",
       "rss": "https://bored.horse/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 72,
@@ -583,7 +656,8 @@
       "url": "https://nikokultalahti.com/posts/my-default-apps-late-2023",
       "rss": "https://nikokultalahti.com/rss/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 73,
@@ -591,7 +665,8 @@
       "url": "https://colinwalker.blog/blog/?date=2023-11-08",
       "rss": "https://colinwalker.blog/livefeed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 74,
@@ -599,7 +674,8 @@
       "url": "https://82mhz.net/posts/2023/11/apps-im-using-in-2023",
       "rss": "https://82mhz.net/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 75,
@@ -607,7 +683,8 @@
       "url": "https://thomasrigby.com/posts/duel-of-the-defaults-2023",
       "rss": "https://thomasrigby.com/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 76,
@@ -615,7 +692,8 @@
       "url": "https://calebhearth.com/apps-i-use-2023",
       "rss": "https://calebhearth.com/atom.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 77,
@@ -623,7 +701,8 @@
       "url": "https://blog.jasonkratz.me/2023/11/08/my-default-apps-2023",
       "rss": "https://blog.jasonkratz.me/rss/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 78,
@@ -631,7 +710,8 @@
       "url": "https://ankaph.xyz/posts/app-defaults",
       "rss": "https://ankaph.xyz/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 79,
@@ -639,7 +719,8 @@
       "url": "https://ljpuk.net/2023/11/08/my-default-apps-at-the-end-of-2023",
       "rss": "https://ljpuk.net/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 80,
@@ -647,7 +728,8 @@
       "url": "https://initialcharge.net/2023/11/default-apps-services",
       "rss": "https://initialcharge.net/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 81,
@@ -655,7 +737,8 @@
       "url": "https://schoonens.social/2023/11/08/default-apps.html",
       "rss": "https://schoonens.social/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 82,
@@ -663,7 +746,8 @@
       "url": "https://baty.net/posts/2023/11/app-defaults",
       "rss": "https://baty.net/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 83,
@@ -671,7 +755,8 @@
       "url": "https://mandarismoore.com/2023/11/08/defaults-in.html",
       "rss": "https://mandarismoore.com/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 84,
@@ -679,7 +764,8 @@
       "url": "https://robinopletal.com/posts/default-apps-fall-2023",
       "rss": "https://robinopletal.com/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 85,
@@ -687,7 +773,8 @@
       "url": "https://hacdias.com/2023/11/08/app-defaults-late-2023",
       "rss": "https://hacdias.com/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 86,
@@ -695,7 +782,8 @@
       "url": "https://timbornholdt.com/blog/my-default-apps-at-the-end-of-2023",
       "rss": "https://timbornholdt.com/blog/feed.rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 87,
@@ -703,7 +791,8 @@
       "url": "https://www.cedricbonhomme.org/2023/11/08/my-default-apps-at-the-end-of-2023",
       "rss": "https://www.cedricbonhomme.org/blog/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 88,
@@ -711,7 +800,8 @@
       "url": "https://alby.xyz/index.php/2023/11/08/le-mie-app-di-default-2023",
       "rss": "https://alby.xyz/index.php/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 89,
@@ -719,7 +809,8 @@
       "url": "https://timapple.com/2023/11/08/end-of-default.html",
       "rss": "https://timapple.com/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 90,
@@ -727,7 +818,8 @@
       "url": "https://lostfocus.de/2023/11/09/defaults",
       "rss": "https://lostfocus.de/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 91,
@@ -735,7 +827,8 @@
       "url": "https://thenewsprint.co/2023/11/09/my-default-apps-in-2023",
       "rss": "https://thenewsprint.co/rss/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 92,
@@ -743,7 +836,8 @@
       "url": "https://furstenberg.co/defaults",
       "rss": "https://furstenberg.co/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 93,
@@ -751,7 +845,8 @@
       "url": "https://krabf.com/my-app-defaults-2023",
       "rss": "https://krabf.com/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 94,
@@ -759,7 +854,8 @@
       "url": "https://www.gr36.com/2023/11/09/on-defaults.html",
       "rss": "https://www.gr36.com/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 95,
@@ -767,7 +863,8 @@
       "url": "https://joelchrono.xyz/blog/default-apps-2023",
       "rss": "https://joelchrono.xyz/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 96,
@@ -775,7 +872,8 @@
       "url": "https://claytonerrington.com/blog/default-apps",
       "rss": "https://claytonerrington.com/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 97,
@@ -783,7 +881,8 @@
       "url": "https://benji.dog/articles/defaults-2023",
       "rss": "https://benji.dog/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 98,
@@ -791,7 +890,8 @@
       "url": "https://jbrio.net/posts/default-apps-2023",
       "rss": "https://jbrio.net/posts/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 99,
@@ -799,7 +899,8 @@
       "url": "https://johnnydecimal.com/20-29-communication/22-blog/22.00.0018-defaults",
       "rss": "https://johnnydecimal.com/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 100,
@@ -807,7 +908,8 @@
       "url": "https://iwader.co.uk/posts/2023/11/app-defaults",
       "rss": "https://iwader.co.uk/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 101,
@@ -815,7 +917,8 @@
       "url": "https://www.dertagundich.de/2023/11/meine-programme",
       "rss": "https://www.dertagundich.de/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 102,
@@ -823,7 +926,8 @@
       "url": "https://beccais.online/2023/11/default-apps-2023",
       "rss": "https://beccais.online/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 2
     },
     {
       "id": 103,
@@ -831,7 +935,8 @@
       "url": "https://yinan.me/my-defaults",
       "rss": "https://yinan.me/atom.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 104,
@@ -839,7 +944,8 @@
       "url": "https://blog.heygarrett.com/2023/11/app-defaults",
       "rss": "https://heygarrett.weblog.lol/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 105,
@@ -847,7 +953,8 @@
       "url": "https://jarunmb.com/2023/11/09/my-2023-default-apps",
       "rss": "https://jarunmb.com/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 106,
@@ -855,7 +962,8 @@
       "url": "https://alienlebarge.ch/articles/2023/11/my-defaults-apps-end-of",
       "rss": "https://alienlebarge.ch/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 107,
@@ -863,7 +971,8 @@
       "url": "https://anotherdayu.com/2023/5452",
       "rss": "https://anotherdayu.com/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 3
     },
     {
       "id": 108,
@@ -871,7 +980,8 @@
       "url": "https://json.blog/2023/11/10/default-apps-alright.html",
       "rss": "https://json.blog/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 109,
@@ -879,7 +989,8 @@
       "url": "https://chrishannah.me/2023-app-defaults",
       "rss": "https://chrishannah.me/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 110,
@@ -887,7 +998,8 @@
       "url": "https://www.fuzzygrim.com/posts/default-apps-2023",
       "rss": "https://www.fuzzygrim.com/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 111,
@@ -895,7 +1007,8 @@
       "url": "https://chi.miantiao.me/post/app-defaults-2023",
       "rss": "https://feed.miantiao.me/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 112,
@@ -903,7 +1016,8 @@
       "url": "https://www.blast-o-rama.com/2023/11/10/hopping-aboard-that-default-apps-2023-train",
       "rss": "https://www.blast-o-rama.com/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 113,
@@ -911,7 +1025,8 @@
       "url": "https://merecivilian.com/merecivilians-default-apps-2023",
       "rss": "https://merecivilian.com/rss/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 114,
@@ -919,7 +1034,8 @@
       "url": "https://frank.micro.blog/2023/11/11/default-apps-of.html",
       "rss": "https://frank.micro.blog/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 115,
@@ -927,7 +1043,8 @@
       "url": "https://ovr.micro.blog/2023/11/11/app-defaults.html",
       "rss": "https://ovr.micro.blog/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 116,
@@ -935,7 +1052,8 @@
       "url": "https://theholytachanka.com/posts/default-apps",
       "rss": "https://theholytachanka.com/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 117,
@@ -943,7 +1061,8 @@
       "url": "https://www.jameskupke.com/posts/my-default-apps-2023",
       "rss": "https://www.jameskupke.com/posts/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 118,
@@ -951,7 +1070,8 @@
       "url": "https://manuelmoreale.com/app-defaults",
       "rss": "https://manuelmoreale.com/feed/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 2
     },
     {
       "id": 119,
@@ -959,7 +1079,8 @@
       "url": "https://victor.kropp.name/blog/app-defaults",
       "rss": "https://victor.kropp.name/blog/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 120,
@@ -967,7 +1088,8 @@
       "url": "https://ghordano.com/2023/11/11/default-apps-2023",
       "rss": "https://ghordano.com/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 121,
@@ -975,7 +1097,8 @@
       "url": "https://bitboxer.de/2023/11/12/default-apps-2023",
       "rss": "https://bitboxer.de/atom.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 122,
@@ -983,7 +1106,8 @@
       "url": "https://makoism.com/defaults",
       "rss": "https://makoism.com/rss/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 123,
@@ -991,7 +1115,8 @@
       "url": "https://mikehaynes.blog/post/3734",
       "rss": "https://mikehaynes.blog/feed/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 124,
@@ -999,7 +1124,8 @@
       "url": "https://grepjason.sh/2023/duel-of-the-defaults",
       "rss": "https://grepjason.sh/rss.xml",
       "shape": "box",
-      "color": "#fdbd30"
+      "color": "#fdbd30",
+      "linkCount": 0
     },
     {
       "id": 125,
@@ -1007,7 +1133,8 @@
       "url": "https://vmac.ch/posts/2023-11-05-app-default",
       "rss": "https://vmac.ch/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 126,
@@ -1015,7 +1142,8 @@
       "url": "https://microblog.pratikmhatre.com/2023/11/12/default-apps.html",
       "rss": "https://microblog.pratikmhatre.com/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 127,
@@ -1023,7 +1151,8 @@
       "url": "https://polarhive.net/blog/app-defaults",
       "rss": "https://polarhive.net/blog/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 128,
@@ -1031,14 +1160,16 @@
       "url": "https://danq.me/2023/11/12/lifestack-2023",
       "rss": "https://danq.me/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 129,
       "label": "Dhruva Sambrani",
       "url": "https://dhruvasambrani.github.io/blog/2023-11-12_003358",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 130,
@@ -1046,7 +1177,8 @@
       "url": "https://www.michalzelazny.com/joining-the-party",
       "rss": "https://www.michalzelazny.com/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 131,
@@ -1054,7 +1186,8 @@
       "url": "https://gluecko.se/2023/default-apps-2023",
       "rss": "https://gluecko.se/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 132,
@@ -1062,7 +1195,8 @@
       "url": "https://vatthikorn.com/2023-default-apps",
       "rss": "https://vatthikorn.com/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 133,
@@ -1070,7 +1204,8 @@
       "url": "https://blog.douchi.space/app-defaults",
       "rss": "https://blog.douchi.space/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 134,
@@ -1078,7 +1213,8 @@
       "url": "https://world.hey.com/kylenichols/my-defaults-0b855cc1",
       "rss": "https://world.hey.com/kylenichols/feed.atom",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 135,
@@ -1086,7 +1222,8 @@
       "url": "https://yinji.org/5179.html ",
       "rss": "https://yinji.org/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 136,
@@ -1094,7 +1231,8 @@
       "url": "https://frittiert.es/frittiert-es/2023/11/app-defaults",
       "rss": "https://frittiert.es/feed/page:feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 137,
@@ -1102,7 +1240,8 @@
       "url": "https://lucas.art/blog/app-defaults",
       "rss": "https://lucas.art/rss/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 138,
@@ -1110,7 +1249,8 @@
       "url": "https://dominickjay.com/writing/default-apps",
       "rss": "https://dominickjay.com/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 139,
@@ -1118,7 +1258,8 @@
       "url": "https://nikola.kotur.org/my-default-apps-and-services-in-late-2023",
       "rss": "https://nikola.kotur.org/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 140,
@@ -1126,7 +1267,8 @@
       "url": "https://itskev.in/2023/11/13/app-defaults.html",
       "rss": "https://itskev.in/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 141,
@@ -1134,7 +1276,8 @@
       "url": "https://martinschuhmann.com/2023/11/13/my-default-apps.html",
       "rss": "https://martinschuhmann.com/rss",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 142,
@@ -1142,7 +1285,8 @@
       "url": "https://jarkko.dev/blog/my-default-apps-at-2023",
       "rss": "https://jarkko.dev/feed.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 143,
@@ -1150,7 +1294,8 @@
       "url": "https://pileoftext.mataroa.blog/blog/default-apps-in-2023",
       "rss": "https://pileoftext.mataroa.blog/rss/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 144,
@@ -1158,7 +1303,8 @@
       "url": "https://blog.luiscarlospando.com/personal/2023/11/app-defaults-mis-apps-predeterminadas",
       "rss": "https://blog.luiscarlospando.com/feed/",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 1
     },
     {
       "id": 145,
@@ -1166,7 +1312,8 @@
       "url": "https://nate.mecca1.net/posts/2023-11-14_defaults",
       "rss": "https://nate.mecca1.net/index.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 146,
@@ -1174,14 +1321,16 @@
       "url": "https://jasonfry.co.uk/blog/app-defaults",
       "rss": "https://jasonfry.co.uk/rss.xml",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 147,
       "label": "Xiaofei Ge",
       "url": "https://xiaofei.ge/posts/default-app-2023",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 148,
@@ -1189,7 +1338,8 @@
       "url": "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023",
       "rss": "https://www.nicolas.pm/feed/atom",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 149,
@@ -1197,7 +1347,8 @@
       "url": "https://blakewatson.com/journal/default-apps-2023",
       "rss": "https://blakewatson.com/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     },
     {
       "id": 150,
@@ -1205,7 +1356,8 @@
       "url": "https://loungeruminator.net/2023/11/17/mr-default",
       "rss": "https://loungeruminator.net/feed/",
       "shape": "box",
-      "color": "#fdbd30"
+      "color": "#fdbd30",
+      "linkCount": 0
     },
     {
       "id": 151,
@@ -1213,7 +1365,8 @@
       "url": "https://www.wyrd.systems/defaults",
       "rss": "https://wyrd.systems/feed",
       "shape": "box",
-      "color": "#03a4df"
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

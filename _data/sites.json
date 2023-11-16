@@ -147,5 +147,6 @@
     { "name": "Jason Fry", "url": "https://jasonfry.co.uk/blog/app-defaults/", "rss": "https://jasonfry.co.uk/rss.xml", "date": "2023-11-14 22:14" },
     { "name": "Xiaofei Ge", "url": "https://xiaofei.ge/posts/default-app-2023/", "date": "2023-11-15 08:46" },
     { "name": "Nicolas Devenet", "url": "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023", "rss": "https://www.nicolas.pm/feed/atom", "date": "2023-11-15 12:30" },
-    { "name": "Blake Watson", "url": "https://blakewatson.com/journal/default-apps-2023/", "rss": "https://blakewatson.com/feed", "date": "2023-11-16 07:50" }
+    { "name": "Blake Watson", "url": "https://blakewatson.com/journal/default-apps-2023/", "rss": "https://blakewatson.com/feed", "date": "2023-11-16 07:50" },
+    { "name": "Martin Feld", "url": "https://loungeruminator.net/2023/11/17/mr-default/", "rss": "https://loungeruminator.net/feed/", "date": "2023-11-16 14:07" }
 ]

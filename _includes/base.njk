@@ -158,7 +158,7 @@
 
     <section>
 
-        <div class="container">
+        <div class="{% if isNetworkPage %}{% else %}container{% endif %}">
 
             {{ content | safe }}
 

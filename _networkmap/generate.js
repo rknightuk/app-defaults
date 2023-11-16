@@ -3,26 +3,6 @@ import { DOMParser, parseHTML } from 'linkedom'
 import fs from 'fs'
 
 const sites = JSON.parse(fs.readFileSync('../_data/sites.json'))
-// const sites = [
-//     { "name": "Gabz", "url": "https://gabz.blog/2023/11/03/my-defaults.html", "rss": "https://gabz.blog/feed.xml" , "date": "2023-11-07 16:49"},
-//     { "name": "Robb Knight", "url": "https://rknight.me/app-defaults/", "rss": "https://rknight.me/feed.xml" , "date": "2023-11-07 16:49"},
-//     { "name": "Maique", "url": "https://maique.eu/2023/11/03/defaults.html", "rss": "https://maique.eu/feed.xml" , "date": "2023-11-07 16:49"},
-//     { "name": "Leon Mika", "url": "https://lmika.org/2023/11/04/defaults.html", "rss": "https://lmika.org/feed.xml" , "date": "2023-11-07 16:49"},
-//     { "name": "Zachary", "url": "https://alpine.weblog.lol/2023/11/the-defaults", "rss": "https://alpine.weblog.lol/rss.xml" , "date": "2023-11-07 16:49"},
-//     { "name": "Andrew Canion", "url": "https://canion.blog/2023/11/04/duel-of-the.html", "rss": "https://canion.blog/feed.xml" , "date": "2023-11-07 16:49"},
-//     { "name": "Andy Carolan", "url": "https://www.andycarolan.com/appdefaults" , "date": "2023-11-07 16:49"},
-//     { "name": "Marco", "url": "https://mb.esamecar.net/2023/11/04/app-defaults.html", "rss": "https://mb.esamecar.net/feed.xml" , "date": "2023-11-07 16:49"},
-//     { "name": "Matt", "url": "https://matt.routleynet.org/2023/11/04/duel-of-the.html", "rss": "https://matt.routleynet.org/feed.xml" , "date": "2023-11-07 16:49"},
-//     { "name": "Neil Macy", "url": "https://www.neilmacy.co.uk/blog/app-defaults", "rss": "https://www.neilmacy.co.uk/feed.rss" , "date": "2023-11-07 16:49"},
-//     { "name": "Qiu", "url": "https://mastodon.social/@Qiu/111354288897085324" , "date": "2023-11-07 16:49"},
-//     { "name": "Habib", "url": "https://www.chamline.net/default-apps/", "rss": "https://www.chamline.net/blog/rss/" , "date": "2023-11-07 16:49"},
-//     { "name": "Stefan", "url": "https://eay.cc/2023/my-app-defaults/", "rss": "https://eay.cc/feed/" , "date": "2023-11-07 16:49"},
-//     { "name": "fLaMEd", "url": "https://flamedfury.com/posts/app-defaults", "rss": "https://flamedfury.com/feed.xml/" , "date": "2023-11-07 16:49"},
-//     { "name": "Laker", "url": "https://txt.laker.tech/defaults" , "date": "2023-11-07 16:49"},
-//     { "name": "Jarrod Blundy", "url": "https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring", "rss": "https://heydingus.net/feed.rss" , "date": "2023-11-07 16:49"},
-//     { "name": "Sylvia", "url": "https://sylvia.micro.blog/2023/11/05/my-defaults.html", "rss": "https://sylvia.micro.blog/feed.xml" , "date": "2023-11-07 16:49"},
-//     { "name": "Esteban", "url": "https://umerez.eu/2023/11/03/defaults.html" , "date": "2023-11-07 16:49"},
-// ]
 
 const normaliseUrl = (url) => {
     return url.replace(/\/$/, '')
@@ -82,13 +62,14 @@ const run = async () => {
     const edges = []
 
     Object.values(data).forEach((d) => {
+        const hosts = ['Andrew Canion', 'Jason Burk', 'Martin Feld']
         nodes.push({
             id: d.id,
             label: d.name,
             url: d.url,
             rss: d.rss,
             shape: 'box',
-            color: d.id < 100 ? '#fdbd30' : '#03a4df',
+            color: (d.id < 1000 || hosts.includes(d.name)) ? '#fdbd30' : '#03a4df',
         })
         d.links.forEach((link) => {
             const id = data[link]?.id

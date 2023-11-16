@@ -1206,6 +1206,14 @@
       "rss": "https://loungeruminator.net/feed/",
       "shape": "box",
       "color": "#fdbd30"
+    },
+    {
+      "id": 151,
+      "label": "Matt",
+      "url": "https://www.wyrd.systems/defaults",
+      "rss": "https://wyrd.systems/feed",
+      "shape": "box",
+      "color": "#03a4df"
     }
   ],
   "edges": [

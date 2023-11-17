@@ -149,6 +149,6 @@
     { "name": "Nicolas Devenet", "url": "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023", "rss": "https://www.nicolas.pm/feed/atom", "date": "2023-11-15 12:30" },
     { "name": "Blake Watson", "url": "https://blakewatson.com/journal/default-apps-2023/", "rss": "https://blakewatson.com/feed", "date": "2023-11-16 07:50" },
     { "name": "Martin Feld", "url": "https://loungeruminator.net/2023/11/17/mr-default/", "rss": "https://loungeruminator.net/feed/", "date": "2023-11-16 14:07" },
-    { "name": "Matt", "url": "https://www.wyrd.systems/defaults/", "rss": "https://wyrd.systems/feed", "date": "2023-11-16 21:17" },
+    { "name": "Matt", "url": "https://www.wyrd.systems/defaults/", "rss": "https://wyrd.systems/feed.xml", "date": "2023-11-16 21:17" },
     { "name": "Patryk Chojecki", "url": "https://chojecki.net/posts/Apps2023", "rss": "https://chojecki.net/feed.xml", "date": "2023-11-17 09:10" }
 ]

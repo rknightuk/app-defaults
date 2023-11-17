@@ -54,6 +54,7 @@ const run = async () => {
         let currentSite = null
         let currentUrl = null
         for (let i = 0; i < sites.length; i++) {
+            console.log(`running for ${currentSite.url}`)
             currentSite = sites[i]
             currentUrl = normaliseUrl(currentSite.url)
             if (!existingUrls.includes(currentUrl)) {

@@ -28,7 +28,6 @@
       "https://ericmwalk.blog/2023/11/06/application-defaults.html",
       "https://kleinheld.ch/posts/meine-default-apps",
       "https://kleinheld.ch/posts/meine-default-apps",
-      "https://austinwhite.org/default-apps",
       "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html",
       "https://www.vincentlammens.be/app-defaults.html",
       "https://peroty.micro.blog/2023/11/07/defaults.html",
@@ -53,6 +52,7 @@
       "https://beccais.online/2023/11/default-apps-2023",
       "https://jarunmb.com/2023/11/09/my-2023-default-apps",
       "https://www.blast-o-rama.com/2023/11/10/hopping-aboard-that-default-apps-2023-train",
+      "https://ovr.today/2023/11/11/app-defaults.html",
       "https://victor.kropp.name/blog/app-defaults",
       "https://grepjason.sh/2023/duel-of-the-defaults",
       "https://grepjason.sh/2023/duel-of-the-defaults",
@@ -64,8 +64,6 @@
       "https://martinschuhmann.com/2023/11/13/my-default-apps.html",
       "https://blakewatson.com/journal/default-apps-2023",
       "https://loungeruminator.net/2023/11/17/mr-default",
-      "https://loungeruminator.net/2023/11/17/mr-default",
-      "https://ovr.today/2023/11/11/app-defaults.html",
       "https://heyscottyj.com/2023/11/17/my-app-defaults.html"
     ],
     "name": "Hemispheric Views",
@@ -145,6 +143,7 @@
       "https://chi.miantiao.me/post/app-defaults-2023",
       "https://www.blast-o-rama.com/2023/11/10/hopping-aboard-that-default-apps-2023-train",
       "https://frank.micro.blog/2023/11/11/default-apps-of.html",
+      "https://ovr.today/2023/11/11/app-defaults.html",
       "https://www.jameskupke.com/posts/my-default-apps-2023",
       "https://victor.kropp.name/blog/app-defaults",
       "https://ghordano.com/2023/11/11/default-apps-2023",
@@ -169,9 +168,8 @@
       "https://nate.mecca1.net/posts/2023-11-14_defaults",
       "https://xiaofei.ge/posts/default-app-2023",
       "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023",
+      "https://blakewatson.com/journal/default-apps-2023",
       "https://loungeruminator.net/2023/11/17/mr-default",
-      "https://loungeruminator.net/2023/11/17/mr-default",
-      "https://ovr.today/2023/11/11/app-defaults.html",
       "https://www.fromjason.xyz/p/notebook/app-defaults",
       "https://heyscottyj.com/2023/11/17/my-app-defaults.html"
     ],
@@ -1313,6 +1311,15 @@
     "urlKey": "https://frank.micro.blog/2023/11/11/default-apps-of.html",
     "links": []
   },
+  "https://ovr.today/2023/11/11/app-defaults.html": {
+    "name": "Oskar van Rijswijk",
+    "url": "https://ovr.today/2023/11/11/app-defaults.html",
+    "rss": "https://ovr.today/rss",
+    "date": "2023-11-11 14:09",
+    "id": 115,
+    "urlKey": "https://ovr.today/2023/11/11/app-defaults.html",
+    "links": []
+  },
   "https://theholytachanka.com/posts/default-apps": {
     "name": "TheHolyTachanka",
     "url": "https://theholytachanka.com/posts/default-apps",
@@ -1395,9 +1402,7 @@
     "date": "2023-11-12 18:32",
     "id": 124,
     "urlKey": "https://grepjason.sh/2023/duel-of-the-defaults",
-    "links": [
-      "https://ovr.today/2023/11/11/app-defaults.html"
-    ]
+    "links": []
   },
   "https://vmac.ch/posts/2023-11-05-app-default": {
     "name": "V",
@@ -1633,30 +1638,12 @@
     "urlKey": "https://loungeruminator.net/2023/11/17/mr-default",
     "links": []
   },
-  "https://www.wyrd.systems/defaults": {
-    "name": "Matt",
-    "url": "https://www.wyrd.systems/defaults",
-    "rss": "https://wyrd.systems/feed.xml",
-    "date": "2023-11-16 21:17",
-    "id": 151,
-    "urlKey": "https://www.wyrd.systems/defaults",
-    "links": []
-  },
-  "https://ovr.today/2023/11/11/app-defaults.html": {
-    "name": "Oskar van Rijswijk",
-    "url": "https://ovr.today/2023/11/11/app-defaults.html",
-    "rss": "https://ovr.today/rss",
-    "date": "2023-11-11 14:09",
-    "id": 115,
-    "urlKey": "https://ovr.today/2023/11/11/app-defaults.html",
-    "links": []
-  },
   "https://chojecki.net/posts/Apps2023": {
     "name": "Patryk Chojecki",
     "url": "https://chojecki.net/posts/Apps2023",
     "rss": "https://chojecki.net/feed.xml",
     "date": "2023-11-17 09:10",
-    "id": 152,
+    "id": 151,
     "urlKey": "https://chojecki.net/posts/Apps2023",
     "links": []
   },

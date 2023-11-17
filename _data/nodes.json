@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 63
+      "linkCount": 61
     },
     {
       "id": 1001,
@@ -1038,6 +1038,15 @@
       "linkCount": 0
     },
     {
+      "id": 115,
+      "label": "Oskar van Rijswijk",
+      "url": "https://ovr.today/2023/11/11/app-defaults.html",
+      "rss": "https://ovr.today/rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
       "id": 116,
       "label": "TheHolyTachanka",
       "url": "https://theholytachanka.com/posts/default-apps",
@@ -1116,7 +1125,7 @@
       "rss": "https://grepjason.sh/rss.xml",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 1
+      "linkCount": 0
     },
     {
       "id": 125,
@@ -1352,24 +1361,6 @@
     },
     {
       "id": 151,
-      "label": "Matt",
-      "url": "https://www.wyrd.systems/defaults",
-      "rss": "https://wyrd.systems/feed.xml",
-      "shape": "box",
-      "color": "#03a4df",
-      "linkCount": 0
-    },
-    {
-      "id": 115,
-      "label": "Oskar van Rijswijk",
-      "url": "https://ovr.today/2023/11/11/app-defaults.html",
-      "rss": "https://ovr.today/rss",
-      "shape": "box",
-      "color": "#03a4df",
-      "linkCount": 0
-    },
-    {
-      "id": 152,
       "label": "Patryk Chojecki",
       "url": "https://chojecki.net/posts/Apps2023",
       "rss": "https://chojecki.net/feed.xml",
@@ -1495,10 +1486,6 @@
     },
     {
       "from": 1000,
-      "to": 32
-    },
-    {
-      "from": 1000,
       "to": 36
     },
     {
@@ -1595,6 +1582,10 @@
     },
     {
       "from": 1000,
+      "to": 115
+    },
+    {
+      "from": 1000,
       "to": 119
     },
     {
@@ -1636,14 +1627,6 @@
     {
       "from": 1000,
       "to": 150
-    },
-    {
-      "from": 1000,
-      "to": 150
-    },
-    {
-      "from": 1000,
-      "to": 115
     },
     {
       "from": 1000,
@@ -1927,6 +1910,10 @@
     },
     {
       "from": 1001,
+      "to": 115
+    },
+    {
+      "from": 1001,
       "to": 117
     },
     {
@@ -2023,15 +2010,11 @@
     },
     {
       "from": 1001,
-      "to": 150
+      "to": 149
     },
     {
       "from": 1001,
       "to": 150
-    },
-    {
-      "from": 1001,
-      "to": 115
     },
     {
       "from": 1001,
@@ -2235,7 +2218,7 @@
     },
     {
       "from": 27,
-      "to": 152
+      "to": 151
     },
     {
       "from": 31,
@@ -2372,10 +2355,6 @@
     {
       "from": 118,
       "to": 146
-    },
-    {
-      "from": 124,
-      "to": 115
     }
   ]
 }

@@ -1633,7 +1633,7 @@
   "https://www.wyrd.systems/defaults": {
     "name": "Matt",
     "url": "https://www.wyrd.systems/defaults",
-    "rss": "https://wyrd.systems/feed",
+    "rss": "https://wyrd.systems/feed.xml",
     "date": "2023-11-16 21:17",
     "id": 151,
     "urlKey": "https://www.wyrd.systems/defaults",

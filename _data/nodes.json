@@ -1354,7 +1354,7 @@
       "id": 151,
       "label": "Matt",
       "url": "https://www.wyrd.systems/defaults",
-      "rss": "https://wyrd.systems/feed",
+      "rss": "https://wyrd.systems/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0

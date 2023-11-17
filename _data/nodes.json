@@ -1385,6 +1385,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 154,
+      "label": "Marcel Kapfer",
+      "url": "https://mmk2410.org/uses/#software",
+      "rss": "https://mmk2410.org/blog/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

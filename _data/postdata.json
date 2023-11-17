@@ -65,7 +65,8 @@
       "https://blakewatson.com/journal/default-apps-2023",
       "https://loungeruminator.net/2023/11/17/mr-default",
       "https://loungeruminator.net/2023/11/17/mr-default",
-      "https://ovr.today/2023/11/11/app-defaults.html"
+      "https://ovr.today/2023/11/11/app-defaults.html",
+      "https://heyscottyj.com/2023/11/17/my-app-defaults.html"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -170,7 +171,9 @@
       "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023",
       "https://loungeruminator.net/2023/11/17/mr-default",
       "https://loungeruminator.net/2023/11/17/mr-default",
-      "https://ovr.today/2023/11/11/app-defaults.html"
+      "https://ovr.today/2023/11/11/app-defaults.html",
+      "https://www.fromjason.xyz/p/notebook/app-defaults",
+      "https://heyscottyj.com/2023/11/17/my-app-defaults.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1655,6 +1658,24 @@
     "date": "2023-11-17 09:10",
     "id": 152,
     "urlKey": "https://chojecki.net/posts/Apps2023",
+    "links": []
+  },
+  "https://www.fromjason.xyz/p/notebook/app-defaults": {
+    "name": "Jason V",
+    "url": "https://www.fromjason.xyz/p/notebook/app-defaults",
+    "rss": "https://www.fromjason.xyz/p/notebook/feed/feed.json",
+    "date": "2023-11-17 00:10",
+    "id": 152,
+    "urlKey": "https://www.fromjason.xyz/p/notebook/app-defaults",
+    "links": []
+  },
+  "https://heyscottyj.com/2023/11/17/my-app-defaults.html": {
+    "name": "Scotty Jackson",
+    "url": "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
+    "rss": "https://heyscottyj.com/feed.xml",
+    "date": "2023-11-17 16:51",
+    "id": 153,
+    "urlKey": "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
     "links": []
   }
 }

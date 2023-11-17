@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 62
+      "linkCount": 63
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 96
+      "linkCount": 98
     },
     {
       "id": 1,
@@ -1376,6 +1376,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 152,
+      "label": "Jason V",
+      "url": "https://www.fromjason.xyz/p/notebook/app-defaults",
+      "rss": "https://www.fromjason.xyz/p/notebook/feed/feed.json",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 153,
+      "label": "Scotty Jackson",
+      "url": "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
+      "rss": "https://heyscottyj.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -1626,6 +1644,10 @@
     {
       "from": 1000,
       "to": 115
+    },
+    {
+      "from": 1000,
+      "to": 153
     },
     {
       "from": 1001,
@@ -2010,6 +2032,14 @@
     {
       "from": 1001,
       "to": 115
+    },
+    {
+      "from": 1001,
+      "to": 152
+    },
+    {
+      "from": 1001,
+      "to": 153
     },
     {
       "from": 1,

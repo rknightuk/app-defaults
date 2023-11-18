@@ -64,7 +64,8 @@
       "https://martinschuhmann.com/2023/11/13/my-default-apps.html",
       "https://blakewatson.com/journal/default-apps-2023",
       "https://loungeruminator.net/2023/11/17/mr-default",
-      "https://heyscottyj.com/2023/11/17/my-app-defaults.html"
+      "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
+      "https://podiboq.micro.blog/2023/11/18/120817.html"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -171,7 +172,8 @@
       "https://blakewatson.com/journal/default-apps-2023",
       "https://loungeruminator.net/2023/11/17/mr-default",
       "https://www.fromjason.xyz/p/notebook/app-defaults",
-      "https://heyscottyj.com/2023/11/17/my-app-defaults.html"
+      "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
+      "https://podiboq.micro.blog/2023/11/18/120817.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1672,6 +1674,15 @@
     "date": "2023-11-17 18:32",
     "id": 154,
     "urlKey": "https://mmk2410.org/uses/#software",
+    "links": []
+  },
+  "https://podiboq.micro.blog/2023/11/18/120817.html": {
+    "name": "podiboq",
+    "url": "https://podiboq.micro.blog/2023/11/18/120817.html",
+    "rss": "https://podiboq.micro.blog/rss",
+    "date": "2023-11-18 11:57",
+    "id": 155,
+    "urlKey": "https://podiboq.micro.blog/2023/11/18/120817.html",
     "links": []
   }
 }

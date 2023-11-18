@@ -65,7 +65,8 @@
       "https://blakewatson.com/journal/default-apps-2023",
       "https://loungeruminator.net/2023/11/17/mr-default",
       "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
-      "https://podiboq.micro.blog/2023/11/18/120817.html"
+      "https://podiboq.micro.blog/2023/11/18/120817.html",
+      "https://lubieniebieski.pl/defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -173,7 +174,8 @@
       "https://loungeruminator.net/2023/11/17/mr-default",
       "https://www.fromjason.xyz/p/notebook/app-defaults",
       "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
-      "https://podiboq.micro.blog/2023/11/18/120817.html"
+      "https://podiboq.micro.blog/2023/11/18/120817.html",
+      "https://lubieniebieski.pl/defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1683,6 +1685,15 @@
     "date": "2023-11-18 11:57",
     "id": 155,
     "urlKey": "https://podiboq.micro.blog/2023/11/18/120817.html",
+    "links": []
+  },
+  "https://lubieniebieski.pl/defaults": {
+    "name": "Adam Nowak",
+    "url": "https://lubieniebieski.pl/defaults",
+    "rss": "https://lubieniebieski.pl/feed.xml",
+    "date": "2023-11-18 13:38",
+    "id": 156,
+    "urlKey": "https://lubieniebieski.pl/defaults",
     "links": []
   }
 }

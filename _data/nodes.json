@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 63
+      "linkCount": 64
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 100
+      "linkCount": 104
     },
     {
       "id": 1,
@@ -253,7 +253,7 @@
       "rss": "https://birchtree.me/rss/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 10
+      "linkCount": 11
     },
     {
       "id": 28,
@@ -1412,6 +1412,33 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 157,
+      "label": "Ian Dick",
+      "url": "https://www.iandick.com/default-apps-2023",
+      "rss": "https://www.iandick.com/blog/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 158,
+      "label": "AJ Bourg",
+      "url": "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023",
+      "rss": "https://aj.bourg.family/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 159,
+      "label": "Suhas",
+      "url": "https://suhas.weblog.lol/defaults",
+      "rss": "https://suhas.weblog.lol/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -1666,6 +1693,10 @@
     {
       "from": 1000,
       "to": 156
+    },
+    {
+      "from": 1000,
+      "to": 157
     },
     {
       "from": 1001,
@@ -2068,6 +2099,22 @@
       "to": 156
     },
     {
+      "from": 1001,
+      "to": 157
+    },
+    {
+      "from": 1001,
+      "to": 157
+    },
+    {
+      "from": 1001,
+      "to": 158
+    },
+    {
+      "from": 1001,
+      "to": 159
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2262,6 +2309,10 @@
     {
       "from": 27,
       "to": 151
+    },
+    {
+      "from": 27,
+      "to": 157
     },
     {
       "from": 31,

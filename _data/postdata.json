@@ -66,7 +66,8 @@
       "https://loungeruminator.net/2023/11/17/mr-default",
       "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
       "https://podiboq.micro.blog/2023/11/18/120817.html",
-      "https://lubieniebieski.pl/defaults"
+      "https://lubieniebieski.pl/defaults",
+      "https://www.iandick.com/default-apps-2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -175,7 +176,11 @@
       "https://www.fromjason.xyz/p/notebook/app-defaults",
       "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
       "https://podiboq.micro.blog/2023/11/18/120817.html",
-      "https://lubieniebieski.pl/defaults"
+      "https://lubieniebieski.pl/defaults",
+      "https://www.iandick.com/default-apps-2023",
+      "https://www.iandick.com/default-apps-2023",
+      "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023",
+      "https://suhas.weblog.lol/defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -477,7 +482,8 @@
       "https://alienlebarge.ch/articles/2023/11/my-defaults-apps-end-of",
       "https://json.blog/2023/11/10/default-apps-alright.html",
       "https://bitboxer.de/2023/11/12/default-apps-2023",
-      "https://chojecki.net/posts/Apps2023"
+      "https://chojecki.net/posts/Apps2023",
+      "https://www.iandick.com/default-apps-2023"
     ]
   },
   "https://ericmwalk.blog/2023/11/06/application-defaults.html": {
@@ -1694,6 +1700,33 @@
     "date": "2023-11-18 13:38",
     "id": 156,
     "urlKey": "https://lubieniebieski.pl/defaults",
+    "links": []
+  },
+  "https://www.iandick.com/default-apps-2023": {
+    "name": "Ian Dick",
+    "url": "https://www.iandick.com/default-apps-2023",
+    "rss": "https://www.iandick.com/blog/feed/",
+    "date": "2023-11-19 13:25",
+    "id": 157,
+    "urlKey": "https://www.iandick.com/default-apps-2023",
+    "links": []
+  },
+  "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023": {
+    "name": "AJ Bourg",
+    "url": "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023",
+    "rss": "https://aj.bourg.family/feed/",
+    "date": "2023-11-19 13:55",
+    "id": 158,
+    "urlKey": "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023",
+    "links": []
+  },
+  "https://suhas.weblog.lol/defaults": {
+    "name": "Suhas",
+    "url": "https://suhas.weblog.lol/defaults",
+    "rss": "https://suhas.weblog.lol/rss.xml",
+    "date": "2023-11-19 21:27",
+    "id": 159,
+    "urlKey": "https://suhas.weblog.lol/defaults",
     "links": []
   }
 }

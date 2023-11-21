@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 105
+      "linkCount": 106
     },
     {
       "id": 1,
@@ -1457,6 +1457,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 162,
+      "label": "Pedro Cora",
+      "url": "https://blog.pcora.eu/2023/11/21/app-defaults.html",
+      "rss": "https://blog.pcora.eu/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2135,6 +2144,10 @@
     {
       "from": 1001,
       "to": 160
+    },
+    {
+      "from": 1001,
+      "to": 162
     },
     {
       "from": 1,

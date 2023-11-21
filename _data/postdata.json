@@ -181,7 +181,8 @@
       "https://www.iandick.com/default-apps-2023",
       "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023",
       "https://suhas.weblog.lol/defaults",
-      "https://rexarski.com/blog/my-app-defaults-2023"
+      "https://rexarski.com/blog/my-app-defaults-2023",
+      "https://blog.pcora.eu/2023/11/21/app-defaults.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1747,6 +1748,15 @@
     "date": "2023-11-21 17:51",
     "id": 161,
     "urlKey": "https://vijayprema.com/defaults",
+    "links": []
+  },
+  "https://blog.pcora.eu/2023/11/21/app-defaults.html": {
+    "name": "Pedro Cora",
+    "url": "https://blog.pcora.eu/2023/11/21/app-defaults.html",
+    "rss": "https://blog.pcora.eu/feed.xml",
+    "date": "2023-11-21 11:35",
+    "id": 162,
+    "urlKey": "https://blog.pcora.eu/2023/11/21/app-defaults.html",
     "links": []
   }
 }

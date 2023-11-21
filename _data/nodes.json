@@ -1466,6 +1466,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 163,
+      "label": "Ravi",
+      "url": "https://ravi.weblog.lol/2023/11/default-apps",
+      "rss": "https://ravi.weblog.lol/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

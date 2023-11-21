@@ -1758,5 +1758,14 @@
     "id": 162,
     "urlKey": "https://blog.pcora.eu/2023/11/21/app-defaults.html",
     "links": []
+  },
+  "https://ravi.weblog.lol/2023/11/default-apps": {
+    "name": "Ravi",
+    "url": "https://ravi.weblog.lol/2023/11/default-apps",
+    "rss": "https://ravi.weblog.lol/rss.xml",
+    "date": "2023-11-21 21:17",
+    "id": 163,
+    "urlKey": "https://ravi.weblog.lol/2023/11/default-apps",
+    "links": []
   }
 }

@@ -160,5 +160,6 @@
     { "name": "Suhas", "url": "https://suhas.weblog.lol/defaults", "rss": "https://suhas.weblog.lol/rss.xml", "date": "2023-11-19 21:27" },
     { "name": "Rui Qiu", "url": "https://rexarski.com/blog/my-app-defaults-2023/", "rss": "https://rexarski.com/index.xml", "date": "2023-11-20 22:06"},
     { "name": "Vijay Prema", "url": "https://vijayprema.com/defaults/", "rss": "https://vijayprema.com/rss/", "date": "2023-11-21 17:51" },
-    { "name": "Pedro Cora", "url": "https://blog.pcora.eu/2023/11/21/app-defaults.html", "rss": "https://blog.pcora.eu/feed.xml", "date": "2023-11-21 11:35" }
+    { "name": "Pedro Cora", "url": "https://blog.pcora.eu/2023/11/21/app-defaults.html", "rss": "https://blog.pcora.eu/feed.xml", "date": "2023-11-21 11:35" },
+    { "name": "Ravi", "url": "https://ravi.weblog.lol/2023/11/default-apps", "rss": "https://ravi.weblog.lol/rss.xml", "date": "2023-11-21 21:17" }
 ]

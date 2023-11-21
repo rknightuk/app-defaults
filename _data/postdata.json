@@ -180,7 +180,8 @@
       "https://www.iandick.com/default-apps-2023",
       "https://www.iandick.com/default-apps-2023",
       "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023",
-      "https://suhas.weblog.lol/defaults"
+      "https://suhas.weblog.lol/defaults",
+      "https://rexarski.com/blog/my-app-defaults-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1255,7 +1256,8 @@
     "links": [
       "https://chi.miantiao.me/post/app-defaults-2023",
       "https://blog.douchi.space/app-defaults",
-      "https://yinji.org/5179.html "
+      "https://yinji.org/5179.html ",
+      "https://rexarski.com/blog/my-app-defaults-2023"
     ]
   },
   "https://json.blog/2023/11/10/default-apps-alright.html": {
@@ -1727,6 +1729,24 @@
     "date": "2023-11-19 21:27",
     "id": 159,
     "urlKey": "https://suhas.weblog.lol/defaults",
+    "links": []
+  },
+  "https://rexarski.com/blog/my-app-defaults-2023": {
+    "name": "Rui Qiu",
+    "url": "https://rexarski.com/blog/my-app-defaults-2023",
+    "rss": "https://rexarski.com/index.xml",
+    "date": "2023-11-20 22:06",
+    "id": 160,
+    "urlKey": "https://rexarski.com/blog/my-app-defaults-2023",
+    "links": []
+  },
+  "https://vijayprema.com/defaults": {
+    "name": "Vijay Prema",
+    "url": "https://vijayprema.com/defaults",
+    "rss": "https://vijayprema.com/rss/",
+    "date": "2023-11-21 17:51",
+    "id": 161,
+    "urlKey": "https://vijayprema.com/defaults",
     "links": []
   }
 }

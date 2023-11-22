@@ -182,7 +182,8 @@
       "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023",
       "https://suhas.weblog.lol/defaults",
       "https://rexarski.com/blog/my-app-defaults-2023",
-      "https://blog.pcora.eu/2023/11/21/app-defaults.html"
+      "https://blog.pcora.eu/2023/11/21/app-defaults.html",
+      "https://www.amitgawande.com/2023/11/21/app-defaults.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1360,7 +1361,8 @@
     "urlKey": "https://manuelmoreale.com/app-defaults",
     "links": [
       "https://mikehaynes.blog/post/3734",
-      "https://jasonfry.co.uk/blog/app-defaults"
+      "https://jasonfry.co.uk/blog/app-defaults",
+      "https://www.amitgawande.com/2023/11/21/app-defaults.html"
     ]
   },
   "https://victor.kropp.name/blog/app-defaults": {
@@ -1766,6 +1768,15 @@
     "date": "2023-11-21 21:17",
     "id": 163,
     "urlKey": "https://ravi.weblog.lol/2023/11/default-apps",
+    "links": []
+  },
+  "https://www.amitgawande.com/2023/11/21/app-defaults.html": {
+    "name": "Amit Gawande",
+    "url": "https://www.amitgawande.com/2023/11/21/app-defaults.html",
+    "rss": "https://www.amitgawande.com/feed.xml",
+    "date": "2023-11-21 21:17",
+    "id": 164,
+    "urlKey": "https://www.amitgawande.com/2023/11/21/app-defaults.html",
     "links": []
   }
 }

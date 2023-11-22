@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 106
+      "linkCount": 107
     },
     {
       "id": 1,
@@ -1071,7 +1071,7 @@
       "rss": "https://manuelmoreale.com/feed/rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 3
     },
     {
       "id": 119,
@@ -1472,6 +1472,15 @@
       "label": "Ravi",
       "url": "https://ravi.weblog.lol/2023/11/default-apps",
       "rss": "https://ravi.weblog.lol/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 164,
+      "label": "Amit Gawande",
+      "url": "https://www.amitgawande.com/2023/11/21/app-defaults.html",
+      "rss": "https://www.amitgawande.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2159,6 +2168,10 @@
       "to": 162
     },
     {
+      "from": 1001,
+      "to": 164
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2497,6 +2510,10 @@
     {
       "from": 118,
       "to": 146
+    },
+    {
+      "from": 118,
+      "to": 164
     }
   ]
 }

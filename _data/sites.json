@@ -162,5 +162,6 @@
     { "name": "Vijay Prema", "url": "https://vijayprema.com/defaults/", "rss": "https://vijayprema.com/rss/", "date": "2023-11-21 17:51" },
     { "name": "Pedro Cora", "url": "https://blog.pcora.eu/2023/11/21/app-defaults.html", "rss": "https://blog.pcora.eu/feed.xml", "date": "2023-11-21 11:35" },
     { "name": "Ravi", "url": "https://ravi.weblog.lol/2023/11/default-apps", "rss": "https://ravi.weblog.lol/rss.xml", "date": "2023-11-21 21:17" },
-    { "name": "Amit Gawande", "url": "https://www.amitgawande.com/2023/11/21/app-defaults.html", "rss": "https://www.amitgawande.com/feed.xml", "date": "2023-11-21 21:17" }
+    { "name": "Amit Gawande", "url": "https://www.amitgawande.com/2023/11/21/app-defaults.html", "rss": "https://www.amitgawande.com/feed.xml", "date": "2023-11-21 21:17" },
+    { "name": "Kevin Wammer", "url": "https://cliophate.wtf/posts/default-apps", "rss": "https://cliophate.wtf/feed", "date": "2023-11-23 18:49" }
 ]

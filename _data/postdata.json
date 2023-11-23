@@ -183,7 +183,8 @@
       "https://suhas.weblog.lol/defaults",
       "https://rexarski.com/blog/my-app-defaults-2023",
       "https://blog.pcora.eu/2023/11/21/app-defaults.html",
-      "https://www.amitgawande.com/2023/11/21/app-defaults.html"
+      "https://www.amitgawande.com/2023/11/21/app-defaults.html",
+      "https://cliophate.wtf/posts/default-apps"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -486,7 +487,8 @@
       "https://json.blog/2023/11/10/default-apps-alright.html",
       "https://bitboxer.de/2023/11/12/default-apps-2023",
       "https://chojecki.net/posts/Apps2023",
-      "https://www.iandick.com/default-apps-2023"
+      "https://www.iandick.com/default-apps-2023",
+      "https://cliophate.wtf/posts/default-apps"
     ]
   },
   "https://ericmwalk.blog/2023/11/06/application-defaults.html": {
@@ -1777,6 +1779,15 @@
     "date": "2023-11-21 21:17",
     "id": 164,
     "urlKey": "https://www.amitgawande.com/2023/11/21/app-defaults.html",
+    "links": []
+  },
+  "https://cliophate.wtf/posts/default-apps": {
+    "name": "Kevin Wammer",
+    "url": "https://cliophate.wtf/posts/default-apps",
+    "rss": "https://cliophate.wtf/feed",
+    "date": "2023-11-23 18:49",
+    "id": 165,
+    "urlKey": "https://cliophate.wtf/posts/default-apps",
     "links": []
   }
 }

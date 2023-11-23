@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 107
+      "linkCount": 108
     },
     {
       "id": 1,
@@ -253,7 +253,7 @@
       "rss": "https://birchtree.me/rss/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 11
+      "linkCount": 12
     },
     {
       "id": 28,
@@ -1484,6 +1484,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 165,
+      "label": "Kevin Wammer",
+      "url": "https://cliophate.wtf/posts/default-apps",
+      "rss": "https://cliophate.wtf/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2172,6 +2181,10 @@
       "to": 164
     },
     {
+      "from": 1001,
+      "to": 165
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2370,6 +2383,10 @@
     {
       "from": 27,
       "to": 157
+    },
+    {
+      "from": 27,
+      "to": 165
     },
     {
       "from": 31,

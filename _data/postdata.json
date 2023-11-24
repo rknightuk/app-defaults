@@ -188,7 +188,8 @@
       "https://cliophate.wtf/posts/default-apps",
       "https://chrisenns.com/2023/11/app-defaults",
       "https://chrisenns.com/2023/11/app-defaults",
-      "https://arkoinad.com/posts/default_apps_2023.html"
+      "https://arkoinad.com/posts/default_apps_2023.html",
+      "https://flohgro.com/productivity/app-defaults-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1811,6 +1812,15 @@
     "date": "2023-11-23 16:06",
     "id": 167,
     "urlKey": "https://arkoinad.com/posts/default_apps_2023.html",
+    "links": []
+  },
+  "https://flohgro.com/productivity/app-defaults-2023": {
+    "name": "Floh Gro",
+    "url": "https://flohgro.com/productivity/app-defaults-2023",
+    "rss": "https://flohgro.com/feed/",
+    "date": "2023-11-24 14:16",
+    "id": 168,
+    "urlKey": "https://flohgro.com/productivity/app-defaults-2023",
     "links": []
   }
 }

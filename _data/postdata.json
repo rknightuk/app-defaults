@@ -1822,5 +1822,14 @@
     "id": 168,
     "urlKey": "https://flohgro.com/productivity/app-defaults-2023",
     "links": []
+  },
+  "https://jamesdoc.com/blog/2023/defaults-in-2023": {
+    "name": "James Doc",
+    "url": "https://jamesdoc.com/blog/2023/defaults-in-2023",
+    "rss": "https://jamesdoc.com/blog/feed.xml",
+    "date": "2023-11-24 17:13",
+    "id": 169,
+    "urlKey": "https://jamesdoc.com/blog/2023/defaults-in-2023",
+    "links": []
   }
 }

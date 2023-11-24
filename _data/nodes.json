@@ -1520,6 +1520,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 169,
+      "label": "James Doc",
+      "url": "https://jamesdoc.com/blog/2023/defaults-in-2023",
+      "rss": "https://jamesdoc.com/blog/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

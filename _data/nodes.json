@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 64
+      "linkCount": 65
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 108
+      "linkCount": 111
     },
     {
       "id": 1,
@@ -927,7 +927,7 @@
       "rss": "https://beccais.online/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 3
     },
     {
       "id": 103,
@@ -1493,6 +1493,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 166,
+      "label": "Chris Enns",
+      "url": "https://chrisenns.com/2023/11/app-defaults",
+      "rss": "https://chrisenns.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 167,
+      "label": "Abhinav",
+      "url": "https://arkoinad.com/posts/default_apps_2023.html",
+      "rss": "https://arkoinad.com/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -1751,6 +1769,10 @@
     {
       "from": 1000,
       "to": 157
+    },
+    {
+      "from": 1000,
+      "to": 166
     },
     {
       "from": 1001,
@@ -2185,6 +2207,18 @@
       "to": 165
     },
     {
+      "from": 1001,
+      "to": 166
+    },
+    {
+      "from": 1001,
+      "to": 166
+    },
+    {
+      "from": 1001,
+      "to": 167
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2503,6 +2537,10 @@
     {
       "from": 102,
       "to": 132
+    },
+    {
+      "from": 102,
+      "to": 166
     },
     {
       "from": 107,

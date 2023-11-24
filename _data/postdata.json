@@ -67,7 +67,8 @@
       "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
       "https://podiboq.micro.blog/2023/11/18/120817.html",
       "https://lubieniebieski.pl/defaults",
-      "https://www.iandick.com/default-apps-2023"
+      "https://www.iandick.com/default-apps-2023",
+      "https://chrisenns.com/2023/11/app-defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -184,7 +185,10 @@
       "https://rexarski.com/blog/my-app-defaults-2023",
       "https://blog.pcora.eu/2023/11/21/app-defaults.html",
       "https://www.amitgawande.com/2023/11/21/app-defaults.html",
-      "https://cliophate.wtf/posts/default-apps"
+      "https://cliophate.wtf/posts/default-apps",
+      "https://chrisenns.com/2023/11/app-defaults",
+      "https://chrisenns.com/2023/11/app-defaults",
+      "https://arkoinad.com/posts/default_apps_2023.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1211,7 +1215,8 @@
     "urlKey": "https://beccais.online/2023/11/default-apps-2023",
     "links": [
       "https://blog.heygarrett.com/2023/11/app-defaults",
-      "https://vatthikorn.com/2023-default-apps"
+      "https://vatthikorn.com/2023-default-apps",
+      "https://chrisenns.com/2023/11/app-defaults"
     ]
   },
   "https://yinan.me/my-defaults": {
@@ -1788,6 +1793,24 @@
     "date": "2023-11-23 18:49",
     "id": 165,
     "urlKey": "https://cliophate.wtf/posts/default-apps",
+    "links": []
+  },
+  "https://chrisenns.com/2023/11/app-defaults": {
+    "name": "Chris Enns",
+    "url": "https://chrisenns.com/2023/11/app-defaults",
+    "rss": "https://chrisenns.com/feed.xml",
+    "date": "2023-11-23 13:48",
+    "id": 166,
+    "urlKey": "https://chrisenns.com/2023/11/app-defaults",
+    "links": []
+  },
+  "https://arkoinad.com/posts/default_apps_2023.html": {
+    "name": "Abhinav",
+    "url": "https://arkoinad.com/posts/default_apps_2023.html",
+    "rss": "https://arkoinad.com/rss.xml",
+    "date": "2023-11-23 16:06",
+    "id": 167,
+    "urlKey": "https://arkoinad.com/posts/default_apps_2023.html",
     "links": []
   }
 }

@@ -164,5 +164,6 @@
     { "name": "Ravi", "url": "https://ravi.weblog.lol/2023/11/default-apps", "rss": "https://ravi.weblog.lol/rss.xml", "date": "2023-11-21 21:17" },
     { "name": "Amit Gawande", "url": "https://www.amitgawande.com/2023/11/21/app-defaults.html", "rss": "https://www.amitgawande.com/feed.xml", "date": "2023-11-21 21:17" },
     { "name": "Kevin Wammer", "url": "https://cliophate.wtf/posts/default-apps", "rss": "https://cliophate.wtf/feed", "date": "2023-11-23 18:49" },
-    { "name": "Chris Enns", "url": "https://chrisenns.com/2023/11/app-defaults/", "rss": "https://chrisenns.com/feed.xml", "date": "2023-11-23 13:48" }    
+    { "name": "Chris Enns", "url": "https://chrisenns.com/2023/11/app-defaults/", "rss": "https://chrisenns.com/feed.xml", "date": "2023-11-23 13:48" },
+    { "name": "Abhinav", "url": "https://arkoinad.com/posts/default_apps_2023.html", "rss": "https://arkoinad.com/rss.xml", "date": "2023-11-23 16:06" }
 ]

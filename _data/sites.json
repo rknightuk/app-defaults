@@ -171,5 +171,6 @@
     { "name": "Chris Coyier", "url": "https://chriscoyier.net/2023/11/25/default-apps-2023/", "rss": "https://chriscoyier.net/feed/", "date": "2023-11-26 08:03" },
     { "name": "Matt Cool", "url": "https://mattcool.tech/posts/default-apps-2023", "rss": "https://mattcool.tech/rss.xml", "date": "2023-11-26 08:05" },
     { "name": "Gunnar", "url": "https://gunnar.se/2023/11/26/default-apps.html", "rss": "https://gunnar.se/feed", "date": "2023-11-26 10:46" },
-    { "name": "Rom", "url": "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html", "rss": "https://my.advocrazy.com/feed", "date": "2023-11-26 10:47" }
+    { "name": "Rom", "url": "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html", "rss": "https://my.advocrazy.com/feed", "date": "2023-11-26 10:47" },
+    { "name": "Murtuzaali Surti", "url": "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV/", "rss": "https://syntackle.live/feed.xml", "date": "2023-11-26 14:33"  }
 ]

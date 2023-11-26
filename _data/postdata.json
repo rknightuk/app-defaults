@@ -192,7 +192,8 @@
       "https://chrisenns.com/2023/11/app-defaults",
       "https://arkoinad.com/posts/default_apps_2023.html",
       "https://flohgro.com/productivity/app-defaults-2023",
-      "https://mattcool.tech/posts/default-apps-2023"
+      "https://mattcool.tech/posts/default-apps-2023",
+      "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -236,7 +237,8 @@
       "https://gkeenan.co/avgb/app-defaults",
       "https://www.johanbleuzen.fr/blog/defaults-apps-2023",
       "https://iwader.co.uk/posts/2023/11/app-defaults",
-      "https://blakewatson.com/journal/default-apps-2023"
+      "https://blakewatson.com/journal/default-apps-2023",
+      "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV"
     ]
   },
   "https://maique.eu/2023/11/03/defaults.html": {
@@ -1872,6 +1874,15 @@
     "date": "2023-11-26 10:47",
     "id": 173,
     "urlKey": "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html",
+    "links": []
+  },
+  "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV": {
+    "name": "Murtuzaali Surti",
+    "url": "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV",
+    "rss": "https://syntackle.live/feed.xml",
+    "date": "2023-11-26 14:33",
+    "id": 174,
+    "urlKey": "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV",
     "links": []
   }
 }

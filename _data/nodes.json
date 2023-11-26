@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 113
+      "linkCount": 114
     },
     {
       "id": 1,
@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 13
+      "linkCount": 14
     },
     {
       "id": 3,
@@ -1565,6 +1565,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 174,
+      "label": "Murtuzaali Surti",
+      "url": "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV",
+      "rss": "https://syntackle.live/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2289,6 +2298,10 @@
       "to": 171
     },
     {
+      "from": 1001,
+      "to": 174
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2375,6 +2388,10 @@
     {
       "from": 2,
       "to": 149
+    },
+    {
+      "from": 2,
+      "to": 174
     },
     {
       "from": 3,

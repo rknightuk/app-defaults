@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 117
+      "linkCount": 119
     },
     {
       "id": 1,
@@ -774,7 +774,7 @@
       "rss": "https://hacdias.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 86,
@@ -1071,7 +1071,7 @@
       "rss": "https://manuelmoreale.com/feed/rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 3
+      "linkCount": 4
     },
     {
       "id": 119,
@@ -1606,6 +1606,41 @@
       "id": 178,
       "label": "Tamas",
       "url": "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 179,
+      "label": "Pipu",
+      "url": "https://pipuwong.com/en/my-default-app-2023",
+      "rss": "https://pipuwong.com/en/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 180,
+      "label": "Clark",
+      "url": "https://minimalune.medium.com/app-defaults-341e5fd5375b",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 181,
+      "label": "Carl Barenbrug",
+      "url": "https://carlbarenbrug.com/app-defaults",
+      "rss": "https://carlbarenbrug.com/feed/rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 182,
+      "label": "Barry Frost",
+      "url": "https://barryfrost.com/2023/11/app-defaults-in-late-2023",
+      "rss": "https://barryfrost.com/rss?post-type=article",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2357,6 +2392,14 @@
       "to": 177
     },
     {
+      "from": 1001,
+      "to": 179
+    },
+    {
+      "from": 1001,
+      "to": 182
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2673,6 +2716,10 @@
       "to": 95
     },
     {
+      "from": 85,
+      "to": 182
+    },
+    {
       "from": 90,
       "to": 101
     },
@@ -2719,6 +2766,10 @@
     {
       "from": 118,
       "to": 164
+    },
+    {
+      "from": 118,
+      "to": 181
     },
     {
       "from": 171,

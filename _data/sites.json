@@ -105,7 +105,7 @@
     { "name": "Garrett", "url": "https://blog.heygarrett.com/2023/11/app-defaults", "rss": "https://heygarrett.weblog.lol/rss.xml", "date": "2023-11-10 08:50" },
     { "name": "mb", "url": "https://jarunmb.com/2023/11/09/my-2023-default-apps/", "rss": "https://jarunmb.com/feed/", "date": "2023-11-10 08:51" },
     { "name": "alienlebarge", "url": "https://alienlebarge.ch/articles/2023/11/my-defaults-apps-end-of/", "rss": "https://alienlebarge.ch/feed.xml", "date": "2023-11-10 10:47"},
-    { "name": "Another Dayu", "url": "https://anotherdayu.com/2023/5452/", "rss": "https://anotherdayu.com/feed/", "date": "2023-11-10 21:28"},
+    { "name": "Another Dayu", "url": "https://anotherdayu.com/2023/5452/", "rss": "https://anotherdayu.com/feed/", "date": "2023-11-10 21:28"}, 
     { "name": "Jason Becker", "url": "https://json.blog/2023/11/10/default-apps-alright.html", "rss": "https://json.blog/rss", "date": "2023-11-10 20:07" },
     { "name": "Chris Hannah", "url": "https://chrishannah.me/2023-app-defaults", "rss": "https://chrishannah.me/feed", "date": "2023-11-10 20:12" },
     { "name": "FuzzyGrim", "url": "https://www.fuzzygrim.com/posts/default-apps-2023", "rss": "https://www.fuzzygrim.com/feed.xml", "date": "2023-11-10 20:29" },
@@ -176,5 +176,9 @@
     { "name": "Bye", "url": "https://byemc.xyz/2023/app-defaults", "rss": "https://byemc.xyz/feed.xml", "date": "2023-11-25 15:26" },
     { "name": "Ivo Damjanovic", "url": "https://damjanovic.it/2023/11/26/my-defaults.html", "rss": "https://damjanovic.it/feed.json", "date": "2023-11-26 17:05" },
     { "name": "Antonio", "url": "https://antonio.is/2023/11/26/app-defaults/", "rss": "https://antonio.is/index.xml", "date": "2023-11-25 15:26" },
-    { "name": "Tamas", "url": "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd", "date": "2023-11-26 19:57" }
+    { "name": "Tamas", "url": "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd", "date": "2023-11-26 19:57" },
+    { "name": "Pipu", "url": "https://pipuwong.com/en/my-default-app-2023", "rss": "https://pipuwong.com/en/feed", "date": "2023-11-26 20:02" },
+    { "name": "Clark", "url": "https://minimalune.medium.com/app-defaults-341e5fd5375b", "date": "2023-11-26 20:02" },
+    { "name": "Carl Barenbrug", "url": "https://carlbarenbrug.com/app-defaults", "rss": "https://carlbarenbrug.com/feed/rss", "date": "2023-11-26 20:02" },
+    { "name": "Barry Frost", "url": "https://barryfrost.com/2023/11/app-defaults-in-late-2023", "rss": "https://barryfrost.com/rss?post-type=article", "date": "2023-11-26 20:02" }
 ]

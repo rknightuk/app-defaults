@@ -198,7 +198,9 @@
       "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV",
       "https://damjanovic.it/2023/11/26/my-defaults.html",
       "https://antonio.is/2023/11/26/app-defaults",
-      "https://antonio.is/2023/11/26/app-defaults"
+      "https://antonio.is/2023/11/26/app-defaults",
+      "https://pipuwong.com/en/my-default-app-2023",
+      "https://barryfrost.com/2023/11/app-defaults-in-late-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1067,7 +1069,9 @@
     "date": "2023-11-08 13:06",
     "id": 85,
     "urlKey": "https://hacdias.com/2023/11/08/app-defaults-late-2023",
-    "links": []
+    "links": [
+      "https://barryfrost.com/2023/11/app-defaults-in-late-2023"
+    ]
   },
   "https://timbornholdt.com/blog/my-default-apps-at-the-end-of-2023": {
     "name": "Tim Bornholdt",
@@ -1382,7 +1386,8 @@
     "links": [
       "https://mikehaynes.blog/post/3734",
       "https://jasonfry.co.uk/blog/app-defaults",
-      "https://www.amitgawande.com/2023/11/21/app-defaults.html"
+      "https://www.amitgawande.com/2023/11/21/app-defaults.html",
+      "https://carlbarenbrug.com/app-defaults"
     ]
   },
   "https://victor.kropp.name/blog/app-defaults": {
@@ -1924,6 +1929,41 @@
     "date": "2023-11-26 19:57",
     "id": 178,
     "urlKey": "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd",
+    "links": []
+  },
+  "https://pipuwong.com/en/my-default-app-2023": {
+    "name": "Pipu",
+    "url": "https://pipuwong.com/en/my-default-app-2023",
+    "rss": "https://pipuwong.com/en/feed",
+    "date": "2023-11-26 20:02",
+    "id": 179,
+    "urlKey": "https://pipuwong.com/en/my-default-app-2023",
+    "links": []
+  },
+  "https://minimalune.medium.com/app-defaults-341e5fd5375b": {
+    "name": "Clark",
+    "url": "https://minimalune.medium.com/app-defaults-341e5fd5375b",
+    "date": "2023-11-26 20:02",
+    "id": 180,
+    "urlKey": "https://minimalune.medium.com/app-defaults-341e5fd5375b",
+    "links": []
+  },
+  "https://carlbarenbrug.com/app-defaults": {
+    "name": "Carl Barenbrug",
+    "url": "https://carlbarenbrug.com/app-defaults",
+    "rss": "https://carlbarenbrug.com/feed/rss",
+    "date": "2023-11-26 20:02",
+    "id": 181,
+    "urlKey": "https://carlbarenbrug.com/app-defaults",
+    "links": []
+  },
+  "https://barryfrost.com/2023/11/app-defaults-in-late-2023": {
+    "name": "Barry Frost",
+    "url": "https://barryfrost.com/2023/11/app-defaults-in-late-2023",
+    "rss": "https://barryfrost.com/rss?post-type=article",
+    "date": "2023-11-26 20:02",
+    "id": 182,
+    "urlKey": "https://barryfrost.com/2023/11/app-defaults-in-late-2023",
     "links": []
   }
 }

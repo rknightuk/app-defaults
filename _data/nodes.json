@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 69
+      "linkCount": 71
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 123
+      "linkCount": 125
     },
     {
       "id": 1,
@@ -1357,7 +1357,7 @@
       "rss": "https://loungeruminator.net/feed/",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 151,
@@ -1537,7 +1537,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 3
     },
     {
       "id": 171,
@@ -1704,6 +1704,24 @@
       "label": "Matt Stein",
       "url": "https://mattstein.com/thoughts/default-apps-2023",
       "rss": "https://mattstein.com/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 190,
+      "label": "Paweł Grzybek",
+      "url": "https://pawelgrzybek.com/my-defaults-2023",
+      "rss": "https://pawelgrzybek.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 191,
+      "label": "Marcel Appelman",
+      "url": "https://huphtur.nl/2023-default-apps",
+      "rss": "https://huphtur.nl/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -1985,6 +2003,14 @@
     {
       "from": 1000,
       "to": 177
+    },
+    {
+      "from": 1000,
+      "to": 190
+    },
+    {
+      "from": 1000,
+      "to": 191
     },
     {
       "from": 1001,
@@ -2479,6 +2505,14 @@
       "to": 189
     },
     {
+      "from": 1001,
+      "to": 190
+    },
+    {
+      "from": 1001,
+      "to": 191
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2871,12 +2905,20 @@
       "to": 185
     },
     {
+      "from": 150,
+      "to": 191
+    },
+    {
       "from": 170,
       "to": 188
     },
     {
       "from": 170,
       "to": 189
+    },
+    {
+      "from": 170,
+      "to": 191
     },
     {
       "from": 171,

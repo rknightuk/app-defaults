@@ -72,7 +72,9 @@
       "https://mattcool.tech/posts/default-apps-2023",
       "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html",
       "https://byemc.xyz/2023/app-defaults",
-      "https://antonio.is/2023/11/26/app-defaults"
+      "https://antonio.is/2023/11/26/app-defaults",
+      "https://pawelgrzybek.com/my-defaults-2023",
+      "https://huphtur.nl/2023-default-apps"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -204,7 +206,9 @@
       "https://sleepingcat42.github.io/2023/11/18/my-default-apps",
       "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023",
       "https://marcamos.com/journal/default-apps-2023",
-      "https://mattstein.com/thoughts/default-apps-2023"
+      "https://mattstein.com/thoughts/default-apps-2023",
+      "https://pawelgrzybek.com/my-defaults-2023",
+      "https://huphtur.nl/2023-default-apps"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1687,7 +1691,9 @@
     "date": "2023-11-16 14:07",
     "id": 150,
     "urlKey": "https://loungeruminator.net/2023/11/17/mr-default",
-    "links": []
+    "links": [
+      "https://huphtur.nl/2023-default-apps"
+    ]
   },
   "https://chojecki.net/posts/Apps2023": {
     "name": "Patryk Chojecki",
@@ -1869,7 +1875,8 @@
     "urlKey": "https://chriscoyier.net/2023/11/25/default-apps-2023",
     "links": [
       "https://marcamos.com/journal/default-apps-2023",
-      "https://mattstein.com/thoughts/default-apps-2023"
+      "https://mattstein.com/thoughts/default-apps-2023",
+      "https://huphtur.nl/2023-default-apps"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -2045,6 +2052,24 @@
     "date": "2023-11-26 22:27",
     "id": 189,
     "urlKey": "https://mattstein.com/thoughts/default-apps-2023",
+    "links": []
+  },
+  "https://pawelgrzybek.com/my-defaults-2023": {
+    "name": "Paweł Grzybek",
+    "url": "https://pawelgrzybek.com/my-defaults-2023",
+    "rss": "https://pawelgrzybek.com/feed.xml",
+    "date": "2023-11-26 21:15",
+    "id": 190,
+    "urlKey": "https://pawelgrzybek.com/my-defaults-2023",
+    "links": []
+  },
+  "https://huphtur.nl/2023-default-apps": {
+    "name": "Marcel Appelman",
+    "url": "https://huphtur.nl/2023-default-apps",
+    "rss": "https://huphtur.nl/feed.xml",
+    "date": "2023-11-26 23:47",
+    "id": 191,
+    "urlKey": "https://huphtur.nl/2023-default-apps",
     "links": []
   }
 }

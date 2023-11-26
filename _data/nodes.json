@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 67
+      "linkCount": 69
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 114
+      "linkCount": 117
     },
     {
       "id": 1,
@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 14
+      "linkCount": 15
     },
     {
       "id": 3,
@@ -1574,6 +1574,33 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 175,
+      "label": "Bye",
+      "url": "https://byemc.xyz/2023/app-defaults",
+      "rss": "https://byemc.xyz/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 176,
+      "label": "Ivo Damjanovic",
+      "url": "https://damjanovic.it/2023/11/26/my-defaults.html",
+      "rss": "https://damjanovic.it/feed.json",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 177,
+      "label": "Antonio",
+      "url": "https://antonio.is/2023/11/26/app-defaults",
+      "rss": "https://antonio.is/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -1844,6 +1871,14 @@
     {
       "from": 1000,
       "to": 173
+    },
+    {
+      "from": 1000,
+      "to": 175
+    },
+    {
+      "from": 1000,
+      "to": 177
     },
     {
       "from": 1001,
@@ -2302,6 +2337,18 @@
       "to": 174
     },
     {
+      "from": 1001,
+      "to": 176
+    },
+    {
+      "from": 1001,
+      "to": 177
+    },
+    {
+      "from": 1001,
+      "to": 177
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2392,6 +2439,10 @@
     {
       "from": 2,
       "to": 174
+    },
+    {
+      "from": 2,
+      "to": 175
     },
     {
       "from": 3,

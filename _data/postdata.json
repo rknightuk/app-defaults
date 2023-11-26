@@ -70,7 +70,9 @@
       "https://www.iandick.com/default-apps-2023",
       "https://chrisenns.com/2023/11/app-defaults",
       "https://mattcool.tech/posts/default-apps-2023",
-      "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html"
+      "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html",
+      "https://byemc.xyz/2023/app-defaults",
+      "https://antonio.is/2023/11/26/app-defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -193,7 +195,10 @@
       "https://arkoinad.com/posts/default_apps_2023.html",
       "https://flohgro.com/productivity/app-defaults-2023",
       "https://mattcool.tech/posts/default-apps-2023",
-      "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV"
+      "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV",
+      "https://damjanovic.it/2023/11/26/my-defaults.html",
+      "https://antonio.is/2023/11/26/app-defaults",
+      "https://antonio.is/2023/11/26/app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -238,7 +243,8 @@
       "https://www.johanbleuzen.fr/blog/defaults-apps-2023",
       "https://iwader.co.uk/posts/2023/11/app-defaults",
       "https://blakewatson.com/journal/default-apps-2023",
-      "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV"
+      "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV",
+      "https://byemc.xyz/2023/app-defaults"
     ]
   },
   "https://maique.eu/2023/11/03/defaults.html": {
@@ -1883,6 +1889,33 @@
     "date": "2023-11-26 14:33",
     "id": 174,
     "urlKey": "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV",
+    "links": []
+  },
+  "https://byemc.xyz/2023/app-defaults": {
+    "name": "Bye",
+    "url": "https://byemc.xyz/2023/app-defaults",
+    "rss": "https://byemc.xyz/feed.xml",
+    "date": "2023-11-25 15:26",
+    "id": 175,
+    "urlKey": "https://byemc.xyz/2023/app-defaults",
+    "links": []
+  },
+  "https://damjanovic.it/2023/11/26/my-defaults.html": {
+    "name": "Ivo Damjanovic",
+    "url": "https://damjanovic.it/2023/11/26/my-defaults.html",
+    "rss": "https://damjanovic.it/feed.json",
+    "date": "2023-11-26 17:05",
+    "id": 176,
+    "urlKey": "https://damjanovic.it/2023/11/26/my-defaults.html",
+    "links": []
+  },
+  "https://antonio.is/2023/11/26/app-defaults": {
+    "name": "Antonio",
+    "url": "https://antonio.is/2023/11/26/app-defaults",
+    "rss": "https://antonio.is/index.xml",
+    "date": "2023-11-25 15:26",
+    "id": 177,
+    "urlKey": "https://antonio.is/2023/11/26/app-defaults",
     "links": []
   }
 }

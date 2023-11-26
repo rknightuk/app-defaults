@@ -202,7 +202,8 @@
       "https://pipuwong.com/en/my-default-app-2023",
       "https://barryfrost.com/2023/11/app-defaults-in-late-2023",
       "https://sleepingcat42.github.io/2023/11/18/my-default-apps",
-      "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023"
+      "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023",
+      "https://marcamos.com/journal/default-apps-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1865,7 +1866,9 @@
     "date": "2023-11-26 08:03",
     "id": 170,
     "urlKey": "https://chriscoyier.net/2023/11/25/default-apps-2023",
-    "links": []
+    "links": [
+      "https://marcamos.com/journal/default-apps-2023"
+    ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
     "name": "Matt Cool",
@@ -1875,7 +1878,8 @@
     "id": 171,
     "urlKey": "https://mattcool.tech/posts/default-apps-2023",
     "links": [
-      "https://gunnar.se/2023/11/26/default-apps.html"
+      "https://gunnar.se/2023/11/26/default-apps.html",
+      "https://marcamos.com/journal/default-apps-2023"
     ]
   },
   "https://gunnar.se/2023/11/26/default-apps.html": {
@@ -2018,6 +2022,15 @@
     "date": "2023-11-26 20:14",
     "id": 187,
     "urlKey": "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023",
+    "links": []
+  },
+  "https://marcamos.com/journal/default-apps-2023": {
+    "name": "Marc",
+    "url": "https://marcamos.com/journal/default-apps-2023",
+    "rss": "https://marcamos.com/journal/feed.xml",
+    "date": "2023-11-26 20:27",
+    "id": 188,
+    "urlKey": "https://marcamos.com/journal/default-apps-2023",
     "links": []
   }
 }

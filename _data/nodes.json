@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 121
+      "linkCount": 122
     },
     {
       "id": 1,
@@ -1537,7 +1537,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 171,
@@ -1546,7 +1546,7 @@
       "rss": "https://mattcool.tech/rss.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 172,
@@ -1686,6 +1686,15 @@
       "label": "Wouter Groeneveld",
       "url": "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023",
       "rss": "https://brainbaking.com/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 188,
+      "label": "Marc",
+      "url": "https://marcamos.com/journal/default-apps-2023",
+      "rss": "https://marcamos.com/journal/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2453,6 +2462,10 @@
       "to": 187
     },
     {
+      "from": 1001,
+      "to": 188
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2845,8 +2858,16 @@
       "to": 185
     },
     {
+      "from": 170,
+      "to": 188
+    },
+    {
       "from": 171,
       "to": 172
+    },
+    {
+      "from": 171,
+      "to": 188
     }
   ]
 }

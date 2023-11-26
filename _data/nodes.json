@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 122
+      "linkCount": 123
     },
     {
       "id": 1,
@@ -1537,7 +1537,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 171,
@@ -1546,7 +1546,7 @@
       "rss": "https://mattcool.tech/rss.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 3
     },
     {
       "id": 172,
@@ -1695,6 +1695,15 @@
       "label": "Marc",
       "url": "https://marcamos.com/journal/default-apps-2023",
       "rss": "https://marcamos.com/journal/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
+    },
+    {
+      "id": 189,
+      "label": "Matt Stein",
+      "url": "https://mattstein.com/thoughts/default-apps-2023",
+      "rss": "https://mattstein.com/rss.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2466,6 +2475,10 @@
       "to": 188
     },
     {
+      "from": 1001,
+      "to": 189
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2862,12 +2875,24 @@
       "to": 188
     },
     {
+      "from": 170,
+      "to": 189
+    },
+    {
       "from": 171,
       "to": 172
     },
     {
       "from": 171,
       "to": 188
+    },
+    {
+      "from": 171,
+      "to": 189
+    },
+    {
+      "from": 188,
+      "to": 189
     }
   ]
 }

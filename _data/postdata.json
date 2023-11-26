@@ -200,7 +200,9 @@
       "https://antonio.is/2023/11/26/app-defaults",
       "https://antonio.is/2023/11/26/app-defaults",
       "https://pipuwong.com/en/my-default-app-2023",
-      "https://barryfrost.com/2023/11/app-defaults-in-late-2023"
+      "https://barryfrost.com/2023/11/app-defaults-in-late-2023",
+      "https://sleepingcat42.github.io/2023/11/18/my-default-apps",
+      "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -374,7 +376,9 @@
     "date": "2023-11-07 16:49",
     "id": 14,
     "urlKey": "https://flamedfury.com/posts/app-defaults",
-    "links": []
+    "links": [
+      "https://davidjohnmead.com/posts/2023-11-15-app-defaults"
+    ]
   },
   "https://txt.laker.tech/defaults": {
     "name": "Laker",
@@ -594,7 +598,8 @@
       "https://timapple.com/2023/11/08/end-of-default.html",
       "https://polarhive.net/blog/app-defaults",
       "https://danq.me/2023/11/12/lifestack-2023",
-      "https://gluecko.se/2023/default-apps-2023"
+      "https://gluecko.se/2023/default-apps-2023",
+      "https://www.lkhrs.com/blog/2023/defaults"
     ]
   },
   "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html": {
@@ -1302,7 +1307,9 @@
     "date": "2023-11-10 20:12",
     "id": 109,
     "urlKey": "https://chrishannah.me/2023-app-defaults",
-    "links": []
+    "links": [
+      "https://www.lkhrs.com/blog/2023/defaults"
+    ]
   },
   "https://www.fuzzygrim.com/posts/default-apps-2023": {
     "name": "FuzzyGrim",
@@ -1387,7 +1394,9 @@
       "https://mikehaynes.blog/post/3734",
       "https://jasonfry.co.uk/blog/app-defaults",
       "https://www.amitgawande.com/2023/11/21/app-defaults.html",
-      "https://carlbarenbrug.com/app-defaults"
+      "https://carlbarenbrug.com/app-defaults",
+      "https://lawver.net/2023/11/app-defaults",
+      "https://www.lkhrs.com/blog/2023/defaults"
     ]
   },
   "https://victor.kropp.name/blog/app-defaults": {
@@ -1964,6 +1973,51 @@
     "date": "2023-11-26 20:02",
     "id": 182,
     "urlKey": "https://barryfrost.com/2023/11/app-defaults-in-late-2023",
+    "links": []
+  },
+  "https://lawver.net/2023/11/app-defaults": {
+    "name": "Kevin Lawver",
+    "url": "https://lawver.net/2023/11/app-defaults",
+    "rss": "https://lawver.net/feed/",
+    "date": "2023-11-26 20:07",
+    "id": 183,
+    "urlKey": "https://lawver.net/2023/11/app-defaults",
+    "links": []
+  },
+  "https://sleepingcat42.github.io/2023/11/18/my-default-apps": {
+    "name": "sleepingcat42",
+    "url": "https://sleepingcat42.github.io/2023/11/18/my-default-apps",
+    "rss": "",
+    "date": "2023-11-26 20:14",
+    "id": 184,
+    "urlKey": "https://sleepingcat42.github.io/2023/11/18/my-default-apps",
+    "links": []
+  },
+  "https://www.lkhrs.com/blog/2023/defaults": {
+    "name": "Luke Harris",
+    "url": "https://www.lkhrs.com/blog/2023/defaults",
+    "rss": "https://www.lkhrs.com/blog/index.xml",
+    "date": "2023-11-26 20:14",
+    "id": 185,
+    "urlKey": "https://www.lkhrs.com/blog/2023/defaults",
+    "links": []
+  },
+  "https://davidjohnmead.com/posts/2023-11-15-app-defaults": {
+    "name": "David Mead",
+    "url": "https://davidjohnmead.com/posts/2023-11-15-app-defaults",
+    "rss": "https://davidjohnmead.com/feed/feed.xml",
+    "date": "2023-11-26 20:14",
+    "id": 186,
+    "urlKey": "https://davidjohnmead.com/posts/2023-11-15-app-defaults",
+    "links": []
+  },
+  "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023": {
+    "name": "Wouter Groeneveld",
+    "url": "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023",
+    "rss": "https://brainbaking.com/index.xml",
+    "date": "2023-11-26 20:14",
+    "id": 187,
+    "urlKey": "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023",
     "links": []
   }
 }

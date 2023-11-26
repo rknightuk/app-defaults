@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 119
+      "linkCount": 121
     },
     {
       "id": 1,
@@ -138,7 +138,7 @@
       "rss": "https://flamedfury.com/feed.xml/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 15,
@@ -325,7 +325,7 @@
       "rss": "https://kevquirk.com/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 10
+      "linkCount": 11
     },
     {
       "id": 36,
@@ -990,7 +990,7 @@
       "rss": "https://chrishannah.me/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 110,
@@ -1071,7 +1071,7 @@
       "rss": "https://manuelmoreale.com/feed/rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 4
+      "linkCount": 6
     },
     {
       "id": 119,
@@ -1641,6 +1641,51 @@
       "label": "Barry Frost",
       "url": "https://barryfrost.com/2023/11/app-defaults-in-late-2023",
       "rss": "https://barryfrost.com/rss?post-type=article",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 183,
+      "label": "Kevin Lawver",
+      "url": "https://lawver.net/2023/11/app-defaults",
+      "rss": "https://lawver.net/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 184,
+      "label": "sleepingcat42",
+      "url": "https://sleepingcat42.github.io/2023/11/18/my-default-apps",
+      "rss": "",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 185,
+      "label": "Luke Harris",
+      "url": "https://www.lkhrs.com/blog/2023/defaults",
+      "rss": "https://www.lkhrs.com/blog/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 186,
+      "label": "David Mead",
+      "url": "https://davidjohnmead.com/posts/2023-11-15-app-defaults",
+      "rss": "https://davidjohnmead.com/feed/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 187,
+      "label": "Wouter Groeneveld",
+      "url": "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023",
+      "rss": "https://brainbaking.com/index.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2400,6 +2445,14 @@
       "to": 182
     },
     {
+      "from": 1001,
+      "to": 184
+    },
+    {
+      "from": 1001,
+      "to": 187
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2556,6 +2609,10 @@
       "to": 64
     },
     {
+      "from": 14,
+      "to": 186
+    },
+    {
       "from": 17,
       "to": 125
     },
@@ -2664,6 +2721,10 @@
       "to": 131
     },
     {
+      "from": 35,
+      "to": 185
+    },
+    {
       "from": 39,
       "to": 69
     },
@@ -2756,6 +2817,10 @@
       "to": 160
     },
     {
+      "from": 109,
+      "to": 185
+    },
+    {
       "from": 118,
       "to": 123
     },
@@ -2770,6 +2835,14 @@
     {
       "from": 118,
       "to": 181
+    },
+    {
+      "from": 118,
+      "to": 183
+    },
+    {
+      "from": 118,
+      "to": 185
     },
     {
       "from": 171,

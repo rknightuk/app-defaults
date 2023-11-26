@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 66
+      "linkCount": 67
     },
     {
       "id": 1001,
@@ -41,7 +41,7 @@
       "rss": "https://maique.eu/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 5
+      "linkCount": 6
     },
     {
       "id": 4,
@@ -1546,6 +1546,24 @@
       "rss": "https://mattcool.tech/rss.xml",
       "shape": "box",
       "color": "#03a4df",
+      "linkCount": 1
+    },
+    {
+      "id": 172,
+      "label": "Gunnar",
+      "url": "https://gunnar.se/2023/11/26/default-apps.html",
+      "rss": "https://gunnar.se/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 173,
+      "label": "Rom",
+      "url": "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html",
+      "rss": "https://my.advocrazy.com/feed",
+      "shape": "box",
+      "color": "#03a4df",
       "linkCount": 0
     }
   ],
@@ -1813,6 +1831,10 @@
     {
       "from": 1000,
       "to": 171
+    },
+    {
+      "from": 1000,
+      "to": 173
     },
     {
       "from": 1001,
@@ -2375,6 +2397,10 @@
       "to": 75
     },
     {
+      "from": 3,
+      "to": 173
+    },
+    {
       "from": 4,
       "to": 6
     },
@@ -2617,6 +2643,10 @@
     {
       "from": 118,
       "to": 164
+    },
+    {
+      "from": 171,
+      "to": 172
     }
   ]
 }

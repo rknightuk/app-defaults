@@ -69,7 +69,8 @@
       "https://lubieniebieski.pl/defaults",
       "https://www.iandick.com/default-apps-2023",
       "https://chrisenns.com/2023/11/app-defaults",
-      "https://mattcool.tech/posts/default-apps-2023"
+      "https://mattcool.tech/posts/default-apps-2023",
+      "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -250,7 +251,8 @@
       "https://canion.blog/2023/11/04/duel-of-the.html",
       "https://umerez.eu/2023/11/03/defaults.html",
       "https://kleinheld.ch/posts/meine-default-apps",
-      "https://thomasrigby.com/posts/duel-of-the-defaults-2023"
+      "https://thomasrigby.com/posts/duel-of-the-defaults-2023",
+      "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html"
     ]
   },
   "https://lmika.org/2023/11/04/defaults.html": {
@@ -1850,6 +1852,26 @@
     "date": "2023-11-26 08:05",
     "id": 171,
     "urlKey": "https://mattcool.tech/posts/default-apps-2023",
+    "links": [
+      "https://gunnar.se/2023/11/26/default-apps.html"
+    ]
+  },
+  "https://gunnar.se/2023/11/26/default-apps.html": {
+    "name": "Gunnar",
+    "url": "https://gunnar.se/2023/11/26/default-apps.html",
+    "rss": "https://gunnar.se/feed",
+    "date": "2023-11-26 10:46",
+    "id": 172,
+    "urlKey": "https://gunnar.se/2023/11/26/default-apps.html",
+    "links": []
+  },
+  "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html": {
+    "name": "Rom",
+    "url": "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html",
+    "rss": "https://my.advocrazy.com/feed",
+    "date": "2023-11-26 10:47",
+    "id": 173,
+    "urlKey": "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html",
     "links": []
   }
 }

@@ -167,5 +167,7 @@
     { "name": "Chris Enns", "url": "https://chrisenns.com/2023/11/app-defaults/", "rss": "https://chrisenns.com/feed.xml", "date": "2023-11-23 13:48" },
     { "name": "Abhinav", "url": "https://arkoinad.com/posts/default_apps_2023.html", "rss": "https://arkoinad.com/rss.xml", "date": "2023-11-23 16:06" },
     { "name": "Floh Gro", "url": "https://flohgro.com/productivity/app-defaults-2023/", "rss": "https://flohgro.com/feed/", "date": "2023-11-24 14:16" },
-    { "name": "James Doc", "url": "https://jamesdoc.com/blog/2023/defaults-in-2023/", "rss": "https://jamesdoc.com/blog/feed.xml", "date": "2023-11-24 17:13" }
+    { "name": "James Doc", "url": "https://jamesdoc.com/blog/2023/defaults-in-2023/", "rss": "https://jamesdoc.com/blog/feed.xml", "date": "2023-11-24 17:13" },
+    { "name": "Chris Coyier", "url": "https://chriscoyier.net/2023/11/25/default-apps-2023/", "rss": "https://chriscoyier.net/feed/", "date": "2023-11-26 08:03" },
+    { "name": "Matt Cool", "url": "https://mattcool.tech/posts/default-apps-2023", "rss": "https://mattcool.tech/rss.xml", "date": "2023-11-26 08:05" }
 ]

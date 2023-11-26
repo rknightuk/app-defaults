@@ -68,7 +68,8 @@
       "https://podiboq.micro.blog/2023/11/18/120817.html",
       "https://lubieniebieski.pl/defaults",
       "https://www.iandick.com/default-apps-2023",
-      "https://chrisenns.com/2023/11/app-defaults"
+      "https://chrisenns.com/2023/11/app-defaults",
+      "https://mattcool.tech/posts/default-apps-2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -189,7 +190,8 @@
       "https://chrisenns.com/2023/11/app-defaults",
       "https://chrisenns.com/2023/11/app-defaults",
       "https://arkoinad.com/posts/default_apps_2023.html",
-      "https://flohgro.com/productivity/app-defaults-2023"
+      "https://flohgro.com/productivity/app-defaults-2023",
+      "https://mattcool.tech/posts/default-apps-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1830,6 +1832,24 @@
     "date": "2023-11-24 17:13",
     "id": 169,
     "urlKey": "https://jamesdoc.com/blog/2023/defaults-in-2023",
+    "links": []
+  },
+  "https://chriscoyier.net/2023/11/25/default-apps-2023": {
+    "name": "Chris Coyier",
+    "url": "https://chriscoyier.net/2023/11/25/default-apps-2023",
+    "rss": "https://chriscoyier.net/feed/",
+    "date": "2023-11-26 08:03",
+    "id": 170,
+    "urlKey": "https://chriscoyier.net/2023/11/25/default-apps-2023",
+    "links": []
+  },
+  "https://mattcool.tech/posts/default-apps-2023": {
+    "name": "Matt Cool",
+    "url": "https://mattcool.tech/posts/default-apps-2023",
+    "rss": "https://mattcool.tech/rss.xml",
+    "date": "2023-11-26 08:05",
+    "id": 171,
+    "urlKey": "https://mattcool.tech/posts/default-apps-2023",
     "links": []
   }
 }

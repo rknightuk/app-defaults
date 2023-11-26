@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 65
+      "linkCount": 66
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 112
+      "linkCount": 113
     },
     {
       "id": 1,
@@ -1529,6 +1529,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 170,
+      "label": "Chris Coyier",
+      "url": "https://chriscoyier.net/2023/11/25/default-apps-2023",
+      "rss": "https://chriscoyier.net/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 171,
+      "label": "Matt Cool",
+      "url": "https://mattcool.tech/posts/default-apps-2023",
+      "rss": "https://mattcool.tech/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -1791,6 +1809,10 @@
     {
       "from": 1000,
       "to": 166
+    },
+    {
+      "from": 1000,
+      "to": 171
     },
     {
       "from": 1001,
@@ -2239,6 +2261,10 @@
     {
       "from": 1001,
       "to": 168
+    },
+    {
+      "from": 1001,
+      "to": 171
     },
     {
       "from": 1,

@@ -1601,6 +1601,14 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 178,
+      "label": "Tamas",
+      "url": "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

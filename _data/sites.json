@@ -189,5 +189,6 @@
     { "name": "Marc", "url": "https://marcamos.com/journal/default-apps-2023/", "rss": "https://marcamos.com/journal/feed.xml", "date": "2023-11-26 20:27" },
     { "name": "Matt Stein", "url": "https://mattstein.com/thoughts/default-apps-2023/", "rss": "https://mattstein.com/rss.xml", "date": "2023-11-26 22:27" },
     { "name": "Paweł Grzybek", "url": "https://pawelgrzybek.com/my-defaults-2023/", "rss": "https://pawelgrzybek.com/feed.xml", "date": "2023-11-26 21:15" },
-    { "name": "Marcel Appelman", "url": "https://huphtur.nl/2023-default-apps/", "rss": "https://huphtur.nl/feed.xml", "date": "2023-11-26 23:47" }
+    { "name": "Marcel Appelman", "url": "https://huphtur.nl/2023-default-apps/", "rss": "https://huphtur.nl/feed.xml", "date": "2023-11-26 23:47" },
+    { "name": "Johan", "url": "https://www.johanl.se/2023/11/13/app-defaults.html", "rss": "https://www.johanl.se/feed.xml", "date": "2023-11-27 09:33" }
 ]

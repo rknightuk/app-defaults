@@ -74,7 +74,8 @@
       "https://byemc.xyz/2023/app-defaults",
       "https://antonio.is/2023/11/26/app-defaults",
       "https://pawelgrzybek.com/my-defaults-2023",
-      "https://huphtur.nl/2023-default-apps"
+      "https://huphtur.nl/2023-default-apps",
+      "https://www.johanl.se/2023/11/13/app-defaults.html"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -208,7 +209,8 @@
       "https://marcamos.com/journal/default-apps-2023",
       "https://mattstein.com/thoughts/default-apps-2023",
       "https://pawelgrzybek.com/my-defaults-2023",
-      "https://huphtur.nl/2023-default-apps"
+      "https://huphtur.nl/2023-default-apps",
+      "https://www.johanl.se/2023/11/13/app-defaults.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2070,6 +2072,15 @@
     "date": "2023-11-26 23:47",
     "id": 191,
     "urlKey": "https://huphtur.nl/2023-default-apps",
+    "links": []
+  },
+  "https://www.johanl.se/2023/11/13/app-defaults.html": {
+    "name": "Johan",
+    "url": "https://www.johanl.se/2023/11/13/app-defaults.html",
+    "rss": "https://www.johanl.se/feed.xml",
+    "date": "2023-11-27 09:33",
+    "id": 192,
+    "urlKey": "https://www.johanl.se/2023/11/13/app-defaults.html",
     "links": []
   }
 }

@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 71
+      "linkCount": 72
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 125
+      "linkCount": 126
     },
     {
       "id": 1,
@@ -1725,6 +1725,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 192,
+      "label": "Johan",
+      "url": "https://www.johanl.se/2023/11/13/app-defaults.html",
+      "rss": "https://www.johanl.se/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2011,6 +2020,10 @@
     {
       "from": 1000,
       "to": 191
+    },
+    {
+      "from": 1000,
+      "to": 192
     },
     {
       "from": 1001,
@@ -2511,6 +2524,10 @@
     {
       "from": 1001,
       "to": 191
+    },
+    {
+      "from": 1001,
+      "to": 192
     },
     {
       "from": 1,

@@ -1734,6 +1734,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 193,
+      "label": "Paul Armstrong",
+      "url": "https://paularmstrong.dev/blog/2023/11/27/apps-tools-for-2023",
+      "rss": "https://paularmstrong.dev/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

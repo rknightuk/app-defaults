@@ -2082,5 +2082,14 @@
     "id": 192,
     "urlKey": "https://www.johanl.se/2023/11/13/app-defaults.html",
     "links": []
+  },
+  "https://paularmstrong.dev/blog/2023/11/27/apps-tools-for-2023": {
+    "name": "Paul Armstrong",
+    "url": "https://paularmstrong.dev/blog/2023/11/27/apps-tools-for-2023",
+    "rss": "https://paularmstrong.dev/feed.xml",
+    "date": "2023-11-27 17:03",
+    "id": 193,
+    "urlKey": "https://paularmstrong.dev/blog/2023/11/27/apps-tools-for-2023",
+    "links": []
   }
 }

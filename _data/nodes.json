@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 72
+      "linkCount": 73
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 126
+      "linkCount": 127
     },
     {
       "id": 1,
@@ -1743,6 +1743,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 194,
+      "label": "Yuexun",
+      "url": "https://yuexun.me/my-app-defaults-in-2023",
+      "rss": "https://yuexun.me/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2033,6 +2042,10 @@
     {
       "from": 1000,
       "to": 192
+    },
+    {
+      "from": 1000,
+      "to": 194
     },
     {
       "from": 1001,
@@ -2537,6 +2550,10 @@
     {
       "from": 1001,
       "to": 192
+    },
+    {
+      "from": 1001,
+      "to": 194
     },
     {
       "from": 1,

@@ -213,7 +213,8 @@
       "https://huphtur.nl/2023-default-apps",
       "https://www.johanl.se/2023/11/13/app-defaults.html",
       "https://yuexun.me/my-app-defaults-in-2023",
-      "https://techtea.io/articles/2023/app-defaults"
+      "https://techtea.io/articles/2023/app-defaults",
+      "https://noahliebman.net/2023/11/app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2115,6 +2116,15 @@
     "date": "2023-11-28 11:15",
     "id": 195,
     "urlKey": "https://techtea.io/articles/2023/app-defaults",
+    "links": []
+  },
+  "https://noahliebman.net/2023/11/app-defaults": {
+    "name": "Noah Liebman",
+    "url": "https://noahliebman.net/2023/11/app-defaults",
+    "rss": "https://noahliebman.net/feed/index.xml",
+    "date": "2023-11-28 11:27",
+    "id": 196,
+    "urlKey": "https://noahliebman.net/2023/11/app-defaults",
     "links": []
   }
 }

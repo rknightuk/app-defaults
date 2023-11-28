@@ -193,5 +193,6 @@
     { "name": "Johan", "url": "https://www.johanl.se/2023/11/13/app-defaults.html", "rss": "https://www.johanl.se/feed.xml", "date": "2023-11-27 09:33" },
     { "name": "Paul Armstrong", "url": "https://paularmstrong.dev/blog/2023/11/27/apps-tools-for-2023/", "rss": "https://paularmstrong.dev/feed.xml", "date": "2023-11-27 17:03" },
     { "name": "Yuexun", "url": "https://yuexun.me/my-app-defaults-in-2023", "rss": "https://yuexun.me/rss.xml", "date": "2023-11-27 23:00" },
-    { "name": "TechTea", "url": "https://techtea.io/articles/2023/app-defaults/", "rss": "https://techtea.io/articles/index.xml", "date": "2023-11-28 11:15" }
+    { "name": "TechTea", "url": "https://techtea.io/articles/2023/app-defaults/", "rss": "https://techtea.io/articles/index.xml", "date": "2023-11-28 11:15" },
+    { "name": "Noah Liebman", "url": "https://noahliebman.net/2023/11/app-defaults/", "rss": "https://noahliebman.net/feed/index.xml", "date": "2023-11-28 11:27" }
 ]

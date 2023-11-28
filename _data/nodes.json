@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 128
+      "linkCount": 129
     },
     {
       "id": 1,
@@ -1761,6 +1761,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 196,
+      "label": "Noah Liebman",
+      "url": "https://noahliebman.net/2023/11/app-defaults",
+      "rss": "https://noahliebman.net/feed/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2567,6 +2576,10 @@
     {
       "from": 1001,
       "to": 195
+    },
+    {
+      "from": 1001,
+      "to": 196
     },
     {
       "from": 1,

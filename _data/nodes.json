@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 73
+      "linkCount": 74
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 131
+      "linkCount": 132
     },
     {
       "id": 1,
@@ -1788,6 +1788,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 199,
+      "label": "Manton Reece",
+      "url": "https://www.manton.org/2023/11/28/default-apps-for.html",
+      "rss": "https://www.manton.org/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
     }
   ],
   "edges": [
@@ -2082,6 +2091,10 @@
     {
       "from": 1000,
       "to": 194
+    },
+    {
+      "from": 1000,
+      "to": 199
     },
     {
       "from": 1001,
@@ -2606,6 +2619,10 @@
     {
       "from": 1001,
       "to": 198
+    },
+    {
+      "from": 1001,
+      "to": 199
     },
     {
       "from": 1,

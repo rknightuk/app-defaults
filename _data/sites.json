@@ -199,5 +199,6 @@
     { "name": "Lewis Dale", "url": "https://lewisdale.dev/post/app-defaults/", "rss": "https://lewisdale.dev/feed/", "date": "2023-11-28 13:36" },
     { "name": "Manton Reece", "url": "https://www.manton.org/2023/11/28/default-apps-for.html", "rss": "https://www.manton.org/feed.xml", "date": "2023-11-28 16:15" },
     { "name": "Jefferson Burson", "url": "https://www.7robots.org/b/F9705827-6ADD-43A3-854B-F61B65381467/My-App-Defaults-Nov-2023", "date": "2023-11-28 16:40" },
-    { "name": "John Payne", "url": "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html", "rss": "https://jpayne.sackheads.org/feed.xml", "date": "2023-11-28 16:48" }
+    { "name": "John Payne", "url": "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html", "rss": "https://jpayne.sackheads.org/feed.xml", "date": "2023-11-28 16:48" },
+    { "name": "Baldur Bjarnason", "url": "https://notes.baldurbjarnason.com/2023/11/28/default-apps-for.html", "rss": "https://notes.baldurbjarnason.com/feed.xml", "date": "2023-11-28 17:38" }
 ]

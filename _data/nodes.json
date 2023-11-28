@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 137
+      "linkCount": 138
     },
     {
       "id": 1,
@@ -1859,6 +1859,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 1
+    },
+    {
+      "id": 206,
+      "label": "Tyler Sticka",
+      "url": "https://tylersticka.com/journal/default-apps-2023",
+      "rss": "https://tylersticka.com/journal/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2713,6 +2722,10 @@
     {
       "from": 1001,
       "to": 205
+    },
+    {
+      "from": 1001,
+      "to": 206
     },
     {
       "from": 1,

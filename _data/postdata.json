@@ -225,7 +225,8 @@
       "https://chrismcleod.dev/blog/default-apps-for-2023",
       "https://mattlangford.com/2023/11/28/default-apps-for.html",
       "https://concorde.blog/posts/app-defaults",
-      "https://troydp.micro.blog/2023/11/28/my-defaults.html"
+      "https://troydp.micro.blog/2023/11/28/my-defaults.html",
+      "https://tylersticka.com/journal/default-apps-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2236,5 +2237,14 @@
     "links": [
       "https://troydp.micro.blog/2023/11/28/my-defaults.html"
     ]
+  },
+  "https://tylersticka.com/journal/default-apps-2023": {
+    "name": "Tyler Sticka",
+    "url": "https://tylersticka.com/journal/default-apps-2023",
+    "rss": "https://tylersticka.com/journal/feed.xml",
+    "date": "2023-11-28 21:40",
+    "id": 206,
+    "urlKey": "https://tylersticka.com/journal/default-apps-2023",
+    "links": []
   }
 }

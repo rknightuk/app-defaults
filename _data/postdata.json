@@ -227,7 +227,8 @@
       "https://concorde.blog/posts/app-defaults",
       "https://troydp.micro.blog/2023/11/28/my-defaults.html",
       "https://tylersticka.com/journal/default-apps-2023",
-      "https://alexcarpenter.me/app-defaults"
+      "https://alexcarpenter.me/app-defaults",
+      "https://jupe.studio/my-defaults-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -404,16 +405,6 @@
     "urlKey": "https://flamedfury.com/posts/app-defaults",
     "links": [
       "https://davidjohnmead.com/posts/2023-11-15-app-defaults"
-    ]
-  },
-  "https://txt.laker.tech/defaults": {
-    "name": "Laker",
-    "url": "https://txt.laker.tech/defaults",
-    "date": "2023-11-07 16:49",
-    "id": 15,
-    "urlKey": "https://txt.laker.tech/defaults",
-    "links": [
-      "https://concorde.blog/posts/app-defaults"
     ]
   },
   "https://jeffperry.me/2023/11/16/my-default-apps.html": {
@@ -2087,7 +2078,9 @@
     "date": "2023-11-26 21:15",
     "id": 190,
     "urlKey": "https://pawelgrzybek.com/my-defaults-2023",
-    "links": []
+    "links": [
+      "https://jupe.studio/my-defaults-2023"
+    ]
   },
   "https://huphtur.nl/2023-default-apps": {
     "name": "Marcel Appelman",
@@ -2255,6 +2248,15 @@
     "date": "2023-11-28 21:40",
     "id": 207,
     "urlKey": "https://alexcarpenter.me/app-defaults",
+    "links": []
+  },
+  "https://jupe.studio/my-defaults-2023": {
+    "name": "Julian Peters",
+    "url": "https://jupe.studio/my-defaults-2023",
+    "rss": "https://jupe.studio/feed.xml",
+    "date": "2023-11-28 22:38",
+    "id": 208,
+    "urlKey": "https://jupe.studio/my-defaults-2023",
     "links": []
   }
 }

@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 139
+      "linkCount": 140
     },
     {
       "id": 1,
@@ -136,14 +136,6 @@
       "label": "fLaMEd",
       "url": "https://flamedfury.com/posts/app-defaults",
       "rss": "https://flamedfury.com/feed.xml/",
-      "shape": "box",
-      "color": "#03a4df",
-      "linkCount": 1
-    },
-    {
-      "id": 15,
-      "label": "Laker",
-      "url": "https://txt.laker.tech/defaults",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 1
@@ -1715,7 +1707,7 @@
       "rss": "https://pawelgrzybek.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 191,
@@ -1874,6 +1866,15 @@
       "label": "Alex Carpenter",
       "url": "https://alexcarpenter.me/app-defaults",
       "rss": "https://alexcarpenter.me/atom",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 208,
+      "label": "Julian Peters",
+      "url": "https://jupe.studio/my-defaults-2023",
+      "rss": "https://jupe.studio/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2741,6 +2742,10 @@
       "to": 207
     },
     {
+      "from": 1001,
+      "to": 208
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3179,6 +3184,10 @@
     {
       "from": 188,
       "to": 189
+    },
+    {
+      "from": 190,
+      "to": 208
     },
     {
       "from": 199,

@@ -205,5 +205,6 @@
     { "name": "Matt Langford", "url": "https://mattlangford.com/2023/11/28/default-apps-for.html", "rss": "https://www.mattlangford.com/feed.xml" , "date": "2023-11-28 12:33"},
     { "name": "Troydp", "url": "https://troydp.micro.blog/2023/11/28/my-defaults.html", "rss": "https://troydp.micro.blog/feed.xml", "date": "2023-11-28 2:36"},
     { "name": "Tyler Sticka", "url": "https://tylersticka.com/journal/default-apps-2023/", "rss": "https://tylersticka.com/journal/feed.xml", "date": "2023-11-28 21:40"},
-    { "name": "Alex Carpenter", "url": "https://alexcarpenter.me/app-defaults", "rss": "https://alexcarpenter.me/atom", "date": "2023-11-28 21:40"}
+    { "name": "Alex Carpenter", "url": "https://alexcarpenter.me/app-defaults", "rss": "https://alexcarpenter.me/atom", "date": "2023-11-28 21:40"},
+    { "name": "Julian Peters", "url": "https://jupe.studio/my-defaults-2023", "rss": "https://jupe.studio/feed.xml", "date": "2023-11-28 22:38" }
 ]

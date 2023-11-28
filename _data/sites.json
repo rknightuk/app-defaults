@@ -105,7 +105,7 @@
     { "name": "Garrett", "url": "https://blog.heygarrett.com/2023/11/app-defaults", "rss": "https://heygarrett.weblog.lol/rss.xml", "date": "2023-11-10 08:50" },
     { "name": "mb", "url": "https://jarunmb.com/2023/11/09/my-2023-default-apps/", "rss": "https://jarunmb.com/feed/", "date": "2023-11-10 08:51" },
     { "name": "alienlebarge", "url": "https://alienlebarge.ch/articles/2023/11/my-defaults-apps-end-of/", "rss": "https://alienlebarge.ch/feed.xml", "date": "2023-11-10 10:47"},
-    { "name": "Another Dayu", "url": "https://anotherdayu.com/2023/5452/", "rss": "https://anotherdayu.com/feed/", "date": "2023-11-10 21:28"}, 
+    { "name": "Another Dayu", "url": "https://anotherdayu.com/2023/5452/", "rss": "https://anotherdayu.com/feed/", "date": "2023-11-10 21:28"},
     { "name": "Jason Becker", "url": "https://json.blog/2023/11/10/default-apps-alright.html", "rss": "https://json.blog/rss", "date": "2023-11-10 20:07" },
     { "name": "Chris Hannah", "url": "https://chrishannah.me/2023-app-defaults", "rss": "https://chrishannah.me/feed", "date": "2023-11-10 20:12" },
     { "name": "FuzzyGrim", "url": "https://www.fuzzygrim.com/posts/default-apps-2023", "rss": "https://www.fuzzygrim.com/feed.xml", "date": "2023-11-10 20:29" },
@@ -117,7 +117,7 @@
     { "name": "TheHolyTachanka", "url": "https://theholytachanka.com/posts/default-apps/", "rss": "https://theholytachanka.com/index.xml" , "date": "2023-11-09 15:23"},
     { "name": "James Kupke", "url": "https://www.jameskupke.com/posts/my-default-apps-2023/", "rss": "https://www.jameskupke.com/posts/index.xml", "date": "2023-11-11 14:47" },
     { "name": "Manuel Moreale", "url": "https://manuelmoreale.com/app-defaults", "rss": "https://manuelmoreale.com/feed/rss", "date": "2023-11-11 16:02" },
-    { "name": "Victor Kropp", "url": "https://victor.kropp.name/blog/app-defaults/", "rss": "https://victor.kropp.name/blog/index.xml", "date": "2023-11-11 19:22" }, 
+    { "name": "Victor Kropp", "url": "https://victor.kropp.name/blog/app-defaults/", "rss": "https://victor.kropp.name/blog/index.xml", "date": "2023-11-11 19:22" },
     { "name": "Ghordano", "url": "https://ghordano.com/2023/11/11/default-apps-2023/", "rss": "https://ghordano.com/feed/", "date": "2023-11-11 19:14" },
     { "name": "Bodo Tasche", "url": "https://bitboxer.de/2023/11/12/default-apps-2023/", "rss": "https://bitboxer.de/atom.xml", "date": "2023-11-12 09:00" },
     { "name": "Steve Makofsky", "url": "https://makoism.com/defaults/", "rss": "https://makoism.com/rss/", "date": "2023-11-12 08:46" },
@@ -204,5 +204,6 @@
     { "name": "Chris McLeod", "url": "https://chrismcleod.dev/blog/default-apps-for-2023/", "rss": "https://chrismcleod.dev/feed.xml", "date": "2023-11-28 17:39" },
     { "name": "Matt Langford", "url": "https://mattlangford.com/2023/11/28/default-apps-for.html", "rss": "https://www.mattlangford.com/feed.xml" , "date": "2023-11-28 12:33"},
     { "name": "Troydp", "url": "https://troydp.micro.blog/2023/11/28/my-defaults.html", "rss": "https://troydp.micro.blog/feed.xml", "date": "2023-11-28 2:36"},
-    { "name": "Tyler Sticka", "url": "https://tylersticka.com/journal/default-apps-2023/", "rss": "https://tylersticka.com/journal/feed.xml", "date": "2023-11-28 21:40"}
+    { "name": "Tyler Sticka", "url": "https://tylersticka.com/journal/default-apps-2023/", "rss": "https://tylersticka.com/journal/feed.xml", "date": "2023-11-28 21:40"},
+    { "name": "Alex Carpenter", "url": "https://alexcarpenter.me/app-defaults", "rss": "https://alexcarpenter.me/atom", "date": "2023-11-28 21:40"}
 ]

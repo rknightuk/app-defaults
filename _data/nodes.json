@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 133
+      "linkCount": 134
     },
     {
       "id": 1,
@@ -1796,7 +1796,7 @@
       "rss": "https://www.manton.org/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 3
     },
     {
       "id": 200,
@@ -1820,6 +1820,15 @@
       "label": "Baldur Bjarnason",
       "url": "https://notes.baldurbjarnason.com/2023/11/28/default-apps-for.html",
       "rss": "https://notes.baldurbjarnason.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 203,
+      "label": "Chris McLeod",
+      "url": "https://chrismcleod.dev/blog/default-apps-for-2023",
+      "rss": "https://chrismcleod.dev/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2659,6 +2668,10 @@
       "to": 201
     },
     {
+      "from": 1001,
+      "to": 203
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3101,6 +3114,10 @@
     {
       "from": 199,
       "to": 201
+    },
+    {
+      "from": 199,
+      "to": 203
     }
   ]
 }

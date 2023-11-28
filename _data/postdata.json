@@ -220,7 +220,8 @@
       "https://blog.nekoq.top/blog/my-app-defaults-2023",
       "https://lewisdale.dev/post/app-defaults",
       "https://www.manton.org/2023/11/28/default-apps-for.html",
-      "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html"
+      "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
+      "https://chrismcleod.dev/blog/default-apps-for-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2161,7 +2162,8 @@
     "urlKey": "https://www.manton.org/2023/11/28/default-apps-for.html",
     "links": [
       "https://www.manton.org/2023/11/28/default-apps-for.html",
-      "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html"
+      "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
+      "https://chrismcleod.dev/blog/default-apps-for-2023"
     ]
   },
   "https://www.7robots.org/b/F9705827-6ADD-43A3-854B-F61B65381467/My-App-Defaults-Nov-2023": {
@@ -2188,6 +2190,15 @@
     "date": "2023-11-28 17:38",
     "id": 202,
     "urlKey": "https://notes.baldurbjarnason.com/2023/11/28/default-apps-for.html",
+    "links": []
+  },
+  "https://chrismcleod.dev/blog/default-apps-for-2023": {
+    "name": "Chris McLeod",
+    "url": "https://chrismcleod.dev/blog/default-apps-for-2023",
+    "rss": "https://chrismcleod.dev/feed.xml",
+    "date": "2023-11-28 17:39",
+    "id": 203,
+    "urlKey": "https://chrismcleod.dev/blog/default-apps-for-2023",
     "links": []
   }
 }

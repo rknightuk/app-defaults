@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 138
+      "linkCount": 139
     },
     {
       "id": 1,
@@ -136,6 +136,14 @@
       "label": "fLaMEd",
       "url": "https://flamedfury.com/posts/app-defaults",
       "rss": "https://flamedfury.com/feed.xml/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
+    },
+    {
+      "id": 15,
+      "label": "Laker",
+      "url": "https://txt.laker.tech/defaults",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 1
@@ -1860,6 +1868,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 207,
+      "label": "Alex Carpenter",
+      "url": "https://alexcarpenter.me/app-defaults",
+      "rss": "https://alexcarpenter.me/atom",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2718,6 +2735,10 @@
     {
       "from": 1001,
       "to": 206
+    },
+    {
+      "from": 1001,
+      "to": 207
     },
     {
       "from": 1,

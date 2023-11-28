@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 135
+      "linkCount": 137
     },
     {
       "id": 1,
@@ -146,7 +146,7 @@
       "url": "https://txt.laker.tech/defaults",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 16,
@@ -1841,6 +1841,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 15,
+      "label": "Laker Turner",
+      "url": "https://concorde.blog/posts/app-defaults",
+      "rss": "https://concorde.blog/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 205,
+      "label": "Troydp",
+      "url": "https://troydp.micro.blog/2023/11/28/my-defaults.html",
+      "rss": "https://troydp.micro.blog/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
     }
   ],
   "edges": [
@@ -2687,6 +2705,14 @@
     {
       "from": 1001,
       "to": 204
+    },
+    {
+      "from": 1001,
+      "to": 15
+    },
+    {
+      "from": 1001,
+      "to": 205
     },
     {
       "from": 1,

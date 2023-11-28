@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 130
+      "linkCount": 131
     },
     {
       "id": 1,
@@ -1779,6 +1779,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 198,
+      "label": "Lewis Dale",
+      "url": "https://lewisdale.dev/post/app-defaults",
+      "rss": "https://lewisdale.dev/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2593,6 +2602,10 @@
     {
       "from": 1001,
       "to": 197
+    },
+    {
+      "from": 1001,
+      "to": 198
     },
     {
       "from": 1,

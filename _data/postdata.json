@@ -78,7 +78,8 @@
       "https://www.johanl.se/2023/11/13/app-defaults.html",
       "https://yuexun.me/my-app-defaults-in-2023",
       "https://www.manton.org/2023/11/28/default-apps-for.html",
-      "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html"
+      "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
+      "https://mattlangford.com/2023/11/28/default-apps-for.html"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -221,7 +222,8 @@
       "https://lewisdale.dev/post/app-defaults",
       "https://www.manton.org/2023/11/28/default-apps-for.html",
       "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
-      "https://chrismcleod.dev/blog/default-apps-for-2023"
+      "https://chrismcleod.dev/blog/default-apps-for-2023",
+      "https://mattlangford.com/2023/11/28/default-apps-for.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2163,7 +2165,8 @@
     "links": [
       "https://www.manton.org/2023/11/28/default-apps-for.html",
       "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
-      "https://chrismcleod.dev/blog/default-apps-for-2023"
+      "https://chrismcleod.dev/blog/default-apps-for-2023",
+      "https://mattlangford.com/2023/11/28/default-apps-for.html"
     ]
   },
   "https://www.7robots.org/b/F9705827-6ADD-43A3-854B-F61B65381467/My-App-Defaults-Nov-2023": {
@@ -2199,6 +2202,15 @@
     "date": "2023-11-28 17:39",
     "id": 203,
     "urlKey": "https://chrismcleod.dev/blog/default-apps-for-2023",
+    "links": []
+  },
+  "https://mattlangford.com/2023/11/28/default-apps-for.html": {
+    "name": "Matt Langford",
+    "url": "https://mattlangford.com/2023/11/28/default-apps-for.html",
+    "rss": "https://www.mattlangford.com/feed.xml",
+    "date": "2023-11-28 12:33",
+    "id": 204,
+    "urlKey": "https://mattlangford.com/2023/11/28/default-apps-for.html",
     "links": []
   }
 }

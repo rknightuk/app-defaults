@@ -212,7 +212,8 @@
       "https://pawelgrzybek.com/my-defaults-2023",
       "https://huphtur.nl/2023-default-apps",
       "https://www.johanl.se/2023/11/13/app-defaults.html",
-      "https://yuexun.me/my-app-defaults-in-2023"
+      "https://yuexun.me/my-app-defaults-in-2023",
+      "https://techtea.io/articles/2023/app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -609,7 +610,8 @@
       "https://polarhive.net/blog/app-defaults",
       "https://danq.me/2023/11/12/lifestack-2023",
       "https://gluecko.se/2023/default-apps-2023",
-      "https://www.lkhrs.com/blog/2023/defaults"
+      "https://www.lkhrs.com/blog/2023/defaults",
+      "https://techtea.io/articles/2023/app-defaults"
     ]
   },
   "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html": {
@@ -1406,7 +1408,8 @@
       "https://www.amitgawande.com/2023/11/21/app-defaults.html",
       "https://carlbarenbrug.com/app-defaults",
       "https://lawver.net/2023/11/app-defaults",
-      "https://www.lkhrs.com/blog/2023/defaults"
+      "https://www.lkhrs.com/blog/2023/defaults",
+      "https://techtea.io/articles/2023/app-defaults"
     ]
   },
   "https://victor.kropp.name/blog/app-defaults": {
@@ -2036,7 +2039,9 @@
     "date": "2023-11-26 20:14",
     "id": 187,
     "urlKey": "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023",
-    "links": []
+    "links": [
+      "https://techtea.io/articles/2023/app-defaults"
+    ]
   },
   "https://marcamos.com/journal/default-apps-2023": {
     "name": "Marc",
@@ -2101,6 +2106,15 @@
     "date": "2023-11-27 23:00",
     "id": 194,
     "urlKey": "https://yuexun.me/my-app-defaults-in-2023",
+    "links": []
+  },
+  "https://techtea.io/articles/2023/app-defaults": {
+    "name": "TechTea",
+    "url": "https://techtea.io/articles/2023/app-defaults",
+    "rss": "https://techtea.io/articles/index.xml",
+    "date": "2023-11-28 11:15",
+    "id": 195,
+    "urlKey": "https://techtea.io/articles/2023/app-defaults",
     "links": []
   }
 }

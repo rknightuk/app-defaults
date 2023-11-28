@@ -182,7 +182,7 @@
     { "name": "Carl Barenbrug", "url": "https://carlbarenbrug.com/app-defaults", "rss": "https://carlbarenbrug.com/feed/rss", "date": "2023-11-26 20:02" },
     { "name": "Barry Frost", "url": "https://barryfrost.com/2023/11/app-defaults-in-late-2023", "rss": "https://barryfrost.com/rss?post-type=article", "date": "2023-11-26 20:02" },
     { "name": "Kevin Lawver", "url": "https://lawver.net/2023/11/app-defaults/", "rss": "https://lawver.net/feed/", "date": "2023-11-26 20:07" },
-    { "name": "sleepingcat42", "url": "https://sleepingcat42.github.io/2023/11/18/my-default-apps/", "rss": "", "date": "2023-11-26 20:14" },
+    { "name": "sleepingcat42", "url": "https://sleepingcat42.github.io/2023/11/18/my-default-apps/", "rss": "https://sleepingcat42.github.io/atom.xml", "date": "2023-11-26 20:14" },
     { "name": "Luke Harris", "url": "https://www.lkhrs.com/blog/2023/defaults/", "rss": "https://www.lkhrs.com/blog/index.xml", "date": "2023-11-26 20:14" },
     { "name": "David Mead", "url": "https://davidjohnmead.com/posts/2023-11-15-app-defaults/", "rss": "https://davidjohnmead.com/feed/feed.xml", "date": "2023-11-26 20:14" },
     { "name": "Wouter Groeneveld", "url": "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023/", "rss": "https://brainbaking.com/index.xml", "date": "2023-11-26 20:14" },

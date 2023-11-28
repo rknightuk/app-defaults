@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 129
+      "linkCount": 130
     },
     {
       "id": 1,
@@ -1770,6 +1770,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 197,
+      "label": "TaranakiNeko",
+      "url": "https://blog.nekoq.top/blog/my-app-defaults-2023",
+      "rss": "https://blog.nekoq.top/atom.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2580,6 +2589,10 @@
     {
       "from": 1001,
       "to": 196
+    },
+    {
+      "from": 1001,
+      "to": 197
     },
     {
       "from": 1,

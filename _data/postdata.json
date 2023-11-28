@@ -214,7 +214,8 @@
       "https://www.johanl.se/2023/11/13/app-defaults.html",
       "https://yuexun.me/my-app-defaults-in-2023",
       "https://techtea.io/articles/2023/app-defaults",
-      "https://noahliebman.net/2023/11/app-defaults"
+      "https://noahliebman.net/2023/11/app-defaults",
+      "https://blog.nekoq.top/blog/my-app-defaults-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2125,6 +2126,15 @@
     "date": "2023-11-28 11:27",
     "id": 196,
     "urlKey": "https://noahliebman.net/2023/11/app-defaults",
+    "links": []
+  },
+  "https://blog.nekoq.top/blog/my-app-defaults-2023": {
+    "name": "TaranakiNeko",
+    "url": "https://blog.nekoq.top/blog/my-app-defaults-2023",
+    "rss": "https://blog.nekoq.top/atom.xml",
+    "date": "2023-11-28 21:09",
+    "id": 197,
+    "urlKey": "https://blog.nekoq.top/blog/my-app-defaults-2023",
     "links": []
   }
 }

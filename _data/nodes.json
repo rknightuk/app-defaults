@@ -910,7 +910,7 @@
       "rss": "https://www.dertagundich.de/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 102,
@@ -1892,6 +1892,24 @@
       "id": 210,
       "label": "Paolo",
       "url": "https://www.feadin.eu/en/posts/app_defaults",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 211,
+      "label": "Johannes Mirus",
+      "url": "https://1ppm.de/2023/11/meine-tools",
+      "rss": "https://1ppm.de/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 212,
+      "label": "Christian Fischer",
+      "url": "https://hmbl.blog/defaults",
+      "rss": "https://hmbl.blog/feed/",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3113,6 +3131,10 @@
     {
       "from": 95,
       "to": 116
+    },
+    {
+      "from": 101,
+      "to": 211
     },
     {
       "from": 102,

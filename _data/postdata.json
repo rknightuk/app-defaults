@@ -231,7 +231,8 @@
       "https://alexcarpenter.me/app-defaults",
       "https://jupe.studio/my-defaults-2023",
       "https://tracydurnell.com/2023/11/28/my-current-default-apps",
-      "https://tracydurnell.com/2023/11/28/my-current-default-apps"
+      "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+      "https://ldstephens.net/2023/11/29/my-default-apps-2024-version"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2336,6 +2337,15 @@
     "date": "2023-11-28 19:40",
     "id": 215,
     "urlKey": "https://jacky.wtf/default-apps-of-2023",
+    "links": []
+  },
+  "https://ldstephens.net/2023/11/29/my-default-apps-2024-version": {
+    "name": "ldstephens",
+    "url": "https://ldstephens.net/2023/11/29/my-default-apps-2024-version",
+    "rss": "https://ldstephens.net/feed",
+    "date": "2023-11-29 23:17",
+    "id": 216,
+    "urlKey": "https://ldstephens.net/2023/11/29/my-default-apps-2024-version",
     "links": []
   }
 }

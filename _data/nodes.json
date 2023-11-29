@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 142
+      "linkCount": 143
     },
     {
       "id": 1,
@@ -1940,6 +1940,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 216,
+      "label": "ldstephens",
+      "url": "https://ldstephens.net/2023/11/29/my-default-apps-2024-version",
+      "rss": "https://ldstephens.net/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2818,6 +2827,10 @@
     {
       "from": 1001,
       "to": 213
+    },
+    {
+      "from": 1001,
+      "to": 216
     },
     {
       "from": 1,

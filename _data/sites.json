@@ -213,5 +213,6 @@
     { "name": "Christian Fischer", "url": "https://hmbl.blog/defaults/", "rss": "https://hmbl.blog/feed/", "date": "2023-11-29 10:15" },
     { "name": "Tracy Durnell", "url": "https://tracydurnell.com/2023/11/28/my-current-default-apps/", "rss": "https://tracydurnell.com/feed/", "date": "2023-11-29 15:58" },
     { "name": "Alex", "url": "https://alexsirac.com/my-default-apps-in-2023/", "rss": "https://alexsirac.com/feed/", "date": "2023-11-29 16:00" },
-    { "name": "Jacky Alciné", "url": "https://jacky.wtf/default-apps-of-2023", "rss": "https://jacky.wtf/feed.xml", "date": "2023-11-28 19:40"}
+    { "name": "Jacky Alciné", "url": "https://jacky.wtf/default-apps-of-2023", "rss": "https://jacky.wtf/feed.xml", "date": "2023-11-28 19:40"},
+    { "name": "ldstephens", "url": "https://ldstephens.net/2023/11/29/my-default-apps-2024-version/", "rss": "https://ldstephens.net/feed", "date": "2023-11-29 23:17" }
 ]

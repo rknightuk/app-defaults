@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 76
+      "linkCount": 77
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 140
+      "linkCount": 142
     },
     {
       "id": 1,
@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 17
+      "linkCount": 18
     },
     {
       "id": 3,
@@ -658,7 +658,7 @@
       "rss": "https://colinwalker.blog/livefeed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 74,
@@ -874,7 +874,7 @@
       "rss": "https://benji.dog/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 98,
@@ -1063,7 +1063,7 @@
       "rss": "https://manuelmoreale.com/feed/rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 7
+      "linkCount": 8
     },
     {
       "id": 119,
@@ -1913,6 +1913,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 213,
+      "label": "Tracy Durnell",
+      "url": "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+      "rss": "https://tracydurnell.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
+    },
+    {
+      "id": 214,
+      "label": "Alex",
+      "url": "https://alexsirac.com/my-default-apps-in-2023",
+      "rss": "https://alexsirac.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2219,6 +2237,10 @@
     {
       "from": 1000,
       "to": 204
+    },
+    {
+      "from": 1000,
+      "to": 213
     },
     {
       "from": 1001,
@@ -2781,6 +2803,14 @@
       "to": 208
     },
     {
+      "from": 1001,
+      "to": 213
+    },
+    {
+      "from": 1001,
+      "to": 213
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -2887,6 +2917,10 @@
     {
       "from": 2,
       "to": 210
+    },
+    {
+      "from": 2,
+      "to": 213
     },
     {
       "from": 3,
@@ -3121,6 +3155,10 @@
       "to": 95
     },
     {
+      "from": 73,
+      "to": 213
+    },
+    {
       "from": 85,
       "to": 182
     },
@@ -3131,6 +3169,10 @@
     {
       "from": 95,
       "to": 116
+    },
+    {
+      "from": 97,
+      "to": 213
     },
     {
       "from": 101,
@@ -3197,6 +3239,10 @@
       "to": 195
     },
     {
+      "from": 118,
+      "to": 213
+    },
+    {
       "from": 150,
       "to": 191
     },
@@ -3247,6 +3293,10 @@
     {
       "from": 199,
       "to": 204
+    },
+    {
+      "from": 213,
+      "to": 214
     }
   ]
 }

@@ -1814,7 +1814,7 @@
       "rss": "https://notes.baldurbjarnason.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 203,
@@ -1928,6 +1928,15 @@
       "label": "Alex",
       "url": "https://alexsirac.com/my-default-apps-in-2023",
       "rss": "https://alexsirac.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 215,
+      "label": "Jacky Alciné",
+      "url": "https://jacky.wtf/default-apps-of-2023",
+      "rss": "https://jacky.wtf/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3293,6 +3302,10 @@
     {
       "from": 199,
       "to": 204
+    },
+    {
+      "from": 202,
+      "to": 215
     },
     {
       "from": 213,

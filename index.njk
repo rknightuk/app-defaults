@@ -6,11 +6,11 @@ layout: base
 
         <p><a href="feed.xml">Subscribe to the RSS feed</a> to see new posts as they're added or check out one of the {{ sites.length }} blog posts from all these wonderful people:</p>
 
-        <ul>
+        <ol>
             {%- for site in sites %}
                 <li><a href="{{ site.url }}">{{ site.name }}</a> {% if site.rss %}<small><a style="font-weight: normal" href="{{ site.rss }}">RSS</a></small>{% endif %}</li>
             {% endfor%}
-        </ul>
+        </ol>
 
         <p><a href="opml.xml" download="download">Download an OPML file</a> to import all these lovely people's feeds into wherever you get your RSS.</p>
 

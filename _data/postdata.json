@@ -249,7 +249,8 @@
       "https://gkeenan.co/avgb/app-defaults",
       "https://www.johanbleuzen.fr/blog/defaults-apps-2023",
       "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023",
-      "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023"
+      "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023",
+      "https://www.feadin.eu/en/posts/app_defaults"
     ]
   },
   "https://rknight.me/app-defaults": {
@@ -275,7 +276,8 @@
       "https://blakewatson.com/journal/default-apps-2023",
       "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV",
       "https://byemc.xyz/2023/app-defaults",
-      "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html"
+      "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
+      "https://www.feadin.eu/en/posts/app_defaults"
     ]
   },
   "https://maique.eu/2023/11/03/defaults.html": {
@@ -2266,6 +2268,14 @@
     "date": "2023-11-21 08:06",
     "id": 209,
     "urlKey": "https://jimmitchell.org/2023/11/21/app-defaults.html",
+    "links": []
+  },
+  "https://www.feadin.eu/en/posts/app_defaults": {
+    "name": "Paolo",
+    "url": "https://www.feadin.eu/en/posts/app_defaults",
+    "date": "2023-11-29 08:26",
+    "id": 210,
+    "urlKey": "https://www.feadin.eu/en/posts/app_defaults",
     "links": []
   }
 }

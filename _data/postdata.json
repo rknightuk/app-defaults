@@ -2258,5 +2258,14 @@
     "id": 208,
     "urlKey": "https://jupe.studio/my-defaults-2023",
     "links": []
+  },
+  "https://jimmitchell.org/2023/11/21/app-defaults.html": {
+    "name": "Jim Mitchell",
+    "url": "https://jimmitchell.org/2023/11/21/app-defaults.html",
+    "rss": "https://jimmitchell.org/feed.xml",
+    "date": "2023-11-21 08:06",
+    "id": 209,
+    "urlKey": "https://jimmitchell.org/2023/11/21/app-defaults.html",
+    "links": []
   }
 }

@@ -1878,6 +1878,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 209,
+      "label": "Jim Mitchell",
+      "url": "https://jimmitchell.org/2023/11/21/app-defaults.html",
+      "rss": "https://jimmitchell.org/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

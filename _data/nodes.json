@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 146
+      "linkCount": 147
     },
     {
       "id": 1,
@@ -1529,7 +1529,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 4
+      "linkCount": 5
     },
     {
       "id": 171,
@@ -1538,7 +1538,7 @@
       "rss": "https://mattcool.tech/rss.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 4
+      "linkCount": 5
     },
     {
       "id": 172,
@@ -1991,6 +1991,15 @@
       "label": "Noah Jacobus",
       "url": "https://noahjacob.us/words/default-apps-2023.html",
       "rss": "https://noahjacob.us/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
+    },
+    {
+      "id": 223,
+      "label": "Timothée Goguely",
+      "url": "https://timothee.goguely.com/blog/default-apps-2023",
+      "rss": "https://timothee.goguely.com/blog/index.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2894,6 +2903,10 @@
       "to": 221
     },
     {
+      "from": 1001,
+      "to": 223
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3350,6 +3363,10 @@
       "to": 222
     },
     {
+      "from": 170,
+      "to": 223
+    },
+    {
       "from": 171,
       "to": 172
     },
@@ -3364,6 +3381,10 @@
     {
       "from": 171,
       "to": 222
+    },
+    {
+      "from": 171,
+      "to": 223
     },
     {
       "from": 187,
@@ -3400,6 +3421,10 @@
     {
       "from": 213,
       "to": 214
+    },
+    {
+      "from": 222,
+      "to": 223
     }
   ]
 }

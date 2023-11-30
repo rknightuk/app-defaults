@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 143
+      "linkCount": 145
     },
     {
       "id": 1,
@@ -1018,7 +1018,7 @@
       "rss": "https://merecivilian.com/rss/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 114,
@@ -1788,7 +1788,7 @@
       "rss": "https://www.manton.org/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 4
+      "linkCount": 5
     },
     {
       "id": 200,
@@ -1946,6 +1946,33 @@
       "label": "ldstephens",
       "url": "https://ldstephens.net/2023/11/29/my-default-apps-2024-version",
       "rss": "https://ldstephens.net/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 217,
+      "label": "Lost In Haste",
+      "url": "https://lostinhaste.com/2023/11/29/default-apps-and.html",
+      "rss": "https://lostinhaste.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 218,
+      "label": "Chuck Grimmett",
+      "url": "https://cagrimmett.com/tech/2023/11/29/default-apps-2023",
+      "rss": "https://cagrimmett.com/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 219,
+      "label": "Dominik Höcht",
+      "url": "https://ner3y.micro.blog/defaults",
+      "rss": "https://ner3y.micro.blog/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2833,6 +2860,14 @@
       "to": 216
     },
     {
+      "from": 1001,
+      "to": 218
+    },
+    {
+      "from": 1001,
+      "to": 219
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3233,6 +3268,10 @@
       "to": 185
     },
     {
+      "from": 113,
+      "to": 217
+    },
+    {
       "from": 118,
       "to": 123
     },
@@ -3315,6 +3354,10 @@
     {
       "from": 199,
       "to": 204
+    },
+    {
+      "from": 199,
+      "to": 217
     },
     {
       "from": 202,

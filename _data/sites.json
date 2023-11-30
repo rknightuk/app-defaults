@@ -215,5 +215,6 @@
     { "name": "Alex", "url": "https://alexsirac.com/my-default-apps-in-2023/", "rss": "https://alexsirac.com/feed/", "date": "2023-11-29 16:00" },
     { "name": "Jacky Alciné", "url": "https://jacky.wtf/default-apps-of-2023", "rss": "https://jacky.wtf/feed.xml", "date": "2023-11-28 19:40"},
     { "name": "ldstephens", "url": "https://ldstephens.net/2023/11/29/my-default-apps-2024-version/", "rss": "https://ldstephens.net/feed", "date": "2023-11-29 23:17" },
+    { "name": "Lost In Haste", "url": "https://lostinhaste.com/2023/11/29/default-apps-and.html", "rss": "https://lostinhaste.com/feed.xml", "date": "2023-11-29 19:20"},
     { "name": "Chuck Grimmett", "url": "https://cagrimmett.com/tech/2023/11/29/default-apps-2023/", "rss": "https://cagrimmett.com/feed", "date": "2023-11-29 22:17" }
 ]

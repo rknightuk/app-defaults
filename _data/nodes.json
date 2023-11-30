@@ -1529,7 +1529,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 3
+      "linkCount": 4
     },
     {
       "id": 171,
@@ -1538,7 +1538,7 @@
       "rss": "https://mattcool.tech/rss.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 3
+      "linkCount": 4
     },
     {
       "id": 172,
@@ -1982,6 +1982,15 @@
       "label": "Jason Heppler",
       "url": "https://social.jasonheppler.org/2023/11/29/default-apps-for.html",
       "rss": "https://social.jasonheppler.org/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 222,
+      "label": "Noah Jacobus",
+      "url": "https://noahjacob.us/words/default-apps-2023.html",
+      "rss": "https://noahjacob.us/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3337,6 +3346,10 @@
       "to": 191
     },
     {
+      "from": 170,
+      "to": 222
+    },
+    {
       "from": 171,
       "to": 172
     },
@@ -3347,6 +3360,10 @@
     {
       "from": 171,
       "to": 189
+    },
+    {
+      "from": 171,
+      "to": 222
     },
     {
       "from": 187,

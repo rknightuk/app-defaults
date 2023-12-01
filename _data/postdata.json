@@ -237,7 +237,10 @@
       "https://cagrimmett.com/tech/2023/11/29/default-apps-2023",
       "https://ner3y.micro.blog/defaults",
       "https://social.jasonheppler.org/2023/11/29/default-apps-for.html",
-      "https://timothee.goguely.com/blog/default-apps-2023"
+      "https://timothee.goguely.com/blog/default-apps-2023",
+      "https://chrisglass.com/2023/11/28/default-apps",
+      "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
+      "https://harrycresswell.com/writing/app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -631,7 +634,8 @@
       "https://danq.me/2023/11/12/lifestack-2023",
       "https://gluecko.se/2023/default-apps-2023",
       "https://www.lkhrs.com/blog/2023/defaults",
-      "https://techtea.io/articles/2023/app-defaults"
+      "https://techtea.io/articles/2023/app-defaults",
+      "https://harrycresswell.com/writing/app-defaults"
     ]
   },
   "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html": {
@@ -1438,7 +1442,8 @@
       "https://lawver.net/2023/11/app-defaults",
       "https://www.lkhrs.com/blog/2023/defaults",
       "https://techtea.io/articles/2023/app-defaults",
-      "https://tracydurnell.com/2023/11/28/my-current-default-apps"
+      "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+      "https://harrycresswell.com/writing/app-defaults"
     ]
   },
   "https://victor.kropp.name/blog/app-defaults": {
@@ -2330,7 +2335,8 @@
     "id": 213,
     "urlKey": "https://tracydurnell.com/2023/11/28/my-current-default-apps",
     "links": [
-      "https://alexsirac.com/my-default-apps-in-2023"
+      "https://alexsirac.com/my-default-apps-in-2023",
+      "https://chrisglass.com/2023/11/28/default-apps"
     ]
   },
   "https://alexsirac.com/my-default-apps-in-2023": {
@@ -2376,7 +2382,9 @@
     "date": "2023-11-29 22:17",
     "id": 218,
     "urlKey": "https://cagrimmett.com/tech/2023/11/29/default-apps-2023",
-    "links": []
+    "links": [
+      "https://chrisglass.com/2023/11/28/default-apps"
+    ]
   },
   "https://ner3y.micro.blog/defaults": {
     "name": "Dominik Höcht",
@@ -2414,6 +2422,42 @@
     "date": "2023-11-30 21:16",
     "id": 223,
     "urlKey": "https://timothee.goguely.com/blog/default-apps-2023",
+    "links": []
+  },
+  "https://chrisglass.com/2023/11/28/default-apps": {
+    "name": "Chris Glass",
+    "url": "https://chrisglass.com/2023/11/28/default-apps",
+    "rss": "https://chrisglass.com/feed/",
+    "date:": "2023-12-01 13:39",
+    "id": 224,
+    "urlKey": "https://chrisglass.com/2023/11/28/default-apps",
+    "links": []
+  },
+  "https://jasper.tandy.is/blogging/default-apps-2023": {
+    "name": "Jasper",
+    "url": "https://jasper.tandy.is/blogging/default-apps-2023",
+    "rss": "https://jasper.tandy.is/syndicated",
+    "date:": "2023-12-01 13:39",
+    "id": 225,
+    "urlKey": "https://jasper.tandy.is/blogging/default-apps-2023",
+    "links": []
+  },
+  "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html": {
+    "name": "Martin Hähnel",
+    "url": "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
+    "rss": "https://blog.martin-haehnel.de/feed",
+    "date:": "2023-12-01 13:39",
+    "id": 226,
+    "urlKey": "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
+    "links": []
+  },
+  "https://harrycresswell.com/writing/app-defaults": {
+    "name": "Harry Cresswell",
+    "url": "https://harrycresswell.com/writing/app-defaults",
+    "rss": "https://harrycresswell.com/writing/feed.xml",
+    "date:": "2023-12-01 13:39",
+    "id": 227,
+    "urlKey": "https://harrycresswell.com/writing/app-defaults",
     "links": []
   }
 }

@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 147
+      "linkCount": 150
     },
     {
       "id": 1,
@@ -317,7 +317,7 @@
       "rss": "https://kevquirk.com/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 12
+      "linkCount": 13
     },
     {
       "id": 36,
@@ -1063,7 +1063,7 @@
       "rss": "https://manuelmoreale.com/feed/rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 8
+      "linkCount": 9
     },
     {
       "id": 119,
@@ -1921,7 +1921,7 @@
       "rss": "https://tracydurnell.com/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 214,
@@ -1966,7 +1966,7 @@
       "rss": "https://cagrimmett.com/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 219,
@@ -2000,6 +2000,42 @@
       "label": "Timothée Goguely",
       "url": "https://timothee.goguely.com/blog/default-apps-2023",
       "rss": "https://timothee.goguely.com/blog/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 224,
+      "label": "Chris Glass",
+      "url": "https://chrisglass.com/2023/11/28/default-apps",
+      "rss": "https://chrisglass.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 225,
+      "label": "Jasper",
+      "url": "https://jasper.tandy.is/blogging/default-apps-2023",
+      "rss": "https://jasper.tandy.is/syndicated",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 226,
+      "label": "Martin Hähnel",
+      "url": "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
+      "rss": "https://blog.martin-haehnel.de/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 227,
+      "label": "Harry Cresswell",
+      "url": "https://harrycresswell.com/writing/app-defaults",
+      "rss": "https://harrycresswell.com/writing/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2907,6 +2943,18 @@
       "to": 223
     },
     {
+      "from": 1001,
+      "to": 224
+    },
+    {
+      "from": 1001,
+      "to": 226
+    },
+    {
+      "from": 1001,
+      "to": 227
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3199,6 +3247,10 @@
       "to": 195
     },
     {
+      "from": 35,
+      "to": 227
+    },
+    {
       "from": 39,
       "to": 69
     },
@@ -3343,6 +3395,10 @@
       "to": 213
     },
     {
+      "from": 118,
+      "to": 227
+    },
+    {
       "from": 150,
       "to": 191
     },
@@ -3421,6 +3477,14 @@
     {
       "from": 213,
       "to": 214
+    },
+    {
+      "from": 213,
+      "to": 224
+    },
+    {
+      "from": 218,
+      "to": 224
     },
     {
       "from": 222,

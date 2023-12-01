@@ -1919,7 +1919,8 @@
       "https://mattstein.com/thoughts/default-apps-2023",
       "https://huphtur.nl/2023-default-apps",
       "https://noahjacob.us/words/default-apps-2023.html",
-      "https://timothee.goguely.com/blog/default-apps-2023"
+      "https://timothee.goguely.com/blog/default-apps-2023",
+      "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -2109,7 +2110,8 @@
     "id": 190,
     "urlKey": "https://pawelgrzybek.com/my-defaults-2023",
     "links": [
-      "https://jupe.studio/my-defaults-2023"
+      "https://jupe.studio/my-defaults-2023",
+      "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023"
     ]
   },
   "https://huphtur.nl/2023-default-apps": {
@@ -2458,6 +2460,15 @@
     "date:": "2023-12-01 13:39",
     "id": 227,
     "urlKey": "https://harrycresswell.com/writing/app-defaults",
+    "links": []
+  },
+  "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023": {
+    "name": "Ange Chierchia",
+    "url": "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
+    "rss": "https://chierchia.fr/feed.xml",
+    "date": "2023-12-01 07:27",
+    "id": 228,
+    "urlKey": "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
     "links": []
   }
 }

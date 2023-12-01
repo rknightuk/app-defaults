@@ -1529,7 +1529,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 5
+      "linkCount": 6
     },
     {
       "id": 171,
@@ -1707,7 +1707,7 @@
       "rss": "https://pawelgrzybek.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 191,
@@ -2036,6 +2036,15 @@
       "label": "Harry Cresswell",
       "url": "https://harrycresswell.com/writing/app-defaults",
       "rss": "https://harrycresswell.com/writing/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 228,
+      "label": "Ange Chierchia",
+      "url": "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
+      "rss": "https://chierchia.fr/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3423,6 +3432,10 @@
       "to": 223
     },
     {
+      "from": 170,
+      "to": 228
+    },
+    {
       "from": 171,
       "to": 172
     },
@@ -3453,6 +3466,10 @@
     {
       "from": 190,
       "to": 208
+    },
+    {
+      "from": 190,
+      "to": 228
     },
     {
       "from": 199,

@@ -240,7 +240,8 @@
       "https://timothee.goguely.com/blog/default-apps-2023",
       "https://chrisglass.com/2023/11/28/default-apps",
       "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
-      "https://harrycresswell.com/writing/app-defaults"
+      "https://harrycresswell.com/writing/app-defaults",
+      "https://nahumck.me/app_defaults_2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2469,6 +2470,15 @@
     "date": "2023-12-01 07:27",
     "id": 228,
     "urlKey": "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
+    "links": []
+  },
+  "https://nahumck.me/app_defaults_2023": {
+    "name": "Tim Nahumck",
+    "url": "https://nahumck.me/app_defaults_2023",
+    "rss": "https://nahumck.me/feed.xml",
+    "date": "2023-12-01 15:21",
+    "id": 229,
+    "urlKey": "https://nahumck.me/app_defaults_2023",
     "links": []
   }
 }

@@ -221,5 +221,6 @@
     { "name": "Alex Sirac", "url": "https://alexsirac.com/my-default-apps-in-2023/", "rss": "https://alexsirac.com/tag/en/feed/", "date": "2023-11-30 08:33" },
     { "name": "Jason Heppler", "url": "https://social.jasonheppler.org/2023/11/29/default-apps-for.html", "rss": "https://social.jasonheppler.org/feed.xml", "date": "2023-11-30 11:36" },
     { "name": "Noah Jacobus", "url": "https://noahjacob.us/words/default-apps-2023.html", "rss": "https://noahjacob.us/feed.xml", "date": "2023-11-30 16:30" },
-    { "name": "Timothée Goguely", "url": "https://timothee.goguely.com/blog/default-apps-2023/", "rss": "https://timothee.goguely.com/blog/index.xml", "date": "2023-11-30 21:16" }
+    { "name": "Timothée Goguely", "url": "https://timothee.goguely.com/blog/default-apps-2023/", "rss": "https://timothee.goguely.com/blog/index.xml", "date": "2023-11-30 21:16" },
+    { "name": "Ange Chierchia", "url": "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023", "rss": "https://chierchia.fr/feed.xml", "date": "2023-12-01 07:27" }
 ]

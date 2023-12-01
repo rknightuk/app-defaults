@@ -241,7 +241,8 @@
       "https://chrisglass.com/2023/11/28/default-apps",
       "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
       "https://harrycresswell.com/writing/app-defaults",
-      "https://nahumck.me/app_defaults_2023"
+      "https://nahumck.me/app_defaults_2023",
+      "https://campegg.com/2023/11/17/a-couple-of.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1114,7 +1115,8 @@
     "id": 85,
     "urlKey": "https://hacdias.com/2023/11/08/app-defaults-late-2023",
     "links": [
-      "https://barryfrost.com/2023/11/app-defaults-in-late-2023"
+      "https://barryfrost.com/2023/11/app-defaults-in-late-2023",
+      "https://campegg.com/2023/11/17/a-couple-of.html"
     ]
   },
   "https://timbornholdt.com/blog/my-default-apps-at-the-end-of-2023": {
@@ -1444,7 +1446,8 @@
       "https://www.lkhrs.com/blog/2023/defaults",
       "https://techtea.io/articles/2023/app-defaults",
       "https://tracydurnell.com/2023/11/28/my-current-default-apps",
-      "https://harrycresswell.com/writing/app-defaults"
+      "https://harrycresswell.com/writing/app-defaults",
+      "https://campegg.com/2023/11/17/a-couple-of.html"
     ]
   },
   "https://victor.kropp.name/blog/app-defaults": {
@@ -2479,6 +2482,15 @@
     "date": "2023-12-01 15:21",
     "id": 229,
     "urlKey": "https://nahumck.me/app_defaults_2023",
+    "links": []
+  },
+  "https://campegg.com/2023/11/17/a-couple-of.html": {
+    "name": "Cam Pegg",
+    "url": "https://campegg.com/2023/11/17/a-couple-of.html",
+    "rss": "https://campegg.com/feed.xml",
+    "date:": "2023-11-17 07:19",
+    "id": 230,
+    "urlKey": "https://campegg.com/2023/11/17/a-couple-of.html",
     "links": []
   }
 }

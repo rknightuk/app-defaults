@@ -231,5 +231,6 @@
     { "name": "Cam Pegg", "url": "https://campegg.com/2023/11/17/a-couple-of.html", "rss": "https://campegg.com/feed.xml", "date:": "2023-11-17 07:19" },
     { "name": "Brandon Pugh", "url": "https://www.brandonpugh.com/blog/my-default-apps-of-2023/", "rss": "https://www.brandonpugh.com/index.xml", "date:": "2023-12-01 06:46" },
     { "name": "Ondrej Sevcik", "url": "https://ondrejsevcik.com/blog/my-app-defaults-2023", "rss": "https://ondrejsevcik.com/rss.xml", "date": "2023-12-02 12:00" },
-    { "name": "Paul Robert Lloyd", "url": "https://paulrobertlloyd.com/2023/336/a1/default-apps/", "rss": "https://paulrobertlloyd.com/feed.xml", "date": "2023-12-02 17:00" }
+    { "name": "Paul Robert Lloyd", "url": "https://paulrobertlloyd.com/2023/336/a1/default-apps/", "rss": "https://paulrobertlloyd.com/feed.xml", "date": "2023-12-02 17:00" },
+    { "name": "Sven Luijten", "url": "http://svenluijten.com/posts/default-apps-2023", "rss": "https://svenluijten.com/feeds/all.xml", "date": "2023-12-02 22:00" }
 ]

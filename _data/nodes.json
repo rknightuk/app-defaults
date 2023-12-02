@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 155
+      "linkCount": 156
     },
     {
       "id": 1,
@@ -2092,13 +2092,22 @@
       "rss": "https://paulrobertlloyd.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 234,
       "label": "Sven Luijten",
       "url": "http://svenluijten.com/posts/default-apps-2023",
       "rss": "https://svenluijten.com/feeds/all.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 235,
+      "label": "Kyle Ford",
+      "url": "https://houseofkyle.com/2023/12/02/default-apps-2023",
+      "rss": "https://houseofkyle.com/feed/",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3046,6 +3055,10 @@
       "to": 234
     },
     {
+      "from": 1001,
+      "to": 235
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3604,6 +3617,10 @@
     {
       "from": 222,
       "to": 223
+    },
+    {
+      "from": 233,
+      "to": 235
     }
   ]
 }

@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 78
+      "linkCount": 80
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 152
+      "linkCount": 155
     },
     {
       "id": 1,
@@ -1529,7 +1529,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 6
+      "linkCount": 8
     },
     {
       "id": 171,
@@ -2066,6 +2066,42 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 231,
+      "label": "Brandon Pugh",
+      "url": "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
+      "rss": "https://www.brandonpugh.com/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 232,
+      "label": "Ondrej Sevcik",
+      "url": "https://ondrejsevcik.com/blog/my-app-defaults-2023",
+      "rss": "https://ondrejsevcik.com/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 233,
+      "label": "Paul Robert Lloyd",
+      "url": "https://paulrobertlloyd.com/2023/336/a1/default-apps",
+      "rss": "https://paulrobertlloyd.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 234,
+      "label": "Sven Luijten",
+      "url": "http://svenluijten.com/posts/default-apps-2023",
+      "rss": "https://svenluijten.com/feeds/all.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2380,6 +2416,14 @@
     {
       "from": 1000,
       "to": 221
+    },
+    {
+      "from": 1000,
+      "to": 231
+    },
+    {
+      "from": 1000,
+      "to": 234
     },
     {
       "from": 1001,
@@ -2990,6 +3034,18 @@
       "to": 230
     },
     {
+      "from": 1001,
+      "to": 232
+    },
+    {
+      "from": 1001,
+      "to": 233
+    },
+    {
+      "from": 1001,
+      "to": 234
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3468,6 +3524,14 @@
     {
       "from": 170,
       "to": 228
+    },
+    {
+      "from": 170,
+      "to": 231
+    },
+    {
+      "from": 170,
+      "to": 234
     },
     {
       "from": 171,

@@ -81,7 +81,9 @@
       "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
       "https://mattlangford.com/2023/11/28/default-apps-for.html",
       "https://tracydurnell.com/2023/11/28/my-current-default-apps",
-      "https://social.jasonheppler.org/2023/11/29/default-apps-for.html"
+      "https://social.jasonheppler.org/2023/11/29/default-apps-for.html",
+      "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
+      "http://svenluijten.com/posts/default-apps-2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -242,7 +244,10 @@
       "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
       "https://harrycresswell.com/writing/app-defaults",
       "https://nahumck.me/app_defaults_2023",
-      "https://campegg.com/2023/11/17/a-couple-of.html"
+      "https://campegg.com/2023/11/17/a-couple-of.html",
+      "https://ondrejsevcik.com/blog/my-app-defaults-2023",
+      "https://paulrobertlloyd.com/2023/336/a1/default-apps",
+      "http://svenluijten.com/posts/default-apps-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1924,7 +1929,9 @@
       "https://huphtur.nl/2023-default-apps",
       "https://noahjacob.us/words/default-apps-2023.html",
       "https://timothee.goguely.com/blog/default-apps-2023",
-      "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023"
+      "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
+      "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
+      "http://svenluijten.com/posts/default-apps-2023"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -2491,6 +2498,42 @@
     "date:": "2023-11-17 07:19",
     "id": 230,
     "urlKey": "https://campegg.com/2023/11/17/a-couple-of.html",
+    "links": []
+  },
+  "https://www.brandonpugh.com/blog/my-default-apps-of-2023": {
+    "name": "Brandon Pugh",
+    "url": "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
+    "rss": "https://www.brandonpugh.com/index.xml",
+    "date:": "2023-12-01 06:46",
+    "id": 231,
+    "urlKey": "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
+    "links": []
+  },
+  "https://ondrejsevcik.com/blog/my-app-defaults-2023": {
+    "name": "Ondrej Sevcik",
+    "url": "https://ondrejsevcik.com/blog/my-app-defaults-2023",
+    "rss": "https://ondrejsevcik.com/rss.xml",
+    "date": "2023-12-02 12:00",
+    "id": 232,
+    "urlKey": "https://ondrejsevcik.com/blog/my-app-defaults-2023",
+    "links": []
+  },
+  "https://paulrobertlloyd.com/2023/336/a1/default-apps": {
+    "name": "Paul Robert Lloyd",
+    "url": "https://paulrobertlloyd.com/2023/336/a1/default-apps",
+    "rss": "https://paulrobertlloyd.com/feed.xml",
+    "date": "2023-12-02 17:00",
+    "id": 233,
+    "urlKey": "https://paulrobertlloyd.com/2023/336/a1/default-apps",
+    "links": []
+  },
+  "http://svenluijten.com/posts/default-apps-2023": {
+    "name": "Sven Luijten",
+    "url": "http://svenluijten.com/posts/default-apps-2023",
+    "rss": "https://svenluijten.com/feeds/all.xml",
+    "date": "2023-12-02 22:00",
+    "id": 234,
+    "urlKey": "http://svenluijten.com/posts/default-apps-2023",
     "links": []
   }
 }

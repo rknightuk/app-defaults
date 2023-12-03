@@ -237,5 +237,6 @@
     { "name": "Kunall Banerjee", "url": "https://defaults.kimchiii.space/", "rss": "https://kimchiii.space/rss.xml", "date": "2023-12-03 01:47" },
     { "name": "Lawrence Li", "url": "https://lawrenceli.me/blog/app-defaults-2023", "rss": "https://lawrenceli.me/atom.xml", "date": "2023-12-03 14:00" },
     { "name": "Shuo Zhan", "url": "https://blog.zzsqwq.cn/posts/default-apps-f2023/", "rss": "https://blog.zzsqwq.cn/index.xml", "date": "2023-12-03 02:30"},
-    { "name": "Yizun Wang", "url": "https://blog.huadeity.com/posts/app-defaults/", "rss": "https://blog.huadeity.com/index.xml", "date": "2023-12-04 03:00"}
+    { "name": "Yizun Wang", "url": "https://blog.huadeity.com/posts/app-defaults/", "rss": "https://blog.huadeity.com/index.xml", "date": "2023-12-04 03:00"},
+    { "name": "Tommy Palmer", "url": "https://www.tommyp.org/blog/app-defaults", "rss": "https://www.tommyp.org/rss.xml", "date": "2023-12-03 22:00"}
 ]

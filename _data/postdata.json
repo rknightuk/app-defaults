@@ -83,7 +83,9 @@
       "https://tracydurnell.com/2023/11/28/my-current-default-apps",
       "https://social.jasonheppler.org/2023/11/29/default-apps-for.html",
       "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
-      "http://svenluijten.com/posts/default-apps-2023"
+      "http://svenluijten.com/posts/default-apps-2023",
+      "https://defaults.kimchiii.space",
+      "https://blog.zzsqwq.cn/posts/default-apps-f2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -248,7 +250,9 @@
       "https://ondrejsevcik.com/blog/my-app-defaults-2023",
       "https://paulrobertlloyd.com/2023/336/a1/default-apps",
       "http://svenluijten.com/posts/default-apps-2023",
-      "https://houseofkyle.com/2023/12/02/default-apps-2023"
+      "https://houseofkyle.com/2023/12/02/default-apps-2023",
+      "https://defaults.kimchiii.space",
+      "https://blog.zzsqwq.cn/posts/default-apps-f2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2546,6 +2550,33 @@
     "date": "2023-12-02 23:10",
     "id": 235,
     "urlKey": "https://houseofkyle.com/2023/12/02/default-apps-2023",
+    "links": []
+  },
+  "https://defaults.kimchiii.space": {
+    "name": "Kunall Banerjee",
+    "url": "https://defaults.kimchiii.space",
+    "rss": "https://kimchiii.space/rss.xml",
+    "date": "2023-12-03 01:47",
+    "id": 236,
+    "urlKey": "https://defaults.kimchiii.space",
+    "links": []
+  },
+  "https://lawrenceli.me/blog/app-defaults-2023": {
+    "name": "Lawrence Li",
+    "url": "https://lawrenceli.me/blog/app-defaults-2023",
+    "rss": "https://lawrenceli.me/atom.xml",
+    "date": "2023-12-03 14:00",
+    "id": 237,
+    "urlKey": "https://lawrenceli.me/blog/app-defaults-2023",
+    "links": []
+  },
+  "https://blog.zzsqwq.cn/posts/default-apps-f2023": {
+    "name": "Shuo Zhan",
+    "url": "https://blog.zzsqwq.cn/posts/default-apps-f2023",
+    "rss": "https://blog.zzsqwq.cn/index.xml",
+    "date": "2023-12-03 02:30",
+    "id": 238,
+    "urlKey": "https://blog.zzsqwq.cn/posts/default-apps-f2023",
     "links": []
   }
 }

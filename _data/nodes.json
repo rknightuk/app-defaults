@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 80
+      "linkCount": 82
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 156
+      "linkCount": 158
     },
     {
       "id": 1,
@@ -2111,6 +2111,33 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 236,
+      "label": "Kunall Banerjee",
+      "url": "https://defaults.kimchiii.space",
+      "rss": "https://kimchiii.space/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 237,
+      "label": "Lawrence Li",
+      "url": "https://lawrenceli.me/blog/app-defaults-2023",
+      "rss": "https://lawrenceli.me/atom.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 238,
+      "label": "Shuo Zhan",
+      "url": "https://blog.zzsqwq.cn/posts/default-apps-f2023",
+      "rss": "https://blog.zzsqwq.cn/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2433,6 +2460,14 @@
     {
       "from": 1000,
       "to": 234
+    },
+    {
+      "from": 1000,
+      "to": 236
+    },
+    {
+      "from": 1000,
+      "to": 238
     },
     {
       "from": 1001,
@@ -3057,6 +3092,14 @@
     {
       "from": 1001,
       "to": 235
+    },
+    {
+      "from": 1001,
+      "to": 236
+    },
+    {
+      "from": 1001,
+      "to": 238
     },
     {
       "from": 1,

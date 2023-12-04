@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 82
+      "linkCount": 83
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 158
+      "linkCount": 162
     },
     {
       "id": 1,
@@ -1529,7 +1529,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 8
+      "linkCount": 9
     },
     {
       "id": 171,
@@ -2138,6 +2138,42 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 239,
+      "label": "Yizun Wang",
+      "url": "https://blog.huadeity.com/posts/app-defaults",
+      "rss": "https://blog.huadeity.com/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 240,
+      "label": "Tommy Palmer",
+      "url": "https://www.tommyp.org/blog/app-defaults",
+      "rss": "https://www.tommyp.org/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 241,
+      "label": "Matthew Ernisse",
+      "url": "https://www.going-flying.com/blog/defaults.html",
+      "rss": "https://www.going-flying.com/blog/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 242,
+      "label": "Sven Luijten",
+      "url": "https://svenluijten.com/posts/default-apps-2023",
+      "rss": "https://svenluijten.com/feeds/all.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2468,6 +2504,10 @@
     {
       "from": 1000,
       "to": 238
+    },
+    {
+      "from": 1000,
+      "to": 242
     },
     {
       "from": 1001,
@@ -3102,6 +3142,22 @@
       "to": 238
     },
     {
+      "from": 1001,
+      "to": 239
+    },
+    {
+      "from": 1001,
+      "to": 240
+    },
+    {
+      "from": 1001,
+      "to": 241
+    },
+    {
+      "from": 1001,
+      "to": 242
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3588,6 +3644,10 @@
     {
       "from": 170,
       "to": 234
+    },
+    {
+      "from": 170,
+      "to": 242
     },
     {
       "from": 171,

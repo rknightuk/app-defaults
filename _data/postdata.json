@@ -85,7 +85,8 @@
       "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
       "http://svenluijten.com/posts/default-apps-2023",
       "https://defaults.kimchiii.space",
-      "https://blog.zzsqwq.cn/posts/default-apps-f2023"
+      "https://blog.zzsqwq.cn/posts/default-apps-f2023",
+      "https://svenluijten.com/posts/default-apps-2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -252,7 +253,11 @@
       "http://svenluijten.com/posts/default-apps-2023",
       "https://houseofkyle.com/2023/12/02/default-apps-2023",
       "https://defaults.kimchiii.space",
-      "https://blog.zzsqwq.cn/posts/default-apps-f2023"
+      "https://blog.zzsqwq.cn/posts/default-apps-f2023",
+      "https://blog.huadeity.com/posts/app-defaults",
+      "https://www.tommyp.org/blog/app-defaults",
+      "https://www.going-flying.com/blog/defaults.html",
+      "https://svenluijten.com/posts/default-apps-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1936,7 +1941,8 @@
       "https://timothee.goguely.com/blog/default-apps-2023",
       "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
       "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
-      "http://svenluijten.com/posts/default-apps-2023"
+      "http://svenluijten.com/posts/default-apps-2023",
+      "https://svenluijten.com/posts/default-apps-2023"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -2577,6 +2583,42 @@
     "date": "2023-12-03 02:30",
     "id": 238,
     "urlKey": "https://blog.zzsqwq.cn/posts/default-apps-f2023",
+    "links": []
+  },
+  "https://blog.huadeity.com/posts/app-defaults": {
+    "name": "Yizun Wang",
+    "url": "https://blog.huadeity.com/posts/app-defaults",
+    "rss": "https://blog.huadeity.com/index.xml",
+    "date": "2023-12-04 03:00",
+    "id": 239,
+    "urlKey": "https://blog.huadeity.com/posts/app-defaults",
+    "links": []
+  },
+  "https://www.tommyp.org/blog/app-defaults": {
+    "name": "Tommy Palmer",
+    "url": "https://www.tommyp.org/blog/app-defaults",
+    "rss": "https://www.tommyp.org/rss.xml",
+    "date": "2023-12-03 22:00",
+    "id": 240,
+    "urlKey": "https://www.tommyp.org/blog/app-defaults",
+    "links": []
+  },
+  "https://www.going-flying.com/blog/defaults.html": {
+    "name": "Matthew Ernisse",
+    "url": "https://www.going-flying.com/blog/defaults.html",
+    "rss": "https://www.going-flying.com/blog/feed.xml",
+    "date": "2023-12-03 23:00",
+    "id": 241,
+    "urlKey": "https://www.going-flying.com/blog/defaults.html",
+    "links": []
+  },
+  "https://svenluijten.com/posts/default-apps-2023": {
+    "name": "Sven Luijten",
+    "url": "https://svenluijten.com/posts/default-apps-2023",
+    "rss": "https://svenluijten.com/feeds/all.xml",
+    "date": "2023-12-04 20:29",
+    "id": 242,
+    "urlKey": "https://svenluijten.com/posts/default-apps-2023",
     "links": []
   }
 }

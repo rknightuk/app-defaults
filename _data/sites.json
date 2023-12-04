@@ -240,5 +240,6 @@
     { "name": "Yizun Wang", "url": "https://blog.huadeity.com/posts/app-defaults/", "rss": "https://blog.huadeity.com/index.xml", "date": "2023-12-04 03:00"},
     { "name": "Tommy Palmer", "url": "https://www.tommyp.org/blog/app-defaults", "rss": "https://www.tommyp.org/rss.xml", "date": "2023-12-03 22:00"},
     { "name": "Matthew Ernisse", "url": "https://www.going-flying.com/blog/defaults.html", "rss": "https://www.going-flying.com/blog/feed.xml", "date": "2023-12-03 23:00"},
-    { "name": "Sven Luijten", "url": "https://svenluijten.com/posts/default-apps-2023", "rss": "https://svenluijten.com/feeds/all.xml", "date": "2023-12-04 20:29" }
+    { "name": "Sven Luijten", "url": "https://svenluijten.com/posts/default-apps-2023", "rss": "https://svenluijten.com/feeds/all.xml", "date": "2023-12-04 20:29" },
+    { "name": "The Wandering Allison", "url": "https://thewanderingallison.github.io/posts/app_defaults_2023/", "rss": "https://thewanderingallison.github.io/rss.xml", "date": "2023-12-04 22:31" }
 ]

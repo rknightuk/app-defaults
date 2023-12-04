@@ -257,7 +257,8 @@
       "https://blog.huadeity.com/posts/app-defaults",
       "https://www.tommyp.org/blog/app-defaults",
       "https://www.going-flying.com/blog/defaults.html",
-      "https://svenluijten.com/posts/default-apps-2023"
+      "https://svenluijten.com/posts/default-apps-2023",
+      "https://thewanderingallison.github.io/posts/app_defaults_2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1597,7 +1598,9 @@
     "date": "2023-11-12 21:55",
     "id": 133,
     "urlKey": "https://blog.douchi.space/app-defaults",
-    "links": []
+    "links": [
+      "https://thewanderingallison.github.io/posts/app_defaults_2023"
+    ]
   },
   "https://world.hey.com/kylenichols/my-defaults-0b855cc1": {
     "name": "Kyle Nichols",
@@ -2619,6 +2622,15 @@
     "date": "2023-12-04 20:29",
     "id": 242,
     "urlKey": "https://svenluijten.com/posts/default-apps-2023",
+    "links": []
+  },
+  "https://thewanderingallison.github.io/posts/app_defaults_2023": {
+    "name": "The Wandering Allison",
+    "url": "https://thewanderingallison.github.io/posts/app_defaults_2023",
+    "rss": "https://thewanderingallison.github.io/rss.xml",
+    "date": "2023-12-04 22:31",
+    "id": 243,
+    "urlKey": "https://thewanderingallison.github.io/posts/app_defaults_2023",
     "links": []
   }
 }

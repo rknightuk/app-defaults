@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 162
+      "linkCount": 163
     },
     {
       "id": 1,
@@ -1197,7 +1197,7 @@
       "rss": "https://blog.douchi.space/index.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 134,
@@ -2171,6 +2171,15 @@
       "label": "Sven Luijten",
       "url": "https://svenluijten.com/posts/default-apps-2023",
       "rss": "https://svenluijten.com/feeds/all.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 243,
+      "label": "The Wandering Allison",
+      "url": "https://thewanderingallison.github.io/posts/app_defaults_2023",
+      "rss": "https://thewanderingallison.github.io/rss.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3158,6 +3167,10 @@
       "to": 242
     },
     {
+      "from": 1001,
+      "to": 243
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3608,6 +3621,10 @@
     {
       "from": 118,
       "to": 230
+    },
+    {
+      "from": 133,
+      "to": 243
     },
     {
       "from": 150,

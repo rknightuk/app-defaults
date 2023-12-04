@@ -8,7 +8,7 @@ layout: base
 
         <ol>
             {%- for site in sites %}
-                <li><a href="{{ site.url }}">{{ site.name }}</a> {% if site.rss %}<small><a style="font-weight: normal" href="{{ site.rss }}">RSS</a></small>{% endif %}</li>
+                <li><a href="{{ site.url }}" {% if site.featured %}class="featured"{% endif %} >{{ site.name }}</a> {% if site.rss %}<small><a style="font-weight: normal" href="{{ site.rss }}">RSS</a></small>{% endif %}</li>
             {% endfor%}
         </ol>
 

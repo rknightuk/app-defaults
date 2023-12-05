@@ -241,5 +241,6 @@
     { "name": "Matthew Ernisse", "url": "https://www.going-flying.com/blog/defaults.html", "rss": "https://www.going-flying.com/blog/feed.xml", "date": "2023-12-03 23:00"},
     { "name": "Sven Luijten", "url": "https://svenluijten.com/posts/default-apps-2023", "rss": "https://svenluijten.com/feeds/all.xml", "date": "2023-12-04 20:29" },
     { "name": "The Wandering Allison", "url": "https://thewanderingallison.github.io/posts/app_defaults_2023/", "rss": "https://thewanderingallison.github.io/rss.xml", "date": "2023-12-04 22:31" },
-    { "name": "Josh Withers", "url": "https://joshwithers.blog/2023/12/05/my-app-defaults.html", "rss": "https://joshwithers.blog/feed", "date": "2023-12-05 10:01" }
+    { "name": "Josh Withers", "url": "https://joshwithers.blog/2023/12/05/my-app-defaults.html", "rss": "https://joshwithers.blog/feed", "date": "2023-12-05 10:01" },
+    { "name": "Étienne", "url": "https://etienne.depar.is/a-ecrit/app-defaults.html", "rss": "https://etienne.depar.is/a-ecrit/feeds/index.xml", "date": "2023-12-05 22:34" }
 ]

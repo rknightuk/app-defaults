@@ -212,13 +212,12 @@
     { "name": "Johannes Mirus", "url": "https://1ppm.de/2023/11/meine-tools/", "rss": "https://1ppm.de/feed/", "date": "2023-11-29 10:14" },
     { "name": "Christian Fischer", "url": "https://hmbl.blog/defaults/", "rss": "https://hmbl.blog/feed/", "date": "2023-11-29 10:15" },
     { "name": "Tracy Durnell", "url": "https://tracydurnell.com/2023/11/28/my-current-default-apps/", "rss": "https://tracydurnell.com/feed/", "date": "2023-11-29 15:58" },
-    { "name": "Alex", "url": "https://alexsirac.com/my-default-apps-in-2023/", "rss": "https://alexsirac.com/feed/", "date": "2023-11-29 16:00" },
+    { "name": "Alex Sirac", "url": "https://alexsirac.com/my-default-apps-in-2023/", "rss": "https://alexsirac.com/tag/en/feed/", "date": "2023-11-29 16:00" },
     { "name": "Jacky Alciné", "url": "https://jacky.wtf/default-apps-of-2023", "rss": "https://jacky.wtf/feed.xml", "date": "2023-11-28 19:40"},
     { "name": "ldstephens", "url": "https://ldstephens.net/2023/11/29/my-default-apps-2024-version/", "rss": "https://ldstephens.net/feed", "date": "2023-11-29 23:17" },
     { "name": "Lost In Haste", "url": "https://lostinhaste.com/2023/11/29/default-apps-and.html", "rss": "https://lostinhaste.com/feed.xml", "date": "2023-11-29 19:20"},
     { "name": "Chuck Grimmett", "url": "https://cagrimmett.com/tech/2023/11/29/default-apps-2023/", "rss": "https://cagrimmett.com/feed", "date": "2023-11-29 22:17" },
     { "name": "Dominik Höcht", "url": "https://ner3y.micro.blog/defaults/", "rss": "https://ner3y.micro.blog/feed.xml", "date": "2023-11-30 08:33" },
-    { "name": "Alex Sirac", "url": "https://alexsirac.com/my-default-apps-in-2023/", "rss": "https://alexsirac.com/tag/en/feed/", "date": "2023-11-30 08:33" },
     { "name": "Jason Heppler", "url": "https://social.jasonheppler.org/2023/11/29/default-apps-for.html", "rss": "https://social.jasonheppler.org/feed.xml", "date": "2023-11-30 11:36" },
     { "name": "Noah Jacobus", "url": "https://noahjacob.us/words/default-apps-2023.html", "rss": "https://noahjacob.us/feed.xml", "date": "2023-11-30 16:30" },
     { "name": "Timothée Goguely", "url": "https://timothee.goguely.com/blog/default-apps-2023/", "rss": "https://timothee.goguely.com/blog/index.xml", "date": "2023-11-30 21:16" },
@@ -242,5 +241,6 @@
     { "name": "Matthew Ernisse", "url": "https://www.going-flying.com/blog/defaults.html", "rss": "https://www.going-flying.com/blog/feed.xml", "date": "2023-12-03 23:00"},
     { "name": "Sven Luijten", "url": "https://svenluijten.com/posts/default-apps-2023", "rss": "https://svenluijten.com/feeds/all.xml", "date": "2023-12-04 20:29" },
     { "name": "The Wandering Allison", "url": "https://thewanderingallison.github.io/posts/app_defaults_2023/", "rss": "https://thewanderingallison.github.io/rss.xml", "date": "2023-12-04 22:31" },
-    { "name": "Josh Withers", "url": "https://joshwithers.blog/2023/12/05/my-app-defaults.html", "rss": "https://joshwithers.blog/feed", "date": "2023-12-05 10:01" }
+    { "name": "Josh Withers", "url": "https://joshwithers.blog/2023/12/05/my-app-defaults.html", "rss": "https://joshwithers.blog/feed", "date": "2023-12-05 10:01" },
+    { "name": "Étienne", "url": "https://etienne.depar.is/a-ecrit/app-defaults.html", "rss": "https://etienne.depar.is/a-ecrit/feeds/index.xml", "date": "2023-12-05 22:34" }
 ]

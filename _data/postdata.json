@@ -2632,5 +2632,14 @@
     "id": 243,
     "urlKey": "https://thewanderingallison.github.io/posts/app_defaults_2023",
     "links": []
+  },
+  "https://joshwithers.blog/2023/12/05/my-app-defaults.html": {
+    "name": "Josh Withers",
+    "url": "https://joshwithers.blog/2023/12/05/my-app-defaults.html",
+    "rss": "https://joshwithers.blog/feed",
+    "date": "2023-12-05 10:01",
+    "id": 244,
+    "urlKey": "https://joshwithers.blog/2023/12/05/my-app-defaults.html",
+    "links": []
   }
 }

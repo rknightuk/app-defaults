@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 163
+      "linkCount": 164
     },
     {
       "id": 1,
@@ -2192,6 +2192,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 244,
+      "label": "Étienne",
+      "url": "https://etienne.depar.is/a-ecrit/app-defaults.html",
+      "rss": "https://etienne.depar.is/a-ecrit/feeds/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3178,6 +3187,10 @@
     {
       "from": 1001,
       "to": 243
+    },
+    {
+      "from": 1001,
+      "to": 244
     },
     {
       "from": 1,

@@ -258,7 +258,8 @@
       "https://www.tommyp.org/blog/app-defaults",
       "https://www.going-flying.com/blog/defaults.html",
       "https://svenluijten.com/posts/default-apps-2023",
-      "https://thewanderingallison.github.io/posts/app_defaults_2023"
+      "https://thewanderingallison.github.io/posts/app_defaults_2023",
+      "https://etienne.depar.is/a-ecrit/app-defaults.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2640,6 +2641,15 @@
     "date": "2023-12-05 10:01",
     "id": 244,
     "urlKey": "https://joshwithers.blog/2023/12/05/my-app-defaults.html",
+    "links": []
+  },
+  "https://etienne.depar.is/a-ecrit/app-defaults.html": {
+    "name": "Étienne",
+    "url": "https://etienne.depar.is/a-ecrit/app-defaults.html",
+    "rss": "https://etienne.depar.is/a-ecrit/feeds/index.xml",
+    "date": "2023-12-05 22:34",
+    "id": 244,
+    "urlKey": "https://etienne.depar.is/a-ecrit/app-defaults.html",
     "links": []
   }
 }

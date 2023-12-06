@@ -2210,6 +2210,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 1
+    },
+    {
+      "id": 246,
+      "label": "Nicolas Magand",
+      "url": "https://thejollyteapot.com/2023/11/17/third-party-apps-i-like-and-use-—-2023-edition",
+      "rss": "https://thejollyteapot.com/feed.rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

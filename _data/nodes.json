@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 163
+      "linkCount": 164
     },
     {
       "id": 1,
@@ -254,7 +254,7 @@
       "rss": "https://birchtree.me/rss/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 13
+      "linkCount": 14
     },
     {
       "id": 28,
@@ -1072,7 +1072,7 @@
       "rss": "https://manuelmoreale.com/feed/rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 11
+      "linkCount": 12
     },
     {
       "id": 119,
@@ -1538,7 +1538,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 10
+      "linkCount": 11
     },
     {
       "id": 171,
@@ -2216,6 +2216,15 @@
       "label": "Nicolas Magand",
       "url": "https://thejollyteapot.com/2023/11/17/third-party-apps-i-like-and-use-—-2023-edition",
       "rss": "https://thejollyteapot.com/feed.rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 247,
+      "label": "Nathan Snelgrove",
+      "url": "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
+      "rss": "https://nathansnelgrove.com/feeds/feed.atom",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3203,6 +3212,10 @@
       "to": 244
     },
     {
+      "from": 1001,
+      "to": 247
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3451,6 +3464,10 @@
       "to": 169
     },
     {
+      "from": 27,
+      "to": 247
+    },
+    {
       "from": 31,
       "to": 59
     },
@@ -3687,6 +3704,10 @@
       "to": 229
     },
     {
+      "from": 118,
+      "to": 247
+    },
+    {
       "from": 133,
       "to": 242
     },
@@ -3737,6 +3758,10 @@
     {
       "from": 170,
       "to": 241
+    },
+    {
+      "from": 170,
+      "to": 247
     },
     {
       "from": 171,

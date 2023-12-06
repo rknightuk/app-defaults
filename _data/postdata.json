@@ -257,7 +257,8 @@
       "https://www.going-flying.com/blog/defaults.html",
       "https://svenluijten.com/posts/default-apps-2023",
       "https://thewanderingallison.github.io/posts/app_defaults_2023",
-      "https://etienne.depar.is/a-ecrit/app-defaults.html"
+      "https://etienne.depar.is/a-ecrit/app-defaults.html",
+      "https://nathansnelgrove.com/2023/12/default-apps-in-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -575,7 +576,8 @@
       "https://chojecki.net/posts/Apps2023",
       "https://www.iandick.com/default-apps-2023",
       "https://cliophate.wtf/posts/default-apps",
-      "https://jamesdoc.com/blog/2023/defaults-in-2023"
+      "https://jamesdoc.com/blog/2023/defaults-in-2023",
+      "https://nathansnelgrove.com/2023/12/default-apps-in-2023"
     ]
   },
   "https://ericmwalk.blog/2023/11/06/application-defaults.html": {
@@ -1483,7 +1485,8 @@
       "https://techtea.io/articles/2023/app-defaults",
       "https://tracydurnell.com/2023/11/28/my-current-default-apps",
       "https://harrycresswell.com/writing/app-defaults",
-      "https://campegg.com/2023/11/17/a-couple-of.html"
+      "https://campegg.com/2023/11/17/a-couple-of.html",
+      "https://nathansnelgrove.com/2023/12/default-apps-in-2023"
     ]
   },
   "https://victor.kropp.name/blog/app-defaults": {
@@ -1970,7 +1973,8 @@
       "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
       "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
       "http://svenluijten.com/posts/default-apps-2023",
-      "https://svenluijten.com/posts/default-apps-2023"
+      "https://svenluijten.com/posts/default-apps-2023",
+      "https://nathansnelgrove.com/2023/12/default-apps-in-2023"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -2684,6 +2688,15 @@
     "date": "2023-12-06 14:06",
     "id": 246,
     "urlKey": "https://thejollyteapot.com/2023/11/17/third-party-apps-i-like-and-use-—-2023-edition",
+    "links": []
+  },
+  "https://nathansnelgrove.com/2023/12/default-apps-in-2023": {
+    "name": "Nathan Snelgrove",
+    "url": "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
+    "rss": "https://nathansnelgrove.com/feeds/feed.atom",
+    "date": "2023-12-06 11:17",
+    "id": 247,
+    "urlKey": "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
     "links": []
   }
 }

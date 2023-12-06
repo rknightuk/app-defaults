@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 164
+      "linkCount": 165
     },
     {
       "id": 1,
@@ -2228,6 +2228,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 248,
+      "label": "Anthony Dumas",
+      "url": "https://blog.adm.ink/defaults",
+      "rss": "https://blog.adm.ink/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3214,6 +3223,10 @@
     {
       "from": 1001,
       "to": 247
+    },
+    {
+      "from": 1001,
+      "to": 248
     },
     {
       "from": 1,

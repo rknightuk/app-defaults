@@ -258,7 +258,8 @@
       "https://svenluijten.com/posts/default-apps-2023",
       "https://thewanderingallison.github.io/posts/app_defaults_2023",
       "https://etienne.depar.is/a-ecrit/app-defaults.html",
-      "https://nathansnelgrove.com/2023/12/default-apps-in-2023"
+      "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
+      "https://blog.adm.ink/defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2697,6 +2698,15 @@
     "date": "2023-12-06 11:17",
     "id": 247,
     "urlKey": "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
+    "links": []
+  },
+  "https://blog.adm.ink/defaults": {
+    "name": "Anthony Dumas",
+    "url": "https://blog.adm.ink/defaults",
+    "rss": "https://blog.adm.ink/rss.xml",
+    "date": "2023-12-06 19:11",
+    "id": 248,
+    "urlKey": "https://blog.adm.ink/defaults",
     "links": []
   }
 }

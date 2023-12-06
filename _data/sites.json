@@ -245,5 +245,6 @@
     { "name": "Étienne", "url": "https://etienne.depar.is/a-ecrit/app-defaults.html", "rss": "https://etienne.depar.is/a-ecrit/feeds/index.xml", "date": "2023-12-05 22:34" },
     { "name": "Chris Hunsanger", "url": "https://hunsanger.com/2023/11/26/app-defaults.html", "rss": "https://hunsanger.com/feed", "date": "2023-12-06 08:38" },
     { "name": "Nicolas Magand", "url": "https://thejollyteapot.com/2023/11/17/third-party-apps-i-like-and-use-—-2023-edition", "rss": "https://thejollyteapot.com/feed.rss", "date": "2023-12-06 14:06" },
-    { "name": "Nathan Snelgrove", "url": "https://nathansnelgrove.com/2023/12/default-apps-in-2023", "rss": "https://nathansnelgrove.com/feeds/feed.atom", "date": "2023-12-06 11:17" }
+    { "name": "Nathan Snelgrove", "url": "https://nathansnelgrove.com/2023/12/default-apps-in-2023", "rss": "https://nathansnelgrove.com/feeds/feed.atom", "date": "2023-12-06 11:17" },
+    { "name": "Anthony Dumas", "url" : "https://blog.adm.ink/defaults", "rss" : "https://blog.adm.ink/rss.xml", "date" : "2023-12-06 19:11"}
 ]

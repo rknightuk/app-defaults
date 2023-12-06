@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 83
+      "linkCount": 84
     },
     {
       "id": 1001,
@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 18
+      "linkCount": 19
     },
     {
       "id": 3,
@@ -2201,6 +2201,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 245,
+      "label": "Chris Hunsanger",
+      "url": "https://hunsanger.com/2023/11/26/app-defaults.html",
+      "rss": "https://hunsanger.com/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
     }
   ],
   "edges": [
@@ -2535,6 +2544,10 @@
     {
       "from": 1000,
       "to": 242
+    },
+    {
+      "from": 1000,
+      "to": 245
     },
     {
       "from": 1001,
@@ -3303,6 +3316,10 @@
     {
       "from": 2,
       "to": 213
+    },
+    {
+      "from": 2,
+      "to": 245
     },
     {
       "from": 3,

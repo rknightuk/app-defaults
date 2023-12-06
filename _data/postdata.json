@@ -86,7 +86,8 @@
       "http://svenluijten.com/posts/default-apps-2023",
       "https://defaults.kimchiii.space",
       "https://blog.zzsqwq.cn/posts/default-apps-f2023",
-      "https://svenluijten.com/posts/default-apps-2023"
+      "https://svenluijten.com/posts/default-apps-2023",
+      "https://hunsanger.com/2023/11/26/app-defaults.html"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -309,7 +310,8 @@
       "https://byemc.xyz/2023/app-defaults",
       "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
       "https://www.feadin.eu/en/posts/app_defaults",
-      "https://tracydurnell.com/2023/11/28/my-current-default-apps"
+      "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+      "https://hunsanger.com/2023/11/26/app-defaults.html"
     ]
   },
   "https://maique.eu/2023/11/03/defaults.html": {
@@ -2651,5 +2653,16 @@
     "id": 244,
     "urlKey": "https://etienne.depar.is/a-ecrit/app-defaults.html",
     "links": []
+  },
+  "https://hunsanger.com/2023/11/26/app-defaults.html": {
+    "name": "Chris Hunsanger",
+    "url": "https://hunsanger.com/2023/11/26/app-defaults.html",
+    "rss": "https://hunsanger.com/feed",
+    "date": "2023-12-06 08:38",
+    "id": 245,
+    "urlKey": "https://hunsanger.com/2023/11/26/app-defaults.html",
+    "links": [
+      "https://hunsanger.com/2023/11/26/app-defaults.html"
+    ]
   }
 }

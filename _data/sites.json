@@ -249,5 +249,6 @@
     { "name": "Anthony Dumas", "url" : "https://blog.adm.ink/defaults", "rss" : "https://blog.adm.ink/rss.xml", "date" : "2023-12-06 19:11"},
     { "name": "Daniel Miller", "url": "https://daniel.industries/2023/12/03/default-apps-2023/", "rss": "https://daniel.industries/atom.xml", "date": "2023-12-07 15:58" },
     { "name": "Assaf", "url": "https://labnotes.org/default-apps-2023/", "rss": "https://labnotes.org/feed.xml", "date": "2023-12-07 16:00" },
-    { "name": "Stephen Hackett", "url": "https://512pixels.net/gear/", "rss": "https://512pixels.net/feed/", "date": "2023-12-07 18:00" }
+    { "name": "Stephen Hackett", "url": "https://512pixels.net/gear/", "rss": "https://512pixels.net/feed/", "date": "2023-12-07 18:00" },
+    { "name": "Matt", "url": "https://www.wyrd.systems/defaults/", "rss": "https://www.wyrd.systems/feed.xml", "date": "2023-12-07 19:33" }
 ]

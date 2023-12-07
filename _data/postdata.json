@@ -2720,5 +2720,14 @@
     "id": 249,
     "urlKey": "https://daniel.industries/2023/12/03/default-apps-2023",
     "links": []
+  },
+  "https://labnotes.org/default-apps-2023": {
+    "name": "Assaf",
+    "url": "https://labnotes.org/default-apps-2023",
+    "rss": "https://labnotes.org/feed.xml",
+    "date": "2023-12-07 16:00",
+    "id": 250,
+    "urlKey": "https://labnotes.org/default-apps-2023",
+    "links": []
   }
 }

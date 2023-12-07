@@ -2246,6 +2246,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 250,
+      "label": "Assaf",
+      "url": "https://labnotes.org/default-apps-2023",
+      "rss": "https://labnotes.org/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

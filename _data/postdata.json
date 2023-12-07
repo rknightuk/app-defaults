@@ -85,7 +85,8 @@
       "https://defaults.kimchiii.space",
       "https://blog.zzsqwq.cn/posts/default-apps-f2023",
       "https://svenluijten.com/posts/default-apps-2023",
-      "https://hunsanger.com/2023/11/26/app-defaults.html"
+      "https://hunsanger.com/2023/11/26/app-defaults.html",
+      "https://technocidal.com/2023/12/07/app-defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -312,7 +313,8 @@
       "https://www.feadin.eu/en/posts/app_defaults",
       "https://tracydurnell.com/2023/11/28/my-current-default-apps",
       "https://hunsanger.com/2023/11/26/app-defaults.html",
-      "https://daniel.industries/2023/12/03/default-apps-2023"
+      "https://daniel.industries/2023/12/03/default-apps-2023",
+      "https://technocidal.com/2023/12/07/app-defaults"
     ]
   },
   "https://maique.eu/2023/11/03/defaults.html": {
@@ -2746,6 +2748,15 @@
     "date": "2023-12-07 19:33",
     "id": 252,
     "urlKey": "https://www.wyrd.systems/defaults",
+    "links": []
+  },
+  "https://technocidal.com/2023/12/07/app-defaults": {
+    "name": "Johannes Ebeling",
+    "url": "https://technocidal.com/2023/12/07/app-defaults",
+    "rss": "https://technocidal.com/feed.xml",
+    "date": "2023-12-07 20:30",
+    "id": 253,
+    "urlKey": "https://technocidal.com/2023/12/07/app-defaults",
     "links": []
   }
 }

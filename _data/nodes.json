@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 82
+      "linkCount": 83
     },
     {
       "id": 1001,
@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 21
+      "linkCount": 22
     },
     {
       "id": 3,
@@ -2273,6 +2273,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 253,
+      "label": "Johannes Ebeling",
+      "url": "https://technocidal.com/2023/12/07/app-defaults",
+      "rss": "https://technocidal.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2603,6 +2612,10 @@
     {
       "from": 1000,
       "to": 245
+    },
+    {
+      "from": 1000,
+      "to": 253
     },
     {
       "from": 1001,
@@ -3387,6 +3400,10 @@
     {
       "from": 2,
       "to": 249
+    },
+    {
+      "from": 2,
+      "to": 253
     },
     {
       "from": 3,

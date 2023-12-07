@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 20
+      "linkCount": 21
     },
     {
       "id": 3,
@@ -1538,7 +1538,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 11
+      "linkCount": 12
     },
     {
       "id": 171,
@@ -1547,7 +1547,7 @@
       "rss": "https://mattcool.tech/rss.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 6
+      "linkCount": 7
     },
     {
       "id": 172,
@@ -2234,6 +2234,15 @@
       "label": "Anthony Dumas",
       "url": "https://blog.adm.ink/defaults",
       "rss": "https://blog.adm.ink/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 249,
+      "label": "Daniel Miller",
+      "url": "https://daniel.industries/2023/12/03/default-apps-2023",
+      "rss": "https://daniel.industries/atom.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3349,6 +3358,10 @@
       "to": 245
     },
     {
+      "from": 2,
+      "to": 249
+    },
+    {
       "from": 3,
       "to": 4
     },
@@ -3777,6 +3790,10 @@
       "to": 247
     },
     {
+      "from": 170,
+      "to": 249
+    },
+    {
       "from": 171,
       "to": 172
     },
@@ -3799,6 +3816,10 @@
     {
       "from": 171,
       "to": 222
+    },
+    {
+      "from": 171,
+      "to": 249
     },
     {
       "from": 187,

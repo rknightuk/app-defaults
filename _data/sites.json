@@ -251,5 +251,6 @@
     { "name": "Assaf", "url": "https://labnotes.org/default-apps-2023/", "rss": "https://labnotes.org/feed.xml", "date": "2023-12-07 16:00" },
     { "name": "Stephen Hackett", "url": "https://512pixels.net/gear/", "rss": "https://512pixels.net/feed/", "date": "2023-12-07 18:00" },
     { "name": "Matt", "url": "https://www.wyrd.systems/defaults/", "rss": "https://www.wyrd.systems/feed.xml", "date": "2023-12-07 19:33" },
-    { "name": "Johannes Ebeling", "url": "https://technocidal.com/2023/12/07/app-defaults", "rss": "https://technocidal.com/feed.xml", "date": "2023-12-07 20:30" }
+    { "name": "Johannes Ebeling", "url": "https://technocidal.com/2023/12/07/app-defaults", "rss": "https://technocidal.com/feed.xml", "date": "2023-12-07 20:30" },
+    { "name": "Loura", "url": "https://heyloura.com/2023/12/07/my-app-defaults.html", "rss": "https://heyloura.com/feed.xml", "date": "2023-12-07 21:57" }
 ]

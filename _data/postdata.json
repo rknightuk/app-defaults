@@ -260,7 +260,8 @@
       "https://thewanderingallison.github.io/posts/app_defaults_2023",
       "https://etienne.depar.is/a-ecrit/app-defaults.html",
       "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
-      "https://blog.adm.ink/defaults"
+      "https://blog.adm.ink/defaults",
+      "https://heyloura.com/2023/12/07/my-app-defaults.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2757,6 +2758,15 @@
     "date": "2023-12-07 20:30",
     "id": 253,
     "urlKey": "https://technocidal.com/2023/12/07/app-defaults",
+    "links": []
+  },
+  "https://heyloura.com/2023/12/07/my-app-defaults.html": {
+    "name": "Loura",
+    "url": "https://heyloura.com/2023/12/07/my-app-defaults.html",
+    "rss": "https://heyloura.com/feed.xml",
+    "date": "2023-12-07 21:57",
+    "id": 254,
+    "urlKey": "https://heyloura.com/2023/12/07/my-app-defaults.html",
     "links": []
   }
 }

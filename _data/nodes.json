@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 165
+      "linkCount": 166
     },
     {
       "id": 1,
@@ -2282,6 +2282,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 254,
+      "label": "Loura",
+      "url": "https://heyloura.com/2023/12/07/my-app-defaults.html",
+      "rss": "https://heyloura.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3276,6 +3285,10 @@
     {
       "from": 1001,
       "to": 248
+    },
+    {
+      "from": 1001,
+      "to": 254
     },
     {
       "from": 1,

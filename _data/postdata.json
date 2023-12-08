@@ -261,7 +261,9 @@
       "https://etienne.depar.is/a-ecrit/app-defaults.html",
       "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
       "https://blog.adm.ink/defaults",
-      "https://heyloura.com/2023/12/07/my-app-defaults.html"
+      "https://heyloura.com/2023/12/07/my-app-defaults.html",
+      "https://daught.me/blog/2023-defaults",
+      "https://mozzillo.com/en/2023/12/default-apps-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -315,7 +317,8 @@
       "https://tracydurnell.com/2023/11/28/my-current-default-apps",
       "https://hunsanger.com/2023/11/26/app-defaults.html",
       "https://daniel.industries/2023/12/03/default-apps-2023",
-      "https://technocidal.com/2023/12/07/app-defaults"
+      "https://technocidal.com/2023/12/07/app-defaults",
+      "https://daught.me/blog/2023-defaults"
     ]
   },
   "https://maique.eu/2023/11/03/defaults.html": {
@@ -601,7 +604,9 @@
     "date": "2023-11-07 16:49",
     "id": 29,
     "urlKey": "https://coryd.dev/posts/2023/default-apps-2023",
-    "links": []
+    "links": [
+      "https://daught.me/blog/2023-defaults"
+    ]
   },
   "https://kleinheld.ch/posts/meine-default-apps": {
     "name": "Sébastien Etter",
@@ -812,7 +817,9 @@
     "date": "2023-11-07 18:56",
     "id": 49,
     "urlKey": "https://gkeenan.co/avgb/app-defaults",
-    "links": []
+    "links": [
+      "https://daught.me/blog/2023-defaults"
+    ]
   },
   "https://social.lol/@pauls/111370801335250636": {
     "name": "Paul Stockton",
@@ -2768,5 +2775,25 @@
     "id": 254,
     "urlKey": "https://heyloura.com/2023/12/07/my-app-defaults.html",
     "links": []
+  },
+  "https://daught.me/blog/2023-defaults": {
+    "name": "Nathaniel Daught",
+    "url": "https://daught.me/blog/2023-defaults",
+    "rss": "https://daught.me/blog?format=rss",
+    "date": "2023-12-08 07:19",
+    "id": 255,
+    "urlKey": "https://daught.me/blog/2023-defaults",
+    "links": []
+  },
+  "https://mozzillo.com/en/2023/12/default-apps-2023": {
+    "name": "Luigi Mozzillo",
+    "url": "https://mozzillo.com/en/2023/12/default-apps-2023",
+    "rss": "https://mozzillo.com/en/index.xml",
+    "date": "2023-12-08 07:20",
+    "id": 256,
+    "urlKey": "https://mozzillo.com/en/2023/12/default-apps-2023",
+    "links": [
+      "https://mozzillo.com/en/2023/12/default-apps-2023"
+    ]
   }
 }

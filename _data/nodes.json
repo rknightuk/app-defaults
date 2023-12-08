@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 166
+      "linkCount": 168
     },
     {
       "id": 1,
@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 22
+      "linkCount": 23
     },
     {
       "id": 3,
@@ -272,7 +272,7 @@
       "rss": "https://feedpress.me/coryd",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 30,
@@ -452,7 +452,7 @@
       "rss": "https://gkeenan.co/avgb?format=rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 50,
@@ -2291,6 +2291,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 255,
+      "label": "Nathaniel Daught",
+      "url": "https://daught.me/blog/2023-defaults",
+      "rss": "https://daught.me/blog?format=rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 256,
+      "label": "Luigi Mozzillo",
+      "url": "https://mozzillo.com/en/2023/12/default-apps-2023",
+      "rss": "https://mozzillo.com/en/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
     }
   ],
   "edges": [
@@ -3291,6 +3309,14 @@
       "to": 254
     },
     {
+      "from": 1001,
+      "to": 255
+    },
+    {
+      "from": 1001,
+      "to": 256
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3417,6 +3443,10 @@
     {
       "from": 2,
       "to": 253
+    },
+    {
+      "from": 2,
+      "to": 255
     },
     {
       "from": 3,
@@ -3551,6 +3581,10 @@
       "to": 247
     },
     {
+      "from": 29,
+      "to": 255
+    },
+    {
       "from": 31,
       "to": 59
     },
@@ -3641,6 +3675,10 @@
     {
       "from": 45,
       "to": 178
+    },
+    {
+      "from": 49,
+      "to": 255
     },
     {
       "from": 53,

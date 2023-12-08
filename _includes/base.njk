@@ -65,6 +65,9 @@
 
         h1 {
             margin-bottom: 0;
+            margin-top: 0;
+            text-shadow: 3px 3px 0 #01a4df;
+            color: white;
         }
 
         a {
@@ -166,6 +169,20 @@
             border: 1px solid #fdbd30;
             padding: 10px 5px;
         }
+
+        .banner {
+            background-color: #01a4df;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            border-radius: 10px;
+            border: 4px solid white;
+        }
     </style>
 
     {% if isNetworkPage %}
@@ -184,6 +201,13 @@
         {% else %}
             <iframe src="https://player.fireside.fm/v2/6MInpziV+pRrVuoJB?theme=dark" frameborder="0" scrolling="no"></iframe>
         {% endif %}
+
+        <div class="banner">
+            <a href="https://hemisphericviews.bigcartel.com/product/hemispheric-views-defaults-laptop-sticker">
+                <img src="/icons/sticker_small.png" alt="App Defaults sticker"><br>
+                Get a limited edition App Defaults sticker on the Hemispheric Views store
+            </a>
+    </div>
 
         <nav>
             <a href="/">Blog Post List</a>

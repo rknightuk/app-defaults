@@ -86,7 +86,8 @@
       "https://blog.zzsqwq.cn/posts/default-apps-f2023",
       "https://svenluijten.com/posts/default-apps-2023",
       "https://hunsanger.com/2023/11/26/app-defaults.html",
-      "https://technocidal.com/2023/12/07/app-defaults"
+      "https://technocidal.com/2023/12/07/app-defaults",
+      "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -263,7 +264,8 @@
       "https://blog.adm.ink/defaults",
       "https://heyloura.com/2023/12/07/my-app-defaults.html",
       "https://daught.me/blog/2023-defaults",
-      "https://mozzillo.com/en/2023/12/default-apps-2023"
+      "https://mozzillo.com/en/2023/12/default-apps-2023",
+      "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -285,7 +287,9 @@
       "https://www.johanbleuzen.fr/blog/defaults-apps-2023",
       "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023",
       "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023",
-      "https://www.feadin.eu/en/posts/app_defaults"
+      "https://www.feadin.eu/en/posts/app_defaults",
+      "https://text.eapl.mx/services-im-using-in-2023",
+      "https://jorgesanz.net/posts/2023-11-16-defaults"
     ]
   },
   "https://rknight.me/app-defaults": {
@@ -1498,7 +1502,8 @@
       "https://tracydurnell.com/2023/11/28/my-current-default-apps",
       "https://harrycresswell.com/writing/app-defaults",
       "https://campegg.com/2023/11/17/a-couple-of.html",
-      "https://nathansnelgrove.com/2023/12/default-apps-in-2023"
+      "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
+      "https://blog.thalskarth.ar/aplicaciones-por-defecto"
     ]
   },
   "https://victor.kropp.name/blog/app-defaults": {
@@ -2795,5 +2800,41 @@
     "links": [
       "https://mozzillo.com/en/2023/12/default-apps-2023"
     ]
+  },
+  "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023": {
+    "name": "Adrián Perales",
+    "url": "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
+    "rss": "https://adrianperales.com/feed/",
+    "date": "2023-12-08 11:04",
+    "id": 257,
+    "urlKey": "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
+    "links": []
+  },
+  "https://text.eapl.mx/services-im-using-in-2023": {
+    "name": "eapl.mx",
+    "url": "https://text.eapl.mx/services-im-using-in-2023",
+    "rss": "https://text.eapl.mx/atom.xml",
+    "date": "2023-12-08 11:05",
+    "id": 258,
+    "urlKey": "https://text.eapl.mx/services-im-using-in-2023",
+    "links": []
+  },
+  "https://jorgesanz.net/posts/2023-11-16-defaults": {
+    "name": "Jorge Sanz",
+    "url": "https://jorgesanz.net/posts/2023-11-16-defaults",
+    "rss": "https://jorgesanz.net/index.xml",
+    "date": "2023-12-08 11:06",
+    "id": 259,
+    "urlKey": "https://jorgesanz.net/posts/2023-11-16-defaults",
+    "links": []
+  },
+  "https://blog.thalskarth.ar/aplicaciones-por-defecto": {
+    "name": "Thalskarth",
+    "url": "https://blog.thalskarth.ar/aplicaciones-por-defecto",
+    "rss": "https://blog.thalskarth.ar/feed.xml",
+    "date": "2023-12-08 11:07",
+    "id": 260,
+    "urlKey": "https://blog.thalskarth.ar/aplicaciones-por-defecto",
+    "links": []
   }
 }

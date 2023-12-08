@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 83
+      "linkCount": 84
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 168
+      "linkCount": 169
     },
     {
       "id": 1,
@@ -23,7 +23,7 @@
       "rss": "https://gabz.blog/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 10
+      "linkCount": 12
     },
     {
       "id": 2,
@@ -1072,7 +1072,7 @@
       "rss": "https://manuelmoreale.com/feed/rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 12
+      "linkCount": 13
     },
     {
       "id": 119,
@@ -2309,6 +2309,42 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 1
+    },
+    {
+      "id": 257,
+      "label": "Adrián Perales",
+      "url": "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
+      "rss": "https://adrianperales.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 258,
+      "label": "eapl.mx",
+      "url": "https://text.eapl.mx/services-im-using-in-2023",
+      "rss": "https://text.eapl.mx/atom.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 259,
+      "label": "Jorge Sanz",
+      "url": "https://jorgesanz.net/posts/2023-11-16-defaults",
+      "rss": "https://jorgesanz.net/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 260,
+      "label": "Thalskarth",
+      "url": "https://blog.thalskarth.ar/aplicaciones-por-defecto",
+      "rss": "https://blog.thalskarth.ar/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2643,6 +2679,10 @@
     {
       "from": 1000,
       "to": 253
+    },
+    {
+      "from": 1000,
+      "to": 257
     },
     {
       "from": 1001,
@@ -3317,6 +3357,10 @@
       "to": 256
     },
     {
+      "from": 1001,
+      "to": 257
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3355,6 +3399,14 @@
     {
       "from": 1,
       "to": 210
+    },
+    {
+      "from": 1,
+      "to": 258
+    },
+    {
+      "from": 1,
+      "to": 259
     },
     {
       "from": 2,
@@ -3827,6 +3879,10 @@
     {
       "from": 118,
       "to": 247
+    },
+    {
+      "from": 118,
+      "to": 260
     },
     {
       "from": 133,

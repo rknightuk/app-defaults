@@ -262,6 +262,7 @@
     { "name": "Miguel de Luis Espinosa", "url": "https://gemini.tildeverse.org/?gemini://yretek.com/english/gemlog/2023/11/2023-11-17_RE_defaults.gmi", "date": "2023-12-08 11:13" },
     { "name": "thrig", "url": "https://gemini.tildeverse.org/?gemini://thrig.me/blog/2023/11/17/defaults.gmi", "date": "2023-12-08 11:14" },
     { "name": "ucant", "url": "https://gemini.tildeverse.org/?gemini://gemini.ucant.org/gemlog/2023-11-17_defaults.gmi", "date": "2023-12-08 11:15" },
-    { "name": "Guillermo", "url": "https://guillermolatorre.com/aplicaciones-por-defecto-2023/", "rss": "https://guillermolatorre.com/rss.xml", "date": "2023-12-08 11:17" }
+    { "name": "Guillermo", "url": "https://guillermolatorre.com/aplicaciones-por-defecto-2023/", "rss": "https://guillermolatorre.com/rss.xml", "date": "2023-12-08 11:17" },
+    { "name": "Thomas Gigold", "url": "https://gigold.me/blog/defaults", "rss": "https://gigold.me/rss/", "date": "2023-12-08 15:20" }
 
 ]

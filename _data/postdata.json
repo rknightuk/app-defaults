@@ -265,7 +265,8 @@
       "https://heyloura.com/2023/12/07/my-app-defaults.html",
       "https://daught.me/blog/2023-defaults",
       "https://mozzillo.com/en/2023/12/default-apps-2023",
-      "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023"
+      "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
+      "https://gigold.me/blog/defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2872,6 +2873,15 @@
     "date": "2023-12-08 11:17",
     "id": 264,
     "urlKey": "https://guillermolatorre.com/aplicaciones-por-defecto-2023",
+    "links": []
+  },
+  "https://gigold.me/blog/defaults": {
+    "name": "Thomas Gigold",
+    "url": "https://gigold.me/blog/defaults",
+    "rss": "https://gigold.me/rss/",
+    "date": "2023-12-08 15:20",
+    "id": 265,
+    "urlKey": "https://gigold.me/blog/defaults",
     "links": []
   }
 }

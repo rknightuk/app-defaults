@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 169
+      "linkCount": 170
     },
     {
       "id": 1,
@@ -2378,6 +2378,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 265,
+      "label": "Thomas Gigold",
+      "url": "https://gigold.me/blog/defaults",
+      "rss": "https://gigold.me/rss/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3392,6 +3401,10 @@
     {
       "from": 1001,
       "to": 257
+    },
+    {
+      "from": 1001,
+      "to": 265
     },
     {
       "from": 1,

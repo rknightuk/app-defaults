@@ -2317,7 +2317,7 @@
       "rss": "https://adrianperales.com/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 258,
@@ -2335,13 +2335,46 @@
       "rss": "https://jorgesanz.net/index.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 260,
       "label": "Thalskarth",
       "url": "https://blog.thalskarth.ar/aplicaciones-por-defecto",
       "rss": "https://blog.thalskarth.ar/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 261,
+      "label": "Miguel de Luis Espinosa",
+      "url": "https://gemini.tildeverse.org/?gemini://yretek.com/english/gemlog/2023/11/2023-11-17_RE_defaults.gmi",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 262,
+      "label": "thrig",
+      "url": "https://gemini.tildeverse.org/?gemini://thrig.me/blog/2023/11/17/defaults.gmi",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 263,
+      "label": "ucant",
+      "url": "https://gemini.tildeverse.org/?gemini://gemini.ucant.org/gemlog/2023-11-17_defaults.gmi",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 264,
+      "label": "Guillermo",
+      "url": "https://guillermolatorre.com/aplicaciones-por-defecto-2023",
+      "rss": "https://guillermolatorre.com/rss.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -4027,6 +4060,14 @@
     {
       "from": 232,
       "to": 234
+    },
+    {
+      "from": 257,
+      "to": 264
+    },
+    {
+      "from": 259,
+      "to": 264
     }
   ]
 }

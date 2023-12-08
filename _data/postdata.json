@@ -2808,7 +2808,9 @@
     "date": "2023-12-08 11:04",
     "id": 257,
     "urlKey": "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
-    "links": []
+    "links": [
+      "https://guillermolatorre.com/aplicaciones-por-defecto-2023"
+    ]
   },
   "https://text.eapl.mx/services-im-using-in-2023": {
     "name": "eapl.mx",
@@ -2826,7 +2828,9 @@
     "date": "2023-12-08 11:06",
     "id": 259,
     "urlKey": "https://jorgesanz.net/posts/2023-11-16-defaults",
-    "links": []
+    "links": [
+      "https://guillermolatorre.com/aplicaciones-por-defecto-2023"
+    ]
   },
   "https://blog.thalskarth.ar/aplicaciones-por-defecto": {
     "name": "Thalskarth",
@@ -2835,6 +2839,39 @@
     "date": "2023-12-08 11:07",
     "id": 260,
     "urlKey": "https://blog.thalskarth.ar/aplicaciones-por-defecto",
+    "links": []
+  },
+  "https://gemini.tildeverse.org/?gemini://yretek.com/english/gemlog/2023/11/2023-11-17_RE_defaults.gmi": {
+    "name": "Miguel de Luis Espinosa",
+    "url": "https://gemini.tildeverse.org/?gemini://yretek.com/english/gemlog/2023/11/2023-11-17_RE_defaults.gmi",
+    "date": "2023-12-08 11:13",
+    "id": 261,
+    "urlKey": "https://gemini.tildeverse.org/?gemini://yretek.com/english/gemlog/2023/11/2023-11-17_RE_defaults.gmi",
+    "links": []
+  },
+  "https://gemini.tildeverse.org/?gemini://thrig.me/blog/2023/11/17/defaults.gmi": {
+    "name": "thrig",
+    "url": "https://gemini.tildeverse.org/?gemini://thrig.me/blog/2023/11/17/defaults.gmi",
+    "date": "2023-12-08 11:14",
+    "id": 262,
+    "urlKey": "https://gemini.tildeverse.org/?gemini://thrig.me/blog/2023/11/17/defaults.gmi",
+    "links": []
+  },
+  "https://gemini.tildeverse.org/?gemini://gemini.ucant.org/gemlog/2023-11-17_defaults.gmi": {
+    "name": "ucant",
+    "url": "https://gemini.tildeverse.org/?gemini://gemini.ucant.org/gemlog/2023-11-17_defaults.gmi",
+    "date": "2023-12-08 11:15",
+    "id": 263,
+    "urlKey": "https://gemini.tildeverse.org/?gemini://gemini.ucant.org/gemlog/2023-11-17_defaults.gmi",
+    "links": []
+  },
+  "https://guillermolatorre.com/aplicaciones-por-defecto-2023": {
+    "name": "Guillermo",
+    "url": "https://guillermolatorre.com/aplicaciones-por-defecto-2023",
+    "rss": "https://guillermolatorre.com/rss.xml",
+    "date": "2023-12-08 11:17",
+    "id": 264,
+    "urlKey": "https://guillermolatorre.com/aplicaciones-por-defecto-2023",
     "links": []
   }
 }

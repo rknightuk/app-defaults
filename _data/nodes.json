@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 170
+      "linkCount": 171
     },
     {
       "id": 1,
@@ -2387,6 +2387,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 266,
+      "label": "N.A. Ferrell",
+      "url": "https://thenewleafjournal.com/my-default-apps-as-of-december-2023",
+      "rss": "https://thenewleafjournal.com/rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3405,6 +3414,10 @@
     {
       "from": 1001,
       "to": 265
+    },
+    {
+      "from": 1001,
+      "to": 266
     },
     {
       "from": 1,

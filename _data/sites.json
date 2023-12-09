@@ -266,5 +266,6 @@
     { "name": "Thomas Gigold", "url": "https://gigold.me/blog/defaults", "rss": "https://gigold.me/rss/", "date": "2023-12-08 15:20" },
     { "name": "N.A. Ferrell", "url": "https://thenewleafjournal.com/my-default-apps-as-of-december-2023/", "rss": "https://thenewleafjournal.com/rss", "date": "2023-12-08 15:30" },
     { "name": "Daniel Demby", "url": "https://heliomass.com/posts/117-app-defaults/", "rss": "https://heliomass.com/index.xml", "date": "2023-12-08 22:24" },
-    { "name": "Matt", "url": "https://canyoudownloadrice.com/software-i-use/", "rss": "https://canyoudownloadrice.com/feed/", "date": "2023-12-09 13:14" }
+    { "name": "Matt", "url": "https://canyoudownloadrice.com/software-i-use/", "rss": "https://canyoudownloadrice.com/feed/", "date": "2023-12-09 13:14" },
+    { "name": "Lyokolux", "url": "https://blog.lyokolux.space/posts/2023-11-20-default-apps/", "rss": "https://blog.lyokolux.space/rss.xml", "date": "2023-12-09 18:10" },
 ]

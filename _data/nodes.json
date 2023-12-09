@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 171
+      "linkCount": 173
     },
     {
       "id": 1,
@@ -326,7 +326,7 @@
       "rss": "https://kevquirk.com/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 14
+      "linkCount": 15
     },
     {
       "id": 36,
@@ -2396,6 +2396,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 267,
+      "label": "Daniel Demby",
+      "url": "https://heliomass.com/posts/117-app-defaults",
+      "rss": "https://heliomass.com/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 268,
+      "label": "Matt",
+      "url": "https://canyoudownloadrice.com/software-i-use",
+      "rss": "https://canyoudownloadrice.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3420,6 +3438,14 @@
       "to": 266
     },
     {
+      "from": 1001,
+      "to": 267
+    },
+    {
+      "from": 1001,
+      "to": 268
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3758,6 +3784,10 @@
     {
       "from": 35,
       "to": 227
+    },
+    {
+      "from": 35,
+      "to": 268
     },
     {
       "from": 39,

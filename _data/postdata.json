@@ -267,7 +267,9 @@
       "https://mozzillo.com/en/2023/12/default-apps-2023",
       "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
       "https://gigold.me/blog/defaults",
-      "https://thenewleafjournal.com/my-default-apps-as-of-december-2023"
+      "https://thenewleafjournal.com/my-default-apps-as-of-december-2023",
+      "https://heliomass.com/posts/117-app-defaults",
+      "https://canyoudownloadrice.com/software-i-use"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -684,7 +686,8 @@
       "https://gluecko.se/2023/default-apps-2023",
       "https://www.lkhrs.com/blog/2023/defaults",
       "https://techtea.io/articles/2023/app-defaults",
-      "https://harrycresswell.com/writing/app-defaults"
+      "https://harrycresswell.com/writing/app-defaults",
+      "https://canyoudownloadrice.com/software-i-use"
     ]
   },
   "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html": {
@@ -2892,6 +2895,24 @@
     "date": "2023-12-08 15:30",
     "id": 266,
     "urlKey": "https://thenewleafjournal.com/my-default-apps-as-of-december-2023",
+    "links": []
+  },
+  "https://heliomass.com/posts/117-app-defaults": {
+    "name": "Daniel Demby",
+    "url": "https://heliomass.com/posts/117-app-defaults",
+    "rss": "https://heliomass.com/index.xml",
+    "date": "2023-12-08 22:24",
+    "id": 267,
+    "urlKey": "https://heliomass.com/posts/117-app-defaults",
+    "links": []
+  },
+  "https://canyoudownloadrice.com/software-i-use": {
+    "name": "Matt",
+    "url": "https://canyoudownloadrice.com/software-i-use",
+    "rss": "https://canyoudownloadrice.com/feed/",
+    "date": "2023-12-09 13:14",
+    "id": 268,
+    "urlKey": "https://canyoudownloadrice.com/software-i-use",
     "links": []
   }
 }

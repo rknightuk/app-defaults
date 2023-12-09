@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 173
+      "linkCount": 174
     },
     {
       "id": 1,
@@ -2414,6 +2414,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 269,
+      "label": "Lyokolux",
+      "url": "https://blog.lyokolux.space/posts/2023-11-20-default-apps",
+      "rss": "https://blog.lyokolux.space/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3444,6 +3453,10 @@
     {
       "from": 1001,
       "to": 268
+    },
+    {
+      "from": 1001,
+      "to": 269
     },
     {
       "from": 1,

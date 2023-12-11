@@ -1113,8 +1113,8 @@
     {
       "id": 123,
       "label": "Mike Haynes",
-      "url": "https://mikehaynes.blog/post/3734",
-      "rss": "https://mikehaynes.blog/feed/rss",
+      "url": "https://mikehayn.es/post/3734",
+      "rss": "https://mikehayn.es/feed/rss",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2420,6 +2420,15 @@
       "label": "Lyokolux",
       "url": "https://blog.lyokolux.space/posts/2023-11-20-default-apps",
       "rss": "https://blog.lyokolux.space/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 270,
+      "label": "Spencer Harston",
+      "url": "https://www.spencerharston.com/posts/app-defaults-2023",
+      "rss": "https://www.spencerharston.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0

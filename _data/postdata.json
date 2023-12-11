@@ -173,7 +173,7 @@
       "https://ghordano.com/2023/11/11/default-apps-2023",
       "https://bitboxer.de/2023/11/12/default-apps-2023",
       "https://makoism.com/defaults",
-      "https://mikehaynes.blog/post/3734",
+      "https://mikehayn.es/post/3734",
       "https://grepjason.sh/2023/duel-of-the-defaults",
       "https://vmac.ch/posts/2023-11-05-app-default",
       "https://polarhive.net/blog/app-defaults",
@@ -1498,7 +1498,7 @@
     "urlKey": "https://manuelmoreale.com/app-defaults",
     "links": [
       "https://manuelmoreale.com/app-defaults",
-      "https://mikehaynes.blog/post/3734",
+      "https://mikehayn.es/post/3734",
       "https://jasonfry.co.uk/blog/app-defaults",
       "https://www.amitgawande.com/2023/11/21/app-defaults.html",
       "https://carlbarenbrug.com/app-defaults",
@@ -1548,13 +1548,13 @@
     "urlKey": "https://makoism.com/defaults",
     "links": []
   },
-  "https://mikehaynes.blog/post/3734": {
+  "https://mikehayn.es/post/3734": {
     "name": "Mike Haynes",
-    "url": "https://mikehaynes.blog/post/3734",
-    "rss": "https://mikehaynes.blog/feed/rss",
+    "url": "https://mikehayn.es/post/3734",
+    "rss": "https://mikehayn.es/feed/rss",
     "date": "2023-11-12 08:47",
     "id": 123,
-    "urlKey": "https://mikehaynes.blog/post/3734",
+    "urlKey": "https://mikehayn.es/post/3734",
     "links": []
   },
   "https://grepjason.sh/2023/duel-of-the-defaults": {
@@ -2923,6 +2923,15 @@
     "date": "2023-12-09 18:10",
     "id": 269,
     "urlKey": "https://blog.lyokolux.space/posts/2023-11-20-default-apps",
+    "links": []
+  },
+  "https://www.spencerharston.com/posts/app-defaults-2023": {
+    "name": "Spencer Harston",
+    "url": "https://www.spencerharston.com/posts/app-defaults-2023",
+    "rss": "https://www.spencerharston.com/feed.xml",
+    "date": "2023-12-10 18:55",
+    "id": 270,
+    "urlKey": "https://www.spencerharston.com/posts/app-defaults-2023",
     "links": []
   }
 }

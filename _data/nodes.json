@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 174
+      "linkCount": 175
     },
     {
       "id": 1,
@@ -353,7 +353,7 @@
       "rss": "https://koolinus.wordpress.com/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 39,
@@ -2432,6 +2432,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 271,
+      "label": "Daniele",
+      "url": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
+      "rss": "https://fokewulf.it/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3468,6 +3477,10 @@
       "to": 269
     },
     {
+      "from": 1001,
+      "to": 271
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3810,6 +3823,10 @@
     {
       "from": 35,
       "to": 268
+    },
+    {
+      "from": 38,
+      "to": 271
     },
     {
       "from": 39,

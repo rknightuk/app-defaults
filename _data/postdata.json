@@ -270,7 +270,8 @@
       "https://thenewleafjournal.com/my-default-apps-as-of-december-2023",
       "https://heliomass.com/posts/117-app-defaults",
       "https://canyoudownloadrice.com/software-i-use",
-      "https://blog.lyokolux.space/posts/2023-11-20-default-apps"
+      "https://blog.lyokolux.space/posts/2023-11-20-default-apps",
+      "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -716,7 +717,9 @@
     "date": "2023-11-07 16:49",
     "id": 38,
     "urlKey": "https://koolinus.wordpress.com/2023/11/07/app-defaults",
-    "links": []
+    "links": [
+      "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023"
+    ]
   },
   "https://ankursethi.in/posts/default-apps-2023-edition": {
     "name": "Ankur Sethi",
@@ -2932,6 +2935,15 @@
     "date": "2023-12-10 18:55",
     "id": 270,
     "urlKey": "https://www.spencerharston.com/posts/app-defaults-2023",
+    "links": []
+  },
+  "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023": {
+    "name": "Daniele",
+    "url": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
+    "rss": "https://fokewulf.it/feed/",
+    "date": "2023-12-11 15:39",
+    "id": 271,
+    "urlKey": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
     "links": []
   }
 }

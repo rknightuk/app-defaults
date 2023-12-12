@@ -269,5 +269,6 @@
     { "name": "Matt", "url": "https://canyoudownloadrice.com/software-i-use/", "rss": "https://canyoudownloadrice.com/feed/", "date": "2023-12-09 13:14" },
     { "name": "Lyokolux", "url": "https://blog.lyokolux.space/posts/2023-11-20-default-apps/", "rss": "https://blog.lyokolux.space/rss.xml", "date": "2023-12-09 18:10" },
     { "name": "Spencer Harston", "url": "https://www.spencerharston.com/posts/app-defaults-2023/", "rss": "https://www.spencerharston.com/feed.xml", "date": "2023-12-10 18:55" },
-    { "name": "Daniele", "url": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023/", "rss": "https://fokewulf.it/feed/", "date": "2023-12-11 15:39" }
+    { "name": "Daniele", "url": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023/", "rss": "https://fokewulf.it/feed/", "date": "2023-12-11 15:39" },
+    { "name": "Josh Betz", "url": "https://josh.blog/2023/12/default-apps-2023", "rss": "https://josh.blog/feed", "date": "2023-12-12 02:05" }
 ]

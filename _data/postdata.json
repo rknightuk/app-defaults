@@ -2001,7 +2001,8 @@
       "http://svenluijten.com/posts/default-apps-2023",
       "https://svenluijten.com/posts/default-apps-2023",
       "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
-      "https://daniel.industries/2023/12/03/default-apps-2023"
+      "https://daniel.industries/2023/12/03/default-apps-2023",
+      "https://maxsommer.de/blog/default-apps-2023"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -2018,7 +2019,8 @@
       "https://mattstein.com/thoughts/default-apps-2023",
       "https://noahjacob.us/words/default-apps-2023.html",
       "https://timothee.goguely.com/blog/default-apps-2023",
-      "https://daniel.industries/2023/12/03/default-apps-2023"
+      "https://daniel.industries/2023/12/03/default-apps-2023",
+      "https://maxsommer.de/blog/default-apps-2023"
     ]
   },
   "https://gunnar.se/2023/11/26/default-apps.html": {
@@ -2410,7 +2412,8 @@
     "urlKey": "https://tracydurnell.com/2023/11/28/my-current-default-apps",
     "links": [
       "https://alexsirac.com/my-default-apps-in-2023",
-      "https://chrisglass.com/2023/11/28/default-apps"
+      "https://chrisglass.com/2023/11/28/default-apps",
+      "https://maxsommer.de/blog/default-apps-2023"
     ]
   },
   "https://alexsirac.com/my-default-apps-in-2023": {
@@ -2944,6 +2947,24 @@
     "date": "2023-12-11 15:39",
     "id": 271,
     "urlKey": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
+    "links": []
+  },
+  "https://josh.blog/2023/12/default-apps-2023": {
+    "name": "Josh Betz",
+    "url": "https://josh.blog/2023/12/default-apps-2023",
+    "rss": "https://josh.blog/feed",
+    "date": "2023-12-12 02:05",
+    "id": 272,
+    "urlKey": "https://josh.blog/2023/12/default-apps-2023",
+    "links": []
+  },
+  "https://maxsommer.de/blog/default-apps-2023": {
+    "name": "Max Sommer",
+    "url": "https://maxsommer.de/blog/default-apps-2023",
+    "rss": "https://maxsommer.de/blog/feed/rss",
+    "date": "2023-12-13 14:22",
+    "id": 273,
+    "urlKey": "https://maxsommer.de/blog/default-apps-2023",
     "links": []
   }
 }

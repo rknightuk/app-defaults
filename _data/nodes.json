@@ -1538,7 +1538,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 12
+      "linkCount": 13
     },
     {
       "id": 171,
@@ -1547,7 +1547,7 @@
       "rss": "https://mattcool.tech/rss.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 7
+      "linkCount": 8
     },
     {
       "id": 172,
@@ -1921,7 +1921,7 @@
       "rss": "https://tracydurnell.com/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 3
     },
     {
       "id": 214,
@@ -2438,6 +2438,24 @@
       "label": "Daniele",
       "url": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
       "rss": "https://fokewulf.it/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 272,
+      "label": "Josh Betz",
+      "url": "https://josh.blog/2023/12/default-apps-2023",
+      "rss": "https://josh.blog/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 273,
+      "label": "Max Sommer",
+      "url": "https://maxsommer.de/blog/default-apps-2023",
+      "rss": "https://maxsommer.de/blog/feed/rss",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -4073,6 +4091,10 @@
       "to": 249
     },
     {
+      "from": 170,
+      "to": 273
+    },
+    {
       "from": 171,
       "to": 172
     },
@@ -4099,6 +4121,10 @@
     {
       "from": 171,
       "to": 249
+    },
+    {
+      "from": 171,
+      "to": 273
     },
     {
       "from": 187,
@@ -4143,6 +4169,10 @@
     {
       "from": 213,
       "to": 224
+    },
+    {
+      "from": 213,
+      "to": 273
     },
     {
       "from": 218,

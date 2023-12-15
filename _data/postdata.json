@@ -2185,7 +2185,9 @@
     "date": "2023-11-26 22:27",
     "id": 189,
     "urlKey": "https://mattstein.com/thoughts/default-apps-2023",
-    "links": []
+    "links": [
+      "https://jefftriplett.com/2023/default-apps-2023"
+    ]
   },
   "https://pawelgrzybek.com/my-defaults-2023": {
     "name": "Paweł Grzybek",
@@ -2965,6 +2967,15 @@
     "date": "2023-12-13 14:22",
     "id": 273,
     "urlKey": "https://maxsommer.de/blog/default-apps-2023",
+    "links": []
+  },
+  "https://jefftriplett.com/2023/default-apps-2023": {
+    "name": "Jeff Triplett",
+    "url": "https://jefftriplett.com/2023/default-apps-2023",
+    "rss": "https://jefftriplett.com/feed.xml",
+    "date": "2023-12-14 16:00",
+    "id": 274,
+    "urlKey": "https://jefftriplett.com/2023/default-apps-2023",
     "links": []
   }
 }

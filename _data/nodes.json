@@ -1707,7 +1707,7 @@
       "rss": "https://mattstein.com/rss.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 190,
@@ -2456,6 +2456,15 @@
       "label": "Max Sommer",
       "url": "https://maxsommer.de/blog/default-apps-2023",
       "rss": "https://maxsommer.de/blog/feed/rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 274,
+      "label": "Jeff Triplett",
+      "url": "https://jefftriplett.com/2023/default-apps-2023",
+      "rss": "https://jefftriplett.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -4133,6 +4142,10 @@
     {
       "from": 188,
       "to": 189
+    },
+    {
+      "from": 189,
+      "to": 274
     },
     {
       "from": 190,

@@ -87,7 +87,8 @@
       "https://svenluijten.com/posts/default-apps-2023",
       "https://hunsanger.com/2023/11/26/app-defaults.html",
       "https://technocidal.com/2023/12/07/app-defaults",
-      "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023"
+      "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
+      "https://amanhimself.dev/blog/default-apps-2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -271,7 +272,9 @@
       "https://heliomass.com/posts/117-app-defaults",
       "https://canyoudownloadrice.com/software-i-use",
       "https://blog.lyokolux.space/posts/2023-11-20-default-apps",
-      "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023"
+      "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
+      "https://amanhimself.dev/blog/default-apps-2023",
+      "https://doug.pub/2023/12/16/its-defaults-time.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2002,7 +2005,8 @@
       "https://svenluijten.com/posts/default-apps-2023",
       "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
       "https://daniel.industries/2023/12/03/default-apps-2023",
-      "https://maxsommer.de/blog/default-apps-2023"
+      "https://maxsommer.de/blog/default-apps-2023",
+      "https://amanhimself.dev/blog/default-apps-2023"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -2976,6 +2980,33 @@
     "date": "2023-12-14 16:00",
     "id": 274,
     "urlKey": "https://jefftriplett.com/2023/default-apps-2023",
+    "links": []
+  },
+  "https://dustinknopoff.dev/articles/what-i-use-2023": {
+    "name": "Dustin K",
+    "url": "https://dustinknopoff.dev/articles/what-i-use-2023",
+    "rss": "https://dustinknopoff.dev/rss.xml",
+    "date": "2023-12-16 06:10",
+    "id": 275,
+    "urlKey": "https://dustinknopoff.dev/articles/what-i-use-2023",
+    "links": []
+  },
+  "https://amanhimself.dev/blog/default-apps-2023": {
+    "name": "Aman Mittal",
+    "url": "https://amanhimself.dev/blog/default-apps-2023",
+    "rss": "https://amanhimself.dev/rss.xml",
+    "date": "2023-12-16 06:11",
+    "id": 276,
+    "urlKey": "https://amanhimself.dev/blog/default-apps-2023",
+    "links": []
+  },
+  "https://doug.pub/2023/12/16/its-defaults-time.html": {
+    "name": "Doug Jones",
+    "url": "https://doug.pub/2023/12/16/its-defaults-time.html",
+    "rss": "https://doug.pub/feed/",
+    "date": "2023-12-17 09:26",
+    "id": 277,
+    "urlKey": "https://doug.pub/2023/12/16/its-defaults-time.html",
     "links": []
   }
 }

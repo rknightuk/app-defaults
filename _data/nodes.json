@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 84
+      "linkCount": 85
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 175
+      "linkCount": 177
     },
     {
       "id": 1,
@@ -1444,7 +1444,7 @@
     {
       "id": 160,
       "label": "Rui Qiu",
-      "url": "https://rexarski.com/posts/2023-11-20-app-defaults-2023/",
+      "url": "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
       "rss": "https://rexarski.com/index.xml",
       "shape": "box",
       "color": "#03a4df",
@@ -1538,7 +1538,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 13
+      "linkCount": 14
     },
     {
       "id": 171,
@@ -2468,6 +2468,33 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 275,
+      "label": "Dustin K",
+      "url": "https://dustinknopoff.dev/articles/what-i-use-2023",
+      "rss": "https://dustinknopoff.dev/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 276,
+      "label": "Aman Mittal",
+      "url": "https://amanhimself.dev/blog/default-apps-2023",
+      "rss": "https://amanhimself.dev/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 277,
+      "label": "Doug Jones",
+      "url": "https://doug.pub/2023/12/16/its-defaults-time.html",
+      "rss": "https://doug.pub/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2806,6 +2833,10 @@
     {
       "from": 1000,
       "to": 257
+    },
+    {
+      "from": 1000,
+      "to": 276
     },
     {
       "from": 1001,
@@ -3508,6 +3539,14 @@
       "to": 271
     },
     {
+      "from": 1001,
+      "to": 276
+    },
+    {
+      "from": 1001,
+      "to": 277
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -4102,6 +4141,10 @@
     {
       "from": 170,
       "to": 273
+    },
+    {
+      "from": 170,
+      "to": 276
     },
     {
       "from": 171,

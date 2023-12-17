@@ -200,7 +200,7 @@
       "https://www.iandick.com/default-apps-2023",
       "https://www.iandick.com/default-apps-2023",
       "https://suhas.weblog.lol/defaults",
-      "https://rexarski.com/blog/my-app-defaults-2023",
+      "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
       "https://blog.pcora.eu/2023/11/21/app-defaults.html",
       "https://www.amitgawande.com/2023/11/21/app-defaults.html",
       "https://cliophate.wtf/posts/default-apps",
@@ -1395,7 +1395,7 @@
       "https://chi.miantiao.me/post/app-defaults-2023",
       "https://blog.douchi.space/app-defaults",
       "https://yinji.org/5179.html ",
-      "https://rexarski.com/blog/my-app-defaults-2023"
+      "https://rexarski.com/posts/2023-11-20-app-defaults-2023"
     ]
   },
   "https://json.blog/2023/11/10/default-apps-alright.html": {
@@ -1892,13 +1892,13 @@
     "urlKey": "https://suhas.weblog.lol/defaults",
     "links": []
   },
-  "https://rexarski.com/blog/my-app-defaults-2023": {
+  "https://rexarski.com/posts/2023-11-20-app-defaults-2023": {
     "name": "Rui Qiu",
-    "url": "https://rexarski.com/blog/my-app-defaults-2023",
+    "url": "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
     "rss": "https://rexarski.com/index.xml",
     "date": "2023-11-20 22:06",
     "id": 160,
-    "urlKey": "https://rexarski.com/blog/my-app-defaults-2023",
+    "urlKey": "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
     "links": []
   },
   "https://vijayprema.com/defaults": {

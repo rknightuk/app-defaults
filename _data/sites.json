@@ -272,5 +272,6 @@
     { "name": "Daniele", "url": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023/", "rss": "https://fokewulf.it/feed/", "date": "2023-12-11 15:39" },
     { "name": "Josh Betz", "url": "https://josh.blog/2023/12/default-apps-2023", "rss": "https://josh.blog/feed", "date": "2023-12-12 02:05" },
     { "name": "Max Sommer", "url": "https://maxsommer.de/blog/default-apps-2023/", "rss": "https://maxsommer.de/blog/feed/rss", "date": "2023-12-13 14:22" },
-    { "name": "Jeff Triplett", "url": "https://jefftriplett.com/2023/default-apps-2023/", "rss": "https://jefftriplett.com/feed.xml", "date": "2023-12-14 16:00" }
+    { "name": "Jeff Triplett", "url": "https://jefftriplett.com/2023/default-apps-2023/", "rss": "https://jefftriplett.com/feed.xml", "date": "2023-12-14 16:00" },
+    { "name": "Dustin K", "url": "https://dustinknopoff.dev/articles/what-i-use-2023/", "rss": "https://dustinknopoff.dev/rss.xml"}
 ]

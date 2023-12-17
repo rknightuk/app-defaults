@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 85
+      "linkCount": 86
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 177
+      "linkCount": 179
     },
     {
       "id": 1,
@@ -326,7 +326,7 @@
       "rss": "https://kevquirk.com/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 15
+      "linkCount": 16
     },
     {
       "id": 36,
@@ -973,7 +973,7 @@
       "rss": "https://anotherdayu.com/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 4
+      "linkCount": 6
     },
     {
       "id": 108,
@@ -2495,6 +2495,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 278,
+      "label": "DemoChen",
+      "url": "https://demochen.com/posts/20231216",
+      "rss": "https://demochen.com/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 279,
+      "label": "Justin Vollmer",
+      "url": "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
+      "rss": "https://justinvollmer.com/posts/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -2837,6 +2855,10 @@
     {
       "from": 1000,
       "to": 276
+    },
+    {
+      "from": 1000,
+      "to": 278
     },
     {
       "from": 1001,
@@ -3547,6 +3569,14 @@
       "to": 277
     },
     {
+      "from": 1001,
+      "to": 278
+    },
+    {
+      "from": 1001,
+      "to": 279
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3891,6 +3921,10 @@
       "to": 268
     },
     {
+      "from": 35,
+      "to": 279
+    },
+    {
       "from": 38,
       "to": 271
     },
@@ -4021,6 +4055,14 @@
     {
       "from": 107,
       "to": 160
+    },
+    {
+      "from": 107,
+      "to": 278
+    },
+    {
+      "from": 107,
+      "to": 278
     },
     {
       "from": 109,

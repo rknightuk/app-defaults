@@ -88,7 +88,8 @@
       "https://hunsanger.com/2023/11/26/app-defaults.html",
       "https://technocidal.com/2023/12/07/app-defaults",
       "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
-      "https://amanhimself.dev/blog/default-apps-2023"
+      "https://amanhimself.dev/blog/default-apps-2023",
+      "https://demochen.com/posts/20231216"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -274,7 +275,9 @@
       "https://blog.lyokolux.space/posts/2023-11-20-default-apps",
       "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
       "https://amanhimself.dev/blog/default-apps-2023",
-      "https://doug.pub/2023/12/16/its-defaults-time.html"
+      "https://doug.pub/2023/12/16/its-defaults-time.html",
+      "https://demochen.com/posts/20231216",
+      "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -692,7 +695,8 @@
       "https://www.lkhrs.com/blog/2023/defaults",
       "https://techtea.io/articles/2023/app-defaults",
       "https://harrycresswell.com/writing/app-defaults",
-      "https://canyoudownloadrice.com/software-i-use"
+      "https://canyoudownloadrice.com/software-i-use",
+      "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023"
     ]
   },
   "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html": {
@@ -1398,7 +1402,9 @@
       "https://chi.miantiao.me/post/app-defaults-2023",
       "https://blog.douchi.space/app-defaults",
       "https://yinji.org/5179.html ",
-      "https://rexarski.com/posts/2023-11-20-app-defaults-2023"
+      "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
+      "https://demochen.com/posts/20231216",
+      "https://demochen.com/posts/20231216"
     ]
   },
   "https://json.blog/2023/11/10/default-apps-alright.html": {
@@ -3007,6 +3013,24 @@
     "date": "2023-12-17 09:26",
     "id": 277,
     "urlKey": "https://doug.pub/2023/12/16/its-defaults-time.html",
+    "links": []
+  },
+  "https://demochen.com/posts/20231216": {
+    "name": "DemoChen",
+    "url": "https://demochen.com/posts/20231216",
+    "rss": "https://demochen.com/index.xml",
+    "date": "2023-12-17 23:46",
+    "id": 278,
+    "urlKey": "https://demochen.com/posts/20231216",
+    "links": []
+  },
+  "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023": {
+    "name": "Justin Vollmer",
+    "url": "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
+    "rss": "https://justinvollmer.com/posts/index.xml",
+    "date": "2023-12-17 23:47",
+    "id": 279,
+    "urlKey": "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
     "links": []
   }
 }

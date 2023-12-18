@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 179
+      "linkCount": 180
     },
     {
       "id": 1,
@@ -2513,6 +2513,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 280,
+      "label": "Roy Tang",
+      "url": "https://roytang.net/2023/12/default-apps",
+      "rss": "https://roytang.net/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3575,6 +3584,10 @@
     {
       "from": 1001,
       "to": 279
+    },
+    {
+      "from": 1001,
+      "to": 280
     },
     {
       "from": 1,

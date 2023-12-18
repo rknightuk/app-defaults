@@ -277,7 +277,8 @@
       "https://amanhimself.dev/blog/default-apps-2023",
       "https://doug.pub/2023/12/16/its-defaults-time.html",
       "https://demochen.com/posts/20231216",
-      "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023"
+      "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
+      "https://roytang.net/2023/12/default-apps"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3031,6 +3032,15 @@
     "date": "2023-12-17 23:47",
     "id": 279,
     "urlKey": "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
+    "links": []
+  },
+  "https://roytang.net/2023/12/default-apps": {
+    "name": "Roy Tang",
+    "url": "https://roytang.net/2023/12/default-apps",
+    "rss": "https://roytang.net/index.xml",
+    "date": "2023-12-18 21:04",
+    "id": 280,
+    "urlKey": "https://roytang.net/2023/12/default-apps",
     "links": []
   }
 }

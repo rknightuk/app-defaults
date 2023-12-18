@@ -276,6 +276,6 @@
     { "name": "Dustin K", "url": "https://dustinknopoff.dev/articles/what-i-use-2023/", "rss": "https://dustinknopoff.dev/rss.xml", "date": "2023-12-16 06:10" },
     { "name": "Aman Mittal", "url": "https://amanhimself.dev/blog/default-apps-2023/", "rss": "https://amanhimself.dev/rss.xml", "date": "2023-12-16 06:11" },
     { "name": "Doug Jones", "url": "https://doug.pub/2023/12/16/its-defaults-time.html", "rss": "https://doug.pub/feed/", "date": "2023-12-17 09:26" },
-    { "name": "DemoChen", "url": "https://demochen.com/posts/20231216/", "rss": "https://demochen.com/index.xml", "date": "2023-12-17 23:46" },
+    { "name": "DemoChen", "url": "https://demochen.com/posts/20231216/", "rss": "https://demochen.com/atom.xml", "date": "2023-12-17 23:46" },
     { "name": "Justin Vollmer", "url": "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023/", "rss": "https://justinvollmer.com/posts/index.xml", "date": "2023-12-17 23:47" }
 ]

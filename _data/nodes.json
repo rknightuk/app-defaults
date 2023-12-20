@@ -143,8 +143,8 @@
     {
       "id": 15,
       "label": "Laker Turner",
-      "url": "https://concorde.blog/posts/app-defaults",
-      "rss": "https://concorde.blog/feed.xml",
+      "url": "https://laker.tech/p/app-defaults",
+      "rss": "https://laker.tech/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0

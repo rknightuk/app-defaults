@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 87
+      "linkCount": 84
     },
     {
       "id": 1001,
@@ -68,7 +68,7 @@
       "rss": "https://canion.blog/feed.xml",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 7,
@@ -129,7 +129,7 @@
       "rss": "https://eay.cc/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 4
+      "linkCount": 2
     },
     {
       "id": 14,
@@ -144,7 +144,7 @@
       "id": 15,
       "label": "Laker Turner",
       "url": "https://laker.tech/p/app-defaults",
-      "rss": "https://concorde.blog/feed.xml",
+      "rss": "https://laker.tech/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -236,7 +236,7 @@
       "rss": "https://devondundee.com/blog?format=rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 1
     },
     {
       "id": 26,
@@ -856,7 +856,7 @@
       "rss": "https://www.gr36.com/rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 0
     },
     {
       "id": 95,
@@ -1126,7 +1126,7 @@
       "rss": "https://grepjason.sh/rss.xml",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 125,
@@ -1358,7 +1358,7 @@
       "rss": "https://loungeruminator.net/feed/",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 151,
@@ -1443,9 +1443,9 @@
     },
     {
       "id": 160,
-      "label": "Rui Qiu",
+      "label": "rexarski",
       "url": "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
-      "rss": "https://rexarski.com/index.xml",
+      "rss": "https://rexarski.com/rss.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2500,7 +2500,7 @@
       "id": 278,
       "label": "DemoChen",
       "url": "https://demochen.com/posts/20231216",
-      "rss": "https://demochen.com/index.xml",
+      "rss": "https://demochen.com/atom.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2542,7 +2542,7 @@
       "linkCount": 0
     },
     {
-      "id": 281,
+      "id": 283,
       "label": "Steve Ledlow",
       "url": "https://tangiblelife.net/app-defaults",
       "rss": "https://tangiblelife.net/feed.rss",
@@ -2603,14 +2603,6 @@
     {
       "from": 1000,
       "to": 17
-    },
-    {
-      "from": 1000,
-      "to": 20
-    },
-    {
-      "from": 1000,
-      "to": 20
     },
     {
       "from": 1000,
@@ -2695,10 +2687,6 @@
     {
       "from": 1000,
       "to": 78
-    },
-    {
-      "from": 1000,
-      "to": 81
     },
     {
       "from": 1000,
@@ -2898,7 +2886,7 @@
     },
     {
       "from": 1000,
-      "to": 281
+      "to": 283
     },
     {
       "from": 1001,
@@ -2938,14 +2926,6 @@
     },
     {
       "from": 1001,
-      "to": 20
-    },
-    {
-      "from": 1001,
-      "to": 20
-    },
-    {
-      "from": 1001,
       "to": 22
     },
     {
@@ -2975,6 +2955,10 @@
     {
       "from": 1001,
       "to": 34
+    },
+    {
+      "from": 1001,
+      "to": 35
     },
     {
       "from": 1001,
@@ -3023,6 +3007,10 @@
     {
       "from": 1001,
       "to": 56
+    },
+    {
+      "from": 1001,
+      "to": 57
     },
     {
       "from": 1001,
@@ -3079,10 +3067,6 @@
     {
       "from": 1001,
       "to": 80
-    },
-    {
-      "from": 1001,
-      "to": 81
     },
     {
       "from": 1001,
@@ -3191,10 +3175,6 @@
     {
       "from": 1001,
       "to": 119
-    },
-    {
-      "from": 1001,
-      "to": 120
     },
     {
       "from": 1001,
@@ -3370,6 +3350,10 @@
     },
     {
       "from": 1001,
+      "to": 179
+    },
+    {
+      "from": 1001,
       "to": 182
     },
     {
@@ -3451,6 +3435,10 @@
     {
       "from": 1001,
       "to": 208
+    },
+    {
+      "from": 1001,
+      "to": 209
     },
     {
       "from": 1001,
@@ -3622,7 +3610,7 @@
     },
     {
       "from": 1001,
-      "to": 281
+      "to": 283
     },
     {
       "from": 1,
@@ -3801,20 +3789,16 @@
       "to": 75
     },
     {
+      "from": 6,
+      "to": 209
+    },
+    {
       "from": 9,
       "to": 14
     },
     {
       "from": 9,
       "to": 28
-    },
-    {
-      "from": 13,
-      "to": 20
-    },
-    {
-      "from": 13,
-      "to": 20
     },
     {
       "from": 13,
@@ -3835,10 +3819,6 @@
     {
       "from": 25,
       "to": 30
-    },
-    {
-      "from": 25,
-      "to": 81
     },
     {
       "from": 27,
@@ -4170,7 +4150,11 @@
     },
     {
       "from": 118,
-      "to": 281
+      "to": 283
+    },
+    {
+      "from": 124,
+      "to": 209
     },
     {
       "from": 133,
@@ -4183,6 +4167,10 @@
     {
       "from": 150,
       "to": 191
+    },
+    {
+      "from": 150,
+      "to": 209
     },
     {
       "from": 170,
@@ -4278,7 +4266,7 @@
     },
     {
       "from": 181,
-      "to": 281
+      "to": 283
     },
     {
       "from": 187,

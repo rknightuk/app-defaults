@@ -144,7 +144,7 @@
       "id": 15,
       "label": "Laker Turner",
       "url": "https://laker.tech/p/app-defaults",
-      "rss": "https://laker.tech/feed.xml",
+      "rss": "https://concorde.blog/feed.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -1538,7 +1538,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 14
+      "linkCount": 15
     },
     {
       "id": 171,
@@ -2519,6 +2519,24 @@
       "label": "Roy Tang",
       "url": "https://roytang.net/2023/12/default-apps",
       "rss": "https://roytang.net/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 281,
+      "label": "Yilei Yang",
+      "url": "https://mangoumbrella.com/post/default-apps-2023",
+      "rss": "https://mangoumbrella.com/posts.rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
+    },
+    {
+      "id": 282,
+      "label": "Jay Wilson",
+      "url": "https://heyjaywilson.com/blog/2023/11/26-default-apps",
+      "rss": "https://heyjaywilson.com/rss.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -4200,6 +4218,10 @@
     {
       "from": 170,
       "to": 276
+    },
+    {
+      "from": 170,
+      "to": 282
     },
     {
       "from": 171,

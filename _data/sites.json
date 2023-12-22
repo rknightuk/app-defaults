@@ -278,5 +278,6 @@
     { "name": "Doug Jones", "url": "https://doug.pub/2023/12/16/its-defaults-time.html", "rss": "https://doug.pub/feed/", "date": "2023-12-17 09:26" },
     { "name": "DemoChen", "url": "https://demochen.com/posts/20231216/", "rss": "https://demochen.com/atom.xml", "date": "2023-12-17 23:46" },
     { "name": "Justin Vollmer", "url": "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023/", "rss": "https://justinvollmer.com/posts/index.xml", "date": "2023-12-17 23:47" },
-    { "name": "Roy Tang", "url": "https://roytang.net/2023/12/default-apps/", "rss": "https://roytang.net/index.xml", "date": "2023-12-18 21:04" }
+    { "name": "Roy Tang", "url": "https://roytang.net/2023/12/default-apps/", "rss": "https://roytang.net/index.xml", "date": "2023-12-18 21:04" },
+    { "name": "Yilei Yang", "url": "https://mangoumbrella.com/post/default-apps-2023", "rss": "https://mangoumbrella.com/posts.rss", "date": "2023-12-21 21:21" }
 ]

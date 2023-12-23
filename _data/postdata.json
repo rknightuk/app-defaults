@@ -278,7 +278,8 @@
       "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
       "https://roytang.net/2023/12/default-apps",
       "https://tangiblelife.net/app-defaults",
-      "https://danabyerly.com/notes/defaults-2023"
+      "https://danabyerly.com/notes/defaults-2023",
+      "https://probably.co.uk/posts/default-applications"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3083,6 +3084,15 @@
     "date": "2023-12-23 16:21",
     "id": 284,
     "urlKey": "https://danabyerly.com/notes/defaults-2023",
+    "links": []
+  },
+  "https://probably.co.uk/posts/default-applications": {
+    "name": "Mark Phillips",
+    "url": "https://probably.co.uk/posts/default-applications",
+    "rss": "https://probably.co.uk/index.xml",
+    "date": "2023-12-23 19:43",
+    "id": 285,
+    "urlKey": "https://probably.co.uk/posts/default-applications",
     "links": []
   }
 }

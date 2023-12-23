@@ -277,7 +277,8 @@
       "https://demochen.com/posts/20231216",
       "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
       "https://roytang.net/2023/12/default-apps",
-      "https://tangiblelife.net/app-defaults"
+      "https://tangiblelife.net/app-defaults",
+      "https://danabyerly.com/notes/defaults-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -334,7 +335,8 @@
       "https://hunsanger.com/2023/11/26/app-defaults.html",
       "https://daniel.industries/2023/12/03/default-apps-2023",
       "https://technocidal.com/2023/12/07/app-defaults",
-      "https://daught.me/blog/2023-defaults"
+      "https://daught.me/blog/2023-defaults",
+      "https://danabyerly.com/notes/defaults-2023"
     ]
   },
   "https://maique.eu/2023/11/03/defaults.html": {
@@ -3072,6 +3074,15 @@
     "date": "2023-12-22 09:29",
     "id": 283,
     "urlKey": "https://tangiblelife.net/app-defaults",
+    "links": []
+  },
+  "https://danabyerly.com/notes/defaults-2023": {
+    "name": "Dana Byerly",
+    "url": "https://danabyerly.com/notes/defaults-2023",
+    "rss": "https://danabyerly.com/feed.xml",
+    "date": "2023-12-23 16:21",
+    "id": 284,
+    "urlKey": "https://danabyerly.com/notes/defaults-2023",
     "links": []
   }
 }

@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 181
+      "linkCount": 182
     },
     {
       "id": 1,
@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 23
+      "linkCount": 24
     },
     {
       "id": 3,
@@ -2549,6 +2549,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 284,
+      "label": "Dana Byerly",
+      "url": "https://danabyerly.com/notes/defaults-2023",
+      "rss": "https://danabyerly.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3613,6 +3622,10 @@
       "to": 283
     },
     {
+      "from": 1001,
+      "to": 284
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3751,6 +3764,10 @@
     {
       "from": 2,
       "to": 255
+    },
+    {
+      "from": 2,
+      "to": 284
     },
     {
       "from": 3,

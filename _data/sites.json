@@ -285,6 +285,7 @@
     { "name": "Dana Byerly", "url": "https://danabyerly.com/notes/defaults-2023/", "rss": "https://danabyerly.com/feed.xml", "date": "2023-12-23 16:21" },
     { "name": "Mark Phillips", "url": "https://probably.co.uk/posts/default-applications/", "rss": "https://probably.co.uk/index.xml", "date": "2023-12-23 19:43" },
     { "name": "Jeff Bridgforth", "url": "https://jeffbridgforth.com/apps-i-use-2023/", "rss": "https://jeffbridgforth.com/feed/", "date": "2023-12-24 09:28" },
-    { "name": "Scott Willsey", "url": "https://scottwillsey.com/default-apps-2023/", "rss": "https://scottwillsey.com/rss.xml", "date": "2023-12-24 09:29" }
-
+    { "name": "Scott Willsey", "url": "https://scottwillsey.com/default-apps-2023/", "rss": "https://scottwillsey.com/rss.xml", "date": "2023-12-24 09:29" },
+    { "name": "Barry Hess", "url": "https://bjhess.pika.page/posts/2023-app-defaults", "rss": "https://bjhess.pika.page/posts_feed", "date": "2023-12-24 14:57" },
+    { "name": "Tim Bueno", "url": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html", "rss": "https://blog.timbueno.com/feed.xml", "date": "2023-12-24 14:57" }
 ]

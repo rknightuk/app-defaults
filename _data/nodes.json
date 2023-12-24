@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 184
+      "linkCount": 185
     },
     {
       "id": 1,
@@ -2585,6 +2585,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 288,
+      "label": "Barry Hess",
+      "url": "https://bjhess.pika.page/posts/2023-app-defaults",
+      "rss": "https://bjhess.pika.page/posts_feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 289,
+      "label": "Tim Bueno",
+      "url": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html",
+      "rss": "https://blog.timbueno.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
     }
   ],
   "edges": [
@@ -3659,6 +3677,10 @@
     {
       "from": 1001,
       "to": 287
+    },
+    {
+      "from": 1001,
+      "to": 288
     },
     {
       "from": 1,

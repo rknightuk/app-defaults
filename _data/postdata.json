@@ -280,7 +280,8 @@
       "https://tangiblelife.net/app-defaults",
       "https://danabyerly.com/notes/defaults-2023",
       "https://probably.co.uk/posts/default-applications",
-      "https://scottwillsey.com/default-apps-2023"
+      "https://scottwillsey.com/default-apps-2023",
+      "https://bjhess.pika.page/posts/2023-app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3115,5 +3116,25 @@
     "id": 287,
     "urlKey": "https://scottwillsey.com/default-apps-2023",
     "links": []
+  },
+  "https://bjhess.pika.page/posts/2023-app-defaults": {
+    "name": "Barry Hess",
+    "url": "https://bjhess.pika.page/posts/2023-app-defaults",
+    "rss": "https://bjhess.pika.page/posts_feed",
+    "date": "2023-12-24 14:57",
+    "id": 288,
+    "urlKey": "https://bjhess.pika.page/posts/2023-app-defaults",
+    "links": []
+  },
+  "https://blog.timbueno.com/2023/11/06/my-app-defaults.html": {
+    "name": "Tim Bueno",
+    "url": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html",
+    "rss": "https://blog.timbueno.com/feed.xml",
+    "date": "2023-12-24 14:57",
+    "id": 289,
+    "urlKey": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html",
+    "links": [
+      "https://blog.timbueno.com/2023/11/06/my-app-defaults.html"
+    ]
   }
 }

@@ -283,7 +283,8 @@
       "https://scottwillsey.com/default-apps-2023",
       "https://bjhess.pika.page/posts/2023-app-defaults",
       "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
-      "https://www.bobmonsour.com/posts/my-defaults-are-my-faults"
+      "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
+      "https://www.filmvanalledag.nl/?p=9266"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3157,6 +3158,15 @@
     "date": "2023-12-24 19:41",
     "id": 291,
     "urlKey": "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
+    "links": []
+  },
+  "https://www.filmvanalledag.nl/?p=9266": {
+    "name": "Maarten",
+    "url": "https://www.filmvanalledag.nl/?p=9266",
+    "rss": "https://www.filmvanalledag.nl/?feed=rss2",
+    "date": "2023-12-24 20:33",
+    "id": 292,
+    "urlKey": "https://www.filmvanalledag.nl/?p=9266",
     "links": []
   }
 }

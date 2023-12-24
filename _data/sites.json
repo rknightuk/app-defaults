@@ -289,5 +289,6 @@
     { "name": "Barry Hess", "url": "https://bjhess.pika.page/posts/2023-app-defaults", "rss": "https://bjhess.pika.page/posts_feed", "date": "2023-12-24 14:57" },
     { "name": "Tim Bueno", "url": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html", "rss": "https://blog.timbueno.com/feed.xml", "date": "2023-12-24 14:57" },
     { "name": "Adrian Izquieta", "url": "https://www.izq.fm/2023/12/24/app-defaults-mail.html", "rss": "https://www.izq.fm/feed.xml", "date": "2023-12-24 17:06" },
-    { "name": "Bob Monsour", "url": "https://www.bobmonsour.com/posts/my-defaults-are-my-faults/", "rss": "https://www.bobmonsour.com/feed.xml", "date": "2023-12-24 19:41" }
+    { "name": "Bob Monsour", "url": "https://www.bobmonsour.com/posts/my-defaults-are-my-faults/", "rss": "https://www.bobmonsour.com/feed.xml", "date": "2023-12-24 19:41" },
+    { "name": "Maarten", "url": "https://www.filmvanalledag.nl/?p=9266", "rss": "https://www.filmvanalledag.nl/?feed=rss2", "date": "2023-12-24 20:33" }
 ]

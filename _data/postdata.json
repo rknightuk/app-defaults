@@ -3136,5 +3136,16 @@
     "links": [
       "https://blog.timbueno.com/2023/11/06/my-app-defaults.html"
     ]
+  },
+  "https://www.izq.fm/2023/12/24/app-defaults-mail.html": {
+    "name": "Adrian Izquieta",
+    "url": "https://www.izq.fm/2023/12/24/app-defaults-mail.html",
+    "rss": "https://www.izq.fm/feed.xml",
+    "date": "2023-12-24 17:06",
+    "id": 290,
+    "urlKey": "https://www.izq.fm/2023/12/24/app-defaults-mail.html",
+    "links": [
+      "https://www.izq.fm/2023/12/24/app-defaults-mail.html"
+    ]
   }
 }

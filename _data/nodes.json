@@ -2603,6 +2603,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 1
+    },
+    {
+      "id": 290,
+      "label": "Adrian Izquieta",
+      "url": "https://www.izq.fm/2023/12/24/app-defaults-mail.html",
+      "rss": "https://www.izq.fm/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
     }
   ],
   "edges": [

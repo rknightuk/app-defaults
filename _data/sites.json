@@ -287,5 +287,6 @@
     { "name": "Jeff Bridgforth", "url": "https://jeffbridgforth.com/apps-i-use-2023/", "rss": "https://jeffbridgforth.com/feed/", "date": "2023-12-24 09:28" },
     { "name": "Scott Willsey", "url": "https://scottwillsey.com/default-apps-2023/", "rss": "https://scottwillsey.com/rss.xml", "date": "2023-12-24 09:29" },
     { "name": "Barry Hess", "url": "https://bjhess.pika.page/posts/2023-app-defaults", "rss": "https://bjhess.pika.page/posts_feed", "date": "2023-12-24 14:57" },
-    { "name": "Tim Bueno", "url": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html", "rss": "https://blog.timbueno.com/feed.xml", "date": "2023-12-24 14:57" }
+    { "name": "Tim Bueno", "url": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html", "rss": "https://blog.timbueno.com/feed.xml", "date": "2023-12-24 14:57" },
+    { "name": "Adrian Izquieta", "url": "https://www.izq.fm/2023/12/24/app-defaults-mail.html", "rss": "https://www.izq.fm/feed.xml", "date": "2023-12-24 17:06" }
 ]

@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 185
+      "linkCount": 187
     },
     {
       "id": 1,
@@ -2612,6 +2612,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 1
+    },
+    {
+      "id": 291,
+      "label": "Bob Monsour",
+      "url": "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
+      "rss": "https://www.bobmonsour.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3690,6 +3699,14 @@
     {
       "from": 1001,
       "to": 288
+    },
+    {
+      "from": 1001,
+      "to": 291
+    },
+    {
+      "from": 1001,
+      "to": 291
     },
     {
       "from": 1,

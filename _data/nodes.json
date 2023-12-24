@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 183
+      "linkCount": 184
     },
     {
       "id": 1,
@@ -23,7 +23,7 @@
       "rss": "https://gabz.blog/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 12
+      "linkCount": 13
     },
     {
       "id": 2,
@@ -1538,7 +1538,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 15
+      "linkCount": 16
     },
     {
       "id": 171,
@@ -2564,6 +2564,24 @@
       "label": "Mark Phillips",
       "url": "https://probably.co.uk/posts/default-applications",
       "rss": "https://probably.co.uk/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 286,
+      "label": "Jeff Bridgforth",
+      "url": "https://jeffbridgforth.com/apps-i-use-2023",
+      "rss": "https://jeffbridgforth.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 287,
+      "label": "Scott Willsey",
+      "url": "https://scottwillsey.com/default-apps-2023",
+      "rss": "https://scottwillsey.com/rss.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3639,6 +3657,10 @@
       "to": 285
     },
     {
+      "from": 1001,
+      "to": 287
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -3685,6 +3707,10 @@
     {
       "from": 1,
       "to": 259
+    },
+    {
+      "from": 1,
+      "to": 287
     },
     {
       "from": 2,
@@ -4261,6 +4287,10 @@
     {
       "from": 170,
       "to": 282
+    },
+    {
+      "from": 170,
+      "to": 286
     },
     {
       "from": 171,

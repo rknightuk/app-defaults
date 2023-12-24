@@ -279,7 +279,8 @@
       "https://roytang.net/2023/12/default-apps",
       "https://tangiblelife.net/app-defaults",
       "https://danabyerly.com/notes/defaults-2023",
-      "https://probably.co.uk/posts/default-applications"
+      "https://probably.co.uk/posts/default-applications",
+      "https://scottwillsey.com/default-apps-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -303,7 +304,8 @@
       "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023",
       "https://www.feadin.eu/en/posts/app_defaults",
       "https://text.eapl.mx/services-im-using-in-2023",
-      "https://jorgesanz.net/posts/2023-11-16-defaults"
+      "https://jorgesanz.net/posts/2023-11-16-defaults",
+      "https://scottwillsey.com/default-apps-2023"
     ]
   },
   "https://rknight.me/app-defaults": {
@@ -2016,7 +2018,8 @@
       "https://daniel.industries/2023/12/03/default-apps-2023",
       "https://maxsommer.de/blog/default-apps-2023",
       "https://amanhimself.dev/blog/default-apps-2023",
-      "https://heyjaywilson.com/blog/2023/11/26-default-apps"
+      "https://heyjaywilson.com/blog/2023/11/26-default-apps",
+      "https://jeffbridgforth.com/apps-i-use-2023"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -3093,6 +3096,24 @@
     "date": "2023-12-23 19:43",
     "id": 285,
     "urlKey": "https://probably.co.uk/posts/default-applications",
+    "links": []
+  },
+  "https://jeffbridgforth.com/apps-i-use-2023": {
+    "name": "Jeff Bridgforth",
+    "url": "https://jeffbridgforth.com/apps-i-use-2023",
+    "rss": "https://jeffbridgforth.com/feed/",
+    "date": "2023-12-24 09:28",
+    "id": 286,
+    "urlKey": "https://jeffbridgforth.com/apps-i-use-2023",
+    "links": []
+  },
+  "https://scottwillsey.com/default-apps-2023": {
+    "name": "Scott Willsey",
+    "url": "https://scottwillsey.com/default-apps-2023",
+    "rss": "https://scottwillsey.com/rss.xml",
+    "date": "2023-12-24 09:29",
+    "id": 287,
+    "urlKey": "https://scottwillsey.com/default-apps-2023",
     "links": []
   }
 }

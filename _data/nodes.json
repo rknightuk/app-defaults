@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 188
+      "linkCount": 190
     },
     {
       "id": 1,
@@ -2630,6 +2630,33 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 293,
+      "label": "Czar",
+      "url": "https://text.tchncs.de/czars-blogs/apps-i-use",
+      "rss": "https://text.tchncs.de/czars-blogs/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 294,
+      "label": "Luis Quintanilla",
+      "url": "https://www.lqdev.me/feed/app-defaults-2023",
+      "rss": "https://www.luisquintanilla.me/posts/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 295,
+      "label": "Nils",
+      "url": "https://nilsschaffer.com/my-app-defaults-2023",
+      "rss": "https://nilsschaffer.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3720,6 +3747,14 @@
     {
       "from": 1001,
       "to": 292
+    },
+    {
+      "from": 1001,
+      "to": 294
+    },
+    {
+      "from": 1001,
+      "to": 295
     },
     {
       "from": 1,

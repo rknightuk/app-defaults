@@ -284,7 +284,9 @@
       "https://bjhess.pika.page/posts/2023-app-defaults",
       "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
       "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
-      "https://www.filmvanalledag.nl/?p=9266"
+      "https://www.filmvanalledag.nl/?p=9266",
+      "https://www.lqdev.me/feed/app-defaults-2023",
+      "https://nilsschaffer.com/my-app-defaults-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3167,6 +3169,33 @@
     "date": "2023-12-24 20:33",
     "id": 292,
     "urlKey": "https://www.filmvanalledag.nl/?p=9266",
+    "links": []
+  },
+  "https://text.tchncs.de/czars-blogs/apps-i-use": {
+    "name": "Czar",
+    "url": "https://text.tchncs.de/czars-blogs/apps-i-use",
+    "rss": "https://text.tchncs.de/czars-blogs/feed/",
+    "date": "2023-12-27 10:22",
+    "id": 293,
+    "urlKey": "https://text.tchncs.de/czars-blogs/apps-i-use",
+    "links": []
+  },
+  "https://www.lqdev.me/feed/app-defaults-2023": {
+    "name": "Luis Quintanilla",
+    "url": "https://www.lqdev.me/feed/app-defaults-2023",
+    "rss": "https://www.luisquintanilla.me/posts/index.xml",
+    "date": "2023-12-27 10:23",
+    "id": 294,
+    "urlKey": "https://www.lqdev.me/feed/app-defaults-2023",
+    "links": []
+  },
+  "https://nilsschaffer.com/my-app-defaults-2023": {
+    "name": "Nils",
+    "url": "https://nilsschaffer.com/my-app-defaults-2023",
+    "rss": "https://nilsschaffer.com/feed/",
+    "date": "2023-12-27 10:24",
+    "id": 295,
+    "urlKey": "https://nilsschaffer.com/my-app-defaults-2023",
     "links": []
   }
 }

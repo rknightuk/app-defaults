@@ -290,5 +290,8 @@
     { "name": "Tim Bueno", "url": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html", "rss": "https://blog.timbueno.com/feed.xml", "date": "2023-12-24 14:57" },
     { "name": "Adrian Izquieta", "url": "https://www.izq.fm/2023/12/24/app-defaults-mail.html", "rss": "https://www.izq.fm/feed.xml", "date": "2023-12-24 17:06" },
     { "name": "Bob Monsour", "url": "https://www.bobmonsour.com/posts/my-defaults-are-my-faults/", "rss": "https://www.bobmonsour.com/feed.xml", "date": "2023-12-24 19:41" },
-    { "name": "Maarten", "url": "https://www.filmvanalledag.nl/?p=9266", "rss": "https://www.filmvanalledag.nl/?feed=rss2", "date": "2023-12-24 20:33" }
+    { "name": "Maarten", "url": "https://www.filmvanalledag.nl/?p=9266", "rss": "https://www.filmvanalledag.nl/?feed=rss2", "date": "2023-12-24 20:33" },
+    { "name": "Czar", "url": "https://text.tchncs.de/czars-blogs/apps-i-use", "rss": "https://text.tchncs.de/czars-blogs/feed/", "date": "2023-12-27 10:22" },
+    { "name": "Luis Quintanilla", "url": "https://www.lqdev.me/feed/app-defaults-2023", "rss": "https://www.luisquintanilla.me/posts/index.xml", "date": "2023-12-27 10:23" },
+    { "name": "Nils", "url": "https://nilsschaffer.com/my-app-defaults-2023/", "rss": "https://nilsschaffer.com/feed/", "date": "2023-12-27 10:24" }
 ]

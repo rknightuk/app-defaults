@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 191
+      "linkCount": 192
     },
     {
       "id": 1,
@@ -2666,6 +2666,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 297,
+      "label": "R.J. Faas",
+      "url": "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023",
+      "rss": "https://rjfaas.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3768,6 +3777,10 @@
     {
       "from": 1001,
       "to": 296
+    },
+    {
+      "from": 1001,
+      "to": 297
     },
     {
       "from": 1,

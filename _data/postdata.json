@@ -290,7 +290,8 @@
       "https://robjimgreen.co.uk/app-defaults",
       "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023",
       "https://dillonmok.com/articles/my-default-apps",
-      "https://blog.8bit.lol/2023/12/defaults"
+      "https://blog.8bit.lol/2023/12/defaults",
+      "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3236,6 +3237,15 @@
     "date": "2023-12-28 15:38",
     "id": 299,
     "urlKey": "https://blog.8bit.lol/2023/12/defaults",
+    "links": []
+  },
+  "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults": {
+    "name": "Ehqo",
+    "url": "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults",
+    "rss": "https://ehqo.weblog.lol/rss.xml",
+    "date": "2023-12-28 18:06",
+    "id": 300,
+    "urlKey": "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults",
     "links": []
   }
 }

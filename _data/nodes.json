@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 193
+      "linkCount": 194
     },
     {
       "id": 1,
@@ -2684,6 +2684,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 299,
+      "label": "8bit",
+      "url": "https://blog.8bit.lol/2023/12/defaults",
+      "rss": "https://blog.8bit.lol/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3794,6 +3803,10 @@
     {
       "from": 1001,
       "to": 298
+    },
+    {
+      "from": 1001,
+      "to": 299
     },
     {
       "from": 1,

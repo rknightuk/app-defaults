@@ -288,7 +288,8 @@
       "https://www.lqdev.me/feed/app-defaults-2023",
       "https://nilsschaffer.com/my-app-defaults-2023",
       "https://robjimgreen.co.uk/app-defaults",
-      "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023"
+      "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023",
+      "https://dillonmok.com/articles/my-default-apps"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3216,6 +3217,15 @@
     "date": "2023-12-27 18:38",
     "id": 297,
     "urlKey": "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023",
+    "links": []
+  },
+  "https://dillonmok.com/articles/my-default-apps": {
+    "name": "Dillon Mok",
+    "url": "https://dillonmok.com/articles/my-default-apps",
+    "rss": "https://dillonmok.com/feed.rss",
+    "date": "2023-12-28 11:57",
+    "id": 298,
+    "urlKey": "https://dillonmok.com/articles/my-default-apps",
     "links": []
   }
 }

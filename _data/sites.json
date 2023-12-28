@@ -295,5 +295,6 @@
     { "name": "Luis Quintanilla", "url": "https://www.lqdev.me/feed/app-defaults-2023", "rss": "https://www.luisquintanilla.me/posts/index.xml", "date": "2023-12-27 10:23" },
     { "name": "Nils", "url": "https://nilsschaffer.com/my-app-defaults-2023/", "rss": "https://nilsschaffer.com/feed/", "date": "2023-12-27 10:24" },
     { "name": "Rob Green", "url": "https://robjimgreen.co.uk/app-defaults/", "rss": "https://robjimgreen.co.uk/feed/?type=rss", "date": "2023-12-27 13:25" },
-    { "name": "R.J. Faas", "url": "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023/", "rss": "https://rjfaas.com/feed/", "date": "2023-12-27 18:38" }
+    { "name": "R.J. Faas", "url": "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023/", "rss": "https://rjfaas.com/feed/", "date": "2023-12-27 18:38" },
+    { "name": "Dillon Mok", "url": "https://dillonmok.com/articles/my-default-apps/", "rss": "https://dillonmok.com/feed.rss", "date": "2023-12-28 11:57" } 
 ]

@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 192
+      "linkCount": 193
     },
     {
       "id": 1,
@@ -2675,6 +2675,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 298,
+      "label": "Dillon Mok",
+      "url": "https://dillonmok.com/articles/my-default-apps",
+      "rss": "https://dillonmok.com/feed.rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3781,6 +3790,10 @@
     {
       "from": 1001,
       "to": 297
+    },
+    {
+      "from": 1001,
+      "to": 298
     },
     {
       "from": 1,

@@ -298,5 +298,7 @@
     { "name": "R.J. Faas", "url": "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023/", "rss": "https://rjfaas.com/feed/", "date": "2023-12-27 18:38" },
     { "name": "Dillon Mok", "url": "https://dillonmok.com/articles/my-default-apps/", "rss": "https://dillonmok.com/feed.rss", "date": "2023-12-28 11:57" },
     { "name": "8bit", "url": "https://blog.8bit.lol/2023/12/defaults", "rss": "https://blog.8bit.lol/rss.xml", "date": "2023-12-28 15:38" },
-    { "name": "Ehqo", "url": "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults", "rss": "https://ehqo.weblog.lol/rss.xml", "date": "2023-12-28 18:06" }
+    { "name": "Ehqo", "url": "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults", "rss": "https://ehqo.weblog.lol/rss.xml", "date": "2023-12-28 18:06" },
+    { "name": "Carlo Zottmann", "url": "https://zottmann.org/2023/12/17/default-apps.html", "rss": "https://zottmann.org/feed.xml", "date": "2023-12-28 23:32" },
+    { "name": "Brendan Thompson", "url": "https://brendanthompson.com/uses", "rss": "https://brendanthompson.com/posts/feed/rss.xml", "date": "2023-12-28 23:33" }
 ]

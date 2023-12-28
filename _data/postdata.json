@@ -366,7 +366,8 @@
       "https://umerez.eu/2023/11/03/defaults.html",
       "https://kleinheld.ch/posts/meine-default-apps",
       "https://thomasrigby.com/posts/duel-of-the-defaults-2023",
-      "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html"
+      "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html",
+      "https://zottmann.org/2023/12/17/default-apps.html"
     ]
   },
   "https://lmika.org/2023/11/04/defaults.html": {
@@ -2787,7 +2788,9 @@
     "date": "2023-12-07 16:00",
     "id": 250,
     "urlKey": "https://labnotes.org/default-apps-2023",
-    "links": []
+    "links": [
+      "https://zottmann.org/2023/12/17/default-apps.html"
+    ]
   },
   "https://512pixels.net/gear": {
     "name": "Stephen Hackett",
@@ -3246,6 +3249,24 @@
     "date": "2023-12-28 18:06",
     "id": 300,
     "urlKey": "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults",
+    "links": []
+  },
+  "https://zottmann.org/2023/12/17/default-apps.html": {
+    "name": "Carlo Zottmann",
+    "url": "https://zottmann.org/2023/12/17/default-apps.html",
+    "rss": "https://zottmann.org/feed.xml",
+    "date": "2023-12-28 23:32",
+    "id": 301,
+    "urlKey": "https://zottmann.org/2023/12/17/default-apps.html",
+    "links": []
+  },
+  "https://brendanthompson.com/uses": {
+    "name": "Brendan Thompson",
+    "url": "https://brendanthompson.com/uses",
+    "rss": "https://brendanthompson.com/posts/feed/rss.xml",
+    "date": "2023-12-28 23:33",
+    "id": 302,
+    "urlKey": "https://brendanthompson.com/uses",
     "links": []
   }
 }

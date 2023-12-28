@@ -41,7 +41,7 @@
       "rss": "https://maique.eu/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 6
+      "linkCount": 7
     },
     {
       "id": 4,
@@ -2254,7 +2254,7 @@
       "rss": "https://labnotes.org/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 251,
@@ -2699,6 +2699,24 @@
       "label": "Ehqo",
       "url": "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults",
       "rss": "https://ehqo.weblog.lol/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 301,
+      "label": "Carlo Zottmann",
+      "url": "https://zottmann.org/2023/12/17/default-apps.html",
+      "rss": "https://zottmann.org/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 302,
+      "label": "Brendan Thompson",
+      "url": "https://brendanthompson.com/uses",
+      "rss": "https://brendanthompson.com/posts/feed/rss.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3994,6 +4012,10 @@
       "to": 173
     },
     {
+      "from": 3,
+      "to": 301
+    },
+    {
       "from": 4,
       "to": 6
     },
@@ -4552,6 +4574,10 @@
     {
       "from": 232,
       "to": 234
+    },
+    {
+      "from": 250,
+      "to": 301
     },
     {
       "from": 257,

@@ -2720,6 +2720,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 303,
+      "label": "Phil Stollery",
+      "url": "https://stollerys.co.uk/defaults",
+      "rss": "https://stollerys.co.uk/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

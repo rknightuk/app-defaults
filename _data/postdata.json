@@ -3301,5 +3301,14 @@
     "id": 305,
     "urlKey": "https://bobiko.blog/2023/12/defaults-apps-2023",
     "links": []
+  },
+  "https://golfdeltapapa.blog/uses": {
+    "name": "Gregory Pittman",
+    "url": "https://golfdeltapapa.blog/uses",
+    "rss": "https://golfdeltapapa.blog/feed.xml",
+    "date": "2023-12-30 21:31",
+    "id": 306,
+    "urlKey": "https://golfdeltapapa.blog/uses",
+    "links": []
   }
 }

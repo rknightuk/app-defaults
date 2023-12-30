@@ -303,5 +303,6 @@
     { "name": "Brendan Thompson", "url": "https://brendanthompson.com/uses", "rss": "https://brendanthompson.com/posts/feed/rss.xml", "date": "2023-12-28 23:33" },
     { "name": "Phil Stollery", "url": "https://stollerys.co.uk/defaults", "rss": "https://stollerys.co.uk/rss.xml", "date": "2023-12-29 12:23" },
     { "name": "Ben Tsai", "url": "https://bentsai.pika.page/posts/my-app-defaults", "rss": "https://bentsai.pika.page/posts_feed", "date": "2023-12-29 15:10" },
-    { "name": "Bobiko", "url": "https://bobiko.blog/2023/12/defaults-apps-2023/", "date": "2023-12-30 15:41" }
+    { "name": "Bobiko", "url": "https://bobiko.blog/2023/12/defaults-apps-2023/", "date": "2023-12-30 15:41" },
+    { "name": "Gregory Pittman", "url": "https://golfdeltapapa.blog/uses/", "rss": "https://golfdeltapapa.blog/feed.xml", "date": "2023-12-30 21:31" }
 ]

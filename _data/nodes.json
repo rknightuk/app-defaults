@@ -2746,6 +2746,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 306,
+      "label": "Gregory Pittman",
+      "url": "https://golfdeltapapa.blog/uses",
+      "rss": "https://golfdeltapapa.blog/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

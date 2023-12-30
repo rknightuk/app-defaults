@@ -88,7 +88,9 @@
       "https://amanhimself.dev/blog/default-apps-2023",
       "https://demochen.com/posts/20231216",
       "https://tangiblelife.net/app-defaults",
-      "https://bentsai.pika.page/posts/my-app-defaults"
+      "https://bentsai.pika.page/posts/my-app-defaults",
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://bobiko.blog/2023/12/defaults-apps-2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -292,7 +294,11 @@
       "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023",
       "https://dillonmok.com/articles/my-default-apps",
       "https://blog.8bit.lol/2023/12/defaults",
-      "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults"
+      "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults",
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://bobiko.blog/2023/12/defaults-apps-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3286,6 +3292,14 @@
     "date": "2023-12-29 15:10",
     "id": 304,
     "urlKey": "https://bentsai.pika.page/posts/my-app-defaults",
+    "links": []
+  },
+  "https://bobiko.blog/2023/12/defaults-apps-2023": {
+    "name": "Bobiko",
+    "url": "https://bobiko.blog/2023/12/defaults-apps-2023",
+    "date": "2023-12-30 15:41",
+    "id": 305,
+    "urlKey": "https://bobiko.blog/2023/12/defaults-apps-2023",
     "links": []
   }
 }

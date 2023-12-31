@@ -300,7 +300,9 @@
       "https://bobiko.blog/2023/12/defaults-apps-2023",
       "https://bobiko.blog/2023/12/defaults-apps-2023",
       "https://kiko.io/post/App-Defaults-2023",
-      "https://wogong.net/blog/2023/12/defaults2023"
+      "https://wogong.net/blog/2023/12/defaults2023",
+      "https://zmknox.com/2023/12/30/app-defaults-2024",
+      "https://zmknox.com/2023/12/30/app-defaults-2024"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3343,6 +3345,15 @@
     "date": "2023-12-31 10:41",
     "id": 309,
     "urlKey": "https://wogong.net/blog/2023/12/defaults2023",
+    "links": []
+  },
+  "https://zmknox.com/2023/12/30/app-defaults-2024": {
+    "name": "zmknox",
+    "url": "https://zmknox.com/2023/12/30/app-defaults-2024",
+    "rss": "https://zmknox.com/feed.xml",
+    "date": "2023-12-31 14:10",
+    "id": 310,
+    "urlKey": "https://zmknox.com/2023/12/30/app-defaults-2024",
     "links": []
   }
 }

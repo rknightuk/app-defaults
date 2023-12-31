@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 201
+      "linkCount": 203
     },
     {
       "id": 1,
@@ -2782,6 +2782,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 310,
+      "label": "zmknox",
+      "url": "https://zmknox.com/2023/12/30/app-defaults-2024",
+      "rss": "https://zmknox.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3936,6 +3945,14 @@
     {
       "from": 1001,
       "to": 309
+    },
+    {
+      "from": 1001,
+      "to": 310
+    },
+    {
+      "from": 1001,
+      "to": 310
     },
     {
       "from": 1,

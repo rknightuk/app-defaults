@@ -298,7 +298,9 @@
       "https://bobiko.blog/2023/12/defaults-apps-2023",
       "https://bobiko.blog/2023/12/defaults-apps-2023",
       "https://bobiko.blog/2023/12/defaults-apps-2023",
-      "https://bobiko.blog/2023/12/defaults-apps-2023"
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://kiko.io/post/App-Defaults-2023",
+      "https://wogong.net/blog/2023/12/defaults2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -643,7 +645,8 @@
     "id": 29,
     "urlKey": "https://coryd.dev/posts/2023/default-apps-2023",
     "links": [
-      "https://daught.me/blog/2023-defaults"
+      "https://daught.me/blog/2023-defaults",
+      "https://kiko.io/post/App-Defaults-2023"
     ]
   },
   "https://kleinheld.ch/posts/meine-default-apps": {
@@ -780,7 +783,8 @@
     "links": [
       "https://robinopletal.com/posts/default-apps-fall-2023",
       "https://victor.kropp.name/blog/app-defaults",
-      "https://polarhive.net/blog/app-defaults"
+      "https://polarhive.net/blog/app-defaults",
+      "https://kiko.io/post/App-Defaults-2023"
     ]
   },
   "https://peroty.micro.blog/2023/11/07/defaults.html": {
@@ -2038,7 +2042,8 @@
       "https://maxsommer.de/blog/default-apps-2023",
       "https://amanhimself.dev/blog/default-apps-2023",
       "https://heyjaywilson.com/blog/2023/11/26-default-apps",
-      "https://jeffbridgforth.com/apps-i-use-2023"
+      "https://jeffbridgforth.com/apps-i-use-2023",
+      "https://kiko.io/post/App-Defaults-2023"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -2361,7 +2366,9 @@
     "date": "2023-11-28 17:39",
     "id": 203,
     "urlKey": "https://chrismcleod.dev/blog/default-apps-for-2023",
-    "links": []
+    "links": [
+      "https://kiko.io/post/App-Defaults-2023"
+    ]
   },
   "https://mattlangford.com/2023/11/28/default-apps-for.html": {
     "name": "Matt Langford",
@@ -3318,6 +3325,24 @@
     "date": "2023-12-30 21:34",
     "id": 307,
     "urlKey": "https://rachsmith.com/app-defaults",
+    "links": []
+  },
+  "https://kiko.io/post/App-Defaults-2023": {
+    "name": "Kristof Zerbe",
+    "url": "https://kiko.io/post/App-Defaults-2023",
+    "rss": "https://kiko.io/atom.xml",
+    "date": "2023-12-31 01:44",
+    "id": 308,
+    "urlKey": "https://kiko.io/post/App-Defaults-2023",
+    "links": []
+  },
+  "https://wogong.net/blog/2023/12/defaults2023": {
+    "name": "Zhen",
+    "url": "https://wogong.net/blog/2023/12/defaults2023",
+    "rss": "https://wogong.net/feed.xml",
+    "date": "2023-12-31 10:41",
+    "id": 309,
+    "urlKey": "https://wogong.net/blog/2023/12/defaults2023",
     "links": []
   }
 }

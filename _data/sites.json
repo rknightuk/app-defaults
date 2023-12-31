@@ -1,5 +1,5 @@
 [
-    { "name": "Gabz", "url": "https://gabz.blog/2023/11/03/my-defaults.html", "rss": "https://gabz.blog/feed.xml" , "date": "2023-11-07 16:49"},
+    { "name": "Gabz", "url": "https://gabz.blog/2023/11/my-defaults", "rss": "https://gabz.blog/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "Robb Knight", "url": "https://rknight.me/app-defaults/", "rss": "https://rknight.me/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "Maique", "url": "https://maique.eu/2023/11/03/defaults.html", "rss": "https://maique.eu/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "Leon Mika", "url": "https://lmika.org/2023/11/04/defaults.html", "rss": "https://lmika.org/feed.xml" , "date": "2023-11-07 16:49"},
@@ -306,5 +306,6 @@
     { "name": "Bobiko", "url": "https://bobiko.blog/2023/12/defaults-apps-2023/", "date": "2023-12-30 15:41" },
     { "name": "Gregory Pittman", "url": "https://golfdeltapapa.blog/uses/", "rss": "https://golfdeltapapa.blog/feed.xml", "date": "2023-12-30 21:31" },
     { "name": "Rach Smith", "url": "https://rachsmith.com/app-defaults/", "rss": "https://rachsmith.com/feed.xml", "date": "2023-12-30 21:34" },
+    { "name": "Kristof Zerbe", "url": "https://kiko.io/post/App-Defaults-2023/", "rss": "https://kiko.io/atom.xml", "date": "2023-12-31 01:44" },
     { "name": "Zhen", "url": "https://wogong.net/blog/2023/12/defaults2023", "rss": "https://wogong.net/feed.xml", "date": "2023-12-31 10:41" }
 ]

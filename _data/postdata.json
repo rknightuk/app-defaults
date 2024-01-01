@@ -174,7 +174,7 @@
       "https://victor.kropp.name/blog/app-defaults",
       "https://bitboxer.de/2023/11/12/default-apps-2023",
       "https://makoism.com/defaults",
-      "https://mikehayn.es/post/3734",
+      "https://crashthearcade.com/post/3734",
       "https://grepjason.sh/2023/duel-of-the-defaults",
       "https://vmac.ch/posts/2023-11-05-app-default",
       "https://polarhive.net/blog/app-defaults",
@@ -1536,7 +1536,7 @@
     "urlKey": "https://manuelmoreale.com/app-defaults",
     "links": [
       "https://manuelmoreale.com/app-defaults",
-      "https://mikehayn.es/post/3734",
+      "https://crashthearcade.com/post/3734",
       "https://jasonfry.co.uk/blog/app-defaults",
       "https://www.amitgawande.com/2023/11/21/app-defaults.html",
       "https://carlbarenbrug.com/app-defaults",
@@ -1587,13 +1587,13 @@
     "urlKey": "https://makoism.com/defaults",
     "links": []
   },
-  "https://mikehayn.es/post/3734": {
+  "https://crashthearcade.com/post/3734": {
     "name": "Mike Haynes",
-    "url": "https://mikehayn.es/post/3734",
-    "rss": "https://mikehayn.es/feed/rss",
+    "url": "https://crashthearcade.com/post/3734",
+    "rss": "https://crashthearcade.com/feed/rss",
     "date": "2023-11-12 08:47",
     "id": 123,
-    "urlKey": "https://mikehayn.es/post/3734",
+    "urlKey": "https://crashthearcade.com/post/3734",
     "links": []
   },
   "https://grepjason.sh/2023/duel-of-the-defaults": {

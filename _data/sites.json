@@ -312,7 +312,9 @@
     { "name": "Matthew Lamont", "url": "https://techtea.io/articles/2023/app-defaults/", "rss": "https://techtea.io/index.xml", "date": "2023-12-31 14:36" },
     { "name": "Kevin C. Tofel", "url": "https://myconscious.stream/blog/Default-apps-2023/", "rss": "https://myconscious.stream/feed/feed.xml", "date": "2023-12-31 23:59" },
     { "name": "Chris Finazzo", "url": "https://chrisfinazzo.com/2023/12/31/app-defaults/", "rss": "https://chrisfinazzo.com/rss.xml" , "date": "2023-12-31 20:23" },
-    { "name": "n3wjack", "url": "https://n3wjack.net/2023/12/31/my-default-apps-for-2023/", "rss": "https://n3wjack.net/feed/", "date": "2024-01-01 11:53" }
-    { "name": "eiffair", "url": "https://www.eiffair.fr/apps-default-2023/", "rss": "https://www.eiffair.fr/rss/", "date": "2023-12-29 17:45" }
+    { "name": "n3wjack", "url": "https://n3wjack.net/2023/12/31/my-default-apps-for-2023/", "rss": "https://n3wjack.net/feed/", "date": "2024-01-01 11:53" },
+    { "name": "eiffair", "url": "https://www.eiffair.fr/apps-default-2023/", "rss": "https://www.eiffair.fr/rss/", "date": "2023-12-29 17:45" },
+    { "name": "voitech", "url": "https://voitech.vercel.app/digital-garden/app-defaults/", "date": "2024-01-01 18:27" },
+    { "name": "Toni Lampela", "url": "https://kutomo.com/app-defaults-for-2024/", "rss": "https://kutomo.com/rss/", "date": "2024-01-01 18:27" }
 
 ]

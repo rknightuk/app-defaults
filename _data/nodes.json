@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 205
+      "linkCount": 208
     },
     {
       "id": 1,
@@ -2818,6 +2818,32 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 315,
+      "label": "eiffair",
+      "url": "https://www.eiffair.fr/apps-default-2023",
+      "rss": "https://www.eiffair.fr/rss/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 316,
+      "label": "voitech",
+      "url": "https://voitech.vercel.app/digital-garden/app-defaults",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 317,
+      "label": "Toni Lampela",
+      "url": "https://kutomo.com/app-defaults-for-2024",
+      "rss": "https://kutomo.com/rss/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3992,6 +4018,18 @@
     {
       "from": 1001,
       "to": 314
+    },
+    {
+      "from": 1001,
+      "to": 316
+    },
+    {
+      "from": 1001,
+      "to": 316
+    },
+    {
+      "from": 1001,
+      "to": 317
     },
     {
       "from": 1,

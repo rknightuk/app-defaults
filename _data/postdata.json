@@ -305,7 +305,10 @@
       "https://zmknox.com/2023/12/30/app-defaults-2024",
       "https://zmknox.com/2023/12/30/app-defaults-2024",
       "https://chrisfinazzo.com/2023/12/31/app-defaults",
-      "https://n3wjack.net/2023/12/31/my-default-apps-for-2023"
+      "https://n3wjack.net/2023/12/31/my-default-apps-for-2023",
+      "https://voitech.vercel.app/digital-garden/app-defaults",
+      "https://voitech.vercel.app/digital-garden/app-defaults",
+      "https://kutomo.com/app-defaults-for-2024"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3387,6 +3390,32 @@
     "date": "2024-01-01 11:53",
     "id": 314,
     "urlKey": "https://n3wjack.net/2023/12/31/my-default-apps-for-2023",
+    "links": []
+  },
+  "https://www.eiffair.fr/apps-default-2023": {
+    "name": "eiffair",
+    "url": "https://www.eiffair.fr/apps-default-2023",
+    "rss": "https://www.eiffair.fr/rss/",
+    "date": "2023-12-29 17:45",
+    "id": 315,
+    "urlKey": "https://www.eiffair.fr/apps-default-2023",
+    "links": []
+  },
+  "https://voitech.vercel.app/digital-garden/app-defaults": {
+    "name": "voitech",
+    "url": "https://voitech.vercel.app/digital-garden/app-defaults",
+    "date": "2024-01-01 18:27",
+    "id": 316,
+    "urlKey": "https://voitech.vercel.app/digital-garden/app-defaults",
+    "links": []
+  },
+  "https://kutomo.com/app-defaults-for-2024": {
+    "name": "Toni Lampela",
+    "url": "https://kutomo.com/app-defaults-for-2024",
+    "rss": "https://kutomo.com/rss/",
+    "date": "2024-01-01 18:27",
+    "id": 317,
+    "urlKey": "https://kutomo.com/app-defaults-for-2024",
     "links": []
   }
 }

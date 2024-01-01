@@ -128,13 +128,15 @@ const run = async () => {
 
     Object.values(postdata).forEach((d) => {
         const hosts = ['Andrew Canion', 'Jason Burk', 'Martin Feld']
+        let color = (d.id >= 1000 || hosts.includes(d.name)) ? '#fdbd30' : '#03a4df'
+        if (d.name.includes('Adam Newbold')) color = '#f783ac'
         nodes.push({
             id: d.id,
             label: d.name,
             url: d.url,
             rss: d.rss,
             shape: 'box',
-            color: (d.id >= 1000 || hosts.includes(d.name)) ? '#fdbd30' : '#03a4df',
+            color: color,
             linkCount: (d.links || []).length,
         })
         d.links.forEach((link) => {

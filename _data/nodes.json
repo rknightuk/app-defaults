@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 88
+      "linkCount": 89
     },
     {
       "id": 1001,
@@ -2844,6 +2844,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 318,
+      "label": "Adam Newbold",
+      "url": "https://notes.neatnik.net/2024/01/app-defaults",
+      "rss": "https://notes.neatnik.net/rss.xml",
+      "shape": "box",
+      "color": "#f783ac",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3198,6 +3207,10 @@
     {
       "from": 1000,
       "to": 313
+    },
+    {
+      "from": 1000,
+      "to": 318
     },
     {
       "from": 1001,

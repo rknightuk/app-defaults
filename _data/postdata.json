@@ -91,7 +91,8 @@
       "https://bentsai.pika.page/posts/my-app-defaults",
       "https://bobiko.blog/2023/12/defaults-apps-2023",
       "https://bobiko.blog/2023/12/defaults-apps-2023",
-      "https://chrisfinazzo.com/2023/12/31/app-defaults"
+      "https://chrisfinazzo.com/2023/12/31/app-defaults",
+      "https://notes.neatnik.net/2024/01/app-defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -3416,6 +3417,16 @@
     "date": "2024-01-01 18:27",
     "id": 317,
     "urlKey": "https://kutomo.com/app-defaults-for-2024",
+    "links": []
+  },
+  "https://notes.neatnik.net/2024/01/app-defaults": {
+    "name": "Adam Newbold",
+    "url": "https://notes.neatnik.net/2024/01/app-defaults",
+    "rss": "https://notes.neatnik.net/rss.xml",
+    "date": "2024-01-01 18:41",
+    "omg": true,
+    "id": 318,
+    "urlKey": "https://notes.neatnik.net/2024/01/app-defaults",
     "links": []
   }
 }

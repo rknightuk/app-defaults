@@ -90,7 +90,8 @@
       "https://tangiblelife.net/app-defaults",
       "https://bentsai.pika.page/posts/my-app-defaults",
       "https://bobiko.blog/2023/12/defaults-apps-2023",
-      "https://bobiko.blog/2023/12/defaults-apps-2023"
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://chrisfinazzo.com/2023/12/31/app-defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -302,7 +303,9 @@
       "https://kiko.io/post/App-Defaults-2023",
       "https://wogong.net/blog/2023/12/defaults2023",
       "https://zmknox.com/2023/12/30/app-defaults-2024",
-      "https://zmknox.com/2023/12/30/app-defaults-2024"
+      "https://zmknox.com/2023/12/30/app-defaults-2024",
+      "https://chrisfinazzo.com/2023/12/31/app-defaults",
+      "https://n3wjack.net/2023/12/31/my-default-apps-for-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -723,7 +726,8 @@
       "https://techtea.io/articles/2023/app-defaults",
       "https://harrycresswell.com/writing/app-defaults",
       "https://canyoudownloadrice.com/software-i-use",
-      "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023"
+      "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
+      "https://n3wjack.net/2023/12/31/my-default-apps-for-2023"
     ]
   },
   "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html": {
@@ -2045,7 +2049,8 @@
       "https://amanhimself.dev/blog/default-apps-2023",
       "https://heyjaywilson.com/blog/2023/11/26-default-apps",
       "https://jeffbridgforth.com/apps-i-use-2023",
-      "https://kiko.io/post/App-Defaults-2023"
+      "https://kiko.io/post/App-Defaults-2023",
+      "https://myconscious.stream/blog/Default-apps-2023"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -2063,7 +2068,8 @@
       "https://noahjacob.us/words/default-apps-2023.html",
       "https://timothee.goguely.com/blog/default-apps-2023",
       "https://daniel.industries/2023/12/03/default-apps-2023",
-      "https://maxsommer.de/blog/default-apps-2023"
+      "https://maxsommer.de/blog/default-apps-2023",
+      "https://chrisfinazzo.com/2023/12/31/app-defaults"
     ]
   },
   "https://gunnar.se/2023/11/26/default-apps.html": {
@@ -3354,6 +3360,33 @@
     "date": "2023-12-31 14:10",
     "id": 310,
     "urlKey": "https://zmknox.com/2023/12/30/app-defaults-2024",
+    "links": []
+  },
+  "https://myconscious.stream/blog/Default-apps-2023": {
+    "name": "Kevin C. Tofel",
+    "url": "https://myconscious.stream/blog/Default-apps-2023",
+    "rss": "https://myconscious.stream/feed/feed.xml",
+    "date": "2023-12-31 23:59",
+    "id": 312,
+    "urlKey": "https://myconscious.stream/blog/Default-apps-2023",
+    "links": []
+  },
+  "https://chrisfinazzo.com/2023/12/31/app-defaults": {
+    "name": "Chris Finazzo",
+    "url": "https://chrisfinazzo.com/2023/12/31/app-defaults",
+    "rss": "https://chrisfinazzo.com/rss.xml",
+    "date": "2023-12-31 20:23",
+    "id": 313,
+    "urlKey": "https://chrisfinazzo.com/2023/12/31/app-defaults",
+    "links": []
+  },
+  "https://n3wjack.net/2023/12/31/my-default-apps-for-2023": {
+    "name": "n3wjack",
+    "url": "https://n3wjack.net/2023/12/31/my-default-apps-for-2023",
+    "rss": "https://n3wjack.net/feed/",
+    "date": "2024-01-01 11:53",
+    "id": 314,
+    "urlKey": "https://n3wjack.net/2023/12/31/my-default-apps-for-2023",
     "links": []
   }
 }

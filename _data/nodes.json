@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 87
+      "linkCount": 88
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 203
+      "linkCount": 205
     },
     {
       "id": 1,
@@ -326,7 +326,7 @@
       "rss": "https://kevquirk.com/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 16
+      "linkCount": 17
     },
     {
       "id": 36,
@@ -1538,7 +1538,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 17
+      "linkCount": 18
     },
     {
       "id": 171,
@@ -1547,7 +1547,7 @@
       "rss": "https://mattcool.tech/rss.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 8
+      "linkCount": 9
     },
     {
       "id": 172,
@@ -2791,6 +2791,33 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 312,
+      "label": "Kevin C. Tofel",
+      "url": "https://myconscious.stream/blog/Default-apps-2023",
+      "rss": "https://myconscious.stream/feed/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 313,
+      "label": "Chris Finazzo",
+      "url": "https://chrisfinazzo.com/2023/12/31/app-defaults",
+      "rss": "https://chrisfinazzo.com/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 314,
+      "label": "n3wjack",
+      "url": "https://n3wjack.net/2023/12/31/my-default-apps-for-2023",
+      "rss": "https://n3wjack.net/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3141,6 +3168,10 @@
     {
       "from": 1000,
       "to": 305
+    },
+    {
+      "from": 1000,
+      "to": 313
     },
     {
       "from": 1001,
@@ -3955,6 +3986,14 @@
       "to": 310
     },
     {
+      "from": 1001,
+      "to": 313
+    },
+    {
+      "from": 1001,
+      "to": 314
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -4311,6 +4350,10 @@
       "to": 279
     },
     {
+      "from": 35,
+      "to": 314
+    },
+    {
       "from": 38,
       "to": 271
     },
@@ -4603,6 +4646,10 @@
       "to": 308
     },
     {
+      "from": 170,
+      "to": 312
+    },
+    {
       "from": 171,
       "to": 172
     },
@@ -4633,6 +4680,10 @@
     {
       "from": 171,
       "to": 273
+    },
+    {
+      "from": 171,
+      "to": 313
     },
     {
       "from": 181,

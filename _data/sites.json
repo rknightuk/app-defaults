@@ -310,5 +310,6 @@
     { "name": "Zhen", "url": "https://wogong.net/blog/2023/12/defaults2023", "rss": "https://wogong.net/feed.xml", "date": "2023-12-31 10:41" },
     { "name": "zmknox", "url": "https://zmknox.com/2023/12/30/app-defaults-2024", "rss": "https://zmknox.com/feed.xml", "date": "2023-12-31 14:10" },
     { "name": "Matthew Lamont", "url": "https://techtea.io/articles/2023/app-defaults/", "rss": "https://techtea.io/index.xml", "date": "2023-12-31 14:36" },
-    { "name": "Kevin C. Tofel", "url": "https://myconscious.stream/blog/Default-apps-2023/", "rss": "https://myconscious.stream/feed/feed.xml", "date": "2023-12-31 23:59" }
+    { "name": "Kevin C. Tofel", "url": "https://myconscious.stream/blog/Default-apps-2023/", "rss": "https://myconscious.stream/feed/feed.xml", "date": "2023-12-31 23:59" },
+    { "name": "Chris Finazzo", "url": "https://chrisfinazzo.com/2023/12/31/app-defaults/", "rss": "https://chrisfinazzo.com/rss.xml" , "date": "2023-12-31 20:23" }
 ]

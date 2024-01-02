@@ -310,7 +310,9 @@
       "https://voitech.vercel.app/digital-garden/app-defaults",
       "https://voitech.vercel.app/digital-garden/app-defaults",
       "https://kutomo.com/app-defaults-for-2024",
-      "https://cropp.blog/defaults"
+      "https://cropp.blog/defaults",
+      "https://blog.moeyua.com/posts/my-defaults-2023",
+      "https://blog.moeyua.com/posts/my-defaults-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1439,7 +1441,8 @@
       "https://yinji.org/5179.html ",
       "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
       "https://demochen.com/posts/20231216",
-      "https://demochen.com/posts/20231216"
+      "https://demochen.com/posts/20231216",
+      "https://blog.moeyua.com/posts/my-defaults-2023"
     ]
   },
   "https://json.blog/2023/11/10/default-apps-alright.html": {
@@ -3437,6 +3440,15 @@
     "date": "2024-01-02 08:21",
     "id": 319,
     "urlKey": "https://cropp.blog/defaults",
+    "links": []
+  },
+  "https://blog.moeyua.com/posts/my-defaults-2023": {
+    "name": "Moeyua",
+    "url": "https://blog.moeyua.com/posts/my-defaults-2023",
+    "rss": "https://blog.moeyua.com/atom.xml",
+    "date": "2024-01-02 17:17",
+    "id": 320,
+    "urlKey": "https://blog.moeyua.com/posts/my-defaults-2023",
     "links": []
   }
 }

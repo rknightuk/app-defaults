@@ -317,6 +317,7 @@
     { "name": "voitech", "url": "https://voitech.vercel.app/digital-garden/app-defaults/", "date": "2024-01-01 18:27" },
     { "name": "Toni Lampela", "url": "https://kutomo.com/app-defaults-for-2024/", "rss": "https://kutomo.com/rss/", "date": "2024-01-01 18:27" },
     { "name": "Adam Newbold", "url": "https://notes.neatnik.net/2024/01/app-defaults", "rss": "https://notes.neatnik.net/rss.xml", "date": "2024-01-01 18:41", "omg": true },
-    { "name": "Nicolas Cropp", "url": "https://cropp.blog/defaults", "rss": "https://cropp.blog/rss.xml", "date": "2024-01-02 08:21" }
+    { "name": "Nicolas Cropp", "url": "https://cropp.blog/defaults", "rss": "https://cropp.blog/rss.xml", "date": "2024-01-02 08:21" },
+    { "name": "Moeyua", "url": "https://blog.moeyua.com/posts/my-defaults-2023/", "rss": "https://blog.moeyua.com/atom.xml", "date": "2024-01-02 17:17" }
 
 ]

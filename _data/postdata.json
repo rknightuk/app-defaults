@@ -92,7 +92,8 @@
       "https://bobiko.blog/2023/12/defaults-apps-2023",
       "https://bobiko.blog/2023/12/defaults-apps-2023",
       "https://chrisfinazzo.com/2023/12/31/app-defaults",
-      "https://notes.neatnik.net/2024/01/app-defaults"
+      "https://notes.neatnik.net/2024/01/app-defaults",
+      "https://stefanzweifel.dev/posts/2024/01/02/app-defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -312,7 +313,8 @@
       "https://kutomo.com/app-defaults-for-2024",
       "https://cropp.blog/defaults",
       "https://blog.moeyua.com/posts/my-defaults-2023",
-      "https://blog.moeyua.com/posts/my-defaults-2023"
+      "https://blog.moeyua.com/posts/my-defaults-2023",
+      "https://stefanzweifel.dev/posts/2024/01/02/app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3449,6 +3451,15 @@
     "date": "2024-01-02 17:17",
     "id": 320,
     "urlKey": "https://blog.moeyua.com/posts/my-defaults-2023",
+    "links": []
+  },
+  "https://stefanzweifel.dev/posts/2024/01/02/app-defaults": {
+    "name": "Stefan Zweifel",
+    "url": "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
+    "rss": "https://stefanzweifel.dev/rss.xml",
+    "date": "2024-01-02 10:20",
+    "id": 321,
+    "urlKey": "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
     "links": []
   }
 }

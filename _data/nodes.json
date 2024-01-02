@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 89
+      "linkCount": 90
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 211
+      "linkCount": 212
     },
     {
       "id": 1,
@@ -2871,6 +2871,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 321,
+      "label": "Stefan Zweifel",
+      "url": "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
+      "rss": "https://stefanzweifel.dev/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3229,6 +3238,10 @@
     {
       "from": 1000,
       "to": 318
+    },
+    {
+      "from": 1000,
+      "to": 321
     },
     {
       "from": 1001,
@@ -4073,6 +4086,10 @@
     {
       "from": 1001,
       "to": 320
+    },
+    {
+      "from": 1001,
+      "to": 321
     },
     {
       "from": 1,

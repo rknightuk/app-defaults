@@ -152,7 +152,7 @@
       "https://mandarismoore.com/2023/11/08/defaults-in.html",
       "https://robinopletal.com/posts/default-apps-fall-2023",
       "https://robinopletal.com/posts/default-apps-fall-2023",
-      "https://hacdias.com/uses#software",
+      "https://hacdias.com/uses/#software",
       "https://www.cedricbonhomme.org/2023/11/08/my-default-apps-at-the-end-of-2023",
       "https://alby.xyz/index.php/2023/11/08/le-mie-app-di-default-2023",
       "https://lostfocus.de/2023/11/09/defaults",
@@ -314,7 +314,10 @@
       "https://cropp.blog/defaults",
       "https://blog.moeyua.com/posts/my-defaults-2023",
       "https://blog.moeyua.com/posts/my-defaults-2023",
-      "https://stefanzweifel.dev/posts/2024/01/02/app-defaults"
+      "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
+      "https://hacdias.com/uses/#software",
+      "https://ben.yaf.ai/app-defaults",
+      "https://www.sholis.com/blog/2024-app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -1217,16 +1220,15 @@
     "urlKey": "https://robinopletal.com/posts/default-apps-fall-2023",
     "links": []
   },
-  "https://hacdias.com/uses#software": {
+  "https://hacdias.com/uses/#software": {
     "name": "Henrique Dias",
-    "url": "https://hacdias.com/uses#software",
+    "url": "https://hacdias.com/uses/#software",
     "rss": "https://hacdias.com/feed.xml",
-    "date": "2023-11-08 13:06",
+    "date": "2024-01-02 19:59",
     "id": 85,
-    "urlKey": "https://hacdias.com/uses#software",
+    "urlKey": "https://hacdias.com/uses/#software",
     "links": [
-      "https://barryfrost.com/2023/11/app-defaults-in-late-2023",
-      "https://campegg.com/2023/11/17/a-couple-of.html"
+      "https://hacdias.com/uses/#software"
     ]
   },
   "https://timbornholdt.com/blog/my-default-apps-at-the-end-of-2023": {
@@ -2169,7 +2171,8 @@
     "id": 181,
     "urlKey": "https://carlbarenbrug.com/app-defaults",
     "links": [
-      "https://tangiblelife.net/app-defaults"
+      "https://tangiblelife.net/app-defaults",
+      "https://www.sholis.com/blog/2024-app-defaults"
     ]
   },
   "https://barryfrost.com/2023/11/app-defaults-in-late-2023": {
@@ -3460,6 +3463,23 @@
     "date": "2024-01-02 10:20",
     "id": 321,
     "urlKey": "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
+    "links": []
+  },
+  "https://ben.yaf.ai/app-defaults": {
+    "name": "Ben Yafai",
+    "url": "https://ben.yaf.ai/app-defaults",
+    "date": "2024-01-02 13:54",
+    "id": 322,
+    "urlKey": "https://ben.yaf.ai/app-defaults",
+    "links": []
+  },
+  "https://www.sholis.com/blog/2024-app-defaults": {
+    "name": "Brian Sholis",
+    "url": "https://www.sholis.com/blog/2024-app-defaults",
+    "rss": "https://www.sholis.com/feed.xml",
+    "date": "2024-01-02 22:30",
+    "id": 323,
+    "urlKey": "https://www.sholis.com/blog/2024-app-defaults",
     "links": []
   }
 }

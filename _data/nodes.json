@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 212
+      "linkCount": 215
     },
     {
       "id": 1,
@@ -771,11 +771,11 @@
     {
       "id": 85,
       "label": "Henrique Dias",
-      "url": "https://hacdias.com/uses#software",
+      "url": "https://hacdias.com/uses/#software",
       "rss": "https://hacdias.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 1
     },
     {
       "id": 86,
@@ -1635,7 +1635,7 @@
       "rss": "https://carlbarenbrug.com/feed/rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 182,
@@ -2880,6 +2880,23 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 322,
+      "label": "Ben Yafai",
+      "url": "https://ben.yaf.ai/app-defaults",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 323,
+      "label": "Brian Sholis",
+      "url": "https://www.sholis.com/blog/2024-app-defaults",
+      "rss": "https://www.sholis.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4092,6 +4109,18 @@
       "to": 321
     },
     {
+      "from": 1001,
+      "to": 85
+    },
+    {
+      "from": 1001,
+      "to": 322
+    },
+    {
+      "from": 1001,
+      "to": 323
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -4536,14 +4565,6 @@
       "to": 169
     },
     {
-      "from": 85,
-      "to": 182
-    },
-    {
-      "from": 85,
-      "to": 229
-    },
-    {
       "from": 90,
       "to": 101
     },
@@ -4790,6 +4811,10 @@
     {
       "from": 181,
       "to": 283
+    },
+    {
+      "from": 181,
+      "to": 323
     },
     {
       "from": 187,

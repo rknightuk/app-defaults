@@ -8,10 +8,9 @@ isWordCloudPage: true
 </script>
 
 <style>
-    {# .canvas {
-        width: 100%;
-        height: 1200px;
-    } #}
+    .canvas {
+        border: 20px solid white;
+    }
 </style>
 <canvas id="wordcloud-canvas" class="canvas" height="600" width="1200"></canvas>
 
@@ -22,7 +21,7 @@ isWordCloudPage: true
        document.getElementById('wordcloud-canvas').width = width
        document.getElementById('wordcloud-canvas').height = 600
        
-    WordCloud(document.getElementById('wordcloud-canvas'), { list: window.WordCloudWords, gridSize: 1 } )
+    WordCloud(document.getElementById('wordcloud-canvas'), { list: window.WordCloudWords, rotateRatio: 1, shrinkToFit: true } )
 })()
     
 </script>

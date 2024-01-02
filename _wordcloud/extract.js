@@ -1,5 +1,7 @@
 import { extract } from '@extractus/article-extractor'
 import fs from 'fs'
+import {DOMParser, parseHTML} from 'linkedom';
+import * as cheerio from 'cheerio'
 
 const sites = JSON.parse(fs.readFileSync('../_data/sites.json', 'utf8'))
 
@@ -1298,6 +1300,16 @@ const stopWords = [
     "zero",
     "zm",
     "zr",
+'mail', 'client', 'server', 'notes', 'to-do', 'iphone', 'photo', 'shooting', 'photo', 'management', 'calendar', 'cloud', 'file', 'storage', 'rss', 'contacts', 'browser', 'chat', 'bookmarks', 'read', 'later', 'word', 'processing', 'spreadsheets', 'presentations', 'shopping', 'lists', 'meal', 'planning', 'budgeting', 'personal', 'finance', 'news', 'music', 'podcasts', 'password', 'management',
+'robb',
+'knight',
+'default',
+'hemispheric', 'views',
+'097', '97',
+'manager',
+'app',
+'code', 'search', 'macos', 'service', 'editing', 'post', 'books', 'ios', 'markdown', 'der','ich','add',
+'2023', 'duel', 'defaults', 'posts', 'time', 'score', 'posting', 'join', 'joining', 'november', 'december', 'list', 'apps', 'blog', 'people'
 ]
 
 const run = async () => {
@@ -1309,44 +1321,44 @@ const run = async () => {
         try {
             console.log('running for ' + input)
             if (['https://umerez.eu/2023/11/03/defaults.html'].includes(input)) continue
-            if (!fs.existsSync(`./output/${i}.html`)) {
+            if (!fs.existsSync(`./_output/${i}.html`)) {
                 const article = await extract(input)
                 if (!article) console.log(sites[i].url)
                 if (article) console.log(article.title)
-                fs.writeFileSync(`./output/${i}.html`, article.content)
+                fs.writeFileSync(`./_output/${i}.html`, article.content)
             }
         } catch (err) {
             console.log('error caught')
             console.error(err)
         }
 
-        if (!fs.existsSync(`./output/${i}.html`)) continue
+        if (!fs.existsSync(`./_output/${i}.html`)) continue
 
-        const htmlWords = fs.readFileSync(`./output/${i}.html`, 'utf8').replace(/\n/ig, '')
-    .replace(/<style[^>]*>[\s\S]*?<\/style[^>]*>/ig, '')
-    .replace(/<head[^>]*>[\s\S]*?<\/head[^>]*>/ig, '')
-    .replace(/<script[^>]*>[\s\S]*?<\/script[^>]*>/ig, '')
-    .replace(/<\/\s*(?:p|div)>/ig, '\n')
-    .replace(/<br[^>]*\/?>/ig, '\n')
-    .replace(/<[^>]*>/ig, '')
-    .replace('&nbsp;', ' ')
-    .replace(/[^\S\r\n][^\S\r\n]+/ig, ' ')
-    .replaceAll('(', '')
-    .replaceAll(')', '')
-    .replace(/([\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2011-\u26FF]|\uD83E[\uDD10-\uDDFF])/g, '')
-    .replaceAll('\n', '')
-    .replaceAll('?', ' ')
-    .replaceAll('!', ' ')
-    .replaceAll(':', ' ')
-    .replaceAll(',', ' ')
-    .replaceAll('/', ' ')
-    .replaceAll('\u00A0', ' ')
-    .replaceAll('&amp;', ' ')
-    .split(' ')
-    .filter(w => w)
-    .filter(x => {
-        return x.length > 2 && !stopWords.includes(x.toLowerCase())
-    })
+        const html = fs.readFileSync(`./_output/${i}.html`, 'utf8')
+        const $ = cheerio.load(html)
+
+        const htmlWords = $.text()
+            // remove emoji
+            .replace(/([\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2011-\u26FF]|\uD83E[\uDD10-\uDDFF])/g, '')
+            .split('\n').join(' ')
+            .split(' ')
+            .map(w => {
+                let wf = w.trim()
+                if (wf.endsWith('.')) wf = wf.slice(0, -1)
+                if (wf.endsWith(',')) wf = wf.slice(0, -1)
+                if (wf.endsWith('!')) wf = wf.slice(0, -1)
+                if (wf.endsWith('?')) wf = wf.slice(0, -1)
+                if (wf.endsWith(':')) wf = wf.slice(0, -1)
+                wf = wf.replaceAll('(', '')
+                    .replaceAll(')', '')
+                return wf.toLowerCase()
+            })
+            .filter(w => {
+                return w && w.length > 3 && !stopWords.includes(w.toLowerCase())
+            })
+            .join(' ')
+            .split('/').join(' ')
+            .split(' ')
 
         htmlWords.forEach(word => {
             if (!wordMap[word]) wordMap[word.toLowerCase()] = 0
@@ -1354,7 +1366,7 @@ const run = async () => {
         })
     }
 
-    fs.writeFileSync('./output/wordMap.json', JSON.stringify(wordMap, '', 2))
+    fs.writeFileSync('./_output/wordMap.json', JSON.stringify(wordMap, '', 2))
 
     const sorted = Object.entries(wordMap).sort((a, b) => b[1] - a[1])
 

@@ -1309,7 +1309,7 @@ const stopWords = [
 'manager',
 'app',
 'code', 'search', 'macos', 'service', 'editing', 'post', 'books', 'ios', 'markdown', 'der','ich','add',
-'2023', 'duel', 'defaults', 'posts', 'time', 'score', 'posting', 'join', 'joining', 'november', 'december', 'list', 'apps', 'blog', 'people'
+'2023', 'duel', 'defaults', 'posts', 'time', 'score', 'posting', 'join', 'joining', 'november', 'december', 'list', 'apps', 'blog', 'people',
 ]
 
 const run = async () => {
@@ -1321,20 +1321,20 @@ const run = async () => {
         try {
             console.log('running for ' + input)
             if (['https://umerez.eu/2023/11/03/defaults.html'].includes(input)) continue
-            if (!fs.existsSync(`./_output/${i}.html`)) {
+            if (!fs.existsSync(`./_output/_${i}.html`)) {
                 const article = await extract(input)
                 if (!article) console.log(sites[i].url)
                 if (article) console.log(article.title)
-                fs.writeFileSync(`./_output/${i}.html`, article.content)
+                fs.writeFileSync(`./_output/_${i}.html`, article.content)
             }
         } catch (err) {
             console.log('error caught, writing blank file')
-            fs.writeFileSync(`./_output/${i}.html`, '')
+            fs.writeFileSync(`./_output/_${i}.html`, '')
         }
 
-        if (!fs.existsSync(`./_output/${i}.html`)) continue
+        if (!fs.existsSync(`./_output/_${i}.html`)) continue
 
-        const html = fs.readFileSync(`./_output/${i}.html`, 'utf8')
+        const html = fs.readFileSync(`./_output/_${i}.html`, 'utf8')
         const $ = cheerio.load(html)
 
         const htmlWords = $.text()

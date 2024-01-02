@@ -212,7 +212,7 @@
         <h1>App Defaults</h1>
         <p class="subtitle">Inspired by <a href="https://listen.hemisphericviews.com/097">Hemispheric Views 097 - Duel of the Defaults!</a></p>
 
-        {% if isNetworkPage %}
+        {% if isNetworkPage or isWordCloudPage %}
         {% else %}
             <iframe src="https://player.fireside.fm/v2/6MInpziV+pRrVuoJB?theme=dark" frameborder="0" scrolling="no"></iframe>
         {% endif %}
@@ -227,6 +227,7 @@
         <nav>
             <a href="/">Blog Post List</a>
             <a href="/network">Network Graph</a>
+            <a href="/wordcloud">Word Cloud</a>
         </nav>
     </header>
 

@@ -1,5 +1,4 @@
 import { extract } from '@extractus/article-extractor'
-import { NodeHtmlMarkdown } from 'node-html-markdown'
 import fs from 'fs'
 
 const sites = JSON.parse(fs.readFileSync('../_data/sites.json', 'utf8'))
@@ -1314,7 +1313,6 @@ const run = async () => {
                 const article = await extract(input)
                 if (!article) console.log(sites[i].url)
                 if (article) console.log(article.title)
-                // const output = NodeHtmlMarkdown.translate(article.content)
                 fs.writeFileSync(`./output/${i}.html`, article.content)
             }
         } catch (err) {

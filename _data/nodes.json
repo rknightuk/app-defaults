@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 208
+      "linkCount": 209
     },
     {
       "id": 1,
@@ -2853,6 +2853,15 @@
       "shape": "box",
       "color": "#f783ac",
       "linkCount": 0
+    },
+    {
+      "id": 319,
+      "label": "Nicolas Cropp",
+      "url": "https://cropp.blog/defaults",
+      "rss": "https://cropp.blog/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4043,6 +4052,10 @@
     {
       "from": 1001,
       "to": 317
+    },
+    {
+      "from": 1001,
+      "to": 319
     },
     {
       "from": 1,

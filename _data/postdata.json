@@ -309,7 +309,8 @@
       "https://n3wjack.net/2023/12/31/my-default-apps-for-2023",
       "https://voitech.vercel.app/digital-garden/app-defaults",
       "https://voitech.vercel.app/digital-garden/app-defaults",
-      "https://kutomo.com/app-defaults-for-2024"
+      "https://kutomo.com/app-defaults-for-2024",
+      "https://cropp.blog/defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3427,6 +3428,15 @@
     "omg": true,
     "id": 318,
     "urlKey": "https://notes.neatnik.net/2024/01/app-defaults",
+    "links": []
+  },
+  "https://cropp.blog/defaults": {
+    "name": "Nicolas Cropp",
+    "url": "https://cropp.blog/defaults",
+    "rss": "https://cropp.blog/rss.xml",
+    "date": "2024-01-02 08:21",
+    "id": 319,
+    "urlKey": "https://cropp.blog/defaults",
     "links": []
   }
 }

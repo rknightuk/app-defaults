@@ -1328,8 +1328,8 @@ const run = async () => {
                 fs.writeFileSync(`./_output/${i}.html`, article.content)
             }
         } catch (err) {
-            console.log('error caught')
-            console.error(err)
+            console.log('error caught, writing blank file')
+            fs.writeFileSync(`./_output/${i}.html`, '')
         }
 
         if (!fs.existsSync(`./_output/${i}.html`)) continue

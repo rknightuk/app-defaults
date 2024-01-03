@@ -93,7 +93,8 @@
       "https://bobiko.blog/2023/12/defaults-apps-2023",
       "https://chrisfinazzo.com/2023/12/31/app-defaults",
       "https://notes.neatnik.net/2024/01/app-defaults",
-      "https://stefanzweifel.dev/posts/2024/01/02/app-defaults"
+      "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
+      "https://mrehler.com/2024/01/02/my-default-apps-of-2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -317,7 +318,8 @@
       "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
       "https://hacdias.com/uses/#software",
       "https://ben.yaf.ai/app-defaults",
-      "https://www.sholis.com/blog/2024-app-defaults"
+      "https://www.sholis.com/blog/2024-app-defaults",
+      "https://mrehler.com/2024/01/02/my-default-apps-of-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3293,7 +3295,9 @@
     "date": "2023-12-28 23:32",
     "id": 301,
     "urlKey": "https://zottmann.org/2023/12/17/default-apps.html",
-    "links": []
+    "links": [
+      "https://mrehler.com/2024/01/02/my-default-apps-of-2023"
+    ]
   },
   "https://brendanthompson.com/uses": {
     "name": "Brendan Thompson",
@@ -3480,6 +3484,15 @@
     "date": "2024-01-02 22:30",
     "id": 323,
     "urlKey": "https://www.sholis.com/blog/2024-app-defaults",
+    "links": []
+  },
+  "https://mrehler.com/2024/01/02/my-default-apps-of-2023": {
+    "name": "Ehler ",
+    "url": "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
+    "rss": "https://mrehler.com/feed/",
+    "date": "2024-01-03 11:00",
+    "id": 324,
+    "urlKey": "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
     "links": []
   }
 }

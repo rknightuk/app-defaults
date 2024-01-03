@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 90
+      "linkCount": 91
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 215
+      "linkCount": 216
     },
     {
       "id": 1,
@@ -2710,7 +2710,7 @@
       "rss": "https://zottmann.org/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 302,
@@ -2894,6 +2894,15 @@
       "label": "Brian Sholis",
       "url": "https://www.sholis.com/blog/2024-app-defaults",
       "rss": "https://www.sholis.com/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 324,
+      "label": "Ehler ",
+      "url": "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
+      "rss": "https://mrehler.com/feed/",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -3259,6 +3268,10 @@
     {
       "from": 1000,
       "to": 321
+    },
+    {
+      "from": 1000,
+      "to": 324
     },
     {
       "from": 1001,
@@ -4121,6 +4134,10 @@
       "to": 323
     },
     {
+      "from": 1001,
+      "to": 324
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -4895,6 +4912,10 @@
     {
       "from": 259,
       "to": 264
+    },
+    {
+      "from": 301,
+      "to": 324
     }
   ]
 }

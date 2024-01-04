@@ -94,7 +94,8 @@
       "https://chrisfinazzo.com/2023/12/31/app-defaults",
       "https://notes.neatnik.net/2024/01/app-defaults",
       "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
-      "https://mrehler.com/2024/01/02/my-default-apps-of-2023"
+      "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
+      "https://sheetsj.com/blog/app-defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -319,7 +320,8 @@
       "https://hacdias.com/uses/#software",
       "https://ben.yaf.ai/app-defaults",
       "https://www.sholis.com/blog/2024-app-defaults",
-      "https://mrehler.com/2024/01/02/my-default-apps-of-2023"
+      "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
+      "https://sheetsj.com/blog/app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3495,12 +3497,21 @@
     "urlKey": "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
     "links": []
   },
+  "https://sheetsj.com/blog/app-defaults": {
+    "name": "Jeff Sheets",
+    "url": "https://sheetsj.com/blog/app-defaults",
+    "rss": "https://sheetsj.com/feed.xml",
+    "date": "2024-01-03 11:00",
+    "id": 325,
+    "urlKey": "https://sheetsj.com/blog/app-defaults",
+    "links": []
+  },
   "https://ddanielson.micro.blog/2023/12/27/default-app-list.html": {
     "name": "Dave",
     "url": "https://ddanielson.micro.blog/2023/12/27/default-app-list.html",
     "rss": "https://ddanielson.micro.blog/feed",
     "date": "2024-01-04 09:41",
-    "id": 325,
+    "id": 326,
     "urlKey": "https://ddanielson.micro.blog/2023/12/27/default-app-list.html",
     "links": []
   }

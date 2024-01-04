@@ -2924,6 +2924,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 327,
+      "label": "Brandon",
+      "url": "https://wand3r.net/2024/01/app-defaults-jan-2024",
+      "rss": "https://wand3r.net/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

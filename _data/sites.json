@@ -323,5 +323,6 @@
     { "name": "Ben Yafai", "url": "https://ben.yaf.ai/app-defaults", "date": "2024-01-02 13:54"},
     { "name": "Brian Sholis", "url": "https://www.sholis.com/blog/2024-app-defaults", "rss": "https://www.sholis.com/feed.xml", "date": "2024-01-02 22:30" },
     { "name": "M Ehler", "url": "https://mrehler.com/2024/01/02/my-default-apps-of-2023/", "rss": "https://mrehler.com/feed/", "date": "2024-01-02 23:00" },
-    { "name": "Jeff Sheets", "url": "https://sheetsj.com/blog/app-defaults/", "rss": "https://sheetsj.com/feed.xml", "date": "2024-01-03 11:00" }
+    { "name": "Jeff Sheets", "url": "https://sheetsj.com/blog/app-defaults/", "rss": "https://sheetsj.com/feed.xml", "date": "2024-01-03 11:00" },
+    { "name": "Dave", "url": "https://ddanielson.micro.blog/2023/12/27/default-app-list.html", "rss": "https://ddanielson.micro.blog/feed", "date": "2024-01-04 09:41" }
 ]

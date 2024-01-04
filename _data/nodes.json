@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 93
+      "linkCount": 94
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 218
+      "linkCount": 220
     },
     {
       "id": 1,
@@ -2942,6 +2942,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 329,
+      "label": "Trevor Morris",
+      "url": "https://www.trovster.com/about/uses#defaults",
+      "rss": "https://www.trovster.com/blog/posts.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 330,
+      "label": "Christopher Downer",
+      "url": "https://cjd.weblog.lol/2024/01/app-defaults",
+      "rss": "https://cjd.weblog.lol/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3316,6 +3334,10 @@
     {
       "from": 1000,
       "to": 328
+    },
+    {
+      "from": 1000,
+      "to": 329
     },
     {
       "from": 1001,
@@ -4188,6 +4210,14 @@
     {
       "from": 1001,
       "to": 328
+    },
+    {
+      "from": 1001,
+      "to": 329
+    },
+    {
+      "from": 1001,
+      "to": 330
     },
     {
       "from": 1,

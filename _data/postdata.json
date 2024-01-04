@@ -96,7 +96,8 @@
       "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
       "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
       "https://sheetsj.com/blog/app-defaults",
-      "https://www.martingunnarsson.com/posts/apps-2023"
+      "https://www.martingunnarsson.com/posts/apps-2023",
+      "https://www.trovster.com/about/uses#defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -323,7 +324,9 @@
       "https://www.sholis.com/blog/2024-app-defaults",
       "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
       "https://sheetsj.com/blog/app-defaults",
-      "https://www.martingunnarsson.com/posts/apps-2023"
+      "https://www.martingunnarsson.com/posts/apps-2023",
+      "https://www.trovster.com/about/uses#defaults",
+      "https://cjd.weblog.lol/2024/01/app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3533,6 +3536,24 @@
     "date": "2024-01-04 07:43",
     "id": 328,
     "urlKey": "https://www.martingunnarsson.com/posts/apps-2023",
+    "links": []
+  },
+  "https://www.trovster.com/about/uses#defaults": {
+    "name": "Trevor Morris",
+    "url": "https://www.trovster.com/about/uses#defaults",
+    "rss": "https://www.trovster.com/blog/posts.xml",
+    "date": "2024-01-04 14:42",
+    "id": 329,
+    "urlKey": "https://www.trovster.com/about/uses#defaults",
+    "links": []
+  },
+  "https://cjd.weblog.lol/2024/01/app-defaults": {
+    "name": "Christopher Downer",
+    "url": "https://cjd.weblog.lol/2024/01/app-defaults",
+    "rss": "https://cjd.weblog.lol/rss.xml",
+    "date": "2024-01-04 17:13",
+    "id": 330,
+    "urlKey": "https://cjd.weblog.lol/2024/01/app-defaults",
     "links": []
   }
 }

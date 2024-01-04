@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 92
+      "linkCount": 93
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 217
+      "linkCount": 218
     },
     {
       "id": 1,
@@ -2933,6 +2933,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 328,
+      "label": "Martin Gunnarsson",
+      "url": "https://www.martingunnarsson.com/posts/apps-2023",
+      "rss": "https://www.martingunnarsson.com/feed-rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3303,6 +3312,10 @@
     {
       "from": 1000,
       "to": 325
+    },
+    {
+      "from": 1000,
+      "to": 328
     },
     {
       "from": 1001,
@@ -4171,6 +4184,10 @@
     {
       "from": 1001,
       "to": 325
+    },
+    {
+      "from": 1001,
+      "to": 328
     },
     {
       "from": 1,

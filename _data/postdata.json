@@ -95,7 +95,8 @@
       "https://notes.neatnik.net/2024/01/app-defaults",
       "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
       "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
-      "https://sheetsj.com/blog/app-defaults"
+      "https://sheetsj.com/blog/app-defaults",
+      "https://www.martingunnarsson.com/posts/apps-2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -321,7 +322,8 @@
       "https://ben.yaf.ai/app-defaults",
       "https://www.sholis.com/blog/2024-app-defaults",
       "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
-      "https://sheetsj.com/blog/app-defaults"
+      "https://sheetsj.com/blog/app-defaults",
+      "https://www.martingunnarsson.com/posts/apps-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3522,6 +3524,15 @@
     "date": "2024-01-04 09:56",
     "id": 327,
     "urlKey": "https://wand3r.net/2024/01/app-defaults-jan-2024",
+    "links": []
+  },
+  "https://www.martingunnarsson.com/posts/apps-2023": {
+    "name": "Martin Gunnarsson",
+    "url": "https://www.martingunnarsson.com/posts/apps-2023",
+    "rss": "https://www.martingunnarsson.com/feed-rss.xml",
+    "date": "2024-01-04 07:43",
+    "id": 328,
+    "urlKey": "https://www.martingunnarsson.com/posts/apps-2023",
     "links": []
   }
 }

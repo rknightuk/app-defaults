@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 220
+      "linkCount": 221
     },
     {
       "id": 1,
@@ -452,7 +452,7 @@
       "rss": "https://gkeenan.co/avgb?format=rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 50,
@@ -2960,6 +2960,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 331,
+      "label": "Fran",
+      "url": "https://iamfran.com/posts/2024/01/app-defaults-2023",
+      "rss": "https://iamfran.com/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4220,6 +4229,10 @@
       "to": 330
     },
     {
+      "from": 1001,
+      "to": 331
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -4618,6 +4631,10 @@
     {
       "from": 49,
       "to": 255
+    },
+    {
+      "from": 49,
+      "to": 331
     },
     {
       "from": 53,

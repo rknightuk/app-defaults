@@ -329,5 +329,5 @@
     { "name": "Martin Gunnarsson", "url": "https://www.martingunnarsson.com/posts/apps-2023/", "rss": "https://www.martingunnarsson.com/feed-rss.xml", "date": "2024-01-04 07:43" },
     { "name": "Trevor Morris", "url": "https://www.trovster.com/about/uses#defaults", "rss": "https://www.trovster.com/blog/posts.xml", "date": "2024-01-04 14:42" },
     { "name": "Christopher Downer", "url": "https://cjd.weblog.lol/2024/01/app-defaults", "rss": "https://cjd.weblog.lol/rss.xml", "date": "2024-01-04 17:13" },
-    { "name": "Fran", "url": "https://iamfran.com/posts/2024/01/app-defaults-2023/", "date": "2024-01-05 10:12" }
+    { "name": "Fran", "url": "https://iamfran.com/posts/2024/01/app-defaults-2023/", "rss": "https://iamfran.com/index.xml", "date": "2024-01-05 10:12" }
 ]

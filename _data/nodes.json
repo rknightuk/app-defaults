@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 221
+      "linkCount": 222
     },
     {
       "id": 1,
@@ -2969,6 +2969,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 332,
+      "label": "Lou Plummer",
+      "url": "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html",
+      "rss": "https://amerpie.micro.blog/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
     }
   ],
   "edges": [
@@ -4231,6 +4240,10 @@
     {
       "from": 1001,
       "to": 331
+    },
+    {
+      "from": 1001,
+      "to": 332
     },
     {
       "from": 1,

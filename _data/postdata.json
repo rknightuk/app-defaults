@@ -327,7 +327,8 @@
       "https://www.martingunnarsson.com/posts/apps-2023",
       "https://www.trovster.com/about/uses#defaults",
       "https://cjd.weblog.lol/2024/01/app-defaults",
-      "https://iamfran.com/posts/2024/01/app-defaults-2023"
+      "https://iamfran.com/posts/2024/01/app-defaults-2023",
+      "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3566,5 +3567,16 @@
     "id": 331,
     "urlKey": "https://iamfran.com/posts/2024/01/app-defaults-2023",
     "links": []
+  },
+  "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html": {
+    "name": "Lou Plummer",
+    "url": "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html",
+    "rss": "https://amerpie.micro.blog/feed.xml",
+    "date": "2024-01-06 11:45",
+    "id": 332,
+    "urlKey": "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html",
+    "links": [
+      "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html"
+    ]
   }
 }

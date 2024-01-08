@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 94
+      "linkCount": 98
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 222
+      "linkCount": 227
     },
     {
       "id": 1,
@@ -2978,6 +2978,23 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 1
+    },
+    {
+      "id": 333,
+      "label": "Andre Franca",
+      "url": "https://abf.li/posts/default-apps-at-the-beginning-of-2024",
+      "rss": "https://abf.li/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 334,
+      "label": "Philipp Temmel",
+      "url": "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3356,6 +3373,22 @@
     {
       "from": 1000,
       "to": 329
+    },
+    {
+      "from": 1000,
+      "to": 334
+    },
+    {
+      "from": 1000,
+      "to": 334
+    },
+    {
+      "from": 1000,
+      "to": 334
+    },
+    {
+      "from": 1000,
+      "to": 334
     },
     {
       "from": 1001,
@@ -4244,6 +4277,26 @@
     {
       "from": 1001,
       "to": 332
+    },
+    {
+      "from": 1001,
+      "to": 333
+    },
+    {
+      "from": 1001,
+      "to": 334
+    },
+    {
+      "from": 1001,
+      "to": 334
+    },
+    {
+      "from": 1001,
+      "to": 334
+    },
+    {
+      "from": 1001,
+      "to": 334
     },
     {
       "from": 1,

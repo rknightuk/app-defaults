@@ -97,7 +97,11 @@
       "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
       "https://sheetsj.com/blog/app-defaults",
       "https://www.martingunnarsson.com/posts/apps-2023",
-      "https://www.trovster.com/about/uses#defaults"
+      "https://www.trovster.com/about/uses#defaults",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -328,7 +332,12 @@
       "https://www.trovster.com/about/uses#defaults",
       "https://cjd.weblog.lol/2024/01/app-defaults",
       "https://iamfran.com/posts/2024/01/app-defaults-2023",
-      "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html"
+      "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html",
+      "https://abf.li/posts/default-apps-at-the-beginning-of-2024",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3578,5 +3587,22 @@
     "links": [
       "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html"
     ]
+  },
+  "https://abf.li/posts/default-apps-at-the-beginning-of-2024": {
+    "name": "Andre Franca",
+    "url": "https://abf.li/posts/default-apps-at-the-beginning-of-2024",
+    "rss": "https://abf.li/feed.xml",
+    "date": "2024-01-06 09:06",
+    "id": 333,
+    "urlKey": "https://abf.li/posts/default-apps-at-the-beginning-of-2024",
+    "links": []
+  },
+  "https://www.philipptemmel.com/writings/app-defaults-2023": {
+    "name": "Philipp Temmel",
+    "url": "https://www.philipptemmel.com/writings/app-defaults-2023",
+    "date": "2024-01-08 16:00",
+    "id": 334,
+    "urlKey": "https://www.philipptemmel.com/writings/app-defaults-2023",
+    "links": []
   }
 }

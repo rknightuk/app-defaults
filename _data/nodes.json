@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 98
+      "linkCount": 99
     },
     {
       "id": 1001,
@@ -2995,6 +2995,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 335,
+      "label": "Tom",
+      "url": "https://ttntm.me/blog/app-defaults-2023",
+      "rss": "https://ttntm.me/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 336,
+      "label": "Vik",
+      "url": "https://ivikrant.net/2024/01/09/default-apps-2024",
+      "rss": "https://ivikrant.net/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3389,6 +3407,10 @@
     {
       "from": 1000,
       "to": 334
+    },
+    {
+      "from": 1000,
+      "to": 336
     },
     {
       "from": 1001,

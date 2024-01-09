@@ -101,7 +101,8 @@
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://www.philipptemmel.com/writings/app-defaults-2023",
-      "https://www.philipptemmel.com/writings/app-defaults-2023"
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://ivikrant.net/2024/01/09/default-apps-2024"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -3603,6 +3604,24 @@
     "date": "2024-01-08 16:00",
     "id": 334,
     "urlKey": "https://www.philipptemmel.com/writings/app-defaults-2023",
+    "links": []
+  },
+  "https://ttntm.me/blog/app-defaults-2023": {
+    "name": "Tom",
+    "url": "https://ttntm.me/blog/app-defaults-2023",
+    "rss": "https://ttntm.me/feed.xml",
+    "date": "2024-01-08 18:49",
+    "id": 335,
+    "urlKey": "https://ttntm.me/blog/app-defaults-2023",
+    "links": []
+  },
+  "https://ivikrant.net/2024/01/09/default-apps-2024": {
+    "name": "Vik",
+    "url": "https://ivikrant.net/2024/01/09/default-apps-2024",
+    "rss": "https://ivikrant.net/feed/",
+    "date": "2024-01-09 09:18",
+    "id": 336,
+    "urlKey": "https://ivikrant.net/2024/01/09/default-apps-2024",
     "links": []
   }
 }

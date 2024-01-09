@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 99
+      "linkCount": 98
     },
     {
       "id": 1001,
@@ -2995,15 +2995,6 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
-    },
-    {
-      "id": 335,
-      "label": "",
-      "url": "https://ivikrant.net/2024/01/09/default-apps-2024",
-      "rss": "https://ivikrant.net/feed/",
-      "shape": "box",
-      "color": "#03a4df",
-      "linkCount": 0
     }
   ],
   "edges": [
@@ -3398,10 +3389,6 @@
     {
       "from": 1000,
       "to": 334
-    },
-    {
-      "from": 1000,
-      "to": 335
     },
     {
       "from": 1001,

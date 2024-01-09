@@ -338,7 +338,8 @@
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://www.philipptemmel.com/writings/app-defaults-2023",
-      "https://www.philipptemmel.com/writings/app-defaults-2023"
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://danielprindii.com/2024/01/09/default-apps-of-2023"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3622,6 +3623,15 @@
     "date": "2024-01-09 09:18",
     "id": 336,
     "urlKey": "https://ivikrant.net/2024/01/09/default-apps-2024",
+    "links": []
+  },
+  "https://danielprindii.com/2024/01/09/default-apps-of-2023": {
+    "name": "Daniel Prindii",
+    "url": "https://danielprindii.com/2024/01/09/default-apps-of-2023",
+    "rss": "https://danielprindii.com/feed/",
+    "date": "2024-01-09 16:16",
+    "id": 337,
+    "urlKey": "https://danielprindii.com/2024/01/09/default-apps-of-2023",
     "links": []
   }
 }

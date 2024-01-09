@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 227
+      "linkCount": 228
     },
     {
       "id": 1,
@@ -3013,6 +3013,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 337,
+      "label": "Daniel Prindii",
+      "url": "https://danielprindii.com/2024/01/09/default-apps-of-2023",
+      "rss": "https://danielprindii.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4319,6 +4328,10 @@
     {
       "from": 1001,
       "to": 334
+    },
+    {
+      "from": 1001,
+      "to": 337
     },
     {
       "from": 1,

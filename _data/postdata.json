@@ -332,7 +332,7 @@
       "https://www.martingunnarsson.com/posts/apps-2023",
       "https://www.trovster.com/about/uses#defaults",
       "https://cjd.weblog.lol/2024/01/app-defaults",
-      "https://iamfran.com/posts/2024/01/app-defaults-2023",
+      "https://iamfran.com/archives/apps-default-2023",
       "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html",
       "https://abf.li/posts/default-apps-at-the-beginning-of-2024",
       "https://www.philipptemmel.com/writings/app-defaults-2023",
@@ -905,7 +905,7 @@
     "urlKey": "https://gkeenan.co/avgb/app-defaults",
     "links": [
       "https://daught.me/blog/2023-defaults",
-      "https://iamfran.com/posts/2024/01/app-defaults-2023"
+      "https://iamfran.com/archives/apps-default-2023"
     ]
   },
   "https://pauls.weblog.lol/2024/01/app-defaults": {
@@ -3570,13 +3570,13 @@
     "urlKey": "https://cjd.weblog.lol/2024/01/app-defaults",
     "links": []
   },
-  "https://iamfran.com/posts/2024/01/app-defaults-2023": {
+  "https://iamfran.com/archives/apps-default-2023": {
     "name": "Fran",
-    "url": "https://iamfran.com/posts/2024/01/app-defaults-2023",
+    "url": "https://iamfran.com/archives/apps-default-2023",
     "rss": "https://iamfran.com/index.xml",
     "date": "2024-01-05 10:12",
     "id": 331,
-    "urlKey": "https://iamfran.com/posts/2024/01/app-defaults-2023",
+    "urlKey": "https://iamfran.com/archives/apps-default-2023",
     "links": []
   },
   "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html": {

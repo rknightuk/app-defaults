@@ -279,7 +279,7 @@
       "https://blog.adm.ink/defaults",
       "https://heyloura.com/2023/12/07/my-app-defaults.html",
       "https://daught.me/blog/2023-defaults",
-      "https://mozzillo.com/en/2023/12/default-apps-2023",
+      "https://mzll.it/2023/12/en-default-2023/",
       "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
       "https://gigold.me/blog/defaults",
       "https://thenewleafjournal.com/my-default-apps-as-of-december-2023",
@@ -2895,15 +2895,15 @@
     "urlKey": "https://daught.me/blog/2023-defaults",
     "links": []
   },
-  "https://mozzillo.com/en/2023/12/default-apps-2023": {
+  "https://mzll.it/2023/12/en-default-2023/": {
     "name": "Luigi Mozzillo",
-    "url": "https://mozzillo.com/en/2023/12/default-apps-2023",
-    "rss": "https://mozzillo.com/en/index.xml",
+    "url": "https://mzll.it/2023/12/en-default-2023/",
+    "rss": "https://mzll.it/index.xml",
     "date": "2023-12-08 07:20",
     "id": 256,
-    "urlKey": "https://mozzillo.com/en/2023/12/default-apps-2023",
+    "urlKey": "https://mzll.it/2023/12/en-default-2023/",
     "links": [
-      "https://mozzillo.com/en/2023/12/default-apps-2023"
+      "https://mzll.it/2023/12/en-default-2023/"
     ]
   },
   "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023": {

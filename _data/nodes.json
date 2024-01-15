@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 99
+      "linkCount": 100
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 230
+      "linkCount": 231
     },
     {
       "id": 1,
@@ -3040,6 +3040,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 340,
+      "label": "Abdo",
+      "url": "https://abdo.wtf/blog/app-defaults",
+      "rss": "https://abdo.wtf/atom.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3438,6 +3447,10 @@
     {
       "from": 1000,
       "to": 336
+    },
+    {
+      "from": 1000,
+      "to": 340
     },
     {
       "from": 1001,
@@ -4354,6 +4367,10 @@
     {
       "from": 1001,
       "to": 339
+    },
+    {
+      "from": 1001,
+      "to": 340
     },
     {
       "from": 1,

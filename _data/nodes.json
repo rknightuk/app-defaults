@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 228
+      "linkCount": 229
     },
     {
       "id": 1,
@@ -3022,6 +3022,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 338,
+      "label": "Oliver",
+      "url": "https://pifferi.info/My-default-apps-starting-2024",
+      "rss": "https://pifferi.info/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4091,10 +4100,6 @@
     },
     {
       "from": 1001,
-      "to": 256
-    },
-    {
-      "from": 1001,
       "to": 257
     },
     {
@@ -4332,6 +4337,10 @@
     {
       "from": 1001,
       "to": 337
+    },
+    {
+      "from": 1001,
+      "to": 338
     },
     {
       "from": 1,

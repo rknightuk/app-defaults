@@ -339,7 +339,8 @@
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://www.philipptemmel.com/writings/app-defaults-2023",
-      "https://danielprindii.com/2024/01/09/default-apps-of-2023"
+      "https://danielprindii.com/2024/01/09/default-apps-of-2023",
+      "https://pifferi.info/My-default-apps-starting-2024"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3632,6 +3633,15 @@
     "date": "2024-01-09 16:16",
     "id": 337,
     "urlKey": "https://danielprindii.com/2024/01/09/default-apps-of-2023",
+    "links": []
+  },
+  "https://pifferi.info/My-default-apps-starting-2024": {
+    "name": "Oliver",
+    "url": "https://pifferi.info/My-default-apps-starting-2024",
+    "rss": "https://pifferi.info/feed.xml",
+    "date": "2024-01-15 08:44",
+    "id": 338,
+    "urlKey": "https://pifferi.info/My-default-apps-starting-2024",
     "links": []
   }
 }

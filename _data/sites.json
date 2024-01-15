@@ -335,5 +335,6 @@
     { "name": "Philipp Temmel", "url": "https://www.philipptemmel.com/writings/app-defaults-2023", "date": "2024-01-08 16:00" },
     { "name": "Tom", "url": "https://ttntm.me/blog/app-defaults-2023/", "rss": "https://ttntm.me/feed.xml", "date": "2024-01-08 18:49" },
     { "name": "Vik", "url": "https://ivikrant.net/2024/01/09/default-apps-2024/", "rss": "https://ivikrant.net/feed/", "date": "2024-01-09 09:18"},
-    { "name": "Daniel Prindii", "url": "https://danielprindii.com/2024/01/09/default-apps-of-2023/", "rss": "https://danielprindii.com/feed/", "date": "2024-01-09 16:16" }
+    { "name": "Daniel Prindii", "url": "https://danielprindii.com/2024/01/09/default-apps-of-2023/", "rss": "https://danielprindii.com/feed/", "date": "2024-01-09 16:16" },
+    { "name": "Oliver", "url": "https://pifferi.info/My-default-apps-starting-2024/", "rss": "https://pifferi.info/feed.xml", "date": "2024-01-15 08:44" }
 ]

@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 24
+      "linkCount": 25
     },
     {
       "id": 3,
@@ -3058,6 +3058,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 342,
+      "label": "Joshua Wold",
+      "url": "https://joshuawold.com/app-defaults",
+      "rss": "https://joshuawold.com/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4536,6 +4545,10 @@
     {
       "from": 2,
       "to": 284
+    },
+    {
+      "from": 2,
+      "to": 342
     },
     {
       "from": 3,

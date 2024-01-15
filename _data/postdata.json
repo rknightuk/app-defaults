@@ -404,7 +404,8 @@
       "https://daniel.industries/2023/12/03/default-apps-2023",
       "https://technocidal.com/2023/12/07/app-defaults",
       "https://daught.me/blog/2023-defaults",
-      "https://danabyerly.com/notes/defaults-2023"
+      "https://danabyerly.com/notes/defaults-2023",
+      "https://joshuawold.com/app-defaults"
     ]
   },
   "https://maique.eu/2023/11/03/defaults.html": {
@@ -3674,6 +3675,15 @@
     "date": "2024-01-15 11:35",
     "id": 341,
     "urlKey": "https://sascha.sh/posts/my-default-apps-of-early-2024",
+    "links": []
+  },
+  "https://joshuawold.com/app-defaults": {
+    "name": "Joshua Wold",
+    "url": "https://joshuawold.com/app-defaults",
+    "rss": "https://joshuawold.com/feed/",
+    "date": "2024-01-15 15:36",
+    "id": 342,
+    "urlKey": "https://joshuawold.com/app-defaults",
     "links": []
   }
 }

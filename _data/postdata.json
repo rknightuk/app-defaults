@@ -339,7 +339,9 @@
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://www.philipptemmel.com/writings/app-defaults-2023",
-      "https://danielprindii.com/2024/01/09/default-apps-of-2023"
+      "https://danielprindii.com/2024/01/09/default-apps-of-2023",
+      "https://pifferi.info/My-default-apps-starting-2024",
+      "https://www.niklas.fyi/posts/2024-01-11-default-apps"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3632,6 +3634,24 @@
     "date": "2024-01-09 16:16",
     "id": 337,
     "urlKey": "https://danielprindii.com/2024/01/09/default-apps-of-2023",
+    "links": []
+  },
+  "https://pifferi.info/My-default-apps-starting-2024": {
+    "name": "Oliver",
+    "url": "https://pifferi.info/My-default-apps-starting-2024",
+    "rss": "https://pifferi.info/feed.xml",
+    "date": "2024-01-15 08:44",
+    "id": 338,
+    "urlKey": "https://pifferi.info/My-default-apps-starting-2024",
+    "links": []
+  },
+  "https://www.niklas.fyi/posts/2024-01-11-default-apps": {
+    "name": "Niklas Siefke",
+    "url": "https://www.niklas.fyi/posts/2024-01-11-default-apps",
+    "rss": "https://www.niklas.fyi/rss.xml",
+    "date": "2024-01-15 08:46",
+    "id": 339,
+    "urlKey": "https://www.niklas.fyi/posts/2024-01-11-default-apps",
     "links": []
   }
 }

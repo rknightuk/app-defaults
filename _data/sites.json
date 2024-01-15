@@ -338,5 +338,6 @@
     { "name": "Daniel Prindii", "url": "https://danielprindii.com/2024/01/09/default-apps-of-2023/", "rss": "https://danielprindii.com/feed/", "date": "2024-01-09 16:16" },
     { "name": "Oliver", "url": "https://pifferi.info/My-default-apps-starting-2024/", "rss": "https://pifferi.info/feed.xml", "date": "2024-01-15 08:44" },
     { "name": "Niklas Siefke", "url": "https://www.niklas.fyi/posts/2024-01-11-default-apps/", "rss": "https://www.niklas.fyi/rss.xml", "date": "2024-01-15 08:46" },
-    { "name": "Abdo", "url": "https://abdo.wtf/blog/app-defaults/", "rss": "https://abdo.wtf/atom.xml", "date": "2024-01-15 06:06" }
+    { "name": "Abdo", "url": "https://abdo.wtf/blog/app-defaults/", "rss": "https://abdo.wtf/atom.xml", "date": "2024-01-15 06:06" },
+    { "name": "Sascha", "url": "https://sascha.sh/posts/my-default-apps-of-early-2024/", "rss": "https://sascha.sh/index.xml", "date": "2024-01-15 11:35" }
 ]

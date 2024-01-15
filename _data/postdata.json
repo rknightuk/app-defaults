@@ -103,7 +103,8 @@
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://ivikrant.net/2024/01/09/default-apps-2024",
-      "https://abdo.wtf/blog/app-defaults"
+      "https://abdo.wtf/blog/app-defaults",
+      "https://sascha.sh/posts/my-default-apps-of-early-2024"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -343,7 +344,8 @@
       "https://danielprindii.com/2024/01/09/default-apps-of-2023",
       "https://pifferi.info/My-default-apps-starting-2024",
       "https://www.niklas.fyi/posts/2024-01-11-default-apps",
-      "https://abdo.wtf/blog/app-defaults"
+      "https://abdo.wtf/blog/app-defaults",
+      "https://sascha.sh/posts/my-default-apps-of-early-2024"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3663,6 +3665,15 @@
     "date": "2024-01-15 06:06",
     "id": 340,
     "urlKey": "https://abdo.wtf/blog/app-defaults",
+    "links": []
+  },
+  "https://sascha.sh/posts/my-default-apps-of-early-2024": {
+    "name": "Sascha",
+    "url": "https://sascha.sh/posts/my-default-apps-of-early-2024",
+    "rss": "https://sascha.sh/index.xml",
+    "date": "2024-01-15 11:35",
+    "id": 341,
+    "urlKey": "https://sascha.sh/posts/my-default-apps-of-early-2024",
     "links": []
   }
 }

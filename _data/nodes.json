@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 100
+      "linkCount": 101
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 231
+      "linkCount": 232
     },
     {
       "id": 1,
@@ -3049,6 +3049,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 341,
+      "label": "Sascha",
+      "url": "https://sascha.sh/posts/my-default-apps-of-early-2024",
+      "rss": "https://sascha.sh/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3451,6 +3460,10 @@
     {
       "from": 1000,
       "to": 340
+    },
+    {
+      "from": 1000,
+      "to": 341
     },
     {
       "from": 1001,
@@ -4371,6 +4384,10 @@
     {
       "from": 1001,
       "to": 340
+    },
+    {
+      "from": 1001,
+      "to": 341
     },
     {
       "from": 1,

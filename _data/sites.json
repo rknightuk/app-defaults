@@ -340,5 +340,6 @@
     { "name": "Niklas Siefke", "url": "https://www.niklas.fyi/posts/2024-01-11-default-apps/", "rss": "https://www.niklas.fyi/rss.xml", "date": "2024-01-15 08:46" },
     { "name": "Abdo", "url": "https://abdo.wtf/blog/app-defaults/", "rss": "https://abdo.wtf/atom.xml", "date": "2024-01-15 06:06" },
     { "name": "Sascha", "url": "https://sascha.sh/posts/my-default-apps-of-early-2024/", "rss": "https://sascha.sh/index.xml", "date": "2024-01-15 11:35" },
-    { "name": "Joshua Wold", "url": "https://joshuawold.com/app-defaults/", "rss": "https://joshuawold.com/feed/", "date": "2024-01-15 15:36" }
+    { "name": "Joshua Wold", "url": "https://joshuawold.com/app-defaults/", "rss": "https://joshuawold.com/feed/", "date": "2024-01-15 15:36" },
+    { "name": "Ed Leeman", "url": "https://edleeman.co.uk/posts/my-app-defaults-of-2024/", "rss": "https://edleeman.co.uk/index.xml", "date": "2024-01-16 12:36" }
 ]

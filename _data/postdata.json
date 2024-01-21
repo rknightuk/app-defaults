@@ -104,7 +104,8 @@
       "https://www.philipptemmel.com/writings/app-defaults-2023",
       "https://ivikrant.net/2024/01/09/default-apps-2024",
       "https://abdo.wtf/blog/app-defaults",
-      "https://sascha.sh/posts/my-default-apps-of-early-2024"
+      "https://sascha.sh/posts/my-default-apps-of-early-2024",
+      "https://julienbesnier.fr/app-defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -345,7 +346,12 @@
       "https://pifferi.info/My-default-apps-starting-2024",
       "https://www.niklas.fyi/posts/2024-01-11-default-apps",
       "https://abdo.wtf/blog/app-defaults",
-      "https://sascha.sh/posts/my-default-apps-of-early-2024"
+      "https://sascha.sh/posts/my-default-apps-of-early-2024",
+      "https://edleeman.co.uk/posts/my-app-defaults-of-2024",
+      "https://blog.davidmoll.net/blog/2024-01-19-default-apps",
+      "https://julienbesnier.fr/app-defaults",
+      "https://julienbesnier.fr/app-defaults",
+      "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -2587,7 +2593,8 @@
     "id": 221,
     "urlKey": "https://noahjacob.us/words/default-apps-2023.html",
     "links": [
-      "https://timothee.goguely.com/blog/default-apps-2023"
+      "https://timothee.goguely.com/blog/default-apps-2023",
+      "https://julienbesnier.fr/app-defaults"
     ]
   },
   "https://timothee.goguely.com/blog/default-apps-2023": {
@@ -2597,7 +2604,9 @@
     "date": "2023-11-30 21:16",
     "id": 222,
     "urlKey": "https://timothee.goguely.com/blog/default-apps-2023",
-    "links": []
+    "links": [
+      "https://julienbesnier.fr/app-defaults"
+    ]
   },
   "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023": {
     "name": "Ange Chierchia",
@@ -3684,6 +3693,42 @@
     "date": "2024-01-15 15:36",
     "id": 342,
     "urlKey": "https://joshuawold.com/app-defaults",
+    "links": []
+  },
+  "https://edleeman.co.uk/posts/my-app-defaults-of-2024": {
+    "name": "Ed Leeman",
+    "url": "https://edleeman.co.uk/posts/my-app-defaults-of-2024",
+    "rss": "https://edleeman.co.uk/index.xml",
+    "date": "2024-01-16 12:36",
+    "id": 343,
+    "urlKey": "https://edleeman.co.uk/posts/my-app-defaults-of-2024",
+    "links": []
+  },
+  "https://blog.davidmoll.net/blog/2024-01-19-default-apps": {
+    "name": "David Moll",
+    "url": "https://blog.davidmoll.net/blog/2024-01-19-default-apps",
+    "rss": "https://blog.davidmoll.net/feed.xml",
+    "date": "2024-01-19 22:50",
+    "id": 344,
+    "urlKey": "https://blog.davidmoll.net/blog/2024-01-19-default-apps",
+    "links": []
+  },
+  "https://julienbesnier.fr/app-defaults": {
+    "name": "Julien Besnier",
+    "url": "https://julienbesnier.fr/app-defaults",
+    "rss": "https://julienbesnier.fr/index.xml",
+    "date": "2024-01-20 14:50",
+    "id": 345,
+    "urlKey": "https://julienbesnier.fr/app-defaults",
+    "links": []
+  },
+  "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml": {
+    "name": "Tux Machines",
+    "url": "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
+    "rss": "https://news.tuxmachines.org/feed.xml",
+    "date": "2024-01-21 15:11",
+    "id": 346,
+    "urlKey": "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
     "links": []
   }
 }

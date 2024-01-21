@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 101
+      "linkCount": 102
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 232
+      "linkCount": 237
     },
     {
       "id": 1,
@@ -1993,7 +1993,7 @@
       "rss": "https://noahjacob.us/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 222,
@@ -2002,7 +2002,7 @@
       "rss": "https://timothee.goguely.com/blog/index.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 223,
@@ -3067,6 +3067,42 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 343,
+      "label": "Ed Leeman",
+      "url": "https://edleeman.co.uk/posts/my-app-defaults-of-2024",
+      "rss": "https://edleeman.co.uk/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 344,
+      "label": "David Moll",
+      "url": "https://blog.davidmoll.net/blog/2024-01-19-default-apps",
+      "rss": "https://blog.davidmoll.net/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 345,
+      "label": "Julien Besnier",
+      "url": "https://julienbesnier.fr/app-defaults",
+      "rss": "https://julienbesnier.fr/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 346,
+      "label": "Tux Machines",
+      "url": "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
+      "rss": "https://news.tuxmachines.org/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3473,6 +3509,10 @@
     {
       "from": 1000,
       "to": 341
+    },
+    {
+      "from": 1000,
+      "to": 345
     },
     {
       "from": 1001,
@@ -4399,6 +4439,26 @@
       "to": 341
     },
     {
+      "from": 1001,
+      "to": 343
+    },
+    {
+      "from": 1001,
+      "to": 344
+    },
+    {
+      "from": 1001,
+      "to": 345
+    },
+    {
+      "from": 1001,
+      "to": 345
+    },
+    {
+      "from": 1001,
+      "to": 346
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -5165,6 +5225,14 @@
     {
       "from": 221,
       "to": 222
+    },
+    {
+      "from": 221,
+      "to": 345
+    },
+    {
+      "from": 222,
+      "to": 345
     },
     {
       "from": 232,

@@ -344,5 +344,6 @@
     { "name": "Ed Leeman", "url": "https://edleeman.co.uk/posts/my-app-defaults-of-2024/", "rss": "https://edleeman.co.uk/index.xml", "date": "2024-01-16 12:36" },
     { "name": "David Moll", "url": "https://blog.davidmoll.net/blog/2024-01-19-default-apps/", "rss": "https://blog.davidmoll.net/feed.xml", "date": "2024-01-19 22:50" },
     { "name": "Julien Besnier", "url": "https://julienbesnier.fr/app-defaults/", "rss": "https://julienbesnier.fr/index.xml", "date": "2024-01-20 14:50" },
-    { "name": "Tux Machines", "url": "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml", "rss": "https://news.tuxmachines.org/feed.xml", "date": "2024-01-21 15:11" }
+    { "name": "Tux Machines", "url": "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml", "rss": "https://news.tuxmachines.org/feed.xml", "date": "2024-01-21 15:11" },
+    { "name": "Ronnie Lutes", "url": "http://www.thelinerproject.com/blog/defaults/", "date": "2024-01-27 20:44" }
 ]

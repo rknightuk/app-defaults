@@ -105,7 +105,8 @@
       "https://ivikrant.net/2024/01/09/default-apps-2024",
       "https://abdo.wtf/blog/app-defaults",
       "https://sascha.sh/posts/my-default-apps-of-early-2024",
-      "https://julienbesnier.fr/app-defaults"
+      "https://julienbesnier.fr/app-defaults",
+      "http://www.thelinerproject.com/blog/defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -3729,6 +3730,14 @@
     "date": "2024-01-21 15:11",
     "id": 346,
     "urlKey": "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
+    "links": []
+  },
+  "http://www.thelinerproject.com/blog/defaults": {
+    "name": "Ronnie Lutes",
+    "url": "http://www.thelinerproject.com/blog/defaults",
+    "date": "2024-01-27 20:44",
+    "id": 347,
+    "urlKey": "http://www.thelinerproject.com/blog/defaults",
     "links": []
   }
 }

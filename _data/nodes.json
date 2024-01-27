@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 102
+      "linkCount": 103
     },
     {
       "id": 1001,
@@ -3103,6 +3103,14 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 347,
+      "label": "Ronnie Lutes",
+      "url": "http://www.thelinerproject.com/blog/defaults",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3513,6 +3521,10 @@
     {
       "from": 1000,
       "to": 345
+    },
+    {
+      "from": 1000,
+      "to": 347
     },
     {
       "from": 1001,

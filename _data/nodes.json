@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 237
+      "linkCount": 238
     },
     {
       "id": 1,
@@ -3111,6 +3111,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 348,
+      "label": "David Jarman",
+      "url": "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post",
+      "rss": "https://www.davidjarman.info/intermittent-notes-from-david-jarman?format=rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4469,6 +4478,10 @@
     {
       "from": 1001,
       "to": 346
+    },
+    {
+      "from": 1001,
+      "to": 348
     },
     {
       "from": 1,

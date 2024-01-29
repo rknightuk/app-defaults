@@ -352,7 +352,8 @@
       "https://blog.davidmoll.net/blog/2024-01-19-default-apps",
       "https://julienbesnier.fr/app-defaults",
       "https://julienbesnier.fr/app-defaults",
-      "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml"
+      "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
+      "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3738,6 +3739,15 @@
     "date": "2024-01-27 20:44",
     "id": 347,
     "urlKey": "http://www.thelinerproject.com/blog/defaults",
+    "links": []
+  },
+  "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post": {
+    "name": "David Jarman",
+    "url": "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post",
+    "rss": "https://www.davidjarman.info/intermittent-notes-from-david-jarman?format=rss",
+    "date": "2024-01-29 10:59",
+    "id": 348,
+    "urlKey": "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post",
     "links": []
   }
 }

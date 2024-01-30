@@ -465,7 +465,8 @@
     "urlKey": "https://canion.blog/2023/11/04/duel-of-the.html",
     "links": [
       "https://thomasrigby.com/posts/duel-of-the-defaults-2023",
-      "https://jimmitchell.org/2023/11/21/app-defaults.html"
+      "https://jimmitchell.org/2023/11/21/app-defaults.html",
+      "https://www.tiffwhite.me/posts/default-apps"
     ]
   },
   "https://www.andycarolan.com/appdefaults": {
@@ -689,7 +690,9 @@
     "date": "2023-11-07 16:49",
     "id": 28,
     "urlKey": "https://ericmwalk.blog/2023/11/06/application-defaults.html",
-    "links": []
+    "links": [
+      "https://www.tiffwhite.me/posts/default-apps"
+    ]
   },
   "https://coryd.dev/posts/2023/default-apps-2023": {
     "name": "Cory Dransfeldt",
@@ -1062,7 +1065,9 @@
     "date": "2023-11-07 23:01",
     "id": 64,
     "urlKey": "https://blog.bdw.li/posts/app-defaults",
-    "links": []
+    "links": [
+      "https://www.tiffwhite.me/posts/default-apps"
+    ]
   },
   "https://odonnellweb.com/pelican/default-apps-2023.html": {
     "name": "Chris ODonnell",
@@ -3748,6 +3753,23 @@
     "date": "2024-01-29 10:59",
     "id": 348,
     "urlKey": "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post",
+    "links": []
+  },
+  "https://www.davidjarman.info/intermittent-notes,-from-david-jarman/app-defaults-post": {
+    "name": "David Jarman",
+    "url": "https://www.davidjarman.info/intermittent-notes,-from-david-jarman/app-defaults-post",
+    "rss": "https://www.davidjarman.info/intermittent-notes-from-david-jarman?format=rss",
+    "date": "2024-01-29 10:59",
+    "id": 348,
+    "urlKey": "https://www.davidjarman.info/intermittent-notes,-from-david-jarman/app-defaults-post",
+    "links": []
+  },
+  "https://www.tiffwhite.me/posts/default-apps": {
+    "name": "Tiff",
+    "url": "https://www.tiffwhite.me/posts/default-apps",
+    "date": "2024-01-30 09:11",
+    "id": 349,
+    "urlKey": "https://www.tiffwhite.me/posts/default-apps",
     "links": []
   }
 }

@@ -353,7 +353,8 @@
       "https://julienbesnier.fr/app-defaults",
       "https://julienbesnier.fr/app-defaults",
       "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
-      "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post"
+      "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post",
+      "https://bryanmanio.com/blog/default-apps-for-2024"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -884,7 +885,8 @@
     "links": [
       "https://www.maymeow.com/posts/2023/11/my-app-defaults-2023-edition",
       "https://jamesdoc.com/blog/2023/defaults-in-2023",
-      "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd"
+      "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd",
+      "https://bryanmanio.com/blog/default-apps-for-2024"
     ]
   },
   "https://topslakr.com/2023/11/my-default-apps-at-the-end-of-2023": {
@@ -3770,6 +3772,15 @@
     "date": "2024-01-30 09:11",
     "id": 349,
     "urlKey": "https://www.tiffwhite.me/posts/default-apps",
+    "links": []
+  },
+  "https://bryanmanio.com/blog/default-apps-for-2024": {
+    "name": "Bryan Maniotakis",
+    "url": "https://bryanmanio.com/blog/default-apps-for-2024",
+    "rss": "https://bryanmanio.com/feed",
+    "date": "2024-01-30 09:59",
+    "id": 350,
+    "urlKey": "https://bryanmanio.com/blog/default-apps-for-2024",
     "links": []
   }
 }

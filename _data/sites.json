@@ -347,5 +347,6 @@
     { "name": "Tux Machines", "url": "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml", "rss": "https://news.tuxmachines.org/feed.xml", "date": "2024-01-21 15:11" },
     { "name": "Ronnie Lutes", "url": "http://www.thelinerproject.com/blog/defaults/", "date": "2024-01-27 20:44" },
     { "name": "David Jarman", "url": "https://www.davidjarman.info/intermittent-notes,-from-david-jarman/app-defaults-post", "rss": "https://www.davidjarman.info/intermittent-notes-from-david-jarman?format=rss", "date": "2024-01-29 10:59" },
-    { "name": "Tiff", "url": "https://www.tiffwhite.me/posts/default-apps/", "date": "2024-01-30 09:11" }
+    { "name": "Tiff", "url": "https://www.tiffwhite.me/posts/default-apps/", "date": "2024-01-30 09:11" },
+    { "name": "Bryan Maniotakis", "url": "https://bryanmanio.com/blog/default-apps-for-2024/", "rss": "https://bryanmanio.com/feed", "date": "2024-01-30 09:59" }
 ]

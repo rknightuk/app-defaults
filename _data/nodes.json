@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 238
+      "linkCount": 239
     },
     {
       "id": 1,
@@ -416,7 +416,7 @@
       "rss": "https://www.josemunozmatos.com/blog/rss.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 3
+      "linkCount": 4
     },
     {
       "id": 46,
@@ -3137,6 +3137,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 350,
+      "label": "Bryan Maniotakis",
+      "url": "https://bryanmanio.com/blog/default-apps-for-2024",
+      "rss": "https://bryanmanio.com/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4501,6 +4510,10 @@
       "to": 348
     },
     {
+      "from": 1001,
+      "to": 350
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -4907,6 +4920,10 @@
     {
       "from": 45,
       "to": 178
+    },
+    {
+      "from": 45,
+      "to": 350
     },
     {
       "from": 49,

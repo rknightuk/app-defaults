@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 239
+      "linkCount": 241
     },
     {
       "id": 1,
@@ -3146,6 +3146,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 352,
+      "label": "Jeremiah Lee",
+      "url": "https://www.jeremiahlee.com/posts/uses",
+      "rss": "https://www.jeremiahlee.com/feeds/atom.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 353,
+      "label": "Zinzy Waleson Geene",
+      "url": "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
+      "rss": "https://www.zinzy.website/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4512,6 +4530,14 @@
     {
       "from": 1001,
       "to": 351
+    },
+    {
+      "from": 1001,
+      "to": 351
+    },
+    {
+      "from": 1001,
+      "to": 352
     },
     {
       "from": 1,

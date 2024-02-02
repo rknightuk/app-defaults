@@ -354,7 +354,9 @@
       "https://julienbesnier.fr/app-defaults",
       "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
       "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post",
-      "https://bryanmanio.com/blog/default-apps-for-2024"
+      "https://bryanmanio.com/blog/default-apps-for-2024",
+      "https://www.jeremiahlee.com/posts/uses",
+      "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3781,6 +3783,24 @@
     "date": "2024-01-30 09:59",
     "id": 351,
     "urlKey": "https://bryanmanio.com/blog/default-apps-for-2024",
+    "links": []
+  },
+  "https://www.jeremiahlee.com/posts/uses": {
+    "name": "Jeremiah Lee",
+    "url": "https://www.jeremiahlee.com/posts/uses",
+    "rss": "https://www.jeremiahlee.com/feeds/atom.xml",
+    "date": "2024-02-02 17:20",
+    "id": 352,
+    "urlKey": "https://www.jeremiahlee.com/posts/uses",
+    "links": []
+  },
+  "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition": {
+    "name": "Zinzy Waleson Geene",
+    "url": "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
+    "rss": "https://www.zinzy.website/index.xml",
+    "date": "2024-02-02 16:44",
+    "id": 353,
+    "urlKey": "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
     "links": []
   }
 }

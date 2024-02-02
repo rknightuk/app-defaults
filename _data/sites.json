@@ -348,5 +348,6 @@
     { "name": "Ronnie Lutes", "url": "http://www.thelinerproject.com/blog/defaults/", "date": "2024-01-27 20:44" },
     { "name": "David Jarman", "url": "https://www.davidjarman.info/intermittent-notes,-from-david-jarman/app-defaults-post", "rss": "https://www.davidjarman.info/intermittent-notes-from-david-jarman?format=rss", "date": "2024-01-29 10:59" },
     { "name": "Tiff", "url": "https://www.tiffwhite.me/posts/default-apps/", "date": "2024-01-30 09:11" },
-    { "name": "Bryan Maniotakis", "url": "https://bryanmanio.com/blog/default-apps-for-2024/", "rss": "https://bryanmanio.com/feed", "date": "2024-01-30 09:59" }
+    { "name": "Bryan Maniotakis", "url": "https://bryanmanio.com/blog/default-apps-for-2024/", "rss": "https://bryanmanio.com/feed", "date": "2024-01-30 09:59" },
+    { "name": "Jeremiah Lee", "url": "https://www.jeremiahlee.com/posts/uses/", "rss": "https://www.jeremiahlee.com/feeds/atom.xml", "date": "2024-02-02 17:20" }
 ]

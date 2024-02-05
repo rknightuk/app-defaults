@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 241
+      "linkCount": 242
     },
     {
       "id": 1,
@@ -3164,6 +3164,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 354,
+      "label": "Late Night Blog",
+      "url": "https://text.tchncs.de/latenightblog/defaults",
+      "rss": "https://text.tchncs.de/latenightblog/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4533,11 +4542,15 @@
     },
     {
       "from": 1001,
-      "to": 351
+      "to": 352
     },
     {
       "from": 1001,
-      "to": 352
+      "to": 353
+    },
+    {
+      "from": 1001,
+      "to": 353
     },
     {
       "from": 1,

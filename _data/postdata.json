@@ -356,7 +356,8 @@
       "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post",
       "https://bryanmanio.com/blog/default-apps-for-2024",
       "https://www.jeremiahlee.com/posts/uses",
-      "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition"
+      "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
+      "https://text.tchncs.de/latenightblog/defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3801,6 +3802,15 @@
     "date": "2024-02-02 16:44",
     "id": 353,
     "urlKey": "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
+    "links": []
+  },
+  "https://text.tchncs.de/latenightblog/defaults": {
+    "name": "Late Night Blog",
+    "url": "https://text.tchncs.de/latenightblog/defaults",
+    "rss": "https://text.tchncs.de/latenightblog/feed/",
+    "date": "2024-02-05 02:18",
+    "id": 354,
+    "urlKey": "https://text.tchncs.de/latenightblog/defaults",
     "links": []
   }
 }

@@ -358,7 +358,8 @@
       "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
       "https://text.tchncs.de/latenightblog/defaults",
       "https://steve-best.github.io/default-apps",
-      "https://karltoller.com/default-apps-2024"
+      "https://karltoller.com/default-apps-2024",
+      "https://binarydigit.cafe/notes/app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3822,6 +3823,15 @@
     "date": "2024-02-08 11:37",
     "id": 357,
     "urlKey": "https://karltoller.com/default-apps-2024",
+    "links": []
+  },
+  "https://binarydigit.cafe/notes/app-defaults": {
+    "name": "Binary Digit",
+    "url": "https://binarydigit.cafe/notes/app-defaults",
+    "rss": "https://binarydigit.cafe/index.xml",
+    "date": "2024-02-08 16:12",
+    "id": 358,
+    "urlKey": "https://binarydigit.cafe/notes/app-defaults",
     "links": []
   }
 }

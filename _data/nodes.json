@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 240
+      "linkCount": 241
     },
     {
       "id": 1,
@@ -3200,6 +3200,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 358,
+      "label": "Binary Digit",
+      "url": "https://binarydigit.cafe/notes/app-defaults",
+      "rss": "https://binarydigit.cafe/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4586,6 +4595,10 @@
     {
       "from": 1001,
       "to": 357
+    },
+    {
+      "from": 1001,
+      "to": 358
     },
     {
       "from": 1,

@@ -3807,13 +3807,13 @@
     "urlKey": "https://steve-best.github.io/default-apps",
     "links": []
   },
-  "https://plttn.me/uses": {
+  "https://plttn.me/defaults": {
     "name": "Jack Platten",
-    "url": "https://plttn.me/uses",
+    "url": "https://plttn.me/defaults",
     "rss": "https://plttn.me/rss.xml",
     "date": "2024-02-08 00:00",
     "id": 356,
-    "urlKey": "https://plttn.me/uses",
+    "urlKey": "https://plttn.me/defaults",
     "links": []
   },
   "https://karltoller.com/default-apps-2024": {

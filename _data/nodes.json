@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 103
+      "linkCount": 106
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 243
+      "linkCount": 240
     },
     {
       "id": 1,
@@ -23,7 +23,7 @@
       "rss": "https://gabz.blog/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 13
+      "linkCount": 1
     },
     {
       "id": 2,
@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 25
+      "linkCount": 27
     },
     {
       "id": 3,
@@ -68,7 +68,7 @@
       "rss": "https://canion.blog/feed.xml",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 3
+      "linkCount": 2
     },
     {
       "id": 7,
@@ -117,7 +117,7 @@
       "id": 12,
       "label": "Habib",
       "url": "https://www.chamline.net/default-apps",
-      "rss": "https://www.chamline.net/blog/rss/",
+      "rss": "https://www.chamline.net/rss/",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -165,7 +165,7 @@
       "rss": "https://heydingus.net/feed.rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 1
     },
     {
       "id": 18,
@@ -263,7 +263,7 @@
       "rss": "https://ericmwalk.blog/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 0
     },
     {
       "id": 29,
@@ -1072,7 +1072,7 @@
       "rss": "https://manuelmoreale.com/feed/rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 14
+      "linkCount": 15
     },
     {
       "id": 119,
@@ -1426,7 +1426,7 @@
     {
       "id": 158,
       "label": "AJ Bourg",
-      "url": "https://aj.bourg.family/home-screen-defaults-subscriptions-2023/",
+      "url": "https://aj.bourg.family/home-screen-defaults-subscriptions-2023",
       "rss": "https://aj.bourg.family/feed/",
       "shape": "box",
       "color": "#03a4df",
@@ -1538,7 +1538,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 18
+      "linkCount": 17
     },
     {
       "id": 171,
@@ -1689,7 +1689,7 @@
       "rss": "https://brainbaking.com/index.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 188,
@@ -1755,10 +1755,10 @@
       "linkCount": 0
     },
     {
-      "id": 195,
-      "label": "TechTea",
+      "id": 311,
+      "label": "Matthew Lamont",
       "url": "https://techtea.io/articles/2023/app-defaults",
-      "rss": "https://techtea.io/articles/index.xml",
+      "rss": "https://techtea.io/index.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -1823,7 +1823,7 @@
       "rss": "https://notes.baldurbjarnason.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 0
     },
     {
       "id": 203,
@@ -2304,7 +2304,7 @@
     {
       "id": 256,
       "label": "Luigi Mozzillo",
-      "url": "https://mzll.it/2023/12/en-default-2023/",
+      "url": "https://mzll.it/2023/12/en-default-2023",
       "rss": "https://mzll.it/index.xml",
       "shape": "box",
       "color": "#03a4df",
@@ -2885,6 +2885,7 @@
       "id": 322,
       "label": "Ben Yafai",
       "url": "https://ben.yaf.ai/app-defaults",
+      "rss": "https://ben.yaf.ai/rss.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2900,7 +2901,7 @@
     },
     {
       "id": 324,
-      "label": "Ehler ",
+      "label": "M Ehler",
       "url": "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
       "rss": "https://mrehler.com/feed/",
       "shape": "box",
@@ -2965,7 +2966,7 @@
       "id": 331,
       "label": "Fran",
       "url": "https://iamfran.com/archives/apps-default-2023",
-      "rss": "https://iamfran.com/index.xml",
+      "rss": "https://iamfran.com/feed.rss",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -2977,7 +2978,7 @@
       "rss": "https://amerpie.micro.blog/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 0
     },
     {
       "id": 333,
@@ -3115,15 +3116,6 @@
     {
       "id": 348,
       "label": "David Jarman",
-      "url": "https://www.davidjarman.info/intermittent-notes-from-david-jarman/app-defaults-post",
-      "rss": "https://www.davidjarman.info/intermittent-notes-from-david-jarman?format=rss",
-      "shape": "box",
-      "color": "#03a4df",
-      "linkCount": 0
-    },
-    {
-      "id": 349,
-      "label": "David Jarman",
       "url": "https://www.davidjarman.info/intermittent-notes,-from-david-jarman/app-defaults-post",
       "rss": "https://www.davidjarman.info/intermittent-notes-from-david-jarman?format=rss",
       "shape": "box",
@@ -3131,7 +3123,7 @@
       "linkCount": 0
     },
     {
-      "id": 350,
+      "id": 349,
       "label": "Tiff",
       "url": "https://www.tiffwhite.me/posts/default-apps",
       "shape": "box",
@@ -3139,7 +3131,7 @@
       "linkCount": 0
     },
     {
-      "id": 351,
+      "id": 350,
       "label": "Bryan Maniotakis",
       "url": "https://bryanmanio.com/blog/default-apps-for-2024",
       "rss": "https://bryanmanio.com/feed",
@@ -3148,7 +3140,7 @@
       "linkCount": 0
     },
     {
-      "id": 352,
+      "id": 351,
       "label": "Jeremiah Lee",
       "url": "https://www.jeremiahlee.com/posts/uses",
       "rss": "https://www.jeremiahlee.com/feeds/atom.xml",
@@ -3157,7 +3149,7 @@
       "linkCount": 0
     },
     {
-      "id": 353,
+      "id": 352,
       "label": "Zinzy Waleson Geene",
       "url": "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
       "rss": "https://www.zinzy.website/index.xml",
@@ -3166,7 +3158,7 @@
       "linkCount": 0
     },
     {
-      "id": 354,
+      "id": 353,
       "label": "Late Night Blog",
       "url": "https://text.tchncs.de/latenightblog/defaults",
       "rss": "https://text.tchncs.de/latenightblog/feed/",
@@ -3175,7 +3167,7 @@
       "linkCount": 0
     },
     {
-      "id": 355,
+      "id": 354,
       "label": "MikeyP",
       "url": "https://mikeyp.com/defaults",
       "rss": "http://www.mikeyp.com/feed",
@@ -3184,19 +3176,33 @@
       "linkCount": 0
     },
     {
-      "id": 356,
+      "id": 355,
       "label": "Steve Best",
       "url": "https://steve-best.github.io/default-apps",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 356,
+      "label": "Jack Platten",
+      "url": "https://plttn.me/uses",
+      "rss": "https://plttn.me/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 357,
+      "label": "Karl Toller",
+      "url": "https://karltoller.com/default-apps-2024",
+      "rss": "https://karltoller.com/feed",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
     }
   ],
   "edges": [
-    {
-      "from": 1000,
-      "to": 1
-    },
     {
       "from": 1000,
       "to": 2
@@ -3231,15 +3237,15 @@
     },
     {
       "from": 1000,
+      "to": 12
+    },
+    {
+      "from": 1000,
       "to": 13
     },
     {
       "from": 1000,
       "to": 14
-    },
-    {
-      "from": 1000,
-      "to": 16
     },
     {
       "from": 1000,
@@ -3299,6 +3305,10 @@
     },
     {
       "from": 1000,
+      "to": 50
+    },
+    {
+      "from": 1000,
       "to": 53
     },
     {
@@ -3328,6 +3338,10 @@
     {
       "from": 1000,
       "to": 78
+    },
+    {
+      "from": 1000,
+      "to": 81
     },
     {
       "from": 1000,
@@ -3387,10 +3401,6 @@
     },
     {
       "from": 1000,
-      "to": 125
-    },
-    {
-      "from": 1000,
       "to": 127
     },
     {
@@ -3403,7 +3413,7 @@
     },
     {
       "from": 1000,
-      "to": 141
+      "to": 144
     },
     {
       "from": 1000,
@@ -3432,6 +3442,10 @@
     {
       "from": 1000,
       "to": 166
+    },
+    {
+      "from": 1000,
+      "to": 167
     },
     {
       "from": 1000,
@@ -3531,6 +3545,10 @@
     },
     {
       "from": 1000,
+      "to": 287
+    },
+    {
+      "from": 1000,
       "to": 304
     },
     {
@@ -3540,6 +3558,10 @@
     {
       "from": 1000,
       "to": 305
+    },
+    {
+      "from": 1000,
+      "to": 306
     },
     {
       "from": 1000,
@@ -3615,6 +3637,10 @@
     },
     {
       "from": 1001,
+      "to": 12
+    },
+    {
+      "from": 1001,
       "to": 13
     },
     {
@@ -3631,15 +3657,7 @@
     },
     {
       "from": 1001,
-      "to": 16
-    },
-    {
-      "from": 1001,
       "to": 17
-    },
-    {
-      "from": 1001,
-      "to": 18
     },
     {
       "from": 1001,
@@ -3672,10 +3690,6 @@
     {
       "from": 1001,
       "to": 34
-    },
-    {
-      "from": 1001,
-      "to": 35
     },
     {
       "from": 1001,
@@ -3724,10 +3738,6 @@
     {
       "from": 1001,
       "to": 56
-    },
-    {
-      "from": 1001,
-      "to": 57
     },
     {
       "from": 1001,
@@ -3784,6 +3794,18 @@
     {
       "from": 1001,
       "to": 80
+    },
+    {
+      "from": 1001,
+      "to": 81
+    },
+    {
+      "from": 1001,
+      "to": 81
+    },
+    {
+      "from": 1001,
+      "to": 81
     },
     {
       "from": 1001,
@@ -3903,15 +3925,7 @@
     },
     {
       "from": 1001,
-      "to": 123
-    },
-    {
-      "from": 1001,
       "to": 124
-    },
-    {
-      "from": 1001,
-      "to": 125
     },
     {
       "from": 1001,
@@ -3948,10 +3962,6 @@
     {
       "from": 1001,
       "to": 140
-    },
-    {
-      "from": 1001,
-      "to": 141
     },
     {
       "from": 1001,
@@ -4004,6 +4014,10 @@
     {
       "from": 1001,
       "to": 157
+    },
+    {
+      "from": 1001,
+      "to": 158
     },
     {
       "from": 1001,
@@ -4107,7 +4121,7 @@
     },
     {
       "from": 1001,
-      "to": 195
+      "to": 311
     },
     {
       "from": 1001,
@@ -4275,6 +4289,10 @@
     },
     {
       "from": 1001,
+      "to": 256
+    },
+    {
+      "from": 1001,
       "to": 257
     },
     {
@@ -4300,6 +4318,10 @@
     {
       "from": 1001,
       "to": 271
+    },
+    {
+      "from": 1001,
+      "to": 274
     },
     {
       "from": 1001,
@@ -4375,11 +4397,7 @@
     },
     {
       "from": 1001,
-      "to": 299
-    },
-    {
-      "from": 1001,
-      "to": 300
+      "to": 303
     },
     {
       "from": 1001,
@@ -4396,6 +4414,10 @@
     {
       "from": 1001,
       "to": 305
+    },
+    {
+      "from": 1001,
+      "to": 306
     },
     {
       "from": 1001,
@@ -4415,19 +4437,15 @@
     },
     {
       "from": 1001,
+      "to": 311
+    },
+    {
+      "from": 1001,
       "to": 313
     },
     {
       "from": 1001,
       "to": 314
-    },
-    {
-      "from": 1001,
-      "to": 316
-    },
-    {
-      "from": 1001,
-      "to": 316
     },
     {
       "from": 1001,
@@ -4448,10 +4466,6 @@
     {
       "from": 1001,
       "to": 321
-    },
-    {
-      "from": 1001,
-      "to": 85
     },
     {
       "from": 1001,
@@ -4551,7 +4565,7 @@
     },
     {
       "from": 1001,
-      "to": 348
+      "to": 350
     },
     {
       "from": 1001,
@@ -4567,63 +4581,15 @@
     },
     {
       "from": 1001,
-      "to": 354
+      "to": 355
     },
     {
       "from": 1001,
-      "to": 355
+      "to": 357
     },
     {
       "from": 1,
       "to": 2
-    },
-    {
-      "from": 1,
-      "to": 3
-    },
-    {
-      "from": 1,
-      "to": 4
-    },
-    {
-      "from": 1,
-      "to": 6
-    },
-    {
-      "from": 1,
-      "to": 17
-    },
-    {
-      "from": 1,
-      "to": 49
-    },
-    {
-      "from": 1,
-      "to": 62
-    },
-    {
-      "from": 1,
-      "to": 148
-    },
-    {
-      "from": 1,
-      "to": 148
-    },
-    {
-      "from": 1,
-      "to": 210
-    },
-    {
-      "from": 1,
-      "to": 258
-    },
-    {
-      "from": 1,
-      "to": 259
-    },
-    {
-      "from": 1,
-      "to": 287
     },
     {
       "from": 2,
@@ -4667,11 +4633,19 @@
     },
     {
       "from": 2,
+      "to": 50
+    },
+    {
+      "from": 2,
       "to": 62
     },
     {
       "from": 2,
       "to": 100
+    },
+    {
+      "from": 2,
+      "to": 144
     },
     {
       "from": 2,
@@ -4770,10 +4744,6 @@
       "to": 209
     },
     {
-      "from": 6,
-      "to": 350
-    },
-    {
       "from": 9,
       "to": 14
     },
@@ -4792,10 +4762,6 @@
     {
       "from": 14,
       "to": 186
-    },
-    {
-      "from": 17,
-      "to": 125
     },
     {
       "from": 25,
@@ -4858,10 +4824,6 @@
       "to": 247
     },
     {
-      "from": 28,
-      "to": 350
-    },
-    {
       "from": 29,
       "to": 255
     },
@@ -4903,10 +4865,6 @@
     },
     {
       "from": 35,
-      "to": 89
-    },
-    {
-      "from": 35,
       "to": 93
     },
     {
@@ -4927,7 +4885,7 @@
     },
     {
       "from": 35,
-      "to": 195
+      "to": 311
     },
     {
       "from": 35,
@@ -4940,6 +4898,10 @@
     {
       "from": 35,
       "to": 279
+    },
+    {
+      "from": 35,
+      "to": 311
     },
     {
       "from": 35,
@@ -4983,7 +4945,7 @@
     },
     {
       "from": 45,
-      "to": 351
+      "to": 350
     },
     {
       "from": 49,
@@ -5008,10 +4970,6 @@
     {
       "from": 62,
       "to": 148
-    },
-    {
-      "from": 64,
-      "to": 350
     },
     {
       "from": 66,
@@ -5107,10 +5065,6 @@
     },
     {
       "from": 118,
-      "to": 123
-    },
-    {
-      "from": 118,
       "to": 146
     },
     {
@@ -5131,7 +5085,7 @@
     },
     {
       "from": 118,
-      "to": 195
+      "to": 311
     },
     {
       "from": 118,
@@ -5156,6 +5110,14 @@
     {
       "from": 118,
       "to": 283
+    },
+    {
+      "from": 118,
+      "to": 311
+    },
+    {
+      "from": 118,
+      "to": 357
     },
     {
       "from": 124,
@@ -5246,10 +5208,6 @@
       "to": 308
     },
     {
-      "from": 170,
-      "to": 312
-    },
-    {
       "from": 171,
       "to": 172
     },
@@ -5295,7 +5253,11 @@
     },
     {
       "from": 187,
-      "to": 195
+      "to": 311
+    },
+    {
+      "from": 187,
+      "to": 311
     },
     {
       "from": 188,
@@ -5328,10 +5290,6 @@
     {
       "from": 199,
       "to": 217
-    },
-    {
-      "from": 202,
-      "to": 215
     },
     {
       "from": 203,

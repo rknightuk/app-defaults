@@ -354,5 +354,6 @@
     { "name": "Late Night Blog", "url": "https://text.tchncs.de/latenightblog/defaults", "rss": "https://text.tchncs.de/latenightblog/feed/", "date": "2024-02-05 02:18" },
     { "name": "MikeyP", "url": "https://mikeyp.com/defaults/", "rss": "http://www.mikeyp.com/feed", "date": "2024-02-06 12:00" },
     { "name": "Steve Best", "url": "https://steve-best.github.io/default-apps", "date": "2024-02-07 07:54" },
-    { "name": "Jack Platten", "url": "https://plttn.me/uses", "rss":"https://plttn.me/rss.xml", "date":"2024-02-08 00:00"}
+    { "name": "Jack Platten", "url": "https://plttn.me/uses", "rss":"https://plttn.me/rss.xml", "date":"2024-02-08 00:00"},
+    { "name": "Karl Toller", "url": "https://karltoller.com/default-apps-2024", "rss": "https://karltoller.com/feed", "date": "2024-02-08 11:37" }
 ]

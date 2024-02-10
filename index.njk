@@ -9,7 +9,7 @@ layout: base
         <div class="posts">
             {%- for site in sites %}
                 <div {% if site.featured %}class="featured"{% endif %}>
-                    <span>{% if site.omg %}<svg class="icon"><use xlink:href="#prami-mono"></use></svg>{% else %}#{% endif %}{% if loop.index < 10 %}0{% endif %}{% if loop.index < 100 %}0{% endif %}{{ loop.index }}</span><a href="{{ site.url }}" >{{ site.name }}</a> 
+                    <span>{% if site.music %}<svg class="icon"><use xlink:href="#music"></use></svg>{% elif site.omg %}<svg class="icon"><use xlink:href="#prami-mono"></use></svg>{% else %}#{% endif %}{% if loop.index < 10 %}0{% endif %}{% if loop.index < 100 %}0{% endif %}{{ loop.index }}</span><a href="{{ site.url }}" >{{ site.name }}</a> 
                     {% if site.rss %}<small><a style="font-weight: normal" href="{{ site.rss }}">RSS</a></small>{% endif %}</div>
             {% endfor%}
         </div>

@@ -3833,5 +3833,14 @@
     "id": 358,
     "urlKey": "https://binarydigit.cafe/notes/app-defaults",
     "links": []
+  },
+  "https://music.apple.com/us/playlist/app-defaults/pl.u-y95rTYq47Lr": {
+    "name": "Jason Velazquez",
+    "url": "https://music.apple.com/us/playlist/app-defaults/pl.u-y95rTYq47Lr",
+    "date": "2024-02-09 14:21",
+    "music": true,
+    "id": 359,
+    "urlKey": "https://music.apple.com/us/playlist/app-defaults/pl.u-y95rTYq47Lr",
+    "links": []
   }
 }

@@ -356,5 +356,6 @@
     { "name": "Steve Best", "url": "https://steve-best.github.io/default-apps", "date": "2024-02-07 07:54" },
     { "name": "Jack Platten", "url": "https://plttn.me/defaults", "rss":"https://plttn.me/rss.xml", "date":"2024-02-08 00:00"},
     { "name": "Karl Toller", "url": "https://karltoller.com/default-apps-2024", "rss": "https://karltoller.com/feed", "date": "2024-02-08 11:37" },
-    { "name": "Binary Digit", "url": "https://binarydigit.cafe/notes/app-defaults/", "rss": "https://binarydigit.cafe/index.xml", "date": "2024-02-08 16:12" }
+    { "name": "Binary Digit", "url": "https://binarydigit.cafe/notes/app-defaults/", "rss": "https://binarydigit.cafe/index.xml", "date": "2024-02-08 16:12" },
+    { "name": "Jason Velazquez", "url": "https://music.apple.com/us/playlist/app-defaults/pl.u-y95rTYq47Lr", "date": "2024-02-09 14:21", "music": true }
 ]

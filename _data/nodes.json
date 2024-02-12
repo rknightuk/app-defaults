@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 241
+      "linkCount": 243
     },
     {
       "id": 1,
@@ -3217,6 +3217,24 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 360,
+      "label": "Realmac Dan",
+      "url": "https://realmacdan.com/2024/02/11/my-default-apps.html",
+      "rss": "https://realmacdan.com/feed",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 361,
+      "label": "Charles Magnuson",
+      "url": "https://charlesmagnuson.com/blognuson/2024/02/11/my-app-defaults",
+      "rss": "https://charlesmagnuson.com/blognuson/feed/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4607,6 +4625,14 @@
     {
       "from": 1001,
       "to": 358
+    },
+    {
+      "from": 1001,
+      "to": 360
+    },
+    {
+      "from": 1001,
+      "to": 361
     },
     {
       "from": 1,

@@ -366,13 +366,13 @@
     "name": "App Defaults",
     "shape": "box"
   },
-  "https://gabz.blog/2023/11/my-defaults": {
+  "https://gabz.blog/post/my-defaults-tpq2ulkn": {
     "name": "Gabz",
-    "url": "https://gabz.blog/2023/11/my-defaults",
+    "url": "https://gabz.blog/post/my-defaults-tpq2ulkn",
     "rss": "https://gabz.blog/feed.xml",
     "date": "2023-11-07 16:49",
     "id": 1,
-    "urlKey": "https://gabz.blog/2023/11/my-defaults",
+    "urlKey": "https://gabz.blog/post/my-defaults-tpq2ulkn",
     "links": [
       "https://rknight.me/app-defaults"
     ]

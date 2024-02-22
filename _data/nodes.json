@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 106
+      "linkCount": 107
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 243
+      "linkCount": 248
     },
     {
       "id": 1,
@@ -1707,7 +1707,7 @@
       "rss": "https://mattstein.com/rss.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 190,
@@ -3235,6 +3235,33 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 362,
+      "label": "V.H. Belvadi",
+      "url": "https://vhbelvadi.com/default-apps-2024",
+      "rss": "https://vhbelvadi.com/rss",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 363,
+      "label": "Nico Jensen",
+      "url": "https://www.nicojensen.de/2024/02/15/app-defaults",
+      "rss": "https://www.nicojensen.de/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 364,
+      "label": "Caro Appleby",
+      "url": "https://www.caro.fyi/articles/app-defaults",
+      "rss": "https://www.caro.fyi/rss/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -3661,6 +3688,10 @@
     {
       "from": 1000,
       "to": 347
+    },
+    {
+      "from": 1000,
+      "to": 364
     },
     {
       "from": 1001,
@@ -4635,6 +4666,26 @@
       "to": 361
     },
     {
+      "from": 1001,
+      "to": 362
+    },
+    {
+      "from": 1001,
+      "to": 362
+    },
+    {
+      "from": 1001,
+      "to": 363
+    },
+    {
+      "from": 1001,
+      "to": 363
+    },
+    {
+      "from": 1001,
+      "to": 364
+    },
+    {
       "from": 1,
       "to": 2
     },
@@ -5313,6 +5364,10 @@
     {
       "from": 189,
       "to": 274
+    },
+    {
+      "from": 189,
+      "to": 362
     },
     {
       "from": 190,

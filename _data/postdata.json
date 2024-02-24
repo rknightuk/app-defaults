@@ -3896,5 +3896,22 @@
     "id": 364,
     "urlKey": "https://www.caro.fyi/articles/app-defaults",
     "links": []
+  },
+  "https://thorgalle.me/articles/default-apps-2024": {
+    "name": "Thor Galle",
+    "url": "https://thorgalle.me/articles/default-apps-2024",
+    "date": "2024-02-24 16:46",
+    "id": 365,
+    "urlKey": "https://thorgalle.me/articles/default-apps-2024",
+    "links": []
+  },
+  "https://danhannigan.dev/post/default-apps-2023": {
+    "name": "Dan Hannigan",
+    "url": "https://danhannigan.dev/post/default-apps-2023",
+    "rss": "https://danhannigan.dev/rss/",
+    "date": "2024-02-24 15:06",
+    "id": 366,
+    "urlKey": "https://danhannigan.dev/post/default-apps-2023",
+    "links": []
   }
 }

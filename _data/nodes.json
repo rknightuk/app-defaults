@@ -3262,6 +3262,23 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 365,
+      "label": "Thor Galle",
+      "url": "https://thorgalle.me/articles/default-apps-2024",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 366,
+      "label": "Dan Hannigan",
+      "url": "https://danhannigan.dev/post/default-apps-2023",
+      "rss": "https://danhannigan.dev/rss/",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [

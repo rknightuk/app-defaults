@@ -367,7 +367,8 @@
       "https://vhbelvadi.com/default-apps-2024",
       "https://www.nicojensen.de/2024/02/15/app-defaults",
       "https://www.nicojensen.de/2024/02/15/app-defaults",
-      "https://www.caro.fyi/articles/app-defaults"
+      "https://www.caro.fyi/articles/app-defaults",
+      "https://www.thefrugalgamer.net/defaults.php"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3912,6 +3913,15 @@
     "date": "2024-02-24 15:06",
     "id": 366,
     "urlKey": "https://danhannigan.dev/post/default-apps-2023",
+    "links": []
+  },
+  "https://www.thefrugalgamer.net/defaults.php": {
+    "name": "FrugalGamer",
+    "url": "https://www.thefrugalgamer.net/defaults.php",
+    "rss": "http://www.thefrugalgamer.net/blog/index.php?/feeds/index.rss2",
+    "date": "2024-02-25 21:58",
+    "id": 367,
+    "urlKey": "https://www.thefrugalgamer.net/defaults.php",
     "links": []
   }
 }

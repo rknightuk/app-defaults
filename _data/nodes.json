@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 248
+      "linkCount": 249
     },
     {
       "id": 1,
@@ -3279,6 +3279,15 @@
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 367,
+      "label": "FrugalGamer",
+      "url": "https://www.thefrugalgamer.net/defaults.php",
+      "rss": "http://www.thefrugalgamer.net/blog/index.php?/feeds/index.rss2",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
@@ -4701,6 +4710,10 @@
     {
       "from": 1001,
       "to": 364
+    },
+    {
+      "from": 1001,
+      "to": 367
     },
     {
       "from": 1,

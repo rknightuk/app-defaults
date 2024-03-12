@@ -365,5 +365,6 @@
     { "name": "Caro Appleby", "url": "https://www.caro.fyi/articles/app-defaults/", "rss": "https://www.caro.fyi/rss.xml", "date": "2024-02-22 15:36" },
     { "name": "Thor Galle", "url": "https://thorgalle.me/articles/default-apps-2024/", "date": "2024-02-24 16:46" },
     { "name": "Dan Hannigan", "url": "https://danhannigan.dev/post/default-apps-2023/", "rss": "https://danhannigan.dev/rss/", "date": "2024-02-24 15:06" },
-    { "name": "FrugalGamer", "url": "https://www.thefrugalgamer.net/defaults.php", "rss": "http://www.thefrugalgamer.net/blog/index.php?/feeds/index.rss2", "date": "2024-02-25 21:58" }
+    { "name": "FrugalGamer", "url": "https://www.thefrugalgamer.net/defaults.php", "rss": "http://www.thefrugalgamer.net/blog/index.php?/feeds/index.rss2", "date": "2024-02-25 21:58" },
+    { "name": "Joe Hallenbeck", "url": "https://garden.joehallenbeck.com/container/default-apps", "date": "2024-03-11 2040" }
 ]

@@ -206,5 +206,6 @@
     { "name": "Troydp", "url": "https://troydp.micro.blog/2023/11/28/my-defaults.html", "rss": "https://troydp.micro.blog/feed.xml", "date": "2023-11-28 2:36"},
     { "name": "Tyler Sticka", "url": "https://tylersticka.com/journal/default-apps-2023/", "rss": "https://tylersticka.com/journal/feed.xml", "date": "2023-11-28 21:40"},
     { "name": "Alex Carpenter", "url": "https://alexcarpenter.me/app-defaults", "rss": "https://alexcarpenter.me/atom", "date": "2023-11-28 21:40"},
-    { "name": "Julian Peters", "url": "https://jupe.studio/my-defaults-2023", "rss": "https://jupe.studio/feed.xml", "date": "2023-11-28 22:38" }
+    { "name": "Julian Peters", "url": "https://jupe.studio/my-defaults-2023", "rss": "https://jupe.studio/feed.xml", "date": "2023-11-28 22:38"},
+    { "name": "Jim Mitchell", "url": "https://jimmitchell.dev/2023/11/21/app-defaults.html", "rss": "https://jimmitchell.dev/feed.xml", "date": "2024-03-29 08:39"}
 ]

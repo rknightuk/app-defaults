@@ -367,5 +367,6 @@
     { "name": "Dan Hannigan", "url": "https://danhannigan.dev/post/default-apps-2023/", "rss": "https://danhannigan.dev/rss/", "date": "2024-02-24 15:06" },
     { "name": "FrugalGamer", "url": "https://www.thefrugalgamer.net/defaults.php", "rss": "http://www.thefrugalgamer.net/blog/index.php?/feeds/index.rss2", "date": "2024-02-25 21:58" },
     { "name": "Joe Hallenbeck", "url": "https://garden.joehallenbeck.com/container/default-apps", "date": "2024-03-11 2040" },
-    { "name": "Loda Tang", "url": "https://loda.notion.site/app-defaults-b4687ce174e24718ac56dcfff25a3d8a", "date": "2024-03-22 16:36" }
+    { "name": "Loda Tang", "url": "https://loda.notion.site/app-defaults-b4687ce174e24718ac56dcfff25a3d8a", "date": "2024-03-22 16:36" },
+    { "name": "Kostis Payavlas", "url": "https://kost.is/2024/04/01/app-defaults/", "rss": "https://kost.is/index.xml", "date": "2024-04-01 10:50" }
 ]

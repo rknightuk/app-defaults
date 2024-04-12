@@ -6,7 +6,7 @@
       "url": "https://listen.hemisphericviews.com/097",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 107
+      "linkCount": 106
     },
     {
       "id": 1001,
@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 249
+      "linkCount": 245
     },
     {
       "id": 1,
@@ -23,7 +23,7 @@
       "rss": "https://gabz.blog/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 0
     },
     {
       "id": 2,
@@ -32,7 +32,7 @@
       "rss": "https://rknight.me/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 27
+      "linkCount": 26
     },
     {
       "id": 3,
@@ -68,7 +68,7 @@
       "rss": "https://canion.blog/feed.xml",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 2
+      "linkCount": 3
     },
     {
       "id": 7,
@@ -165,7 +165,7 @@
       "rss": "https://heydingus.net/feed.rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 18,
@@ -272,7 +272,7 @@
       "rss": "https://feedpress.me/coryd",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 1
     },
     {
       "id": 30,
@@ -452,7 +452,7 @@
       "rss": "https://gkeenan.co/avgb?format=rss",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 1
     },
     {
       "id": 50,
@@ -528,11 +528,11 @@
     {
       "id": 58,
       "label": "May",
-      "url": "https://www.maymeow.com/posts/2023/11/my-app-defaults-2023-edition",
-      "rss": "https://www.maymeow.com/posts/index.xml",
+      "url": "https://maymeow.substack.com/p/my-app-defaults-2023-edition",
+      "rss": "https://maymeow.substack.com/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 0
     },
     {
       "id": 59,
@@ -712,7 +712,7 @@
       "rss": "https://ankaph.xyz/index.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 1
+      "linkCount": 0
     },
     {
       "id": 79,
@@ -928,7 +928,7 @@
       "rss": "https://beccais.online/feed",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 3
+      "linkCount": 2
     },
     {
       "id": 103,
@@ -1126,7 +1126,7 @@
       "rss": "https://grepjason.sh/rss.xml",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 1
+      "linkCount": 2
     },
     {
       "id": 125,
@@ -1358,7 +1358,7 @@
       "rss": "https://loungeruminator.net/feed/",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 2
+      "linkCount": 3
     },
     {
       "id": 151,
@@ -1538,7 +1538,7 @@
       "rss": "https://chriscoyier.net/feed/",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 17
+      "linkCount": 18
     },
     {
       "id": 171,
@@ -1716,7 +1716,7 @@
       "rss": "https://pawelgrzybek.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 2
+      "linkCount": 3
     },
     {
       "id": 191,
@@ -1755,7 +1755,7 @@
       "linkCount": 0
     },
     {
-      "id": 311,
+      "id": 313,
       "label": "Matthew Lamont",
       "url": "https://techtea.io/articles/2023/app-defaults",
       "rss": "https://techtea.io/index.xml",
@@ -1823,7 +1823,7 @@
       "rss": "https://notes.baldurbjarnason.com/feed.xml",
       "shape": "box",
       "color": "#03a4df",
-      "linkCount": 0
+      "linkCount": 1
     },
     {
       "id": 203,
@@ -1871,7 +1871,7 @@
       "linkCount": 0
     },
     {
-      "id": 208,
+      "id": 210,
       "label": "Julian Peters",
       "url": "https://jupe.studio/my-defaults-2023",
       "rss": "https://jupe.studio/feed.xml",
@@ -1882,6 +1882,15 @@
     {
       "id": 209,
       "label": "Jim Mitchell",
+      "url": "https://jimmitchell.dev/2023/11/21/app-defaults.html",
+      "rss": "https://jimmitchell.dev/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 211,
+      "label": "Jim Mitchell",
       "url": "https://jimmitchell.org/2023/11/21/app-defaults.html",
       "rss": "https://jimmitchell.org/feed.xml",
       "shape": "box",
@@ -1889,7 +1898,7 @@
       "linkCount": 0
     },
     {
-      "id": 210,
+      "id": 212,
       "label": "Paolo",
       "url": "https://www.feadin.eu/en/posts/app_defaults",
       "shape": "box",
@@ -1897,7 +1906,7 @@
       "linkCount": 0
     },
     {
-      "id": 211,
+      "id": 213,
       "label": "Johannes Mirus",
       "url": "https://1ppm.de/2023/11/meine-tools",
       "rss": "https://1ppm.de/feed/",
@@ -1906,7 +1915,7 @@
       "linkCount": 0
     },
     {
-      "id": 212,
+      "id": 214,
       "label": "Christian Fischer",
       "url": "https://hmbl.blog/defaults",
       "rss": "https://hmbl.blog/feed/",
@@ -1915,7 +1924,7 @@
       "linkCount": 0
     },
     {
-      "id": 213,
+      "id": 215,
       "label": "Tracy Durnell",
       "url": "https://tracydurnell.com/2023/11/28/my-current-default-apps",
       "rss": "https://tracydurnell.com/feed/",
@@ -1924,7 +1933,7 @@
       "linkCount": 3
     },
     {
-      "id": 214,
+      "id": 216,
       "label": "Alex Sirac",
       "url": "https://alexsirac.com/my-default-apps-in-2023",
       "rss": "https://alexsirac.com/tag/en/feed/",
@@ -1933,7 +1942,7 @@
       "linkCount": 0
     },
     {
-      "id": 215,
+      "id": 217,
       "label": "Jacky Alciné",
       "url": "https://jacky.wtf/default-apps-of-2023",
       "rss": "https://jacky.wtf/feed.xml",
@@ -1942,7 +1951,7 @@
       "linkCount": 0
     },
     {
-      "id": 216,
+      "id": 218,
       "label": "ldstephens",
       "url": "https://ldstephens.net/2023/11/29/my-default-apps-2024-version",
       "rss": "https://ldstephens.net/feed",
@@ -1951,7 +1960,7 @@
       "linkCount": 0
     },
     {
-      "id": 217,
+      "id": 219,
       "label": "Lost In Haste",
       "url": "https://lostinhaste.com/2023/11/29/default-apps-and.html",
       "rss": "https://lostinhaste.com/feed.xml",
@@ -1960,7 +1969,7 @@
       "linkCount": 0
     },
     {
-      "id": 218,
+      "id": 220,
       "label": "Chuck Grimmett",
       "url": "https://cagrimmett.com/tech/2023/11/29/default-apps-2023",
       "rss": "https://cagrimmett.com/feed",
@@ -1969,7 +1978,7 @@
       "linkCount": 1
     },
     {
-      "id": 219,
+      "id": 221,
       "label": "Dominik Höcht",
       "url": "https://ner3y.micro.blog/defaults",
       "rss": "https://ner3y.micro.blog/feed.xml",
@@ -1978,7 +1987,7 @@
       "linkCount": 0
     },
     {
-      "id": 220,
+      "id": 222,
       "label": "Jason Heppler",
       "url": "https://social.jasonheppler.org/2023/11/29/default-apps-for.html",
       "rss": "https://social.jasonheppler.org/feed.xml",
@@ -1987,7 +1996,7 @@
       "linkCount": 0
     },
     {
-      "id": 221,
+      "id": 223,
       "label": "Noah Jacobus",
       "url": "https://noahjacob.us/words/default-apps-2023.html",
       "rss": "https://noahjacob.us/feed.xml",
@@ -1996,7 +2005,7 @@
       "linkCount": 2
     },
     {
-      "id": 222,
+      "id": 224,
       "label": "Timothée Goguely",
       "url": "https://timothee.goguely.com/blog/default-apps-2023",
       "rss": "https://timothee.goguely.com/blog/index.xml",
@@ -2005,7 +2014,7 @@
       "linkCount": 1
     },
     {
-      "id": 223,
+      "id": 225,
       "label": "Ange Chierchia",
       "url": "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
       "rss": "https://chierchia.fr/feed.xml",
@@ -2014,7 +2023,7 @@
       "linkCount": 0
     },
     {
-      "id": 224,
+      "id": 226,
       "label": "Chris Glass",
       "url": "https://chrisglass.com/2023/11/28/default-apps",
       "rss": "https://chrisglass.com/feed/",
@@ -2023,7 +2032,7 @@
       "linkCount": 0
     },
     {
-      "id": 225,
+      "id": 227,
       "label": "Jasper",
       "url": "https://jasper.tandy.is/blogging/default-apps-2023",
       "rss": "https://jasper.tandy.is/syndicated",
@@ -2032,7 +2041,7 @@
       "linkCount": 0
     },
     {
-      "id": 226,
+      "id": 228,
       "label": "Martin Hähnel",
       "url": "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
       "rss": "https://blog.martin-haehnel.de/feed",
@@ -2041,7 +2050,7 @@
       "linkCount": 0
     },
     {
-      "id": 227,
+      "id": 229,
       "label": "Harry Cresswell",
       "url": "https://harrycresswell.com/writing/app-defaults",
       "rss": "https://harrycresswell.com/writing/feed.xml",
@@ -2050,7 +2059,7 @@
       "linkCount": 0
     },
     {
-      "id": 228,
+      "id": 230,
       "label": "Tim Nahumck",
       "url": "https://nahumck.me/app_defaults_2023",
       "rss": "https://nahumck.me/feed.xml",
@@ -2059,7 +2068,7 @@
       "linkCount": 0
     },
     {
-      "id": 229,
+      "id": 231,
       "label": "Cam Pegg",
       "url": "https://campegg.com/2023/11/17/a-couple-of.html",
       "rss": "https://campegg.com/feed.xml",
@@ -2068,7 +2077,7 @@
       "linkCount": 0
     },
     {
-      "id": 230,
+      "id": 232,
       "label": "Brandon Pugh",
       "url": "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
       "rss": "https://www.brandonpugh.com/index.xml",
@@ -2077,7 +2086,7 @@
       "linkCount": 0
     },
     {
-      "id": 231,
+      "id": 233,
       "label": "Ondrej Sevcik",
       "url": "https://ondrejsevcik.com/blog/my-app-defaults-2023",
       "rss": "https://ondrejsevcik.com/rss.xml",
@@ -2086,7 +2095,7 @@
       "linkCount": 0
     },
     {
-      "id": 232,
+      "id": 234,
       "label": "Paul Robert Lloyd",
       "url": "https://paulrobertlloyd.com/2023/336/a1/default-apps",
       "rss": "https://paulrobertlloyd.com/feed.xml",
@@ -2095,7 +2104,7 @@
       "linkCount": 1
     },
     {
-      "id": 233,
+      "id": 235,
       "label": "Sven Luijten",
       "url": "http://svenluijten.com/posts/default-apps-2023",
       "rss": "https://svenluijten.com/feeds/all.xml",
@@ -2104,7 +2113,7 @@
       "linkCount": 0
     },
     {
-      "id": 234,
+      "id": 236,
       "label": "Kyle Ford",
       "url": "https://houseofkyle.com/2023/12/02/default-apps-2023",
       "rss": "https://houseofkyle.com/feed/",
@@ -2113,7 +2122,7 @@
       "linkCount": 0
     },
     {
-      "id": 235,
+      "id": 237,
       "label": "Kunall Banerjee",
       "url": "https://defaults.kimchiii.space",
       "rss": "https://kimchiii.space/rss.xml",
@@ -2122,7 +2131,7 @@
       "linkCount": 0
     },
     {
-      "id": 236,
+      "id": 238,
       "label": "Lawrence Li",
       "url": "https://lawrenceli.me/blog/app-defaults-2023",
       "rss": "https://lawrenceli.me/atom.xml",
@@ -2131,7 +2140,7 @@
       "linkCount": 0
     },
     {
-      "id": 237,
+      "id": 239,
       "label": "Shuo Zhan",
       "url": "https://blog.zzsqwq.cn/posts/default-apps-f2023",
       "rss": "https://blog.zzsqwq.cn/index.xml",
@@ -2140,7 +2149,7 @@
       "linkCount": 0
     },
     {
-      "id": 238,
+      "id": 240,
       "label": "Yizun Wang",
       "url": "https://blog.huadeity.com/posts/app-defaults",
       "rss": "https://blog.huadeity.com/index.xml",
@@ -2149,7 +2158,7 @@
       "linkCount": 0
     },
     {
-      "id": 239,
+      "id": 241,
       "label": "Tommy Palmer",
       "url": "https://www.tommyp.org/blog/app-defaults",
       "rss": "https://www.tommyp.org/rss.xml",
@@ -2158,7 +2167,7 @@
       "linkCount": 0
     },
     {
-      "id": 240,
+      "id": 242,
       "label": "Matthew Ernisse",
       "url": "https://www.going-flying.com/blog/defaults.html",
       "rss": "https://www.going-flying.com/blog/feed.xml",
@@ -2167,7 +2176,7 @@
       "linkCount": 0
     },
     {
-      "id": 241,
+      "id": 243,
       "label": "Sven Luijten",
       "url": "https://svenluijten.com/posts/default-apps-2023",
       "rss": "https://svenluijten.com/feeds/all.xml",
@@ -2176,7 +2185,7 @@
       "linkCount": 0
     },
     {
-      "id": 242,
+      "id": 244,
       "label": "The Wandering Allison",
       "url": "https://thewanderingallison.github.io/posts/app_defaults_2023",
       "rss": "https://thewanderingallison.github.io/rss.xml",
@@ -2185,7 +2194,7 @@
       "linkCount": 0
     },
     {
-      "id": 243,
+      "id": 245,
       "label": "Josh Withers",
       "url": "https://joshwithers.blog/2023/12/05/my-app-defaults.html",
       "rss": "https://joshwithers.blog/feed",
@@ -2194,7 +2203,7 @@
       "linkCount": 0
     },
     {
-      "id": 244,
+      "id": 246,
       "label": "Étienne",
       "url": "https://etienne.depar.is/a-ecrit/app-defaults.html",
       "rss": "https://etienne.depar.is/a-ecrit/feeds/index.xml",
@@ -2203,7 +2212,7 @@
       "linkCount": 0
     },
     {
-      "id": 245,
+      "id": 247,
       "label": "Chris Hunsanger",
       "url": "https://hunsanger.com/2023/11/26/app-defaults.html",
       "rss": "https://hunsanger.com/feed",
@@ -2212,7 +2221,7 @@
       "linkCount": 1
     },
     {
-      "id": 246,
+      "id": 248,
       "label": "Nicolas Magand",
       "url": "https://thejollyteapot.com/2023/11/17/third-party-apps-i-like-and-use-—-2023-edition",
       "rss": "https://thejollyteapot.com/feed.rss",
@@ -2221,7 +2230,7 @@
       "linkCount": 0
     },
     {
-      "id": 247,
+      "id": 249,
       "label": "Nathan Snelgrove",
       "url": "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
       "rss": "https://nathansnelgrove.com/feeds/feed.atom",
@@ -2230,7 +2239,7 @@
       "linkCount": 0
     },
     {
-      "id": 248,
+      "id": 250,
       "label": "Anthony Dumas",
       "url": "https://blog.adm.ink/defaults",
       "rss": "https://blog.adm.ink/rss.xml",
@@ -2239,7 +2248,7 @@
       "linkCount": 0
     },
     {
-      "id": 249,
+      "id": 251,
       "label": "Daniel Miller",
       "url": "https://daniel.industries/2023/12/03/default-apps-2023",
       "rss": "https://daniel.industries/atom.xml",
@@ -2248,7 +2257,7 @@
       "linkCount": 0
     },
     {
-      "id": 250,
+      "id": 252,
       "label": "Assaf",
       "url": "https://labnotes.org/default-apps-2023",
       "rss": "https://labnotes.org/feed.xml",
@@ -2257,7 +2266,7 @@
       "linkCount": 1
     },
     {
-      "id": 251,
+      "id": 253,
       "label": "Stephen Hackett",
       "url": "https://512pixels.net/gear",
       "rss": "https://512pixels.net/feed/",
@@ -2266,7 +2275,7 @@
       "linkCount": 0
     },
     {
-      "id": 252,
+      "id": 254,
       "label": "Matt",
       "url": "https://www.wyrd.systems/defaults",
       "rss": "https://www.wyrd.systems/feed.xml",
@@ -2275,7 +2284,7 @@
       "linkCount": 0
     },
     {
-      "id": 253,
+      "id": 255,
       "label": "Johannes Ebeling",
       "url": "https://technocidal.com/2023/12/07/app-defaults",
       "rss": "https://technocidal.com/feed.xml",
@@ -2284,7 +2293,7 @@
       "linkCount": 0
     },
     {
-      "id": 254,
+      "id": 256,
       "label": "Loura",
       "url": "https://heyloura.com/2023/12/07/my-app-defaults.html",
       "rss": "https://heyloura.com/feed.xml",
@@ -2293,7 +2302,7 @@
       "linkCount": 0
     },
     {
-      "id": 255,
+      "id": 257,
       "label": "Nathaniel Daught",
       "url": "https://daught.me/blog/2023-defaults",
       "rss": "https://daught.me/blog?format=rss",
@@ -2302,7 +2311,7 @@
       "linkCount": 0
     },
     {
-      "id": 256,
+      "id": 258,
       "label": "Luigi Mozzillo",
       "url": "https://mzll.it/2023/12/en-default-2023",
       "rss": "https://mzll.it/index.xml",
@@ -2311,7 +2320,7 @@
       "linkCount": 1
     },
     {
-      "id": 257,
+      "id": 259,
       "label": "Adrián Perales",
       "url": "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
       "rss": "https://adrianperales.com/feed/",
@@ -2320,7 +2329,7 @@
       "linkCount": 1
     },
     {
-      "id": 258,
+      "id": 260,
       "label": "eapl.mx",
       "url": "https://text.eapl.mx/services-im-using-in-2023",
       "rss": "https://text.eapl.mx/atom.xml",
@@ -2329,7 +2338,7 @@
       "linkCount": 0
     },
     {
-      "id": 259,
+      "id": 261,
       "label": "Jorge Sanz",
       "url": "https://jorgesanz.net/posts/2023-11-16-defaults",
       "rss": "https://jorgesanz.net/index.xml",
@@ -2338,7 +2347,7 @@
       "linkCount": 1
     },
     {
-      "id": 260,
+      "id": 262,
       "label": "Thalskarth",
       "url": "https://blog.thalskarth.ar/aplicaciones-por-defecto",
       "rss": "https://blog.thalskarth.ar/feed.xml",
@@ -2347,7 +2356,7 @@
       "linkCount": 0
     },
     {
-      "id": 261,
+      "id": 263,
       "label": "Miguel de Luis Espinosa",
       "url": "https://gemini.tildeverse.org/?gemini://yretek.com/english/gemlog/2023/11/2023-11-17_RE_defaults.gmi",
       "shape": "box",
@@ -2355,7 +2364,7 @@
       "linkCount": 0
     },
     {
-      "id": 262,
+      "id": 264,
       "label": "thrig",
       "url": "https://gemini.tildeverse.org/?gemini://thrig.me/blog/2023/11/17/defaults.gmi",
       "shape": "box",
@@ -2363,7 +2372,7 @@
       "linkCount": 0
     },
     {
-      "id": 263,
+      "id": 265,
       "label": "ucant",
       "url": "https://gemini.tildeverse.org/?gemini://gemini.ucant.org/gemlog/2023-11-17_defaults.gmi",
       "shape": "box",
@@ -2371,7 +2380,7 @@
       "linkCount": 0
     },
     {
-      "id": 264,
+      "id": 266,
       "label": "Guillermo",
       "url": "https://guillermolatorre.com/aplicaciones-por-defecto-2023",
       "rss": "https://guillermolatorre.com/rss.xml",
@@ -2380,7 +2389,7 @@
       "linkCount": 0
     },
     {
-      "id": 265,
+      "id": 267,
       "label": "Thomas Gigold",
       "url": "https://gigold.me/blog/defaults",
       "rss": "https://gigold.me/rss/",
@@ -2389,7 +2398,7 @@
       "linkCount": 0
     },
     {
-      "id": 266,
+      "id": 268,
       "label": "N.A. Ferrell",
       "url": "https://thenewleafjournal.com/my-default-apps-as-of-december-2023",
       "rss": "https://thenewleafjournal.com/rss",
@@ -2398,7 +2407,7 @@
       "linkCount": 0
     },
     {
-      "id": 267,
+      "id": 269,
       "label": "Daniel Demby",
       "url": "https://heliomass.com/posts/117-app-defaults",
       "rss": "https://heliomass.com/index.xml",
@@ -2407,7 +2416,7 @@
       "linkCount": 0
     },
     {
-      "id": 268,
+      "id": 270,
       "label": "Matt",
       "url": "https://canyoudownloadrice.com/software-i-use",
       "rss": "https://canyoudownloadrice.com/feed/",
@@ -2416,7 +2425,7 @@
       "linkCount": 0
     },
     {
-      "id": 269,
+      "id": 271,
       "label": "Lyokolux",
       "url": "https://blog.lyokolux.space/posts/2023-11-20-default-apps",
       "rss": "https://blog.lyokolux.space/rss.xml",
@@ -2425,7 +2434,7 @@
       "linkCount": 0
     },
     {
-      "id": 270,
+      "id": 272,
       "label": "Spencer Harston",
       "url": "https://www.spencerharston.com/posts/app-defaults-2023",
       "rss": "https://www.spencerharston.com/feed.xml",
@@ -2434,7 +2443,7 @@
       "linkCount": 0
     },
     {
-      "id": 271,
+      "id": 273,
       "label": "Daniele",
       "url": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
       "rss": "https://fokewulf.it/feed/",
@@ -2443,7 +2452,7 @@
       "linkCount": 0
     },
     {
-      "id": 272,
+      "id": 274,
       "label": "Josh Betz",
       "url": "https://josh.blog/2023/12/default-apps-2023",
       "rss": "https://josh.blog/feed",
@@ -2452,7 +2461,7 @@
       "linkCount": 0
     },
     {
-      "id": 273,
+      "id": 275,
       "label": "Max Sommer",
       "url": "https://maxsommer.de/blog/default-apps-2023",
       "rss": "https://maxsommer.de/blog/feed/rss",
@@ -2461,7 +2470,7 @@
       "linkCount": 0
     },
     {
-      "id": 274,
+      "id": 276,
       "label": "Jeff Triplett",
       "url": "https://jefftriplett.com/2023/default-apps-2023",
       "rss": "https://jefftriplett.com/feed.xml",
@@ -2470,7 +2479,7 @@
       "linkCount": 0
     },
     {
-      "id": 275,
+      "id": 277,
       "label": "Dustin K",
       "url": "https://dustinknopoff.dev/articles/what-i-use-2023",
       "rss": "https://dustinknopoff.dev/rss.xml",
@@ -2479,7 +2488,7 @@
       "linkCount": 0
     },
     {
-      "id": 276,
+      "id": 278,
       "label": "Aman Mittal",
       "url": "https://amanhimself.dev/blog/default-apps-2023",
       "rss": "https://amanhimself.dev/rss.xml",
@@ -2488,7 +2497,7 @@
       "linkCount": 0
     },
     {
-      "id": 277,
+      "id": 279,
       "label": "Doug Jones",
       "url": "https://doug.pub/2023/12/16/its-defaults-time.html",
       "rss": "https://doug.pub/feed/",
@@ -2497,7 +2506,7 @@
       "linkCount": 0
     },
     {
-      "id": 278,
+      "id": 280,
       "label": "DemoChen",
       "url": "https://demochen.com/posts/20231216",
       "rss": "https://demochen.com/atom.xml",
@@ -2506,7 +2515,7 @@
       "linkCount": 0
     },
     {
-      "id": 279,
+      "id": 281,
       "label": "Justin Vollmer",
       "url": "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
       "rss": "https://justinvollmer.com/posts/index.xml",
@@ -2515,7 +2524,7 @@
       "linkCount": 0
     },
     {
-      "id": 280,
+      "id": 282,
       "label": "Roy Tang",
       "url": "https://roytang.net/2023/12/default-apps",
       "rss": "https://roytang.net/index.xml",
@@ -2524,7 +2533,7 @@
       "linkCount": 0
     },
     {
-      "id": 281,
+      "id": 283,
       "label": "Yilei Yang",
       "url": "https://mangoumbrella.com/post/default-apps-2023",
       "rss": "https://mangoumbrella.com/posts.rss",
@@ -2533,7 +2542,7 @@
       "linkCount": 1
     },
     {
-      "id": 282,
+      "id": 284,
       "label": "Jay Wilson",
       "url": "https://heyjaywilson.com/blog/2023/11/26-default-apps",
       "rss": "https://heyjaywilson.com/rss.xml",
@@ -2542,7 +2551,7 @@
       "linkCount": 0
     },
     {
-      "id": 283,
+      "id": 285,
       "label": "Steve Ledlow",
       "url": "https://tangiblelife.net/app-defaults",
       "rss": "https://tangiblelife.net/feed.rss",
@@ -2551,7 +2560,7 @@
       "linkCount": 0
     },
     {
-      "id": 284,
+      "id": 286,
       "label": "Dana Byerly",
       "url": "https://danabyerly.com/notes/defaults-2023",
       "rss": "https://danabyerly.com/feed.xml",
@@ -2560,7 +2569,7 @@
       "linkCount": 0
     },
     {
-      "id": 285,
+      "id": 287,
       "label": "Mark Phillips",
       "url": "https://probably.co.uk/posts/default-applications",
       "rss": "https://probably.co.uk/index.xml",
@@ -2569,7 +2578,7 @@
       "linkCount": 0
     },
     {
-      "id": 286,
+      "id": 288,
       "label": "Jeff Bridgforth",
       "url": "https://jeffbridgforth.com/apps-i-use-2023",
       "rss": "https://jeffbridgforth.com/feed/",
@@ -2578,7 +2587,7 @@
       "linkCount": 0
     },
     {
-      "id": 287,
+      "id": 289,
       "label": "Scott Willsey",
       "url": "https://scottwillsey.com/default-apps-2023",
       "rss": "https://scottwillsey.com/rss.xml",
@@ -2587,7 +2596,7 @@
       "linkCount": 0
     },
     {
-      "id": 288,
+      "id": 290,
       "label": "Barry Hess",
       "url": "https://bjhess.pika.page/posts/2023-app-defaults",
       "rss": "https://bjhess.pika.page/posts_feed",
@@ -2596,7 +2605,7 @@
       "linkCount": 0
     },
     {
-      "id": 289,
+      "id": 291,
       "label": "Tim Bueno",
       "url": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html",
       "rss": "https://blog.timbueno.com/feed.xml",
@@ -2605,7 +2614,7 @@
       "linkCount": 1
     },
     {
-      "id": 290,
+      "id": 292,
       "label": "Adrian Izquieta",
       "url": "https://www.izq.fm/2023/12/24/app-defaults-mail.html",
       "rss": "https://www.izq.fm/feed.xml",
@@ -2614,7 +2623,7 @@
       "linkCount": 1
     },
     {
-      "id": 291,
+      "id": 293,
       "label": "Bob Monsour",
       "url": "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
       "rss": "https://www.bobmonsour.com/feed.xml",
@@ -2623,7 +2632,7 @@
       "linkCount": 0
     },
     {
-      "id": 292,
+      "id": 294,
       "label": "Maarten",
       "url": "https://www.filmvanalledag.nl/?p=9266",
       "rss": "https://www.filmvanalledag.nl/?feed=rss2",
@@ -2632,7 +2641,7 @@
       "linkCount": 0
     },
     {
-      "id": 293,
+      "id": 295,
       "label": "Czar",
       "url": "https://text.tchncs.de/czars-blogs/apps-i-use",
       "rss": "https://text.tchncs.de/czars-blogs/feed/",
@@ -2641,7 +2650,7 @@
       "linkCount": 0
     },
     {
-      "id": 294,
+      "id": 296,
       "label": "Luis Quintanilla",
       "url": "https://www.lqdev.me/feed/app-defaults-2023",
       "rss": "https://www.luisquintanilla.me/posts/index.xml",
@@ -2650,7 +2659,7 @@
       "linkCount": 0
     },
     {
-      "id": 295,
+      "id": 297,
       "label": "Nils",
       "url": "https://nilsschaffer.com/my-app-defaults-2023",
       "rss": "https://nilsschaffer.com/feed/",
@@ -2659,7 +2668,7 @@
       "linkCount": 0
     },
     {
-      "id": 296,
+      "id": 298,
       "label": "Rob Green",
       "url": "https://robjimgreen.co.uk/app-defaults",
       "rss": "https://robjimgreen.co.uk/feed/?type=rss",
@@ -2668,7 +2677,7 @@
       "linkCount": 0
     },
     {
-      "id": 297,
+      "id": 299,
       "label": "R.J. Faas",
       "url": "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023",
       "rss": "https://rjfaas.com/feed/",
@@ -2677,7 +2686,7 @@
       "linkCount": 0
     },
     {
-      "id": 298,
+      "id": 300,
       "label": "Dillon Mok",
       "url": "https://dillonmok.com/articles/my-default-apps",
       "rss": "https://dillonmok.com/feed.rss",
@@ -2686,7 +2695,7 @@
       "linkCount": 0
     },
     {
-      "id": 299,
+      "id": 301,
       "label": "8bit",
       "url": "https://blog.8bit.lol/2023/12/defaults",
       "rss": "https://blog.8bit.lol/rss.xml",
@@ -2695,7 +2704,7 @@
       "linkCount": 0
     },
     {
-      "id": 300,
+      "id": 302,
       "label": "Ehqo",
       "url": "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults",
       "rss": "https://ehqo.weblog.lol/rss.xml",
@@ -2704,7 +2713,7 @@
       "linkCount": 0
     },
     {
-      "id": 301,
+      "id": 303,
       "label": "Carlo Zottmann",
       "url": "https://zottmann.org/2023/12/17/default-apps.html",
       "rss": "https://zottmann.org/feed.xml",
@@ -2713,7 +2722,7 @@
       "linkCount": 1
     },
     {
-      "id": 302,
+      "id": 304,
       "label": "Brendan Thompson",
       "url": "https://brendanthompson.com/uses",
       "rss": "https://brendanthompson.com/posts/feed/rss.xml",
@@ -2722,7 +2731,7 @@
       "linkCount": 0
     },
     {
-      "id": 303,
+      "id": 305,
       "label": "Phil Stollery",
       "url": "https://stollerys.co.uk/defaults",
       "rss": "https://stollerys.co.uk/rss.xml",
@@ -2731,7 +2740,7 @@
       "linkCount": 0
     },
     {
-      "id": 304,
+      "id": 306,
       "label": "Ben Tsai",
       "url": "https://bentsai.pika.page/posts/my-app-defaults",
       "rss": "https://bentsai.pika.page/posts_feed",
@@ -2740,7 +2749,7 @@
       "linkCount": 0
     },
     {
-      "id": 305,
+      "id": 307,
       "label": "Bobiko",
       "url": "https://bobiko.blog/2023/12/defaults-apps-2023",
       "shape": "box",
@@ -2748,7 +2757,7 @@
       "linkCount": 0
     },
     {
-      "id": 306,
+      "id": 308,
       "label": "Gregory Pittman",
       "url": "https://golfdeltapapa.blog/uses",
       "rss": "https://golfdeltapapa.blog/feed.xml",
@@ -2757,7 +2766,7 @@
       "linkCount": 0
     },
     {
-      "id": 307,
+      "id": 309,
       "label": "Rach Smith",
       "url": "https://rachsmith.com/app-defaults",
       "rss": "https://rachsmith.com/feed.xml",
@@ -2766,7 +2775,7 @@
       "linkCount": 0
     },
     {
-      "id": 308,
+      "id": 310,
       "label": "Kristof Zerbe",
       "url": "https://kiko.io/post/App-Defaults-2023",
       "rss": "https://kiko.io/atom.xml",
@@ -2775,7 +2784,7 @@
       "linkCount": 0
     },
     {
-      "id": 309,
+      "id": 311,
       "label": "Zhen",
       "url": "https://wogong.net/blog/2023/12/defaults2023",
       "rss": "https://wogong.net/feed.xml",
@@ -2784,7 +2793,7 @@
       "linkCount": 0
     },
     {
-      "id": 310,
+      "id": 312,
       "label": "zmknox",
       "url": "https://zmknox.com/2023/12/30/app-defaults-2024",
       "rss": "https://zmknox.com/feed.xml",
@@ -2793,7 +2802,7 @@
       "linkCount": 0
     },
     {
-      "id": 312,
+      "id": 314,
       "label": "Kevin C. Tofel",
       "url": "https://myconscious.stream/blog/Default-apps-2023",
       "rss": "https://myconscious.stream/feed/feed.xml",
@@ -2802,7 +2811,7 @@
       "linkCount": 0
     },
     {
-      "id": 313,
+      "id": 315,
       "label": "Chris Finazzo",
       "url": "https://chrisfinazzo.com/2023/12/31/app-defaults",
       "rss": "https://chrisfinazzo.com/rss.xml",
@@ -2811,7 +2820,7 @@
       "linkCount": 0
     },
     {
-      "id": 314,
+      "id": 316,
       "label": "n3wjack",
       "url": "https://n3wjack.net/2023/12/31/my-default-apps-for-2023",
       "rss": "https://n3wjack.net/feed/",
@@ -2820,7 +2829,7 @@
       "linkCount": 0
     },
     {
-      "id": 315,
+      "id": 317,
       "label": "eiffair",
       "url": "https://www.eiffair.fr/apps-default-2023",
       "rss": "https://www.eiffair.fr/rss/",
@@ -2829,15 +2838,16 @@
       "linkCount": 0
     },
     {
-      "id": 316,
+      "id": 318,
       "label": "voitech",
-      "url": "https://voitech.vercel.app/digital-garden/app-defaults",
+      "url": "https://voitech.weblog.lol/defaults",
+      "rss": "https://voitech.weblog.lol/rss.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
     },
     {
-      "id": 317,
+      "id": 319,
       "label": "Toni Lampela",
       "url": "https://kutomo.com/app-defaults-for-2024",
       "rss": "https://kutomo.com/rss/",
@@ -2846,7 +2856,7 @@
       "linkCount": 0
     },
     {
-      "id": 318,
+      "id": 320,
       "label": "Adam Newbold",
       "url": "https://notes.neatnik.net/2024/01/app-defaults",
       "rss": "https://notes.neatnik.net/rss.xml",
@@ -2855,7 +2865,7 @@
       "linkCount": 0
     },
     {
-      "id": 319,
+      "id": 321,
       "label": "Nicolas Cropp",
       "url": "https://cropp.blog/defaults",
       "rss": "https://cropp.blog/rss.xml",
@@ -2864,7 +2874,7 @@
       "linkCount": 0
     },
     {
-      "id": 320,
+      "id": 322,
       "label": "Moeyua",
       "url": "https://blog.moeyua.com/posts/my-defaults-2023",
       "rss": "https://blog.moeyua.com/atom.xml",
@@ -2873,7 +2883,7 @@
       "linkCount": 0
     },
     {
-      "id": 321,
+      "id": 323,
       "label": "Stefan Zweifel",
       "url": "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
       "rss": "https://stefanzweifel.dev/rss.xml",
@@ -2882,7 +2892,7 @@
       "linkCount": 0
     },
     {
-      "id": 322,
+      "id": 324,
       "label": "Ben Yafai",
       "url": "https://ben.yaf.ai/app-defaults",
       "rss": "https://ben.yaf.ai/rss.xml",
@@ -2891,7 +2901,7 @@
       "linkCount": 0
     },
     {
-      "id": 323,
+      "id": 325,
       "label": "Brian Sholis",
       "url": "https://www.sholis.com/blog/2024-app-defaults",
       "rss": "https://www.sholis.com/feed.xml",
@@ -2900,7 +2910,7 @@
       "linkCount": 0
     },
     {
-      "id": 324,
+      "id": 326,
       "label": "M Ehler",
       "url": "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
       "rss": "https://mrehler.com/feed/",
@@ -2909,7 +2919,7 @@
       "linkCount": 0
     },
     {
-      "id": 325,
+      "id": 327,
       "label": "Jeff Sheets",
       "url": "https://sheetsj.com/blog/app-defaults",
       "rss": "https://sheetsj.com/feed.xml",
@@ -2918,7 +2928,7 @@
       "linkCount": 0
     },
     {
-      "id": 326,
+      "id": 328,
       "label": "Dave",
       "url": "https://ddanielson.micro.blog/2023/12/27/default-app-list.html",
       "rss": "https://ddanielson.micro.blog/feed",
@@ -2927,7 +2937,7 @@
       "linkCount": 0
     },
     {
-      "id": 327,
+      "id": 329,
       "label": "Brandon",
       "url": "https://wand3r.net/2024/01/app-defaults-jan-2024",
       "rss": "https://wand3r.net/rss.xml",
@@ -2936,7 +2946,7 @@
       "linkCount": 0
     },
     {
-      "id": 328,
+      "id": 330,
       "label": "Martin Gunnarsson",
       "url": "https://www.martingunnarsson.com/posts/apps-2023",
       "rss": "https://www.martingunnarsson.com/feed-rss.xml",
@@ -2945,7 +2955,7 @@
       "linkCount": 0
     },
     {
-      "id": 329,
+      "id": 331,
       "label": "Trevor Morris",
       "url": "https://www.trovster.com/about/uses#defaults",
       "rss": "https://www.trovster.com/blog/posts.xml",
@@ -2954,7 +2964,7 @@
       "linkCount": 0
     },
     {
-      "id": 330,
+      "id": 332,
       "label": "Christopher Downer",
       "url": "https://cjd.weblog.lol/2024/01/app-defaults",
       "rss": "https://cjd.weblog.lol/rss.xml",
@@ -2963,7 +2973,7 @@
       "linkCount": 0
     },
     {
-      "id": 331,
+      "id": 333,
       "label": "Fran",
       "url": "https://iamfran.com/archives/apps-default-2023",
       "rss": "https://iamfran.com/feed.rss",
@@ -2972,7 +2982,7 @@
       "linkCount": 0
     },
     {
-      "id": 332,
+      "id": 334,
       "label": "Lou Plummer",
       "url": "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html",
       "rss": "https://amerpie.micro.blog/feed.xml",
@@ -2981,7 +2991,7 @@
       "linkCount": 0
     },
     {
-      "id": 333,
+      "id": 335,
       "label": "Andre Franca",
       "url": "https://abf.li/posts/default-apps-at-the-beginning-of-2024",
       "rss": "https://abf.li/feed.xml",
@@ -2990,7 +3000,7 @@
       "linkCount": 0
     },
     {
-      "id": 334,
+      "id": 336,
       "label": "Philipp Temmel",
       "url": "https://www.philipptemmel.com/writings/app-defaults-2023",
       "shape": "box",
@@ -2998,7 +3008,7 @@
       "linkCount": 0
     },
     {
-      "id": 335,
+      "id": 337,
       "label": "Tom",
       "url": "https://ttntm.me/blog/app-defaults-2023",
       "rss": "https://ttntm.me/feed.xml",
@@ -3007,7 +3017,7 @@
       "linkCount": 0
     },
     {
-      "id": 336,
+      "id": 338,
       "label": "Vik",
       "url": "https://ivikrant.net/2024/01/09/default-apps-2024",
       "rss": "https://ivikrant.net/feed/",
@@ -3016,7 +3026,7 @@
       "linkCount": 0
     },
     {
-      "id": 337,
+      "id": 339,
       "label": "Daniel Prindii",
       "url": "https://danielprindii.com/2024/01/09/default-apps-of-2023",
       "rss": "https://danielprindii.com/feed/",
@@ -3025,7 +3035,7 @@
       "linkCount": 0
     },
     {
-      "id": 338,
+      "id": 340,
       "label": "Oliver",
       "url": "https://pifferi.info/My-default-apps-starting-2024",
       "rss": "https://pifferi.info/feed.xml",
@@ -3034,7 +3044,7 @@
       "linkCount": 0
     },
     {
-      "id": 339,
+      "id": 341,
       "label": "Niklas Siefke",
       "url": "https://www.niklas.fyi/posts/2024-01-11-default-apps",
       "rss": "https://www.niklas.fyi/rss.xml",
@@ -3043,7 +3053,7 @@
       "linkCount": 0
     },
     {
-      "id": 340,
+      "id": 342,
       "label": "Abdo",
       "url": "https://abdo.wtf/blog/app-defaults",
       "rss": "https://abdo.wtf/atom.xml",
@@ -3052,7 +3062,7 @@
       "linkCount": 0
     },
     {
-      "id": 341,
+      "id": 343,
       "label": "Sascha",
       "url": "https://sascha.sh/posts/my-default-apps-of-early-2024",
       "rss": "https://sascha.sh/index.xml",
@@ -3061,7 +3071,7 @@
       "linkCount": 0
     },
     {
-      "id": 342,
+      "id": 344,
       "label": "Joshua Wold",
       "url": "https://joshuawold.com/app-defaults",
       "rss": "https://joshuawold.com/feed/",
@@ -3070,7 +3080,7 @@
       "linkCount": 0
     },
     {
-      "id": 343,
+      "id": 345,
       "label": "Ed Leeman",
       "url": "https://edleeman.co.uk/posts/my-app-defaults-of-2024",
       "rss": "https://edleeman.co.uk/index.xml",
@@ -3079,7 +3089,7 @@
       "linkCount": 0
     },
     {
-      "id": 344,
+      "id": 346,
       "label": "David Moll",
       "url": "https://blog.davidmoll.net/blog/2024-01-19-default-apps",
       "rss": "https://blog.davidmoll.net/feed.xml",
@@ -3088,7 +3098,7 @@
       "linkCount": 0
     },
     {
-      "id": 345,
+      "id": 347,
       "label": "Julien Besnier",
       "url": "https://julienbesnier.fr/app-defaults",
       "rss": "https://julienbesnier.fr/index.xml",
@@ -3097,7 +3107,7 @@
       "linkCount": 0
     },
     {
-      "id": 346,
+      "id": 348,
       "label": "Tux Machines",
       "url": "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
       "rss": "https://news.tuxmachines.org/feed.xml",
@@ -3106,7 +3116,7 @@
       "linkCount": 0
     },
     {
-      "id": 347,
+      "id": 349,
       "label": "Ronnie Lutes",
       "url": "http://www.thelinerproject.com/blog/defaults",
       "shape": "box",
@@ -3114,7 +3124,7 @@
       "linkCount": 0
     },
     {
-      "id": 348,
+      "id": 350,
       "label": "David Jarman",
       "url": "https://www.davidjarman.info/intermittent-notes,-from-david-jarman/app-defaults-post",
       "rss": "https://www.davidjarman.info/intermittent-notes-from-david-jarman?format=rss",
@@ -3123,7 +3133,7 @@
       "linkCount": 0
     },
     {
-      "id": 349,
+      "id": 351,
       "label": "Tiff",
       "url": "https://www.tiffwhite.me/posts/default-apps",
       "shape": "box",
@@ -3131,7 +3141,7 @@
       "linkCount": 0
     },
     {
-      "id": 350,
+      "id": 352,
       "label": "Bryan Maniotakis",
       "url": "https://bryanmanio.com/blog/default-apps-for-2024",
       "rss": "https://bryanmanio.com/feed",
@@ -3140,7 +3150,7 @@
       "linkCount": 0
     },
     {
-      "id": 351,
+      "id": 353,
       "label": "Jeremiah Lee",
       "url": "https://www.jeremiahlee.com/posts/uses",
       "rss": "https://www.jeremiahlee.com/feeds/atom.xml",
@@ -3149,7 +3159,7 @@
       "linkCount": 0
     },
     {
-      "id": 352,
+      "id": 354,
       "label": "Zinzy Waleson Geene",
       "url": "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
       "rss": "https://www.zinzy.website/index.xml",
@@ -3158,7 +3168,7 @@
       "linkCount": 0
     },
     {
-      "id": 353,
+      "id": 355,
       "label": "Late Night Blog",
       "url": "https://text.tchncs.de/latenightblog/defaults",
       "rss": "https://text.tchncs.de/latenightblog/feed/",
@@ -3167,7 +3177,7 @@
       "linkCount": 0
     },
     {
-      "id": 354,
+      "id": 356,
       "label": "MikeyP",
       "url": "https://mikeyp.com/defaults",
       "rss": "http://www.mikeyp.com/feed",
@@ -3176,7 +3186,7 @@
       "linkCount": 0
     },
     {
-      "id": 355,
+      "id": 357,
       "label": "Steve Best",
       "url": "https://steve-best.github.io/default-apps",
       "shape": "box",
@@ -3184,7 +3194,7 @@
       "linkCount": 0
     },
     {
-      "id": 356,
+      "id": 358,
       "label": "Jack Platten",
       "url": "https://plttn.me/defaults",
       "rss": "https://plttn.me/rss.xml",
@@ -3193,7 +3203,7 @@
       "linkCount": 0
     },
     {
-      "id": 357,
+      "id": 359,
       "label": "Karl Toller",
       "url": "https://karltoller.com/default-apps-2024",
       "rss": "https://karltoller.com/feed",
@@ -3202,7 +3212,7 @@
       "linkCount": 0
     },
     {
-      "id": 358,
+      "id": 360,
       "label": "Binary Digit",
       "url": "https://binarydigit.cafe/notes/app-defaults",
       "rss": "https://binarydigit.cafe/index.xml",
@@ -3211,7 +3221,7 @@
       "linkCount": 0
     },
     {
-      "id": 359,
+      "id": 361,
       "label": "Jason Velazquez",
       "url": "https://music.apple.com/us/playlist/app-defaults/pl.u-y95rTYq47Lr",
       "shape": "box",
@@ -3219,7 +3229,7 @@
       "linkCount": 0
     },
     {
-      "id": 360,
+      "id": 362,
       "label": "Realmac Dan",
       "url": "https://realmacdan.com/2024/02/11/my-default-apps.html",
       "rss": "https://realmacdan.com/feed",
@@ -3228,7 +3238,7 @@
       "linkCount": 0
     },
     {
-      "id": 361,
+      "id": 363,
       "label": "Charles Magnuson",
       "url": "https://charlesmagnuson.com/blognuson/2024/02/11/my-app-defaults",
       "rss": "https://charlesmagnuson.com/blognuson/feed/",
@@ -3237,7 +3247,7 @@
       "linkCount": 0
     },
     {
-      "id": 362,
+      "id": 364,
       "label": "V.H. Belvadi",
       "url": "https://vhbelvadi.com/default-apps-2024",
       "rss": "https://vhbelvadi.com/rss",
@@ -3246,7 +3256,7 @@
       "linkCount": 0
     },
     {
-      "id": 363,
+      "id": 365,
       "label": "Nico Jensen",
       "url": "https://www.nicojensen.de/2024/02/15/app-defaults",
       "rss": "https://www.nicojensen.de/feed.xml",
@@ -3255,16 +3265,16 @@
       "linkCount": 0
     },
     {
-      "id": 364,
+      "id": 366,
       "label": "Caro Appleby",
       "url": "https://www.caro.fyi/articles/app-defaults",
-      "rss": "https://www.caro.fyi/rss/feed.xml",
+      "rss": "https://www.caro.fyi/rss.xml",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
     },
     {
-      "id": 365,
+      "id": 367,
       "label": "Thor Galle",
       "url": "https://thorgalle.me/articles/default-apps-2024",
       "shape": "box",
@@ -3272,7 +3282,7 @@
       "linkCount": 0
     },
     {
-      "id": 366,
+      "id": 368,
       "label": "Dan Hannigan",
       "url": "https://danhannigan.dev/post/default-apps-2023",
       "rss": "https://danhannigan.dev/rss/",
@@ -3281,16 +3291,54 @@
       "linkCount": 0
     },
     {
-      "id": 367,
+      "id": 369,
       "label": "FrugalGamer",
       "url": "https://www.thefrugalgamer.net/defaults.php",
       "rss": "http://www.thefrugalgamer.net/blog/index.php?/feeds/index.rss2",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
+    },
+    {
+      "id": 370,
+      "label": "Joe Hallenbeck",
+      "url": "https://garden.joehallenbeck.com/container/default-apps",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 1
+    },
+    {
+      "id": 371,
+      "label": "Loda Tang",
+      "url": "https://loda.notion.site/app-defaults-b4687ce174e24718ac56dcfff25a3d8a",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 372,
+      "label": "Kostis Payavlas",
+      "url": "https://kost.is/2024/04/01/app-defaults",
+      "rss": "https://kost.is/index.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 373,
+      "label": "Aaron Czichon",
+      "url": "https://aaronczichon.de/blog/app-defaults-2024",
+      "rss": "https://aaronczichon.de/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
     }
   ],
   "edges": [
+    {
+      "from": 1000,
+      "to": 1
+    },
     {
       "from": 1000,
       "to": 2
@@ -3338,10 +3386,6 @@
     {
       "from": 1000,
       "to": 17
-    },
-    {
-      "from": 1000,
-      "to": 21
     },
     {
       "from": 1000,
@@ -3425,10 +3469,6 @@
     },
     {
       "from": 1000,
-      "to": 78
-    },
-    {
-      "from": 1000,
       "to": 81
     },
     {
@@ -3489,6 +3529,10 @@
     },
     {
       "from": 1000,
+      "to": 125
+    },
+    {
+      "from": 1000,
       "to": 127
     },
     {
@@ -3526,10 +3570,6 @@
     {
       "from": 1000,
       "to": 157
-    },
-    {
-      "from": 1000,
-      "to": 166
     },
     {
       "from": 1000,
@@ -3581,19 +3621,15 @@
     },
     {
       "from": 1000,
-      "to": 213
+      "to": 215
     },
     {
       "from": 1000,
-      "to": 220
+      "to": 222
     },
     {
       "from": 1000,
-      "to": 230
-    },
-    {
-      "from": 1000,
-      "to": 233
+      "to": 232
     },
     {
       "from": 1000,
@@ -3605,23 +3641,23 @@
     },
     {
       "from": 1000,
-      "to": 241
+      "to": 239
     },
     {
       "from": 1000,
-      "to": 245
+      "to": 243
     },
     {
       "from": 1000,
-      "to": 253
+      "to": 247
     },
     {
       "from": 1000,
-      "to": 257
+      "to": 255
     },
     {
       "from": 1000,
-      "to": 276
+      "to": 259
     },
     {
       "from": 1000,
@@ -3629,23 +3665,15 @@
     },
     {
       "from": 1000,
-      "to": 283
+      "to": 280
     },
     {
       "from": 1000,
-      "to": 287
+      "to": 285
     },
     {
       "from": 1000,
-      "to": 304
-    },
-    {
-      "from": 1000,
-      "to": 305
-    },
-    {
-      "from": 1000,
-      "to": 305
+      "to": 289
     },
     {
       "from": 1000,
@@ -3653,47 +3681,39 @@
     },
     {
       "from": 1000,
-      "to": 313
+      "to": 307
     },
     {
       "from": 1000,
-      "to": 318
+      "to": 307
     },
     {
       "from": 1000,
-      "to": 321
+      "to": 315
     },
     {
       "from": 1000,
-      "to": 324
+      "to": 320
     },
     {
       "from": 1000,
-      "to": 325
+      "to": 323
     },
     {
       "from": 1000,
-      "to": 328
+      "to": 326
     },
     {
       "from": 1000,
-      "to": 329
+      "to": 327
     },
     {
       "from": 1000,
-      "to": 334
+      "to": 330
     },
     {
       "from": 1000,
-      "to": 334
-    },
-    {
-      "from": 1000,
-      "to": 334
-    },
-    {
-      "from": 1000,
-      "to": 334
+      "to": 331
     },
     {
       "from": 1000,
@@ -3701,15 +3721,27 @@
     },
     {
       "from": 1000,
-      "to": 340
+      "to": 336
     },
     {
       "from": 1000,
-      "to": 341
+      "to": 336
     },
     {
       "from": 1000,
-      "to": 345
+      "to": 336
+    },
+    {
+      "from": 1000,
+      "to": 338
+    },
+    {
+      "from": 1000,
+      "to": 342
+    },
+    {
+      "from": 1000,
+      "to": 343
     },
     {
       "from": 1000,
@@ -3717,7 +3749,15 @@
     },
     {
       "from": 1000,
-      "to": 364
+      "to": 349
+    },
+    {
+      "from": 1000,
+      "to": 366
+    },
+    {
+      "from": 1000,
+      "to": 372
     },
     {
       "from": 1001,
@@ -3742,10 +3782,6 @@
     {
       "from": 1001,
       "to": 14
-    },
-    {
-      "from": 1001,
-      "to": 15
     },
     {
       "from": 1001,
@@ -3782,6 +3818,10 @@
     {
       "from": 1001,
       "to": 34
+    },
+    {
+      "from": 1001,
+      "to": 35
     },
     {
       "from": 1001,
@@ -3878,10 +3918,6 @@
     {
       "from": 1001,
       "to": 72
-    },
-    {
-      "from": 1001,
-      "to": 78
     },
     {
       "from": 1001,
@@ -4021,6 +4057,14 @@
     },
     {
       "from": 1001,
+      "to": 125
+    },
+    {
+      "from": 1001,
+      "to": 126
+    },
+    {
+      "from": 1001,
       "to": 127
     },
     {
@@ -4050,10 +4094,6 @@
     {
       "from": 1001,
       "to": 137
-    },
-    {
-      "from": 1001,
-      "to": 140
     },
     {
       "from": 1001,
@@ -4117,10 +4157,6 @@
     },
     {
       "from": 1001,
-      "to": 160
-    },
-    {
-      "from": 1001,
       "to": 162
     },
     {
@@ -4130,14 +4166,6 @@
     {
       "from": 1001,
       "to": 165
-    },
-    {
-      "from": 1001,
-      "to": 166
-    },
-    {
-      "from": 1001,
-      "to": 166
     },
     {
       "from": 1001,
@@ -4213,7 +4241,7 @@
     },
     {
       "from": 1001,
-      "to": 311
+      "to": 313
     },
     {
       "from": 1001,
@@ -4245,19 +4273,11 @@
     },
     {
       "from": 1001,
-      "to": 205
-    },
-    {
-      "from": 1001,
       "to": 206
     },
     {
       "from": 1001,
-      "to": 207
-    },
-    {
-      "from": 1001,
-      "to": 208
+      "to": 210
     },
     {
       "from": 1001,
@@ -4265,23 +4285,19 @@
     },
     {
       "from": 1001,
-      "to": 213
+      "to": 210
     },
     {
       "from": 1001,
-      "to": 213
+      "to": 211
     },
     {
       "from": 1001,
-      "to": 216
+      "to": 215
     },
     {
       "from": 1001,
-      "to": 218
-    },
-    {
-      "from": 1001,
-      "to": 219
+      "to": 215
     },
     {
       "from": 1001,
@@ -4294,10 +4310,6 @@
     {
       "from": 1001,
       "to": 224
-    },
-    {
-      "from": 1001,
-      "to": 225
     },
     {
       "from": 1001,
@@ -4317,11 +4329,11 @@
     },
     {
       "from": 1001,
-      "to": 231
+      "to": 230
     },
     {
       "from": 1001,
-      "to": 232
+      "to": 231
     },
     {
       "from": 1001,
@@ -4337,11 +4349,11 @@
     },
     {
       "from": 1001,
-      "to": 237
+      "to": 236
     },
     {
       "from": 1001,
-      "to": 238
+      "to": 237
     },
     {
       "from": 1001,
@@ -4361,23 +4373,19 @@
     },
     {
       "from": 1001,
+      "to": 243
+    },
+    {
+      "from": 1001,
       "to": 244
     },
     {
       "from": 1001,
-      "to": 247
+      "to": 246
     },
     {
       "from": 1001,
-      "to": 248
-    },
-    {
-      "from": 1001,
-      "to": 254
-    },
-    {
-      "from": 1001,
-      "to": 255
+      "to": 249
     },
     {
       "from": 1001,
@@ -4385,15 +4393,11 @@
     },
     {
       "from": 1001,
-      "to": 257
+      "to": 258
     },
     {
       "from": 1001,
-      "to": 265
-    },
-    {
-      "from": 1001,
-      "to": 266
+      "to": 259
     },
     {
       "from": 1001,
@@ -4409,19 +4413,19 @@
     },
     {
       "from": 1001,
+      "to": 270
+    },
+    {
+      "from": 1001,
       "to": 271
     },
     {
       "from": 1001,
-      "to": 274
+      "to": 273
     },
     {
       "from": 1001,
       "to": 276
-    },
-    {
-      "from": 1001,
-      "to": 277
     },
     {
       "from": 1001,
@@ -4437,11 +4441,11 @@
     },
     {
       "from": 1001,
-      "to": 283
+      "to": 281
     },
     {
       "from": 1001,
-      "to": 284
+      "to": 282
     },
     {
       "from": 1001,
@@ -4449,31 +4453,31 @@
     },
     {
       "from": 1001,
+      "to": 286
+    },
+    {
+      "from": 1001,
       "to": 287
     },
     {
       "from": 1001,
-      "to": 288
+      "to": 289
     },
     {
       "from": 1001,
-      "to": 291
+      "to": 290
     },
     {
       "from": 1001,
-      "to": 291
+      "to": 293
     },
     {
       "from": 1001,
-      "to": 292
+      "to": 293
     },
     {
       "from": 1001,
       "to": 294
-    },
-    {
-      "from": 1001,
-      "to": 295
     },
     {
       "from": 1001,
@@ -4489,7 +4493,15 @@
     },
     {
       "from": 1001,
-      "to": 303
+      "to": 299
+    },
+    {
+      "from": 1001,
+      "to": 300
+    },
+    {
+      "from": 1001,
+      "to": 301
     },
     {
       "from": 1001,
@@ -4497,31 +4509,19 @@
     },
     {
       "from": 1001,
-      "to": 305
+      "to": 307
     },
     {
       "from": 1001,
-      "to": 305
+      "to": 307
     },
     {
       "from": 1001,
-      "to": 305
+      "to": 307
     },
     {
       "from": 1001,
-      "to": 306
-    },
-    {
-      "from": 1001,
-      "to": 308
-    },
-    {
-      "from": 1001,
-      "to": 309
-    },
-    {
-      "from": 1001,
-      "to": 310
+      "to": 307
     },
     {
       "from": 1001,
@@ -4533,15 +4533,35 @@
     },
     {
       "from": 1001,
+      "to": 311
+    },
+    {
+      "from": 1001,
+      "to": 312
+    },
+    {
+      "from": 1001,
+      "to": 312
+    },
+    {
+      "from": 1001,
       "to": 313
     },
     {
       "from": 1001,
-      "to": 314
+      "to": 315
     },
     {
       "from": 1001,
-      "to": 317
+      "to": 316
+    },
+    {
+      "from": 1001,
+      "to": 318
+    },
+    {
+      "from": 1001,
+      "to": 318
     },
     {
       "from": 1001,
@@ -4549,15 +4569,11 @@
     },
     {
       "from": 1001,
-      "to": 320
-    },
-    {
-      "from": 1001,
-      "to": 320
-    },
-    {
-      "from": 1001,
       "to": 321
+    },
+    {
+      "from": 1001,
+      "to": 322
     },
     {
       "from": 1001,
@@ -4577,11 +4593,11 @@
     },
     {
       "from": 1001,
-      "to": 328
+      "to": 326
     },
     {
       "from": 1001,
-      "to": 329
+      "to": 327
     },
     {
       "from": 1001,
@@ -4605,27 +4621,23 @@
     },
     {
       "from": 1001,
-      "to": 334
+      "to": 335
     },
     {
       "from": 1001,
-      "to": 334
+      "to": 336
     },
     {
       "from": 1001,
-      "to": 334
+      "to": 336
     },
     {
       "from": 1001,
-      "to": 337
+      "to": 336
     },
     {
       "from": 1001,
-      "to": 338
-    },
-    {
-      "from": 1001,
-      "to": 339
+      "to": 336
     },
     {
       "from": 1001,
@@ -4637,31 +4649,27 @@
     },
     {
       "from": 1001,
+      "to": 342
+    },
+    {
+      "from": 1001,
       "to": 343
     },
     {
       "from": 1001,
-      "to": 344
-    },
-    {
-      "from": 1001,
       "to": 345
     },
     {
       "from": 1001,
-      "to": 345
+      "to": 347
     },
     {
       "from": 1001,
-      "to": 346
+      "to": 347
     },
     {
       "from": 1001,
-      "to": 350
-    },
-    {
-      "from": 1001,
-      "to": 351
+      "to": 348
     },
     {
       "from": 1001,
@@ -4673,6 +4681,10 @@
     },
     {
       "from": 1001,
+      "to": 354
+    },
+    {
+      "from": 1001,
       "to": 355
     },
     {
@@ -4681,27 +4693,11 @@
     },
     {
       "from": 1001,
-      "to": 358
-    },
-    {
-      "from": 1001,
-      "to": 360
-    },
-    {
-      "from": 1001,
-      "to": 361
+      "to": 359
     },
     {
       "from": 1001,
       "to": 362
-    },
-    {
-      "from": 1001,
-      "to": 362
-    },
-    {
-      "from": 1001,
-      "to": 363
     },
     {
       "from": 1001,
@@ -4713,11 +4709,35 @@
     },
     {
       "from": 1001,
-      "to": 367
+      "to": 364
     },
     {
-      "from": 1,
-      "to": 2
+      "from": 1001,
+      "to": 365
+    },
+    {
+      "from": 1001,
+      "to": 365
+    },
+    {
+      "from": 1001,
+      "to": 366
+    },
+    {
+      "from": 1001,
+      "to": 369
+    },
+    {
+      "from": 1001,
+      "to": 370
+    },
+    {
+      "from": 1001,
+      "to": 372
+    },
+    {
+      "from": 1001,
+      "to": 373
     },
     {
       "from": 2,
@@ -4797,23 +4817,19 @@
     },
     {
       "from": 2,
-      "to": 210
+      "to": 212
     },
     {
       "from": 2,
-      "to": 213
+      "to": 215
     },
     {
       "from": 2,
-      "to": 245
+      "to": 247
     },
     {
       "from": 2,
-      "to": 249
-    },
-    {
-      "from": 2,
-      "to": 253
+      "to": 251
     },
     {
       "from": 2,
@@ -4821,11 +4837,11 @@
     },
     {
       "from": 2,
-      "to": 284
+      "to": 286
     },
     {
       "from": 2,
-      "to": 342
+      "to": 344
     },
     {
       "from": 3,
@@ -4853,7 +4869,7 @@
     },
     {
       "from": 3,
-      "to": 301
+      "to": 303
     },
     {
       "from": 4,
@@ -4870,6 +4886,10 @@
     {
       "from": 6,
       "to": 209
+    },
+    {
+      "from": 6,
+      "to": 211
     },
     {
       "from": 9,
@@ -4890,6 +4910,10 @@
     {
       "from": 14,
       "to": 186
+    },
+    {
+      "from": 17,
+      "to": 125
     },
     {
       "from": 25,
@@ -4949,15 +4973,11 @@
     },
     {
       "from": 27,
-      "to": 247
+      "to": 249
     },
     {
       "from": 29,
-      "to": 255
-    },
-    {
-      "from": 29,
-      "to": 308
+      "to": 310
     },
     {
       "from": 31,
@@ -5013,31 +5033,31 @@
     },
     {
       "from": 35,
-      "to": 311
+      "to": 313
     },
     {
       "from": 35,
-      "to": 227
+      "to": 229
     },
     {
       "from": 35,
-      "to": 268
+      "to": 270
     },
     {
       "from": 35,
-      "to": 279
+      "to": 281
     },
     {
       "from": 35,
-      "to": 311
+      "to": 313
     },
     {
       "from": 35,
-      "to": 314
+      "to": 316
     },
     {
       "from": 38,
-      "to": 271
+      "to": 273
     },
     {
       "from": 39,
@@ -5057,7 +5077,7 @@
     },
     {
       "from": 41,
-      "to": 308
+      "to": 310
     },
     {
       "from": 45,
@@ -5073,15 +5093,11 @@
     },
     {
       "from": 45,
-      "to": 350
+      "to": 352
     },
     {
       "from": 49,
-      "to": 255
-    },
-    {
-      "from": 49,
-      "to": 331
+      "to": 333
     },
     {
       "from": 53,
@@ -5090,10 +5106,6 @@
     {
       "from": 53,
       "to": 94
-    },
-    {
-      "from": 58,
-      "to": 178
     },
     {
       "from": 62,
@@ -5121,7 +5133,7 @@
     },
     {
       "from": 73,
-      "to": 213
+      "to": 215
     },
     {
       "from": 76,
@@ -5137,11 +5149,11 @@
     },
     {
       "from": 97,
-      "to": 213
+      "to": 215
     },
     {
       "from": 101,
-      "to": 211
+      "to": 213
     },
     {
       "from": 102,
@@ -5150,10 +5162,6 @@
     {
       "from": 102,
       "to": 132
-    },
-    {
-      "from": 102,
-      "to": 166
     },
     {
       "from": 107,
@@ -5169,19 +5177,19 @@
     },
     {
       "from": 107,
-      "to": 160
+      "to": 280
     },
     {
       "from": 107,
-      "to": 278
+      "to": 280
     },
     {
       "from": 107,
-      "to": 278
+      "to": 311
     },
     {
       "from": 107,
-      "to": 320
+      "to": 322
     },
     {
       "from": 109,
@@ -5189,7 +5197,7 @@
     },
     {
       "from": 113,
-      "to": 217
+      "to": 219
     },
     {
       "from": 118,
@@ -5213,15 +5221,11 @@
     },
     {
       "from": 118,
-      "to": 311
+      "to": 313
     },
     {
       "from": 118,
-      "to": 213
-    },
-    {
-      "from": 118,
-      "to": 227
+      "to": 215
     },
     {
       "from": 118,
@@ -5229,31 +5233,39 @@
     },
     {
       "from": 118,
-      "to": 247
+      "to": 231
     },
     {
       "from": 118,
-      "to": 260
+      "to": 249
     },
     {
       "from": 118,
-      "to": 283
+      "to": 262
     },
     {
       "from": 118,
-      "to": 311
+      "to": 285
     },
     {
       "from": 118,
-      "to": 357
+      "to": 313
+    },
+    {
+      "from": 118,
+      "to": 359
     },
     {
       "from": 124,
       "to": 209
     },
     {
+      "from": 124,
+      "to": 211
+    },
+    {
       "from": 133,
-      "to": 242
+      "to": 244
     },
     {
       "from": 146,
@@ -5266,6 +5278,10 @@
     {
       "from": 150,
       "to": 209
+    },
+    {
+      "from": 150,
+      "to": 211
     },
     {
       "from": 170,
@@ -5285,31 +5301,31 @@
     },
     {
       "from": 170,
-      "to": 221
-    },
-    {
-      "from": 170,
-      "to": 222
-    },
-    {
-      "from": 170,
       "to": 223
     },
     {
       "from": 170,
-      "to": 230
+      "to": 224
     },
     {
       "from": 170,
-      "to": 233
+      "to": 225
     },
     {
       "from": 170,
-      "to": 241
+      "to": 225
     },
     {
       "from": 170,
-      "to": 247
+      "to": 232
+    },
+    {
+      "from": 170,
+      "to": 235
+    },
+    {
+      "from": 170,
+      "to": 243
     },
     {
       "from": 170,
@@ -5317,23 +5333,27 @@
     },
     {
       "from": 170,
-      "to": 273
+      "to": 251
     },
     {
       "from": 170,
-      "to": 276
+      "to": 275
     },
     {
       "from": 170,
-      "to": 282
+      "to": 278
     },
     {
       "from": 170,
-      "to": 286
+      "to": 284
     },
     {
       "from": 170,
-      "to": 308
+      "to": 288
+    },
+    {
+      "from": 170,
+      "to": 310
     },
     {
       "from": 171,
@@ -5353,39 +5373,39 @@
     },
     {
       "from": 171,
-      "to": 221
+      "to": 223
     },
     {
       "from": 171,
-      "to": 222
+      "to": 224
     },
     {
       "from": 171,
-      "to": 249
+      "to": 251
     },
     {
       "from": 171,
-      "to": 273
+      "to": 275
     },
     {
       "from": 171,
+      "to": 315
+    },
+    {
+      "from": 181,
+      "to": 285
+    },
+    {
+      "from": 181,
+      "to": 325
+    },
+    {
+      "from": 187,
       "to": 313
     },
     {
-      "from": 181,
-      "to": 283
-    },
-    {
-      "from": 181,
-      "to": 323
-    },
-    {
       "from": 187,
-      "to": 311
-    },
-    {
-      "from": 187,
-      "to": 311
+      "to": 313
     },
     {
       "from": 188,
@@ -5393,19 +5413,23 @@
     },
     {
       "from": 189,
-      "to": 274
+      "to": 276
     },
     {
       "from": 189,
-      "to": 362
+      "to": 364
     },
     {
       "from": 190,
-      "to": 208
+      "to": 210
     },
     {
       "from": 190,
-      "to": 223
+      "to": 210
+    },
+    {
+      "from": 190,
+      "to": 225
     },
     {
       "from": 199,
@@ -5421,59 +5445,63 @@
     },
     {
       "from": 199,
+      "to": 219
+    },
+    {
+      "from": 202,
       "to": 217
     },
     {
       "from": 203,
-      "to": 308
+      "to": 310
     },
     {
-      "from": 213,
-      "to": 214
+      "from": 215,
+      "to": 216
     },
     {
-      "from": 213,
+      "from": 215,
+      "to": 226
+    },
+    {
+      "from": 215,
+      "to": 275
+    },
+    {
+      "from": 220,
+      "to": 226
+    },
+    {
+      "from": 223,
       "to": 224
     },
     {
-      "from": 213,
-      "to": 273
+      "from": 223,
+      "to": 347
     },
     {
-      "from": 218,
-      "to": 224
+      "from": 224,
+      "to": 347
     },
     {
-      "from": 221,
-      "to": 222
+      "from": 234,
+      "to": 236
     },
     {
-      "from": 221,
-      "to": 345
-    },
-    {
-      "from": 222,
-      "to": 345
-    },
-    {
-      "from": 232,
-      "to": 234
-    },
-    {
-      "from": 250,
-      "to": 301
-    },
-    {
-      "from": 257,
-      "to": 264
+      "from": 252,
+      "to": 303
     },
     {
       "from": 259,
-      "to": 264
+      "to": 266
     },
     {
-      "from": 301,
-      "to": 324
+      "from": 261,
+      "to": 266
+    },
+    {
+      "from": 303,
+      "to": 326
     }
   ]
 }

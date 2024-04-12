@@ -4,7 +4,6 @@
     "urlKey": "https://listen.hemisphericviews.com/097",
     "url": "https://listen.hemisphericviews.com/097",
     "links": [
-      "https://gabz.blog/2023/11/03/my-defaults.html",
       "https://rknight.me/app-defaults",
       "https://maique.eu/2023/11/03/defaults.html",
       "https://lmika.org/2023/11/04/defaults.html",
@@ -16,10 +15,7 @@
       "https://www.chamline.net/default-apps",
       "https://eay.cc/2023/my-app-defaults",
       "https://flamedfury.com/posts/app-defaults",
-      "https://jeffperry.me/2023/11/16/my-default-apps.html",
       "https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring",
-      "https://andreas-spiegler.de/2023/11/05/app-defaults",
-      "https://andreas-spiegler.de/2023/11/05/app-defaults",
       "https://www.superdavey.com/2023/11/05/defaults.html",
       "https://tekphloyd.com/defaults",
       "https://mihobu.lol/defaults",
@@ -33,6 +29,7 @@
       "https://peroty.micro.blog/2023/11/07/defaults.html",
       "https://cosmicqbit.dev/default-apps-2023",
       "https://gkeenan.co/avgb/app-defaults",
+      "https://pauls.weblog.lol/2024/01/app-defaults",
       "https://acn.lol/2023/11/07/default-apps",
       "https://dolzhenko.me/blog/2023/11/default-apps",
       "https://proycon.anaproy.nl/posts/default-apps",
@@ -56,12 +53,10 @@
       "https://victor.kropp.name/blog/app-defaults",
       "https://grepjason.sh/2023/duel-of-the-defaults",
       "https://grepjason.sh/2023/duel-of-the-defaults",
-      "https://vmac.ch/posts/2023-11-05-app-default",
       "https://polarhive.net/blog/app-defaults",
       "https://vatthikorn.com/2023-default-apps",
       "https://world.hey.com/kylenichols/my-defaults-0b855cc1",
-      "https://frittiert.es/frittiert-es/2023/11/app-defaults",
-      "https://martinschuhmann.com/2023/11/13/my-default-apps.html",
+      "https://blog.luiscarlospando.com/personal/2023/11/app-defaults-mis-apps-predeterminadas",
       "https://blakewatson.com/journal/default-apps-2023",
       "https://loungeruminator.net/2023/11/17/mr-default",
       "https://heyscottyj.com/2023/11/17/my-app-defaults.html",
@@ -69,6 +64,7 @@
       "https://lubieniebieski.pl/defaults",
       "https://www.iandick.com/default-apps-2023",
       "https://chrisenns.com/2023/11/app-defaults",
+      "https://arkoinad.com/posts/default_apps_2023.html",
       "https://mattcool.tech/posts/default-apps-2023",
       "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html",
       "https://byemc.xyz/2023/app-defaults",
@@ -79,7 +75,42 @@
       "https://yuexun.me/my-app-defaults-in-2023",
       "https://www.manton.org/2023/11/28/default-apps-for.html",
       "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
-      "https://mattlangford.com/2023/11/28/default-apps-for.html"
+      "https://mattlangford.com/2023/11/28/default-apps-for.html",
+      "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+      "https://social.jasonheppler.org/2023/11/29/default-apps-for.html",
+      "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
+      "http://svenluijten.com/posts/default-apps-2023",
+      "https://defaults.kimchiii.space",
+      "https://blog.zzsqwq.cn/posts/default-apps-f2023",
+      "https://svenluijten.com/posts/default-apps-2023",
+      "https://hunsanger.com/2023/11/26/app-defaults.html",
+      "https://technocidal.com/2023/12/07/app-defaults",
+      "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
+      "https://amanhimself.dev/blog/default-apps-2023",
+      "https://demochen.com/posts/20231216",
+      "https://tangiblelife.net/app-defaults",
+      "https://scottwillsey.com/default-apps-2023",
+      "https://bentsai.pika.page/posts/my-app-defaults",
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://golfdeltapapa.blog/uses",
+      "https://chrisfinazzo.com/2023/12/31/app-defaults",
+      "https://notes.neatnik.net/2024/01/app-defaults",
+      "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
+      "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
+      "https://sheetsj.com/blog/app-defaults",
+      "https://www.martingunnarsson.com/posts/apps-2023",
+      "https://www.trovster.com/about/uses#defaults",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://ivikrant.net/2024/01/09/default-apps-2024",
+      "https://abdo.wtf/blog/app-defaults",
+      "https://sascha.sh/posts/my-default-apps-of-early-2024",
+      "https://julienbesnier.fr/app-defaults",
+      "http://www.thelinerproject.com/blog/defaults",
+      "https://www.caro.fyi/articles/app-defaults"
     ],
     "name": "Hemispheric Views",
     "shape": "box"
@@ -95,11 +126,8 @@
       "https://eay.cc/2023/my-app-defaults",
       "https://flamedfury.com/posts/app-defaults",
       "https://flamedfury.com/posts/app-defaults",
-      "https://jeffperry.me/2023/11/16/my-default-apps.html",
+      "https://laker.tech/p/app-defaults",
       "https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring",
-      "https://sylvia.micro.blog/2023/11/05/my-defaults.html",
-      "https://andreas-spiegler.de/2023/11/05/app-defaults",
-      "https://andreas-spiegler.de/2023/11/05/app-defaults",
       "https://tekphloyd.com/defaults",
       "https://mihobu.lol/defaults",
       "https://arne.me/articles/app-defaults",
@@ -134,11 +162,14 @@
       "https://nikokultalahti.com/posts/my-default-apps-late-2023",
       "https://ankaph.xyz/posts/app-defaults",
       "https://initialcharge.net/2023/11/default-apps-services",
+      "https://schoonens.social/2023/11/08/default-apps.html",
+      "https://schoonens.social/2023/11/08/default-apps.html",
+      "https://schoonens.social/2023/11/08/default-apps.html",
       "https://baty.net/posts/2023/11/app-defaults",
       "https://mandarismoore.com/2023/11/08/defaults-in.html",
       "https://robinopletal.com/posts/default-apps-fall-2023",
       "https://robinopletal.com/posts/default-apps-fall-2023",
-      "https://hacdias.com/2023/11/08/app-defaults-late-2023",
+      "https://hacdias.com/uses/#software",
       "https://www.cedricbonhomme.org/2023/11/08/my-default-apps-at-the-end-of-2023",
       "https://alby.xyz/index.php/2023/11/08/le-mie-app-di-default-2023",
       "https://lostfocus.de/2023/11/09/defaults",
@@ -161,12 +192,9 @@
       "https://ovr.today/2023/11/11/app-defaults.html",
       "https://www.jameskupke.com/posts/my-default-apps-2023",
       "https://victor.kropp.name/blog/app-defaults",
-      "https://ghordano.com/2023/11/11/default-apps-2023",
       "https://bitboxer.de/2023/11/12/default-apps-2023",
       "https://makoism.com/defaults",
-      "https://mikehaynes.blog/post/3734",
       "https://grepjason.sh/2023/duel-of-the-defaults",
-      "https://vmac.ch/posts/2023-11-05-app-default",
       "https://polarhive.net/blog/app-defaults",
       "https://danq.me/2023/11/12/lifestack-2023",
       "https://gluecko.se/2023/default-apps-2023",
@@ -174,10 +202,8 @@
       "https://vatthikorn.com/2023-default-apps",
       "https://blog.douchi.space/app-defaults",
       "https://yinji.org/5179.html ",
-      "https://frittiert.es/frittiert-es/2023/11/app-defaults",
       "https://lucas.art/blog/app-defaults",
       "https://itskev.in/2023/11/13/app-defaults.html",
-      "https://martinschuhmann.com/2023/11/13/my-default-apps.html",
       "https://jarkko.dev/blog/my-default-apps-at-2023",
       "https://pileoftext.mataroa.blog/blog/default-apps-in-2023",
       "https://nate.mecca1.net/posts/2023-11-14_defaults",
@@ -191,9 +217,9 @@
       "https://lubieniebieski.pl/defaults",
       "https://www.iandick.com/default-apps-2023",
       "https://www.iandick.com/default-apps-2023",
-      "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023",
+      "https://aj.bourg.family/home-screen-defaults-subscriptions-2023",
       "https://suhas.weblog.lol/defaults",
-      "https://rexarski.com/blog/my-app-defaults-2023",
+      "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
       "https://blog.pcora.eu/2023/11/21/app-defaults.html",
       "https://www.amitgawande.com/2023/11/21/app-defaults.html",
       "https://cliophate.wtf/posts/default-apps",
@@ -201,6 +227,7 @@
       "https://chrisenns.com/2023/11/app-defaults",
       "https://arkoinad.com/posts/default_apps_2023.html",
       "https://flohgro.com/productivity/app-defaults-2023",
+      "https://jamesdoc.com/blog/2023/defaults-in-2023",
       "https://mattcool.tech/posts/default-apps-2023",
       "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV",
       "https://damjanovic.it/2023/11/26/my-defaults.html",
@@ -224,32 +251,137 @@
       "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
       "https://chrismcleod.dev/blog/default-apps-for-2023",
       "https://mattlangford.com/2023/11/28/default-apps-for.html",
-      "https://concorde.blog/posts/app-defaults",
       "https://troydp.micro.blog/2023/11/28/my-defaults.html",
       "https://tylersticka.com/journal/default-apps-2023",
       "https://alexcarpenter.me/app-defaults",
-      "https://jupe.studio/my-defaults-2023"
+      "https://jupe.studio/my-defaults-2023",
+      "https://jimmitchell.org/2023/11/21/app-defaults.html",
+      "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+      "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+      "https://ldstephens.net/2023/11/29/my-default-apps-2024-version",
+      "https://cagrimmett.com/tech/2023/11/29/default-apps-2023",
+      "https://ner3y.micro.blog/defaults",
+      "https://social.jasonheppler.org/2023/11/29/default-apps-for.html",
+      "https://timothee.goguely.com/blog/default-apps-2023",
+      "https://chrisglass.com/2023/11/28/default-apps",
+      "https://jasper.tandy.is/blogging/default-apps-2023",
+      "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
+      "https://harrycresswell.com/writing/app-defaults",
+      "https://nahumck.me/app_defaults_2023",
+      "https://campegg.com/2023/11/17/a-couple-of.html",
+      "https://ondrejsevcik.com/blog/my-app-defaults-2023",
+      "https://paulrobertlloyd.com/2023/336/a1/default-apps",
+      "http://svenluijten.com/posts/default-apps-2023",
+      "https://houseofkyle.com/2023/12/02/default-apps-2023",
+      "https://defaults.kimchiii.space",
+      "https://blog.zzsqwq.cn/posts/default-apps-f2023",
+      "https://blog.huadeity.com/posts/app-defaults",
+      "https://www.tommyp.org/blog/app-defaults",
+      "https://www.going-flying.com/blog/defaults.html",
+      "https://svenluijten.com/posts/default-apps-2023",
+      "https://thewanderingallison.github.io/posts/app_defaults_2023",
+      "https://etienne.depar.is/a-ecrit/app-defaults.html",
+      "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
+      "https://blog.adm.ink/defaults",
+      "https://heyloura.com/2023/12/07/my-app-defaults.html",
+      "https://daught.me/blog/2023-defaults",
+      "https://mzll.it/2023/12/en-default-2023",
+      "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
+      "https://gigold.me/blog/defaults",
+      "https://thenewleafjournal.com/my-default-apps-as-of-december-2023",
+      "https://heliomass.com/posts/117-app-defaults",
+      "https://canyoudownloadrice.com/software-i-use",
+      "https://blog.lyokolux.space/posts/2023-11-20-default-apps",
+      "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
+      "https://jefftriplett.com/2023/default-apps-2023",
+      "https://amanhimself.dev/blog/default-apps-2023",
+      "https://doug.pub/2023/12/16/its-defaults-time.html",
+      "https://demochen.com/posts/20231216",
+      "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
+      "https://roytang.net/2023/12/default-apps",
+      "https://tangiblelife.net/app-defaults",
+      "https://danabyerly.com/notes/defaults-2023",
+      "https://probably.co.uk/posts/default-applications",
+      "https://scottwillsey.com/default-apps-2023",
+      "https://bjhess.pika.page/posts/2023-app-defaults",
+      "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
+      "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
+      "https://www.filmvanalledag.nl/?p=9266",
+      "https://www.lqdev.me/feed/app-defaults-2023",
+      "https://nilsschaffer.com/my-app-defaults-2023",
+      "https://robjimgreen.co.uk/app-defaults",
+      "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023",
+      "https://dillonmok.com/articles/my-default-apps",
+      "https://stollerys.co.uk/defaults",
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://bobiko.blog/2023/12/defaults-apps-2023",
+      "https://golfdeltapapa.blog/uses",
+      "https://kiko.io/post/App-Defaults-2023",
+      "https://wogong.net/blog/2023/12/defaults2023",
+      "https://zmknox.com/2023/12/30/app-defaults-2024",
+      "https://zmknox.com/2023/12/30/app-defaults-2024",
+      "https://techtea.io/articles/2023/app-defaults",
+      "https://chrisfinazzo.com/2023/12/31/app-defaults",
+      "https://n3wjack.net/2023/12/31/my-default-apps-for-2023",
+      "https://kutomo.com/app-defaults-for-2024",
+      "https://cropp.blog/defaults",
+      "https://blog.moeyua.com/posts/my-defaults-2023",
+      "https://blog.moeyua.com/posts/my-defaults-2023",
+      "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
+      "https://ben.yaf.ai/app-defaults",
+      "https://www.sholis.com/blog/2024-app-defaults",
+      "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
+      "https://sheetsj.com/blog/app-defaults",
+      "https://www.martingunnarsson.com/posts/apps-2023",
+      "https://www.trovster.com/about/uses#defaults",
+      "https://cjd.weblog.lol/2024/01/app-defaults",
+      "https://iamfran.com/archives/apps-default-2023",
+      "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html",
+      "https://abf.li/posts/default-apps-at-the-beginning-of-2024",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://www.philipptemmel.com/writings/app-defaults-2023",
+      "https://danielprindii.com/2024/01/09/default-apps-of-2023",
+      "https://pifferi.info/My-default-apps-starting-2024",
+      "https://www.niklas.fyi/posts/2024-01-11-default-apps",
+      "https://abdo.wtf/blog/app-defaults",
+      "https://sascha.sh/posts/my-default-apps-of-early-2024",
+      "https://edleeman.co.uk/posts/my-app-defaults-of-2024",
+      "https://blog.davidmoll.net/blog/2024-01-19-default-apps",
+      "https://julienbesnier.fr/app-defaults",
+      "https://julienbesnier.fr/app-defaults",
+      "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
+      "https://bryanmanio.com/blog/default-apps-for-2024",
+      "https://www.jeremiahlee.com/posts/uses",
+      "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
+      "https://text.tchncs.de/latenightblog/defaults",
+      "https://steve-best.github.io/default-apps",
+      "https://karltoller.com/default-apps-2024",
+      "https://binarydigit.cafe/notes/app-defaults",
+      "https://realmacdan.com/2024/02/11/my-default-apps.html",
+      "https://charlesmagnuson.com/blognuson/2024/02/11/my-app-defaults",
+      "https://vhbelvadi.com/default-apps-2024",
+      "https://vhbelvadi.com/default-apps-2024",
+      "https://www.nicojensen.de/2024/02/15/app-defaults",
+      "https://www.nicojensen.de/2024/02/15/app-defaults",
+      "https://www.caro.fyi/articles/app-defaults",
+      "https://www.thefrugalgamer.net/defaults.php"
     ],
     "name": "App Defaults",
     "shape": "box"
   },
-  "https://gabz.blog/2023/11/03/my-defaults.html": {
+  "https://gabz.blog/post/my-defaults-tpq2ulkn": {
     "name": "Gabz",
-    "url": "https://gabz.blog/2023/11/03/my-defaults.html",
+    "url": "https://gabz.blog/post/my-defaults-tpq2ulkn",
     "rss": "https://gabz.blog/feed.xml",
     "date": "2023-11-07 16:49",
     "id": 1,
-    "urlKey": "https://gabz.blog/2023/11/03/my-defaults.html",
+    "urlKey": "https://gabz.blog/post/my-defaults-tpq2ulkn",
     "links": [
-      "https://rknight.me/app-defaults",
-      "https://maique.eu/2023/11/03/defaults.html",
-      "https://lmika.org/2023/11/04/defaults.html",
-      "https://canion.blog/2023/11/04/duel-of-the.html",
-      "https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring",
-      "https://gkeenan.co/avgb/app-defaults",
-      "https://www.johanbleuzen.fr/blog/defaults-apps-2023",
-      "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023",
-      "https://www.nicolas.pm/note/2023/mes-applications-par-defaut-en-2023"
+      "https://rknight.me/app-defaults"
     ]
   },
   "https://rknight.me/app-defaults": {
@@ -270,12 +402,23 @@
       "https://ericmwalk.blog/2023/11/06/application-defaults.html",
       "https://kleinheld.ch/posts/meine-default-apps",
       "https://gkeenan.co/avgb/app-defaults",
+      "https://pauls.weblog.lol/2024/01/app-defaults",
       "https://www.johanbleuzen.fr/blog/defaults-apps-2023",
       "https://iwader.co.uk/posts/2023/11/app-defaults",
+      "https://blog.luiscarlospando.com/personal/2023/11/app-defaults-mis-apps-predeterminadas",
       "https://blakewatson.com/journal/default-apps-2023",
+      "https://jamesdoc.com/blog/2023/defaults-in-2023",
       "https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV",
       "https://byemc.xyz/2023/app-defaults",
-      "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html"
+      "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
+      "https://www.feadin.eu/en/posts/app_defaults",
+      "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+      "https://hunsanger.com/2023/11/26/app-defaults.html",
+      "https://daniel.industries/2023/12/03/default-apps-2023",
+      "https://technocidal.com/2023/12/07/app-defaults",
+      "https://daught.me/blog/2023-defaults",
+      "https://danabyerly.com/notes/defaults-2023",
+      "https://joshuawold.com/app-defaults"
     ]
   },
   "https://maique.eu/2023/11/03/defaults.html": {
@@ -291,7 +434,8 @@
       "https://umerez.eu/2023/11/03/defaults.html",
       "https://kleinheld.ch/posts/meine-default-apps",
       "https://thomasrigby.com/posts/duel-of-the-defaults-2023",
-      "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html"
+      "https://my.advocrazy.com/2023/11/26/after-reading-maiques.html",
+      "https://zottmann.org/2023/12/17/default-apps.html"
     ]
   },
   "https://lmika.org/2023/11/04/defaults.html": {
@@ -321,10 +465,12 @@
     "url": "https://canion.blog/2023/11/04/duel-of-the.html",
     "rss": "https://canion.blog/feed.xml",
     "date": "2023-11-07 16:49",
+    "featured": true,
     "id": 6,
     "urlKey": "https://canion.blog/2023/11/04/duel-of-the.html",
     "links": [
-      "https://thomasrigby.com/posts/duel-of-the-defaults-2023"
+      "https://thomasrigby.com/posts/duel-of-the-defaults-2023",
+      "https://jimmitchell.org/2023/11/21/app-defaults.html"
     ]
   },
   "https://www.andycarolan.com/appdefaults": {
@@ -376,7 +522,7 @@
   "https://www.chamline.net/default-apps": {
     "name": "Habib",
     "url": "https://www.chamline.net/default-apps",
-    "rss": "https://www.chamline.net/blog/rss/",
+    "rss": "https://www.chamline.net/rss/",
     "date": "2023-11-07 16:49",
     "id": 12,
     "urlKey": "https://www.chamline.net/default-apps",
@@ -390,8 +536,6 @@
     "id": 13,
     "urlKey": "https://eay.cc/2023/my-app-defaults",
     "links": [
-      "https://andreas-spiegler.de/2023/11/05/app-defaults",
-      "https://andreas-spiegler.de/2023/11/05/app-defaults",
       "https://kleinheld.ch/posts/meine-default-apps",
       "https://blog.bdw.li/posts/app-defaults"
     ]
@@ -406,6 +550,15 @@
     "links": [
       "https://davidjohnmead.com/posts/2023-11-15-app-defaults"
     ]
+  },
+  "https://laker.tech/p/app-defaults": {
+    "name": "Laker Turner",
+    "url": "https://laker.tech/p/app-defaults",
+    "rss": "https://laker.tech/feed.xml",
+    "date": "2023-11-07 16:49",
+    "id": 15,
+    "urlKey": "https://laker.tech/p/app-defaults",
+    "links": []
   },
   "https://jeffperry.me/2023/11/16/my-default-apps.html": {
     "name": "Jeff Perry",
@@ -424,8 +577,7 @@
     "id": 17,
     "urlKey": "https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring",
     "links": [
-      "https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring",
-      "https://vmac.ch/posts/2023-11-05-app-default"
+      "https://heydingus.net/blog/2023/11/duel-of-the-defaults-jarrod-enters-the-ring"
     ]
   },
   "https://sylvia.micro.blog/2023/11/05/my-defaults.html": {
@@ -498,8 +650,7 @@
     "id": 25,
     "urlKey": "https://devondundee.com/blog/default-apps",
     "links": [
-      "https://kleinheld.ch/posts/meine-default-apps",
-      "https://schoonens.social/2023/11/08/default-apps.html"
+      "https://kleinheld.ch/posts/meine-default-apps"
     ]
   },
   "https://jomalo.com/defaults": {
@@ -530,7 +681,9 @@
       "https://bitboxer.de/2023/11/12/default-apps-2023",
       "https://chojecki.net/posts/Apps2023",
       "https://www.iandick.com/default-apps-2023",
-      "https://cliophate.wtf/posts/default-apps"
+      "https://cliophate.wtf/posts/default-apps",
+      "https://jamesdoc.com/blog/2023/defaults-in-2023",
+      "https://nathansnelgrove.com/2023/12/default-apps-in-2023"
     ]
   },
   "https://ericmwalk.blog/2023/11/06/application-defaults.html": {
@@ -549,7 +702,10 @@
     "date": "2023-11-07 16:49",
     "id": 29,
     "urlKey": "https://coryd.dev/posts/2023/default-apps-2023",
-    "links": []
+    "links": [
+      "https://daught.me/blog/2023-defaults",
+      "https://kiko.io/post/App-Defaults-2023"
+    ]
   },
   "https://kleinheld.ch/posts/meine-default-apps": {
     "name": "Sébastien Etter",
@@ -614,12 +770,17 @@
       "https://odonnellweb.com/pelican/default-apps-2023.html",
       "https://0xdstn.site/thoughts/default-apps-2023",
       "https://robinopletal.com/posts/default-apps-fall-2023",
-      "https://timapple.com/2023/11/08/end-of-default.html",
+      "https://krabf.com/my-app-defaults-2023",
       "https://polarhive.net/blog/app-defaults",
       "https://danq.me/2023/11/12/lifestack-2023",
       "https://gluecko.se/2023/default-apps-2023",
       "https://www.lkhrs.com/blog/2023/defaults",
-      "https://techtea.io/articles/2023/app-defaults"
+      "https://techtea.io/articles/2023/app-defaults",
+      "https://harrycresswell.com/writing/app-defaults",
+      "https://canyoudownloadrice.com/software-i-use",
+      "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
+      "https://techtea.io/articles/2023/app-defaults",
+      "https://n3wjack.net/2023/12/31/my-default-apps-for-2023"
     ]
   },
   "https://blog.numericcitizen.me/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html": {
@@ -647,7 +808,9 @@
     "date": "2023-11-07 16:49",
     "id": 38,
     "urlKey": "https://koolinus.wordpress.com/2023/11/07/app-defaults",
-    "links": []
+    "links": [
+      "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023"
+    ]
   },
   "https://ankursethi.in/posts/default-apps-2023-edition": {
     "name": "Ankur Sethi",
@@ -679,7 +842,8 @@
     "links": [
       "https://robinopletal.com/posts/default-apps-fall-2023",
       "https://victor.kropp.name/blog/app-defaults",
-      "https://polarhive.net/blog/app-defaults"
+      "https://polarhive.net/blog/app-defaults",
+      "https://kiko.io/post/App-Defaults-2023"
     ]
   },
   "https://peroty.micro.blog/2023/11/07/defaults.html": {
@@ -719,7 +883,10 @@
     "id": 45,
     "urlKey": "https://www.josemunozmatos.com/blog/my-app-defaults-2023-edition",
     "links": [
-      "https://www.maymeow.com/posts/2023/11/my-app-defaults-2023-edition"
+      "https://www.maymeow.com/posts/2023/11/my-app-defaults-2023-edition",
+      "https://jamesdoc.com/blog/2023/defaults-in-2023",
+      "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd",
+      "https://bryanmanio.com/blog/default-apps-for-2024"
     ]
   },
   "https://topslakr.com/2023/11/my-default-apps-at-the-end-of-2023": {
@@ -756,14 +923,17 @@
     "date": "2023-11-07 18:56",
     "id": 49,
     "urlKey": "https://gkeenan.co/avgb/app-defaults",
-    "links": []
+    "links": [
+      "https://daught.me/blog/2023-defaults",
+      "https://iamfran.com/archives/apps-default-2023"
+    ]
   },
-  "https://social.lol/@pauls/111370801335250636": {
+  "https://pauls.weblog.lol/2024/01/app-defaults": {
     "name": "Paul Stockton",
-    "url": "https://social.lol/@pauls/111370801335250636",
+    "url": "https://pauls.weblog.lol/2024/01/app-defaults",
     "date": "2023-11-07 19:01",
     "id": 50,
-    "urlKey": "https://social.lol/@pauls/111370801335250636",
+    "urlKey": "https://pauls.weblog.lol/2024/01/app-defaults",
     "links": []
   },
   "https://gregoryhammond.ca/blog/my-app-defaults-for-november-2023": {
@@ -839,7 +1009,9 @@
     "date": "2023-11-07 21:28",
     "id": 58,
     "urlKey": "https://www.maymeow.com/posts/2023/11/my-app-defaults-2023-edition",
-    "links": []
+    "links": [
+      "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd"
+    ]
   },
   "https://jonas.brusman.se/my-default-apps-at-the-end-of-2023": {
     "name": "Jonas Brusman",
@@ -895,7 +1067,9 @@
     "date": "2023-11-07 23:01",
     "id": 64,
     "urlKey": "https://blog.bdw.li/posts/app-defaults",
-    "links": []
+    "links": [
+      "https://blog.bdw.li/posts/app-defaults"
+    ]
   },
   "https://odonnellweb.com/pelican/default-apps-2023.html": {
     "name": "Chris ODonnell",
@@ -984,7 +1158,9 @@
     "date": "2023-11-08 10:20",
     "id": 73,
     "urlKey": "https://colinwalker.blog/blog/?date=2023-11-08",
-    "links": []
+    "links": [
+      "https://tracydurnell.com/2023/11/28/my-current-default-apps"
+    ]
   },
   "https://82mhz.net/posts/2023/11/apps-im-using-in-2023": {
     "name": "82MHz",
@@ -1011,7 +1187,9 @@
     "date": "2023-11-08 14:02",
     "id": 76,
     "urlKey": "https://calebhearth.com/apps-i-use-2023",
-    "links": []
+    "links": [
+      "https://jamesdoc.com/blog/2023/defaults-in-2023"
+    ]
   },
   "https://blog.jasonkratz.me/2023/11/08/my-default-apps-2023": {
     "name": "Jason Kratz",
@@ -1087,15 +1265,15 @@
     "urlKey": "https://robinopletal.com/posts/default-apps-fall-2023",
     "links": []
   },
-  "https://hacdias.com/2023/11/08/app-defaults-late-2023": {
+  "https://hacdias.com/uses/#software": {
     "name": "Henrique Dias",
-    "url": "https://hacdias.com/2023/11/08/app-defaults-late-2023",
+    "url": "https://hacdias.com/uses/#software",
     "rss": "https://hacdias.com/feed.xml",
-    "date": "2023-11-08 13:06",
+    "date": "2024-01-02 19:59",
     "id": 85,
-    "urlKey": "https://hacdias.com/2023/11/08/app-defaults-late-2023",
+    "urlKey": "https://hacdias.com/uses/#software",
     "links": [
-      "https://barryfrost.com/2023/11/app-defaults-in-late-2023"
+      "https://hacdias.com/uses/#software"
     ]
   },
   "https://timbornholdt.com/blog/my-default-apps-at-the-end-of-2023": {
@@ -1179,9 +1357,7 @@
     "date": "2023-11-09 12:02",
     "id": 94,
     "urlKey": "https://www.gr36.com/2023/11/09/on-defaults.html",
-    "links": [
-      "https://www.gr36.com/2023/11/09/on-defaults.html"
-    ]
+    "links": []
   },
   "https://joelchrono.xyz/blog/default-apps-2023": {
     "name": "Joel",
@@ -1210,7 +1386,9 @@
     "date": "2023-11-09 18:21",
     "id": 97,
     "urlKey": "https://benji.dog/articles/defaults-2023",
-    "links": []
+    "links": [
+      "https://tracydurnell.com/2023/11/28/my-current-default-apps"
+    ]
   },
   "https://jbrio.net/posts/default-apps-2023": {
     "name": "Juan B. Rodriguez",
@@ -1246,7 +1424,9 @@
     "date": "2023-11-09 21:50",
     "id": 101,
     "urlKey": "https://www.dertagundich.de/2023/11/meine-programme",
-    "links": []
+    "links": [
+      "https://1ppm.de/2023/11/meine-tools"
+    ]
   },
   "https://beccais.online/2023/11/default-apps-2023": {
     "name": "Rebecca Owen",
@@ -1308,7 +1488,10 @@
       "https://chi.miantiao.me/post/app-defaults-2023",
       "https://blog.douchi.space/app-defaults",
       "https://yinji.org/5179.html ",
-      "https://rexarski.com/blog/my-app-defaults-2023"
+      "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
+      "https://demochen.com/posts/20231216",
+      "https://demochen.com/posts/20231216",
+      "https://blog.moeyua.com/posts/my-defaults-2023"
     ]
   },
   "https://json.blog/2023/11/10/default-apps-alright.html": {
@@ -1365,7 +1548,9 @@
     "date": "2023-11-11 08:21",
     "id": 113,
     "urlKey": "https://merecivilian.com/merecivilians-default-apps-2023",
-    "links": []
+    "links": [
+      "https://lostinhaste.com/2023/11/29/default-apps-and.html"
+    ]
   },
   "https://frank.micro.blog/2023/11/11/default-apps-of.html": {
     "name": "Frank Meeuwsen",
@@ -1411,13 +1596,21 @@
     "id": 118,
     "urlKey": "https://manuelmoreale.com/app-defaults",
     "links": [
-      "https://mikehaynes.blog/post/3734",
+      "https://manuelmoreale.com/app-defaults",
       "https://jasonfry.co.uk/blog/app-defaults",
       "https://www.amitgawande.com/2023/11/21/app-defaults.html",
       "https://carlbarenbrug.com/app-defaults",
       "https://lawver.net/2023/11/app-defaults",
       "https://www.lkhrs.com/blog/2023/defaults",
-      "https://techtea.io/articles/2023/app-defaults"
+      "https://techtea.io/articles/2023/app-defaults",
+      "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+      "https://harrycresswell.com/writing/app-defaults",
+      "https://campegg.com/2023/11/17/a-couple-of.html",
+      "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
+      "https://blog.thalskarth.ar/aplicaciones-por-defecto",
+      "https://tangiblelife.net/app-defaults",
+      "https://techtea.io/articles/2023/app-defaults",
+      "https://karltoller.com/default-apps-2024"
     ]
   },
   "https://victor.kropp.name/blog/app-defaults": {
@@ -1456,13 +1649,13 @@
     "urlKey": "https://makoism.com/defaults",
     "links": []
   },
-  "https://mikehaynes.blog/post/3734": {
+  "https://crashthearcade.com/post/3734": {
     "name": "Mike Haynes",
-    "url": "https://mikehaynes.blog/post/3734",
-    "rss": "https://mikehaynes.blog/feed/rss",
+    "url": "https://crashthearcade.com/post/3734",
+    "rss": "https://crashthearcade.com/feed/rss",
     "date": "2023-11-12 08:47",
     "id": 123,
-    "urlKey": "https://mikehaynes.blog/post/3734",
+    "urlKey": "https://crashthearcade.com/post/3734",
     "links": []
   },
   "https://grepjason.sh/2023/duel-of-the-defaults": {
@@ -1470,9 +1663,12 @@
     "url": "https://grepjason.sh/2023/duel-of-the-defaults",
     "rss": "https://grepjason.sh/rss.xml",
     "date": "2023-11-12 18:32",
+    "featured": true,
     "id": 124,
     "urlKey": "https://grepjason.sh/2023/duel-of-the-defaults",
-    "links": []
+    "links": [
+      "https://jimmitchell.org/2023/11/21/app-defaults.html"
+    ]
   },
   "https://vmac.ch/posts/2023-11-05-app-default": {
     "name": "V",
@@ -1552,7 +1748,9 @@
     "date": "2023-11-12 21:55",
     "id": 133,
     "urlKey": "https://blog.douchi.space/app-defaults",
-    "links": []
+    "links": [
+      "https://thewanderingallison.github.io/posts/app_defaults_2023"
+    ]
   },
   "https://world.hey.com/kylenichols/my-defaults-0b855cc1": {
     "name": "Kyle Nichols",
@@ -1671,7 +1869,9 @@
     "date": "2023-11-14 22:14",
     "id": 146,
     "urlKey": "https://jasonfry.co.uk/blog/app-defaults",
-    "links": []
+    "links": [
+      "https://jamesdoc.com/blog/2023/defaults-in-2023"
+    ]
   },
   "https://xiaofei.ge/posts/default-app-2023": {
     "name": "Xiaofei Ge",
@@ -1704,10 +1904,12 @@
     "url": "https://loungeruminator.net/2023/11/17/mr-default",
     "rss": "https://loungeruminator.net/feed/",
     "date": "2023-11-16 14:07",
+    "featured": true,
     "id": 150,
     "urlKey": "https://loungeruminator.net/2023/11/17/mr-default",
     "links": [
-      "https://huphtur.nl/2023-default-apps"
+      "https://huphtur.nl/2023-default-apps",
+      "https://jimmitchell.org/2023/11/21/app-defaults.html"
     ]
   },
   "https://chojecki.net/posts/Apps2023": {
@@ -1773,13 +1975,13 @@
     "urlKey": "https://www.iandick.com/default-apps-2023",
     "links": []
   },
-  "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023": {
+  "https://aj.bourg.family/home-screen-defaults-subscriptions-2023": {
     "name": "AJ Bourg",
-    "url": "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023",
+    "url": "https://aj.bourg.family/home-screen-defaults-subscriptions-2023",
     "rss": "https://aj.bourg.family/feed/",
     "date": "2023-11-19 13:55",
     "id": 158,
-    "urlKey": "https://aj.bourg.family/2023/11/19/home-screen-defaults-subscriptions-2023",
+    "urlKey": "https://aj.bourg.family/home-screen-defaults-subscriptions-2023",
     "links": []
   },
   "https://suhas.weblog.lol/defaults": {
@@ -1791,13 +1993,13 @@
     "urlKey": "https://suhas.weblog.lol/defaults",
     "links": []
   },
-  "https://rexarski.com/blog/my-app-defaults-2023": {
-    "name": "Rui Qiu",
-    "url": "https://rexarski.com/blog/my-app-defaults-2023",
-    "rss": "https://rexarski.com/index.xml",
+  "https://rexarski.com/posts/2023-11-20-app-defaults-2023": {
+    "name": "rexarski",
+    "url": "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
+    "rss": "https://rexarski.com/rss.xml",
     "date": "2023-11-20 22:06",
     "id": 160,
-    "urlKey": "https://rexarski.com/blog/my-app-defaults-2023",
+    "urlKey": "https://rexarski.com/posts/2023-11-20-app-defaults-2023",
     "links": []
   },
   "https://vijayprema.com/defaults": {
@@ -1889,9 +2091,23 @@
     "id": 170,
     "urlKey": "https://chriscoyier.net/2023/11/25/default-apps-2023",
     "links": [
+      "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd",
       "https://marcamos.com/journal/default-apps-2023",
       "https://mattstein.com/thoughts/default-apps-2023",
-      "https://huphtur.nl/2023-default-apps"
+      "https://huphtur.nl/2023-default-apps",
+      "https://noahjacob.us/words/default-apps-2023.html",
+      "https://timothee.goguely.com/blog/default-apps-2023",
+      "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
+      "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
+      "http://svenluijten.com/posts/default-apps-2023",
+      "https://svenluijten.com/posts/default-apps-2023",
+      "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
+      "https://daniel.industries/2023/12/03/default-apps-2023",
+      "https://maxsommer.de/blog/default-apps-2023",
+      "https://amanhimself.dev/blog/default-apps-2023",
+      "https://heyjaywilson.com/blog/2023/11/26-default-apps",
+      "https://jeffbridgforth.com/apps-i-use-2023",
+      "https://kiko.io/post/App-Defaults-2023"
     ]
   },
   "https://mattcool.tech/posts/default-apps-2023": {
@@ -1903,8 +2119,14 @@
     "urlKey": "https://mattcool.tech/posts/default-apps-2023",
     "links": [
       "https://gunnar.se/2023/11/26/default-apps.html",
+      "https://iamdtms.medium.com/re-my-app-defaults-2023-edition-b9311620ecdd",
       "https://marcamos.com/journal/default-apps-2023",
-      "https://mattstein.com/thoughts/default-apps-2023"
+      "https://mattstein.com/thoughts/default-apps-2023",
+      "https://noahjacob.us/words/default-apps-2023.html",
+      "https://timothee.goguely.com/blog/default-apps-2023",
+      "https://daniel.industries/2023/12/03/default-apps-2023",
+      "https://maxsommer.de/blog/default-apps-2023",
+      "https://chrisfinazzo.com/2023/12/31/app-defaults"
     ]
   },
   "https://gunnar.se/2023/11/26/default-apps.html": {
@@ -1993,7 +2215,10 @@
     "date": "2023-11-26 20:02",
     "id": 181,
     "urlKey": "https://carlbarenbrug.com/app-defaults",
-    "links": []
+    "links": [
+      "https://tangiblelife.net/app-defaults",
+      "https://www.sholis.com/blog/2024-app-defaults"
+    ]
   },
   "https://barryfrost.com/2023/11/app-defaults-in-late-2023": {
     "name": "Barry Frost",
@@ -2016,7 +2241,7 @@
   "https://sleepingcat42.github.io/2023/11/18/my-default-apps": {
     "name": "sleepingcat42",
     "url": "https://sleepingcat42.github.io/2023/11/18/my-default-apps",
-    "rss": "",
+    "rss": "https://sleepingcat42.github.io/atom.xml",
     "date": "2023-11-26 20:14",
     "id": 184,
     "urlKey": "https://sleepingcat42.github.io/2023/11/18/my-default-apps",
@@ -2048,6 +2273,7 @@
     "id": 187,
     "urlKey": "https://brainbaking.com/post/2023/11/app-defaults-in-late-2023",
     "links": [
+      "https://techtea.io/articles/2023/app-defaults",
       "https://techtea.io/articles/2023/app-defaults"
     ]
   },
@@ -2069,7 +2295,10 @@
     "date": "2023-11-26 22:27",
     "id": 189,
     "urlKey": "https://mattstein.com/thoughts/default-apps-2023",
-    "links": []
+    "links": [
+      "https://jefftriplett.com/2023/default-apps-2023",
+      "https://vhbelvadi.com/default-apps-2024"
+    ]
   },
   "https://pawelgrzybek.com/my-defaults-2023": {
     "name": "Paweł Grzybek",
@@ -2079,7 +2308,8 @@
     "id": 190,
     "urlKey": "https://pawelgrzybek.com/my-defaults-2023",
     "links": [
-      "https://jupe.studio/my-defaults-2023"
+      "https://jupe.studio/my-defaults-2023",
+      "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023"
     ]
   },
   "https://huphtur.nl/2023-default-apps": {
@@ -2110,7 +2340,7 @@
     "links": []
   },
   "https://yuexun.me/my-app-defaults-in-2023": {
-    "name": "Yuexun",
+    "name": "Yuexun Jiang",
     "url": "https://yuexun.me/my-app-defaults-in-2023",
     "rss": "https://yuexun.me/rss.xml",
     "date": "2023-11-27 23:00",
@@ -2119,11 +2349,11 @@
     "links": []
   },
   "https://techtea.io/articles/2023/app-defaults": {
-    "name": "TechTea",
+    "name": "Matthew Lamont",
     "url": "https://techtea.io/articles/2023/app-defaults",
-    "rss": "https://techtea.io/articles/index.xml",
-    "date": "2023-11-28 11:15",
-    "id": 195,
+    "rss": "https://techtea.io/index.xml",
+    "date": "2023-12-31 14:36",
+    "id": 311,
     "urlKey": "https://techtea.io/articles/2023/app-defaults",
     "links": []
   },
@@ -2165,7 +2395,8 @@
       "https://www.manton.org/2023/11/28/default-apps-for.html",
       "https://jpayne.sackheads.blog/2023/11/28/app-defaults-hemispheric.html",
       "https://chrismcleod.dev/blog/default-apps-for-2023",
-      "https://mattlangford.com/2023/11/28/default-apps-for.html"
+      "https://mattlangford.com/2023/11/28/default-apps-for.html",
+      "https://lostinhaste.com/2023/11/29/default-apps-and.html"
     ]
   },
   "https://www.7robots.org/b/F9705827-6ADD-43A3-854B-F61B65381467/My-App-Defaults-Nov-2023": {
@@ -2201,7 +2432,9 @@
     "date": "2023-11-28 17:39",
     "id": 203,
     "urlKey": "https://chrismcleod.dev/blog/default-apps-for-2023",
-    "links": []
+    "links": [
+      "https://kiko.io/post/App-Defaults-2023"
+    ]
   },
   "https://mattlangford.com/2023/11/28/default-apps-for.html": {
     "name": "Matt Langford",
@@ -2212,15 +2445,6 @@
     "urlKey": "https://mattlangford.com/2023/11/28/default-apps-for.html",
     "links": []
   },
-  "https://concorde.blog/posts/app-defaults": {
-    "name": "Laker Turner",
-    "url": "https://concorde.blog/posts/app-defaults",
-    "rss": "https://concorde.blog/feed.xml",
-    "date": "2023-11-07 16:49",
-    "id": 15,
-    "urlKey": "https://concorde.blog/posts/app-defaults",
-    "links": []
-  },
   "https://troydp.micro.blog/2023/11/28/my-defaults.html": {
     "name": "Troydp",
     "url": "https://troydp.micro.blog/2023/11/28/my-defaults.html",
@@ -2228,9 +2452,7 @@
     "date": "2023-11-28 2:36",
     "id": 205,
     "urlKey": "https://troydp.micro.blog/2023/11/28/my-defaults.html",
-    "links": [
-      "https://troydp.micro.blog/2023/11/28/my-defaults.html"
-    ]
+    "links": []
   },
   "https://tylersticka.com/journal/default-apps-2023": {
     "name": "Tyler Sticka",
@@ -2257,6 +2479,1449 @@
     "date": "2023-11-28 22:38",
     "id": 208,
     "urlKey": "https://jupe.studio/my-defaults-2023",
+    "links": []
+  },
+  "https://jimmitchell.org/2023/11/21/app-defaults.html": {
+    "name": "Jim Mitchell",
+    "url": "https://jimmitchell.org/2023/11/21/app-defaults.html",
+    "rss": "https://jimmitchell.org/feed.xml",
+    "date": "2023-11-21 08:06",
+    "id": 209,
+    "urlKey": "https://jimmitchell.org/2023/11/21/app-defaults.html",
+    "links": []
+  },
+  "https://www.feadin.eu/en/posts/app_defaults": {
+    "name": "Paolo",
+    "url": "https://www.feadin.eu/en/posts/app_defaults",
+    "date": "2023-11-29 08:26",
+    "id": 210,
+    "urlKey": "https://www.feadin.eu/en/posts/app_defaults",
+    "links": []
+  },
+  "https://1ppm.de/2023/11/meine-tools": {
+    "name": "Johannes Mirus",
+    "url": "https://1ppm.de/2023/11/meine-tools",
+    "rss": "https://1ppm.de/feed/",
+    "date": "2023-11-29 10:14",
+    "id": 211,
+    "urlKey": "https://1ppm.de/2023/11/meine-tools",
+    "links": []
+  },
+  "https://hmbl.blog/defaults": {
+    "name": "Christian Fischer",
+    "url": "https://hmbl.blog/defaults",
+    "rss": "https://hmbl.blog/feed/",
+    "date": "2023-11-29 10:15",
+    "id": 212,
+    "urlKey": "https://hmbl.blog/defaults",
+    "links": []
+  },
+  "https://tracydurnell.com/2023/11/28/my-current-default-apps": {
+    "name": "Tracy Durnell",
+    "url": "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+    "rss": "https://tracydurnell.com/feed/",
+    "date": "2023-11-29 15:58",
+    "id": 213,
+    "urlKey": "https://tracydurnell.com/2023/11/28/my-current-default-apps",
+    "links": [
+      "https://alexsirac.com/my-default-apps-in-2023",
+      "https://chrisglass.com/2023/11/28/default-apps",
+      "https://maxsommer.de/blog/default-apps-2023"
+    ]
+  },
+  "https://alexsirac.com/my-default-apps-in-2023": {
+    "name": "Alex Sirac",
+    "url": "https://alexsirac.com/my-default-apps-in-2023",
+    "rss": "https://alexsirac.com/tag/en/feed/",
+    "date": "2023-11-29 16:00",
+    "id": 214,
+    "urlKey": "https://alexsirac.com/my-default-apps-in-2023",
+    "links": []
+  },
+  "https://jacky.wtf/default-apps-of-2023": {
+    "name": "Jacky Alciné",
+    "url": "https://jacky.wtf/default-apps-of-2023",
+    "rss": "https://jacky.wtf/feed.xml",
+    "date": "2023-11-28 19:40",
+    "id": 215,
+    "urlKey": "https://jacky.wtf/default-apps-of-2023",
+    "links": []
+  },
+  "https://ldstephens.net/2023/11/29/my-default-apps-2024-version": {
+    "name": "ldstephens",
+    "url": "https://ldstephens.net/2023/11/29/my-default-apps-2024-version",
+    "rss": "https://ldstephens.net/feed",
+    "date": "2023-11-29 23:17",
+    "id": 216,
+    "urlKey": "https://ldstephens.net/2023/11/29/my-default-apps-2024-version",
+    "links": []
+  },
+  "https://lostinhaste.com/2023/11/29/default-apps-and.html": {
+    "name": "Lost In Haste",
+    "url": "https://lostinhaste.com/2023/11/29/default-apps-and.html",
+    "rss": "https://lostinhaste.com/feed.xml",
+    "date": "2023-11-29 19:20",
+    "id": 217,
+    "urlKey": "https://lostinhaste.com/2023/11/29/default-apps-and.html",
+    "links": []
+  },
+  "https://cagrimmett.com/tech/2023/11/29/default-apps-2023": {
+    "name": "Chuck Grimmett",
+    "url": "https://cagrimmett.com/tech/2023/11/29/default-apps-2023",
+    "rss": "https://cagrimmett.com/feed",
+    "date": "2023-11-29 22:17",
+    "id": 218,
+    "urlKey": "https://cagrimmett.com/tech/2023/11/29/default-apps-2023",
+    "links": [
+      "https://chrisglass.com/2023/11/28/default-apps"
+    ]
+  },
+  "https://ner3y.micro.blog/defaults": {
+    "name": "Dominik Höcht",
+    "url": "https://ner3y.micro.blog/defaults",
+    "rss": "https://ner3y.micro.blog/feed.xml",
+    "date": "2023-11-30 08:33",
+    "id": 219,
+    "urlKey": "https://ner3y.micro.blog/defaults",
+    "links": []
+  },
+  "https://social.jasonheppler.org/2023/11/29/default-apps-for.html": {
+    "name": "Jason Heppler",
+    "url": "https://social.jasonheppler.org/2023/11/29/default-apps-for.html",
+    "rss": "https://social.jasonheppler.org/feed.xml",
+    "date": "2023-11-30 11:36",
+    "id": 220,
+    "urlKey": "https://social.jasonheppler.org/2023/11/29/default-apps-for.html",
+    "links": []
+  },
+  "https://noahjacob.us/words/default-apps-2023.html": {
+    "name": "Noah Jacobus",
+    "url": "https://noahjacob.us/words/default-apps-2023.html",
+    "rss": "https://noahjacob.us/feed.xml",
+    "date": "2023-11-30 16:30",
+    "id": 221,
+    "urlKey": "https://noahjacob.us/words/default-apps-2023.html",
+    "links": [
+      "https://timothee.goguely.com/blog/default-apps-2023",
+      "https://julienbesnier.fr/app-defaults"
+    ]
+  },
+  "https://timothee.goguely.com/blog/default-apps-2023": {
+    "name": "Timothée Goguely",
+    "url": "https://timothee.goguely.com/blog/default-apps-2023",
+    "rss": "https://timothee.goguely.com/blog/index.xml",
+    "date": "2023-11-30 21:16",
+    "id": 222,
+    "urlKey": "https://timothee.goguely.com/blog/default-apps-2023",
+    "links": [
+      "https://julienbesnier.fr/app-defaults"
+    ]
+  },
+  "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023": {
+    "name": "Ange Chierchia",
+    "url": "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
+    "rss": "https://chierchia.fr/feed.xml",
+    "date": "2023-12-01 07:27",
+    "id": 223,
+    "urlKey": "https://chierchia.fr/blog/2023/12/applications-par-defaut-2023",
+    "links": []
+  },
+  "https://chrisglass.com/2023/11/28/default-apps": {
+    "name": "Chris Glass",
+    "url": "https://chrisglass.com/2023/11/28/default-apps",
+    "rss": "https://chrisglass.com/feed/",
+    "date:": "2023-12-01 13:39",
+    "id": 224,
+    "urlKey": "https://chrisglass.com/2023/11/28/default-apps",
+    "links": []
+  },
+  "https://jasper.tandy.is/blogging/default-apps-2023": {
+    "name": "Jasper",
+    "url": "https://jasper.tandy.is/blogging/default-apps-2023",
+    "rss": "https://jasper.tandy.is/syndicated",
+    "date:": "2023-12-01 13:39",
+    "id": 225,
+    "urlKey": "https://jasper.tandy.is/blogging/default-apps-2023",
+    "links": []
+  },
+  "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html": {
+    "name": "Martin Hähnel",
+    "url": "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
+    "rss": "https://blog.martin-haehnel.de/feed",
+    "date:": "2023-12-01 13:39",
+    "id": 226,
+    "urlKey": "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
+    "links": []
+  },
+  "https://harrycresswell.com/writing/app-defaults": {
+    "name": "Harry Cresswell",
+    "url": "https://harrycresswell.com/writing/app-defaults",
+    "rss": "https://harrycresswell.com/writing/feed.xml",
+    "date:": "2023-12-01 13:39",
+    "id": 227,
+    "urlKey": "https://harrycresswell.com/writing/app-defaults",
+    "links": []
+  },
+  "https://nahumck.me/app_defaults_2023": {
+    "name": "Tim Nahumck",
+    "url": "https://nahumck.me/app_defaults_2023",
+    "rss": "https://nahumck.me/feed.xml",
+    "date": "2023-12-01 15:21",
+    "id": 228,
+    "urlKey": "https://nahumck.me/app_defaults_2023",
+    "links": []
+  },
+  "https://campegg.com/2023/11/17/a-couple-of.html": {
+    "name": "Cam Pegg",
+    "url": "https://campegg.com/2023/11/17/a-couple-of.html",
+    "rss": "https://campegg.com/feed.xml",
+    "date:": "2023-11-17 07:19",
+    "id": 229,
+    "urlKey": "https://campegg.com/2023/11/17/a-couple-of.html",
+    "links": []
+  },
+  "https://www.brandonpugh.com/blog/my-default-apps-of-2023": {
+    "name": "Brandon Pugh",
+    "url": "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
+    "rss": "https://www.brandonpugh.com/index.xml",
+    "date:": "2023-12-01 06:46",
+    "id": 230,
+    "urlKey": "https://www.brandonpugh.com/blog/my-default-apps-of-2023",
+    "links": []
+  },
+  "https://ondrejsevcik.com/blog/my-app-defaults-2023": {
+    "name": "Ondrej Sevcik",
+    "url": "https://ondrejsevcik.com/blog/my-app-defaults-2023",
+    "rss": "https://ondrejsevcik.com/rss.xml",
+    "date": "2023-12-02 12:00",
+    "id": 231,
+    "urlKey": "https://ondrejsevcik.com/blog/my-app-defaults-2023",
+    "links": []
+  },
+  "https://paulrobertlloyd.com/2023/336/a1/default-apps": {
+    "name": "Paul Robert Lloyd",
+    "url": "https://paulrobertlloyd.com/2023/336/a1/default-apps",
+    "rss": "https://paulrobertlloyd.com/feed.xml",
+    "date": "2023-12-02 17:00",
+    "id": 232,
+    "urlKey": "https://paulrobertlloyd.com/2023/336/a1/default-apps",
+    "links": [
+      "https://houseofkyle.com/2023/12/02/default-apps-2023"
+    ]
+  },
+  "http://svenluijten.com/posts/default-apps-2023": {
+    "name": "Sven Luijten",
+    "url": "http://svenluijten.com/posts/default-apps-2023",
+    "rss": "https://svenluijten.com/feeds/all.xml",
+    "date": "2023-12-02 22:00",
+    "id": 233,
+    "urlKey": "http://svenluijten.com/posts/default-apps-2023",
+    "links": []
+  },
+  "https://houseofkyle.com/2023/12/02/default-apps-2023": {
+    "name": "Kyle Ford",
+    "url": "https://houseofkyle.com/2023/12/02/default-apps-2023",
+    "rss": "https://houseofkyle.com/feed/",
+    "date": "2023-12-02 23:10",
+    "id": 234,
+    "urlKey": "https://houseofkyle.com/2023/12/02/default-apps-2023",
+    "links": []
+  },
+  "https://defaults.kimchiii.space": {
+    "name": "Kunall Banerjee",
+    "url": "https://defaults.kimchiii.space",
+    "rss": "https://kimchiii.space/rss.xml",
+    "date": "2023-12-03 01:47",
+    "id": 235,
+    "urlKey": "https://defaults.kimchiii.space",
+    "links": []
+  },
+  "https://lawrenceli.me/blog/app-defaults-2023": {
+    "name": "Lawrence Li",
+    "url": "https://lawrenceli.me/blog/app-defaults-2023",
+    "rss": "https://lawrenceli.me/atom.xml",
+    "date": "2023-12-03 14:00",
+    "id": 236,
+    "urlKey": "https://lawrenceli.me/blog/app-defaults-2023",
+    "links": []
+  },
+  "https://blog.zzsqwq.cn/posts/default-apps-f2023": {
+    "name": "Shuo Zhan",
+    "url": "https://blog.zzsqwq.cn/posts/default-apps-f2023",
+    "rss": "https://blog.zzsqwq.cn/index.xml",
+    "date": "2023-12-03 02:30",
+    "id": 237,
+    "urlKey": "https://blog.zzsqwq.cn/posts/default-apps-f2023",
+    "links": []
+  },
+  "https://blog.huadeity.com/posts/app-defaults": {
+    "name": "Yizun Wang",
+    "url": "https://blog.huadeity.com/posts/app-defaults",
+    "rss": "https://blog.huadeity.com/index.xml",
+    "date": "2023-12-04 03:00",
+    "id": 238,
+    "urlKey": "https://blog.huadeity.com/posts/app-defaults",
+    "links": []
+  },
+  "https://www.tommyp.org/blog/app-defaults": {
+    "name": "Tommy Palmer",
+    "url": "https://www.tommyp.org/blog/app-defaults",
+    "rss": "https://www.tommyp.org/rss.xml",
+    "date": "2023-12-03 22:00",
+    "id": 239,
+    "urlKey": "https://www.tommyp.org/blog/app-defaults",
+    "links": []
+  },
+  "https://www.going-flying.com/blog/defaults.html": {
+    "name": "Matthew Ernisse",
+    "url": "https://www.going-flying.com/blog/defaults.html",
+    "rss": "https://www.going-flying.com/blog/feed.xml",
+    "date": "2023-12-03 23:00",
+    "id": 240,
+    "urlKey": "https://www.going-flying.com/blog/defaults.html",
+    "links": []
+  },
+  "https://svenluijten.com/posts/default-apps-2023": {
+    "name": "Sven Luijten",
+    "url": "https://svenluijten.com/posts/default-apps-2023",
+    "rss": "https://svenluijten.com/feeds/all.xml",
+    "date": "2023-12-04 20:29",
+    "id": 241,
+    "urlKey": "https://svenluijten.com/posts/default-apps-2023",
+    "links": []
+  },
+  "https://thewanderingallison.github.io/posts/app_defaults_2023": {
+    "name": "The Wandering Allison",
+    "url": "https://thewanderingallison.github.io/posts/app_defaults_2023",
+    "rss": "https://thewanderingallison.github.io/rss.xml",
+    "date": "2023-12-04 22:31",
+    "id": 242,
+    "urlKey": "https://thewanderingallison.github.io/posts/app_defaults_2023",
+    "links": []
+  },
+  "https://joshwithers.blog/2023/12/05/my-app-defaults.html": {
+    "name": "Josh Withers",
+    "url": "https://joshwithers.blog/2023/12/05/my-app-defaults.html",
+    "rss": "https://joshwithers.blog/feed",
+    "date": "2023-12-05 10:01",
+    "id": 243,
+    "urlKey": "https://joshwithers.blog/2023/12/05/my-app-defaults.html",
+    "links": []
+  },
+  "https://etienne.depar.is/a-ecrit/app-defaults.html": {
+    "name": "Étienne",
+    "url": "https://etienne.depar.is/a-ecrit/app-defaults.html",
+    "rss": "https://etienne.depar.is/a-ecrit/feeds/index.xml",
+    "date": "2023-12-05 22:34",
+    "id": 244,
+    "urlKey": "https://etienne.depar.is/a-ecrit/app-defaults.html",
+    "links": []
+  },
+  "https://hunsanger.com/2023/11/26/app-defaults.html": {
+    "name": "Chris Hunsanger",
+    "url": "https://hunsanger.com/2023/11/26/app-defaults.html",
+    "rss": "https://hunsanger.com/feed",
+    "date": "2023-12-06 08:38",
+    "id": 245,
+    "urlKey": "https://hunsanger.com/2023/11/26/app-defaults.html",
+    "links": [
+      "https://hunsanger.com/2023/11/26/app-defaults.html"
+    ]
+  },
+  "https://thejollyteapot.com/2023/11/17/third-party-apps-i-like-and-use-—-2023-edition": {
+    "name": "Nicolas Magand",
+    "url": "https://thejollyteapot.com/2023/11/17/third-party-apps-i-like-and-use-—-2023-edition",
+    "rss": "https://thejollyteapot.com/feed.rss",
+    "date": "2023-12-06 14:06",
+    "id": 246,
+    "urlKey": "https://thejollyteapot.com/2023/11/17/third-party-apps-i-like-and-use-—-2023-edition",
+    "links": []
+  },
+  "https://nathansnelgrove.com/2023/12/default-apps-in-2023": {
+    "name": "Nathan Snelgrove",
+    "url": "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
+    "rss": "https://nathansnelgrove.com/feeds/feed.atom",
+    "date": "2023-12-06 11:17",
+    "id": 247,
+    "urlKey": "https://nathansnelgrove.com/2023/12/default-apps-in-2023",
+    "links": []
+  },
+  "https://blog.adm.ink/defaults": {
+    "name": "Anthony Dumas",
+    "url": "https://blog.adm.ink/defaults",
+    "rss": "https://blog.adm.ink/rss.xml",
+    "date": "2023-12-06 19:11",
+    "id": 248,
+    "urlKey": "https://blog.adm.ink/defaults",
+    "links": []
+  },
+  "https://daniel.industries/2023/12/03/default-apps-2023": {
+    "name": "Daniel Miller",
+    "url": "https://daniel.industries/2023/12/03/default-apps-2023",
+    "rss": "https://daniel.industries/atom.xml",
+    "date": "2023-12-07 15:58",
+    "id": 249,
+    "urlKey": "https://daniel.industries/2023/12/03/default-apps-2023",
+    "links": []
+  },
+  "https://labnotes.org/default-apps-2023": {
+    "name": "Assaf",
+    "url": "https://labnotes.org/default-apps-2023",
+    "rss": "https://labnotes.org/feed.xml",
+    "date": "2023-12-07 16:00",
+    "id": 250,
+    "urlKey": "https://labnotes.org/default-apps-2023",
+    "links": [
+      "https://zottmann.org/2023/12/17/default-apps.html"
+    ]
+  },
+  "https://512pixels.net/gear": {
+    "name": "Stephen Hackett",
+    "url": "https://512pixels.net/gear",
+    "rss": "https://512pixels.net/feed/",
+    "date": "2023-12-07 18:00",
+    "id": 251,
+    "urlKey": "https://512pixels.net/gear",
+    "links": []
+  },
+  "https://www.wyrd.systems/defaults": {
+    "name": "Matt",
+    "url": "https://www.wyrd.systems/defaults",
+    "rss": "https://www.wyrd.systems/feed.xml",
+    "date": "2023-12-07 19:33",
+    "id": 252,
+    "urlKey": "https://www.wyrd.systems/defaults",
+    "links": []
+  },
+  "https://technocidal.com/2023/12/07/app-defaults": {
+    "name": "Johannes Ebeling",
+    "url": "https://technocidal.com/2023/12/07/app-defaults",
+    "rss": "https://technocidal.com/feed.xml",
+    "date": "2023-12-07 20:30",
+    "id": 253,
+    "urlKey": "https://technocidal.com/2023/12/07/app-defaults",
+    "links": []
+  },
+  "https://heyloura.com/2023/12/07/my-app-defaults.html": {
+    "name": "Loura",
+    "url": "https://heyloura.com/2023/12/07/my-app-defaults.html",
+    "rss": "https://heyloura.com/feed.xml",
+    "date": "2023-12-07 21:57",
+    "id": 254,
+    "urlKey": "https://heyloura.com/2023/12/07/my-app-defaults.html",
+    "links": []
+  },
+  "https://daught.me/blog/2023-defaults": {
+    "name": "Nathaniel Daught",
+    "url": "https://daught.me/blog/2023-defaults",
+    "rss": "https://daught.me/blog?format=rss",
+    "date": "2023-12-08 07:19",
+    "id": 255,
+    "urlKey": "https://daught.me/blog/2023-defaults",
+    "links": []
+  },
+  "https://mzll.it/2023/12/en-default-2023": {
+    "name": "Luigi Mozzillo",
+    "url": "https://mzll.it/2023/12/en-default-2023",
+    "rss": "https://mzll.it/index.xml",
+    "date": "2023-12-08 07:20",
+    "id": 256,
+    "urlKey": "https://mzll.it/2023/12/en-default-2023",
+    "links": [
+      "https://mzll.it/2023/12/en-default-2023"
+    ]
+  },
+  "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023": {
+    "name": "Adrián Perales",
+    "url": "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
+    "rss": "https://adrianperales.com/feed/",
+    "date": "2023-12-08 11:04",
+    "id": 257,
+    "urlKey": "https://adrianperales.com/2023/12/aplicaciones-por-defecto-en-2023",
+    "links": [
+      "https://guillermolatorre.com/aplicaciones-por-defecto-2023"
+    ]
+  },
+  "https://text.eapl.mx/services-im-using-in-2023": {
+    "name": "eapl.mx",
+    "url": "https://text.eapl.mx/services-im-using-in-2023",
+    "rss": "https://text.eapl.mx/atom.xml",
+    "date": "2023-12-08 11:05",
+    "id": 258,
+    "urlKey": "https://text.eapl.mx/services-im-using-in-2023",
+    "links": []
+  },
+  "https://jorgesanz.net/posts/2023-11-16-defaults": {
+    "name": "Jorge Sanz",
+    "url": "https://jorgesanz.net/posts/2023-11-16-defaults",
+    "rss": "https://jorgesanz.net/index.xml",
+    "date": "2023-12-08 11:06",
+    "id": 259,
+    "urlKey": "https://jorgesanz.net/posts/2023-11-16-defaults",
+    "links": [
+      "https://guillermolatorre.com/aplicaciones-por-defecto-2023"
+    ]
+  },
+  "https://blog.thalskarth.ar/aplicaciones-por-defecto": {
+    "name": "Thalskarth",
+    "url": "https://blog.thalskarth.ar/aplicaciones-por-defecto",
+    "rss": "https://blog.thalskarth.ar/feed.xml",
+    "date": "2023-12-08 11:07",
+    "id": 260,
+    "urlKey": "https://blog.thalskarth.ar/aplicaciones-por-defecto",
+    "links": []
+  },
+  "https://gemini.tildeverse.org/?gemini://yretek.com/english/gemlog/2023/11/2023-11-17_RE_defaults.gmi": {
+    "name": "Miguel de Luis Espinosa",
+    "url": "https://gemini.tildeverse.org/?gemini://yretek.com/english/gemlog/2023/11/2023-11-17_RE_defaults.gmi",
+    "date": "2023-12-08 11:13",
+    "id": 261,
+    "urlKey": "https://gemini.tildeverse.org/?gemini://yretek.com/english/gemlog/2023/11/2023-11-17_RE_defaults.gmi",
+    "links": []
+  },
+  "https://gemini.tildeverse.org/?gemini://thrig.me/blog/2023/11/17/defaults.gmi": {
+    "name": "thrig",
+    "url": "https://gemini.tildeverse.org/?gemini://thrig.me/blog/2023/11/17/defaults.gmi",
+    "date": "2023-12-08 11:14",
+    "id": 262,
+    "urlKey": "https://gemini.tildeverse.org/?gemini://thrig.me/blog/2023/11/17/defaults.gmi",
+    "links": []
+  },
+  "https://gemini.tildeverse.org/?gemini://gemini.ucant.org/gemlog/2023-11-17_defaults.gmi": {
+    "name": "ucant",
+    "url": "https://gemini.tildeverse.org/?gemini://gemini.ucant.org/gemlog/2023-11-17_defaults.gmi",
+    "date": "2023-12-08 11:15",
+    "id": 263,
+    "urlKey": "https://gemini.tildeverse.org/?gemini://gemini.ucant.org/gemlog/2023-11-17_defaults.gmi",
+    "links": []
+  },
+  "https://guillermolatorre.com/aplicaciones-por-defecto-2023": {
+    "name": "Guillermo",
+    "url": "https://guillermolatorre.com/aplicaciones-por-defecto-2023",
+    "rss": "https://guillermolatorre.com/rss.xml",
+    "date": "2023-12-08 11:17",
+    "id": 264,
+    "urlKey": "https://guillermolatorre.com/aplicaciones-por-defecto-2023",
+    "links": []
+  },
+  "https://gigold.me/blog/defaults": {
+    "name": "Thomas Gigold",
+    "url": "https://gigold.me/blog/defaults",
+    "rss": "https://gigold.me/rss/",
+    "date": "2023-12-08 15:20",
+    "id": 265,
+    "urlKey": "https://gigold.me/blog/defaults",
+    "links": []
+  },
+  "https://thenewleafjournal.com/my-default-apps-as-of-december-2023": {
+    "name": "N.A. Ferrell",
+    "url": "https://thenewleafjournal.com/my-default-apps-as-of-december-2023",
+    "rss": "https://thenewleafjournal.com/rss",
+    "date": "2023-12-08 15:30",
+    "id": 266,
+    "urlKey": "https://thenewleafjournal.com/my-default-apps-as-of-december-2023",
+    "links": []
+  },
+  "https://heliomass.com/posts/117-app-defaults": {
+    "name": "Daniel Demby",
+    "url": "https://heliomass.com/posts/117-app-defaults",
+    "rss": "https://heliomass.com/index.xml",
+    "date": "2023-12-08 22:24",
+    "id": 267,
+    "urlKey": "https://heliomass.com/posts/117-app-defaults",
+    "links": []
+  },
+  "https://canyoudownloadrice.com/software-i-use": {
+    "name": "Matt",
+    "url": "https://canyoudownloadrice.com/software-i-use",
+    "rss": "https://canyoudownloadrice.com/feed/",
+    "date": "2023-12-09 13:14",
+    "id": 268,
+    "urlKey": "https://canyoudownloadrice.com/software-i-use",
+    "links": []
+  },
+  "https://blog.lyokolux.space/posts/2023-11-20-default-apps": {
+    "name": "Lyokolux",
+    "url": "https://blog.lyokolux.space/posts/2023-11-20-default-apps",
+    "rss": "https://blog.lyokolux.space/rss.xml",
+    "date": "2023-12-09 18:10",
+    "id": 269,
+    "urlKey": "https://blog.lyokolux.space/posts/2023-11-20-default-apps",
+    "links": []
+  },
+  "https://www.spencerharston.com/posts/app-defaults-2023": {
+    "name": "Spencer Harston",
+    "url": "https://www.spencerharston.com/posts/app-defaults-2023",
+    "rss": "https://www.spencerharston.com/feed.xml",
+    "date": "2023-12-10 18:55",
+    "id": 270,
+    "urlKey": "https://www.spencerharston.com/posts/app-defaults-2023",
+    "links": []
+  },
+  "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023": {
+    "name": "Daniele",
+    "url": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
+    "rss": "https://fokewulf.it/feed/",
+    "date": "2023-12-11 15:39",
+    "id": 271,
+    "urlKey": "https://fokewulf.it/2023/12/08/le-mia-app-di-defaults-del-2023",
+    "links": []
+  },
+  "https://josh.blog/2023/12/default-apps-2023": {
+    "name": "Josh Betz",
+    "url": "https://josh.blog/2023/12/default-apps-2023",
+    "rss": "https://josh.blog/feed",
+    "date": "2023-12-12 02:05",
+    "id": 272,
+    "urlKey": "https://josh.blog/2023/12/default-apps-2023",
+    "links": []
+  },
+  "https://maxsommer.de/blog/default-apps-2023": {
+    "name": "Max Sommer",
+    "url": "https://maxsommer.de/blog/default-apps-2023",
+    "rss": "https://maxsommer.de/blog/feed/rss",
+    "date": "2023-12-13 14:22",
+    "id": 273,
+    "urlKey": "https://maxsommer.de/blog/default-apps-2023",
+    "links": []
+  },
+  "https://jefftriplett.com/2023/default-apps-2023": {
+    "name": "Jeff Triplett",
+    "url": "https://jefftriplett.com/2023/default-apps-2023",
+    "rss": "https://jefftriplett.com/feed.xml",
+    "date": "2023-12-14 16:00",
+    "id": 274,
+    "urlKey": "https://jefftriplett.com/2023/default-apps-2023",
+    "links": []
+  },
+  "https://dustinknopoff.dev/articles/what-i-use-2023": {
+    "name": "Dustin K",
+    "url": "https://dustinknopoff.dev/articles/what-i-use-2023",
+    "rss": "https://dustinknopoff.dev/rss.xml",
+    "date": "2023-12-16 06:10",
+    "id": 275,
+    "urlKey": "https://dustinknopoff.dev/articles/what-i-use-2023",
+    "links": []
+  },
+  "https://amanhimself.dev/blog/default-apps-2023": {
+    "name": "Aman Mittal",
+    "url": "https://amanhimself.dev/blog/default-apps-2023",
+    "rss": "https://amanhimself.dev/rss.xml",
+    "date": "2023-12-16 06:11",
+    "id": 276,
+    "urlKey": "https://amanhimself.dev/blog/default-apps-2023",
+    "links": []
+  },
+  "https://doug.pub/2023/12/16/its-defaults-time.html": {
+    "name": "Doug Jones",
+    "url": "https://doug.pub/2023/12/16/its-defaults-time.html",
+    "rss": "https://doug.pub/feed/",
+    "date": "2023-12-17 09:26",
+    "id": 277,
+    "urlKey": "https://doug.pub/2023/12/16/its-defaults-time.html",
+    "links": []
+  },
+  "https://demochen.com/posts/20231216": {
+    "name": "DemoChen",
+    "url": "https://demochen.com/posts/20231216",
+    "rss": "https://demochen.com/atom.xml",
+    "date": "2023-12-17 23:46",
+    "id": 278,
+    "urlKey": "https://demochen.com/posts/20231216",
+    "links": []
+  },
+  "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023": {
+    "name": "Justin Vollmer",
+    "url": "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
+    "rss": "https://justinvollmer.com/posts/index.xml",
+    "date": "2023-12-17 23:47",
+    "id": 279,
+    "urlKey": "https://justinvollmer.com/posts/2023/12/my-default-apps-at-the-end-of-2023",
+    "links": []
+  },
+  "https://roytang.net/2023/12/default-apps": {
+    "name": "Roy Tang",
+    "url": "https://roytang.net/2023/12/default-apps",
+    "rss": "https://roytang.net/index.xml",
+    "date": "2023-12-18 21:04",
+    "id": 280,
+    "urlKey": "https://roytang.net/2023/12/default-apps",
+    "links": []
+  },
+  "https://mangoumbrella.com/post/default-apps-2023": {
+    "name": "Yilei Yang",
+    "url": "https://mangoumbrella.com/post/default-apps-2023",
+    "rss": "https://mangoumbrella.com/posts.rss",
+    "date": "2023-12-21 21:21",
+    "id": 281,
+    "urlKey": "https://mangoumbrella.com/post/default-apps-2023",
+    "links": [
+      "https://mangoumbrella.com/post/default-apps-2023"
+    ]
+  },
+  "https://heyjaywilson.com/blog/2023/11/26-default-apps": {
+    "name": "Jay Wilson",
+    "url": "https://heyjaywilson.com/blog/2023/11/26-default-apps",
+    "rss": "https://heyjaywilson.com/rss.xml",
+    "date": "2023-12-22 09:07",
+    "id": 282,
+    "urlKey": "https://heyjaywilson.com/blog/2023/11/26-default-apps",
+    "links": []
+  },
+  "https://tangiblelife.net/app-defaults": {
+    "name": "Steve Ledlow",
+    "url": "https://tangiblelife.net/app-defaults",
+    "rss": "https://tangiblelife.net/feed.rss",
+    "date": "2023-12-22 09:29",
+    "id": 283,
+    "urlKey": "https://tangiblelife.net/app-defaults",
+    "links": []
+  },
+  "https://danabyerly.com/notes/defaults-2023": {
+    "name": "Dana Byerly",
+    "url": "https://danabyerly.com/notes/defaults-2023",
+    "rss": "https://danabyerly.com/feed.xml",
+    "date": "2023-12-23 16:21",
+    "id": 284,
+    "urlKey": "https://danabyerly.com/notes/defaults-2023",
+    "links": []
+  },
+  "https://probably.co.uk/posts/default-applications": {
+    "name": "Mark Phillips",
+    "url": "https://probably.co.uk/posts/default-applications",
+    "rss": "https://probably.co.uk/index.xml",
+    "date": "2023-12-23 19:43",
+    "id": 285,
+    "urlKey": "https://probably.co.uk/posts/default-applications",
+    "links": []
+  },
+  "https://jeffbridgforth.com/apps-i-use-2023": {
+    "name": "Jeff Bridgforth",
+    "url": "https://jeffbridgforth.com/apps-i-use-2023",
+    "rss": "https://jeffbridgforth.com/feed/",
+    "date": "2023-12-24 09:28",
+    "id": 286,
+    "urlKey": "https://jeffbridgforth.com/apps-i-use-2023",
+    "links": []
+  },
+  "https://scottwillsey.com/default-apps-2023": {
+    "name": "Scott Willsey",
+    "url": "https://scottwillsey.com/default-apps-2023",
+    "rss": "https://scottwillsey.com/rss.xml",
+    "date": "2023-12-24 09:29",
+    "id": 287,
+    "urlKey": "https://scottwillsey.com/default-apps-2023",
+    "links": []
+  },
+  "https://bjhess.pika.page/posts/2023-app-defaults": {
+    "name": "Barry Hess",
+    "url": "https://bjhess.pika.page/posts/2023-app-defaults",
+    "rss": "https://bjhess.pika.page/posts_feed",
+    "date": "2023-12-24 14:57",
+    "id": 288,
+    "urlKey": "https://bjhess.pika.page/posts/2023-app-defaults",
+    "links": []
+  },
+  "https://blog.timbueno.com/2023/11/06/my-app-defaults.html": {
+    "name": "Tim Bueno",
+    "url": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html",
+    "rss": "https://blog.timbueno.com/feed.xml",
+    "date": "2023-12-24 14:57",
+    "id": 289,
+    "urlKey": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html",
+    "links": [
+      "https://blog.timbueno.com/2023/11/06/my-app-defaults.html"
+    ]
+  },
+  "https://www.izq.fm/2023/12/24/app-defaults-mail.html": {
+    "name": "Adrian Izquieta",
+    "url": "https://www.izq.fm/2023/12/24/app-defaults-mail.html",
+    "rss": "https://www.izq.fm/feed.xml",
+    "date": "2023-12-24 17:06",
+    "id": 290,
+    "urlKey": "https://www.izq.fm/2023/12/24/app-defaults-mail.html",
+    "links": [
+      "https://www.izq.fm/2023/12/24/app-defaults-mail.html"
+    ]
+  },
+  "https://www.bobmonsour.com/posts/my-defaults-are-my-faults": {
+    "name": "Bob Monsour",
+    "url": "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
+    "rss": "https://www.bobmonsour.com/feed.xml",
+    "date": "2023-12-24 19:41",
+    "id": 291,
+    "urlKey": "https://www.bobmonsour.com/posts/my-defaults-are-my-faults",
+    "links": []
+  },
+  "https://www.filmvanalledag.nl/?p=9266": {
+    "name": "Maarten",
+    "url": "https://www.filmvanalledag.nl/?p=9266",
+    "rss": "https://www.filmvanalledag.nl/?feed=rss2",
+    "date": "2023-12-24 20:33",
+    "id": 292,
+    "urlKey": "https://www.filmvanalledag.nl/?p=9266",
+    "links": []
+  },
+  "https://text.tchncs.de/czars-blogs/apps-i-use": {
+    "name": "Czar",
+    "url": "https://text.tchncs.de/czars-blogs/apps-i-use",
+    "rss": "https://text.tchncs.de/czars-blogs/feed/",
+    "date": "2023-12-27 10:22",
+    "id": 293,
+    "urlKey": "https://text.tchncs.de/czars-blogs/apps-i-use",
+    "links": []
+  },
+  "https://www.lqdev.me/feed/app-defaults-2023": {
+    "name": "Luis Quintanilla",
+    "url": "https://www.lqdev.me/feed/app-defaults-2023",
+    "rss": "https://www.luisquintanilla.me/posts/index.xml",
+    "date": "2023-12-27 10:23",
+    "id": 294,
+    "urlKey": "https://www.lqdev.me/feed/app-defaults-2023",
+    "links": []
+  },
+  "https://nilsschaffer.com/my-app-defaults-2023": {
+    "name": "Nils",
+    "url": "https://nilsschaffer.com/my-app-defaults-2023",
+    "rss": "https://nilsschaffer.com/feed/",
+    "date": "2023-12-27 10:24",
+    "id": 295,
+    "urlKey": "https://nilsschaffer.com/my-app-defaults-2023",
+    "links": []
+  },
+  "https://robjimgreen.co.uk/app-defaults": {
+    "name": "Rob Green",
+    "url": "https://robjimgreen.co.uk/app-defaults",
+    "rss": "https://robjimgreen.co.uk/feed/?type=rss",
+    "date": "2023-12-27 13:25",
+    "id": 296,
+    "urlKey": "https://robjimgreen.co.uk/app-defaults",
+    "links": []
+  },
+  "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023": {
+    "name": "R.J. Faas",
+    "url": "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023",
+    "rss": "https://rjfaas.com/feed/",
+    "date": "2023-12-27 18:38",
+    "id": 297,
+    "urlKey": "https://rjfaas.com/2023/12/27/since-all-the-cool-kids-are-doing-it-heres-a-list-of-my-defaults-apps-for-end-of-year-2023",
+    "links": []
+  },
+  "https://dillonmok.com/articles/my-default-apps": {
+    "name": "Dillon Mok",
+    "url": "https://dillonmok.com/articles/my-default-apps",
+    "rss": "https://dillonmok.com/feed.rss",
+    "date": "2023-12-28 11:57",
+    "id": 298,
+    "urlKey": "https://dillonmok.com/articles/my-default-apps",
+    "links": []
+  },
+  "https://blog.8bit.lol/2023/12/defaults": {
+    "name": "8bit",
+    "url": "https://blog.8bit.lol/2023/12/defaults",
+    "rss": "https://blog.8bit.lol/rss.xml",
+    "date": "2023-12-28 15:38",
+    "id": 299,
+    "urlKey": "https://blog.8bit.lol/2023/12/defaults",
+    "links": []
+  },
+  "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults": {
+    "name": "Ehqo",
+    "url": "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults",
+    "rss": "https://ehqo.weblog.lol/rss.xml",
+    "date": "2023-12-28 18:06",
+    "id": 300,
+    "urlKey": "https://ehqo.weblog.lol/2023/12/my-2023-app-defaults",
+    "links": []
+  },
+  "https://zottmann.org/2023/12/17/default-apps.html": {
+    "name": "Carlo Zottmann",
+    "url": "https://zottmann.org/2023/12/17/default-apps.html",
+    "rss": "https://zottmann.org/feed.xml",
+    "date": "2023-12-28 23:32",
+    "id": 301,
+    "urlKey": "https://zottmann.org/2023/12/17/default-apps.html",
+    "links": [
+      "https://mrehler.com/2024/01/02/my-default-apps-of-2023"
+    ]
+  },
+  "https://brendanthompson.com/uses": {
+    "name": "Brendan Thompson",
+    "url": "https://brendanthompson.com/uses",
+    "rss": "https://brendanthompson.com/posts/feed/rss.xml",
+    "date": "2023-12-28 23:33",
+    "id": 302,
+    "urlKey": "https://brendanthompson.com/uses",
+    "links": []
+  },
+  "https://stollerys.co.uk/defaults": {
+    "name": "Phil Stollery",
+    "url": "https://stollerys.co.uk/defaults",
+    "rss": "https://stollerys.co.uk/rss.xml",
+    "date": "2023-12-29 12:23",
+    "id": 303,
+    "urlKey": "https://stollerys.co.uk/defaults",
+    "links": []
+  },
+  "https://bentsai.pika.page/posts/my-app-defaults": {
+    "name": "Ben Tsai",
+    "url": "https://bentsai.pika.page/posts/my-app-defaults",
+    "rss": "https://bentsai.pika.page/posts_feed",
+    "date": "2023-12-29 15:10",
+    "id": 304,
+    "urlKey": "https://bentsai.pika.page/posts/my-app-defaults",
+    "links": []
+  },
+  "https://bobiko.blog/2023/12/defaults-apps-2023": {
+    "name": "Bobiko",
+    "url": "https://bobiko.blog/2023/12/defaults-apps-2023",
+    "date": "2023-12-30 15:41",
+    "id": 305,
+    "urlKey": "https://bobiko.blog/2023/12/defaults-apps-2023",
+    "links": []
+  },
+  "https://golfdeltapapa.blog/uses": {
+    "name": "Gregory Pittman",
+    "url": "https://golfdeltapapa.blog/uses",
+    "rss": "https://golfdeltapapa.blog/feed.xml",
+    "date": "2023-12-30 21:31",
+    "id": 306,
+    "urlKey": "https://golfdeltapapa.blog/uses",
+    "links": []
+  },
+  "https://rachsmith.com/app-defaults": {
+    "name": "Rach Smith",
+    "url": "https://rachsmith.com/app-defaults",
+    "rss": "https://rachsmith.com/feed.xml",
+    "date": "2023-12-30 21:34",
+    "id": 307,
+    "urlKey": "https://rachsmith.com/app-defaults",
+    "links": []
+  },
+  "https://kiko.io/post/App-Defaults-2023": {
+    "name": "Kristof Zerbe",
+    "url": "https://kiko.io/post/App-Defaults-2023",
+    "rss": "https://kiko.io/atom.xml",
+    "date": "2023-12-31 01:44",
+    "id": 308,
+    "urlKey": "https://kiko.io/post/App-Defaults-2023",
+    "links": []
+  },
+  "https://wogong.net/blog/2023/12/defaults2023": {
+    "name": "Zhen",
+    "url": "https://wogong.net/blog/2023/12/defaults2023",
+    "rss": "https://wogong.net/feed.xml",
+    "date": "2023-12-31 10:41",
+    "id": 309,
+    "urlKey": "https://wogong.net/blog/2023/12/defaults2023",
+    "links": []
+  },
+  "https://zmknox.com/2023/12/30/app-defaults-2024": {
+    "name": "zmknox",
+    "url": "https://zmknox.com/2023/12/30/app-defaults-2024",
+    "rss": "https://zmknox.com/feed.xml",
+    "date": "2023-12-31 14:10",
+    "id": 310,
+    "urlKey": "https://zmknox.com/2023/12/30/app-defaults-2024",
+    "links": []
+  },
+  "https://myconscious.stream/blog/Default-apps-2023": {
+    "name": "Kevin C. Tofel",
+    "url": "https://myconscious.stream/blog/Default-apps-2023",
+    "rss": "https://myconscious.stream/feed/feed.xml",
+    "date": "2023-12-31 23:59",
+    "id": 312,
+    "urlKey": "https://myconscious.stream/blog/Default-apps-2023",
+    "links": []
+  },
+  "https://chrisfinazzo.com/2023/12/31/app-defaults": {
+    "name": "Chris Finazzo",
+    "url": "https://chrisfinazzo.com/2023/12/31/app-defaults",
+    "rss": "https://chrisfinazzo.com/rss.xml",
+    "date": "2023-12-31 20:23",
+    "id": 313,
+    "urlKey": "https://chrisfinazzo.com/2023/12/31/app-defaults",
+    "links": []
+  },
+  "https://n3wjack.net/2023/12/31/my-default-apps-for-2023": {
+    "name": "n3wjack",
+    "url": "https://n3wjack.net/2023/12/31/my-default-apps-for-2023",
+    "rss": "https://n3wjack.net/feed/",
+    "date": "2024-01-01 11:53",
+    "id": 314,
+    "urlKey": "https://n3wjack.net/2023/12/31/my-default-apps-for-2023",
+    "links": []
+  },
+  "https://www.eiffair.fr/apps-default-2023": {
+    "name": "eiffair",
+    "url": "https://www.eiffair.fr/apps-default-2023",
+    "rss": "https://www.eiffair.fr/rss/",
+    "date": "2023-12-29 17:45",
+    "id": 315,
+    "urlKey": "https://www.eiffair.fr/apps-default-2023",
+    "links": []
+  },
+  "https://voitech.vercel.app/digital-garden/app-defaults": {
+    "name": "voitech",
+    "url": "https://voitech.vercel.app/digital-garden/app-defaults",
+    "date": "2024-01-01 18:27",
+    "id": 316,
+    "urlKey": "https://voitech.vercel.app/digital-garden/app-defaults",
+    "links": []
+  },
+  "https://kutomo.com/app-defaults-for-2024": {
+    "name": "Toni Lampela",
+    "url": "https://kutomo.com/app-defaults-for-2024",
+    "rss": "https://kutomo.com/rss/",
+    "date": "2024-01-01 18:27",
+    "id": 317,
+    "urlKey": "https://kutomo.com/app-defaults-for-2024",
+    "links": []
+  },
+  "https://notes.neatnik.net/2024/01/app-defaults": {
+    "name": "Adam Newbold",
+    "url": "https://notes.neatnik.net/2024/01/app-defaults",
+    "rss": "https://notes.neatnik.net/rss.xml",
+    "date": "2024-01-01 18:41",
+    "omg": true,
+    "id": 318,
+    "urlKey": "https://notes.neatnik.net/2024/01/app-defaults",
+    "links": []
+  },
+  "https://cropp.blog/defaults": {
+    "name": "Nicolas Cropp",
+    "url": "https://cropp.blog/defaults",
+    "rss": "https://cropp.blog/rss.xml",
+    "date": "2024-01-02 08:21",
+    "id": 319,
+    "urlKey": "https://cropp.blog/defaults",
+    "links": []
+  },
+  "https://blog.moeyua.com/posts/my-defaults-2023": {
+    "name": "Moeyua",
+    "url": "https://blog.moeyua.com/posts/my-defaults-2023",
+    "rss": "https://blog.moeyua.com/atom.xml",
+    "date": "2024-01-02 17:17",
+    "id": 320,
+    "urlKey": "https://blog.moeyua.com/posts/my-defaults-2023",
+    "links": []
+  },
+  "https://stefanzweifel.dev/posts/2024/01/02/app-defaults": {
+    "name": "Stefan Zweifel",
+    "url": "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
+    "rss": "https://stefanzweifel.dev/rss.xml",
+    "date": "2024-01-02 10:20",
+    "id": 321,
+    "urlKey": "https://stefanzweifel.dev/posts/2024/01/02/app-defaults",
+    "links": []
+  },
+  "https://ben.yaf.ai/app-defaults": {
+    "name": "Ben Yafai",
+    "url": "https://ben.yaf.ai/app-defaults",
+    "rss": "https://ben.yaf.ai/rss.xml",
+    "date": "2024-01-02 13:54",
+    "id": 322,
+    "urlKey": "https://ben.yaf.ai/app-defaults",
+    "links": []
+  },
+  "https://www.sholis.com/blog/2024-app-defaults": {
+    "name": "Brian Sholis",
+    "url": "https://www.sholis.com/blog/2024-app-defaults",
+    "rss": "https://www.sholis.com/feed.xml",
+    "date": "2024-01-02 22:30",
+    "id": 323,
+    "urlKey": "https://www.sholis.com/blog/2024-app-defaults",
+    "links": []
+  },
+  "https://mrehler.com/2024/01/02/my-default-apps-of-2023": {
+    "name": "M Ehler",
+    "url": "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
+    "rss": "https://mrehler.com/feed/",
+    "date": "2024-01-02 23:00",
+    "id": 324,
+    "urlKey": "https://mrehler.com/2024/01/02/my-default-apps-of-2023",
+    "links": []
+  },
+  "https://sheetsj.com/blog/app-defaults": {
+    "name": "Jeff Sheets",
+    "url": "https://sheetsj.com/blog/app-defaults",
+    "rss": "https://sheetsj.com/feed.xml",
+    "date": "2024-01-03 11:00",
+    "id": 325,
+    "urlKey": "https://sheetsj.com/blog/app-defaults",
+    "links": []
+  },
+  "https://ddanielson.micro.blog/2023/12/27/default-app-list.html": {
+    "name": "Dave",
+    "url": "https://ddanielson.micro.blog/2023/12/27/default-app-list.html",
+    "rss": "https://ddanielson.micro.blog/feed",
+    "date": "2024-01-04 09:41",
+    "id": 326,
+    "urlKey": "https://ddanielson.micro.blog/2023/12/27/default-app-list.html",
+    "links": []
+  },
+  "https://wand3r.net/2024/01/app-defaults-jan-2024": {
+    "name": "Brandon",
+    "url": "https://wand3r.net/2024/01/app-defaults-jan-2024",
+    "rss": "https://wand3r.net/rss.xml",
+    "date": "2024-01-04 09:56",
+    "id": 327,
+    "urlKey": "https://wand3r.net/2024/01/app-defaults-jan-2024",
+    "links": []
+  },
+  "https://www.martingunnarsson.com/posts/apps-2023": {
+    "name": "Martin Gunnarsson",
+    "url": "https://www.martingunnarsson.com/posts/apps-2023",
+    "rss": "https://www.martingunnarsson.com/feed-rss.xml",
+    "date": "2024-01-04 07:43",
+    "id": 328,
+    "urlKey": "https://www.martingunnarsson.com/posts/apps-2023",
+    "links": []
+  },
+  "https://www.trovster.com/about/uses#defaults": {
+    "name": "Trevor Morris",
+    "url": "https://www.trovster.com/about/uses#defaults",
+    "rss": "https://www.trovster.com/blog/posts.xml",
+    "date": "2024-01-04 14:42",
+    "id": 329,
+    "urlKey": "https://www.trovster.com/about/uses#defaults",
+    "links": []
+  },
+  "https://cjd.weblog.lol/2024/01/app-defaults": {
+    "name": "Christopher Downer",
+    "url": "https://cjd.weblog.lol/2024/01/app-defaults",
+    "rss": "https://cjd.weblog.lol/rss.xml",
+    "date": "2024-01-04 17:13",
+    "id": 330,
+    "urlKey": "https://cjd.weblog.lol/2024/01/app-defaults",
+    "links": []
+  },
+  "https://iamfran.com/archives/apps-default-2023": {
+    "name": "Fran",
+    "url": "https://iamfran.com/archives/apps-default-2023",
+    "rss": "https://iamfran.com/feed.rss",
+    "date": "2024-01-05 10:12",
+    "id": 331,
+    "urlKey": "https://iamfran.com/archives/apps-default-2023",
+    "links": []
+  },
+  "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html": {
+    "name": "Lou Plummer",
+    "url": "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html",
+    "rss": "https://amerpie.micro.blog/feed.xml",
+    "date": "2024-01-06 11:45",
+    "id": 332,
+    "urlKey": "https://amerpie.micro.blog/2024/01/06/amerpies-default-apps.html",
+    "links": []
+  },
+  "https://abf.li/posts/default-apps-at-the-beginning-of-2024": {
+    "name": "Andre Franca",
+    "url": "https://abf.li/posts/default-apps-at-the-beginning-of-2024",
+    "rss": "https://abf.li/feed.xml",
+    "date": "2024-01-06 09:06",
+    "id": 333,
+    "urlKey": "https://abf.li/posts/default-apps-at-the-beginning-of-2024",
+    "links": []
+  },
+  "https://www.philipptemmel.com/writings/app-defaults-2023": {
+    "name": "Philipp Temmel",
+    "url": "https://www.philipptemmel.com/writings/app-defaults-2023",
+    "date": "2024-01-08 16:00",
+    "id": 334,
+    "urlKey": "https://www.philipptemmel.com/writings/app-defaults-2023",
+    "links": []
+  },
+  "https://ttntm.me/blog/app-defaults-2023": {
+    "name": "Tom",
+    "url": "https://ttntm.me/blog/app-defaults-2023",
+    "rss": "https://ttntm.me/feed.xml",
+    "date": "2024-01-08 18:49",
+    "id": 335,
+    "urlKey": "https://ttntm.me/blog/app-defaults-2023",
+    "links": []
+  },
+  "https://ivikrant.net/2024/01/09/default-apps-2024": {
+    "name": "Vik",
+    "url": "https://ivikrant.net/2024/01/09/default-apps-2024",
+    "rss": "https://ivikrant.net/feed/",
+    "date": "2024-01-09 09:18",
+    "id": 336,
+    "urlKey": "https://ivikrant.net/2024/01/09/default-apps-2024",
+    "links": []
+  },
+  "https://danielprindii.com/2024/01/09/default-apps-of-2023": {
+    "name": "Daniel Prindii",
+    "url": "https://danielprindii.com/2024/01/09/default-apps-of-2023",
+    "rss": "https://danielprindii.com/feed/",
+    "date": "2024-01-09 16:16",
+    "id": 337,
+    "urlKey": "https://danielprindii.com/2024/01/09/default-apps-of-2023",
+    "links": []
+  },
+  "https://pifferi.info/My-default-apps-starting-2024": {
+    "name": "Oliver",
+    "url": "https://pifferi.info/My-default-apps-starting-2024",
+    "rss": "https://pifferi.info/feed.xml",
+    "date": "2024-01-15 08:44",
+    "id": 338,
+    "urlKey": "https://pifferi.info/My-default-apps-starting-2024",
+    "links": []
+  },
+  "https://www.niklas.fyi/posts/2024-01-11-default-apps": {
+    "name": "Niklas Siefke",
+    "url": "https://www.niklas.fyi/posts/2024-01-11-default-apps",
+    "rss": "https://www.niklas.fyi/rss.xml",
+    "date": "2024-01-15 08:46",
+    "id": 339,
+    "urlKey": "https://www.niklas.fyi/posts/2024-01-11-default-apps",
+    "links": []
+  },
+  "https://abdo.wtf/blog/app-defaults": {
+    "name": "Abdo",
+    "url": "https://abdo.wtf/blog/app-defaults",
+    "rss": "https://abdo.wtf/atom.xml",
+    "date": "2024-01-15 06:06",
+    "id": 340,
+    "urlKey": "https://abdo.wtf/blog/app-defaults",
+    "links": []
+  },
+  "https://sascha.sh/posts/my-default-apps-of-early-2024": {
+    "name": "Sascha",
+    "url": "https://sascha.sh/posts/my-default-apps-of-early-2024",
+    "rss": "https://sascha.sh/index.xml",
+    "date": "2024-01-15 11:35",
+    "id": 341,
+    "urlKey": "https://sascha.sh/posts/my-default-apps-of-early-2024",
+    "links": []
+  },
+  "https://joshuawold.com/app-defaults": {
+    "name": "Joshua Wold",
+    "url": "https://joshuawold.com/app-defaults",
+    "rss": "https://joshuawold.com/feed/",
+    "date": "2024-01-15 15:36",
+    "id": 342,
+    "urlKey": "https://joshuawold.com/app-defaults",
+    "links": []
+  },
+  "https://edleeman.co.uk/posts/my-app-defaults-of-2024": {
+    "name": "Ed Leeman",
+    "url": "https://edleeman.co.uk/posts/my-app-defaults-of-2024",
+    "rss": "https://edleeman.co.uk/index.xml",
+    "date": "2024-01-16 12:36",
+    "id": 343,
+    "urlKey": "https://edleeman.co.uk/posts/my-app-defaults-of-2024",
+    "links": []
+  },
+  "https://blog.davidmoll.net/blog/2024-01-19-default-apps": {
+    "name": "David Moll",
+    "url": "https://blog.davidmoll.net/blog/2024-01-19-default-apps",
+    "rss": "https://blog.davidmoll.net/feed.xml",
+    "date": "2024-01-19 22:50",
+    "id": 344,
+    "urlKey": "https://blog.davidmoll.net/blog/2024-01-19-default-apps",
+    "links": []
+  },
+  "https://julienbesnier.fr/app-defaults": {
+    "name": "Julien Besnier",
+    "url": "https://julienbesnier.fr/app-defaults",
+    "rss": "https://julienbesnier.fr/index.xml",
+    "date": "2024-01-20 14:50",
+    "id": 345,
+    "urlKey": "https://julienbesnier.fr/app-defaults",
+    "links": []
+  },
+  "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml": {
+    "name": "Tux Machines",
+    "url": "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
+    "rss": "https://news.tuxmachines.org/feed.xml",
+    "date": "2024-01-21 15:11",
+    "id": 346,
+    "urlKey": "https://news.tuxmachines.org/n/2024/01/08/My_Default_Applications_in_GNU_Linux.shtml",
+    "links": []
+  },
+  "http://www.thelinerproject.com/blog/defaults": {
+    "name": "Ronnie Lutes",
+    "url": "http://www.thelinerproject.com/blog/defaults",
+    "date": "2024-01-27 20:44",
+    "id": 347,
+    "urlKey": "http://www.thelinerproject.com/blog/defaults",
+    "links": []
+  },
+  "https://www.davidjarman.info/intermittent-notes,-from-david-jarman/app-defaults-post": {
+    "name": "David Jarman",
+    "url": "https://www.davidjarman.info/intermittent-notes,-from-david-jarman/app-defaults-post",
+    "rss": "https://www.davidjarman.info/intermittent-notes-from-david-jarman?format=rss",
+    "date": "2024-01-29 10:59",
+    "id": 348,
+    "urlKey": "https://www.davidjarman.info/intermittent-notes,-from-david-jarman/app-defaults-post",
+    "links": []
+  },
+  "https://www.tiffwhite.me/posts/default-apps": {
+    "name": "Tiff",
+    "url": "https://www.tiffwhite.me/posts/default-apps",
+    "date": "2024-01-30 09:11",
+    "id": 349,
+    "urlKey": "https://www.tiffwhite.me/posts/default-apps",
+    "links": []
+  },
+  "https://bryanmanio.com/blog/default-apps-for-2024": {
+    "name": "Bryan Maniotakis",
+    "url": "https://bryanmanio.com/blog/default-apps-for-2024",
+    "rss": "https://bryanmanio.com/feed",
+    "date": "2024-01-30 09:59",
+    "id": 350,
+    "urlKey": "https://bryanmanio.com/blog/default-apps-for-2024",
+    "links": []
+  },
+  "https://www.jeremiahlee.com/posts/uses": {
+    "name": "Jeremiah Lee",
+    "url": "https://www.jeremiahlee.com/posts/uses",
+    "rss": "https://www.jeremiahlee.com/feeds/atom.xml",
+    "date": "2024-02-02 17:20",
+    "id": 351,
+    "urlKey": "https://www.jeremiahlee.com/posts/uses",
+    "links": []
+  },
+  "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition": {
+    "name": "Zinzy Waleson Geene",
+    "url": "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
+    "rss": "https://www.zinzy.website/index.xml",
+    "date": "2024-02-02 16:44",
+    "id": 352,
+    "urlKey": "https://www.zinzy.website/2024/02/02/defaults-early-2024-edition",
+    "links": []
+  },
+  "https://text.tchncs.de/latenightblog/defaults": {
+    "name": "Late Night Blog",
+    "url": "https://text.tchncs.de/latenightblog/defaults",
+    "rss": "https://text.tchncs.de/latenightblog/feed/",
+    "date": "2024-02-05 02:18",
+    "id": 353,
+    "urlKey": "https://text.tchncs.de/latenightblog/defaults",
+    "links": []
+  },
+  "https://mikeyp.com/defaults": {
+    "name": "MikeyP",
+    "url": "https://mikeyp.com/defaults",
+    "rss": "http://www.mikeyp.com/feed",
+    "date": "2024-02-06 12:00",
+    "id": 354,
+    "urlKey": "https://mikeyp.com/defaults",
+    "links": []
+  },
+  "https://steve-best.github.io/default-apps": {
+    "name": "Steve Best",
+    "url": "https://steve-best.github.io/default-apps",
+    "date": "2024-02-07 07:54",
+    "id": 355,
+    "urlKey": "https://steve-best.github.io/default-apps",
+    "links": []
+  },
+  "https://plttn.me/defaults": {
+    "name": "Jack Platten",
+    "url": "https://plttn.me/defaults",
+    "rss": "https://plttn.me/rss.xml",
+    "date": "2024-02-08 00:00",
+    "id": 356,
+    "urlKey": "https://plttn.me/defaults",
+    "links": []
+  },
+  "https://karltoller.com/default-apps-2024": {
+    "name": "Karl Toller",
+    "url": "https://karltoller.com/default-apps-2024",
+    "rss": "https://karltoller.com/feed",
+    "date": "2024-02-08 11:37",
+    "id": 357,
+    "urlKey": "https://karltoller.com/default-apps-2024",
+    "links": []
+  },
+  "https://binarydigit.cafe/notes/app-defaults": {
+    "name": "Binary Digit",
+    "url": "https://binarydigit.cafe/notes/app-defaults",
+    "rss": "https://binarydigit.cafe/index.xml",
+    "date": "2024-02-08 16:12",
+    "id": 358,
+    "urlKey": "https://binarydigit.cafe/notes/app-defaults",
+    "links": []
+  },
+  "https://music.apple.com/us/playlist/app-defaults/pl.u-y95rTYq47Lr": {
+    "name": "Jason Velazquez",
+    "url": "https://music.apple.com/us/playlist/app-defaults/pl.u-y95rTYq47Lr",
+    "date": "2024-02-09 14:21",
+    "music": true,
+    "id": 359,
+    "urlKey": "https://music.apple.com/us/playlist/app-defaults/pl.u-y95rTYq47Lr",
+    "links": []
+  },
+  "https://realmacdan.com/2024/02/11/my-default-apps.html": {
+    "name": "Realmac Dan",
+    "url": "https://realmacdan.com/2024/02/11/my-default-apps.html",
+    "rss": "https://realmacdan.com/feed",
+    "date": "2024-02-12 08:33",
+    "id": 360,
+    "urlKey": "https://realmacdan.com/2024/02/11/my-default-apps.html",
+    "links": []
+  },
+  "https://charlesmagnuson.com/blognuson/2024/02/11/my-app-defaults": {
+    "name": "Charles Magnuson",
+    "url": "https://charlesmagnuson.com/blognuson/2024/02/11/my-app-defaults",
+    "rss": "https://charlesmagnuson.com/blognuson/feed/",
+    "date": "2024-02-12 08:34",
+    "id": 361,
+    "urlKey": "https://charlesmagnuson.com/blognuson/2024/02/11/my-app-defaults",
+    "links": []
+  },
+  "https://vhbelvadi.com/default-apps-2024": {
+    "name": "V.H. Belvadi",
+    "url": "https://vhbelvadi.com/default-apps-2024",
+    "rss": "https://vhbelvadi.com/rss",
+    "date": "2024-02-18 19:39",
+    "id": 362,
+    "urlKey": "https://vhbelvadi.com/default-apps-2024",
+    "links": []
+  },
+  "https://www.nicojensen.de/2024/02/15/app-defaults": {
+    "name": "Nico Jensen",
+    "url": "https://www.nicojensen.de/2024/02/15/app-defaults",
+    "rss": "https://www.nicojensen.de/feed.xml",
+    "date": "2024-02-22 14:16",
+    "id": 363,
+    "urlKey": "https://www.nicojensen.de/2024/02/15/app-defaults",
+    "links": []
+  },
+  "https://www.caro.fyi/articles/app-defaults": {
+    "name": "Caro Appleby",
+    "url": "https://www.caro.fyi/articles/app-defaults",
+    "rss": "https://www.caro.fyi/rss/feed.xml",
+    "date": "2024-02-22 15:36",
+    "id": 364,
+    "urlKey": "https://www.caro.fyi/articles/app-defaults",
+    "links": []
+  },
+  "https://thorgalle.me/articles/default-apps-2024": {
+    "name": "Thor Galle",
+    "url": "https://thorgalle.me/articles/default-apps-2024",
+    "date": "2024-02-24 16:46",
+    "id": 365,
+    "urlKey": "https://thorgalle.me/articles/default-apps-2024",
+    "links": []
+  },
+  "https://danhannigan.dev/post/default-apps-2023": {
+    "name": "Dan Hannigan",
+    "url": "https://danhannigan.dev/post/default-apps-2023",
+    "rss": "https://danhannigan.dev/rss/",
+    "date": "2024-02-24 15:06",
+    "id": 366,
+    "urlKey": "https://danhannigan.dev/post/default-apps-2023",
+    "links": []
+  },
+  "https://www.thefrugalgamer.net/defaults.php": {
+    "name": "FrugalGamer",
+    "url": "https://www.thefrugalgamer.net/defaults.php",
+    "rss": "http://www.thefrugalgamer.net/blog/index.php?/feeds/index.rss2",
+    "date": "2024-02-25 21:58",
+    "id": 367,
+    "urlKey": "https://www.thefrugalgamer.net/defaults.php",
     "links": []
   }
 }

@@ -1,0 +1,27 @@
+---
+layout: base
+isWordCloudPage: true
+---
+
+<script>
+    window.WordCloudWords = {{ words | stringify | safe }}
+</script>
+
+<style>
+    .canvas {
+        border: 20px solid white;
+    }
+</style>
+<canvas id="wordcloud-canvas" class="canvas" height="600" width="1200"></canvas>
+
+<script type="text/javascript">
+
+(function() {
+   const width = (window.innerWidth > 1200 ? 1200 : window.innerWidth) - 70
+       document.getElementById('wordcloud-canvas').width = width
+       document.getElementById('wordcloud-canvas').height = 600
+       
+    WordCloud(document.getElementById('wordcloud-canvas'), { list: window.WordCloudWords, rotateRatio: 1, shrinkToFit: true } )
+})()
+    
+</script>

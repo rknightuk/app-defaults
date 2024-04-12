@@ -8,7 +8,7 @@
     <title>Hemispheric Views - App Defaults</title>
 
     <meta property='og:title' content='Hemispheric Views - App Defaults' />
-    <meta property='description' content='Hemispheric Views - App Defaults' />
+    <meta name='description' content='Hemispheric Views - App Defaults' />
     <meta property='og:description' content='Hemispheric Views - App Defaults' />
     <meta property='og:type' content='article' />
     <meta property='og:url' content='https://defaults.rknight.me' />
@@ -58,18 +58,25 @@
         }
 
         .container {
-            max-width: 800px;
+            max-width: 1200px;
             margin: 0 auto;
             padding: 10px 15px;
         }
 
         h1 {
             margin-bottom: 0;
+            margin-top: 0;
+            text-shadow: 3px 3px 0 #01a4df;
+            color: white;
         }
 
         a {
             color: black;
             font-weight: bold;
+        }
+
+        .featured {
+            background-color: #fdbd30;
         }
 
         a:hover {
@@ -133,10 +140,68 @@
         #selected--container {
             display: none;
         }
+
+        .posts {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 10px;
+        }
+
+        @media (max-width: 700px) {
+            .posts {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 550px) {
+            .posts {
+                grid-template-columns: repeat(1, 1fr);
+                grid-gap: 5px;
+            }
+        }
+
+        .posts span {
+            display: flex;
+            align-items: center;
+        }
+
+        .posts span svg {
+            width: 20px;
+            height: 20px;
+            margin-right: 3px;
+        }
+
+        .posts div {
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            border: 1px solid #fdbd30;
+            padding: 10px 5px;
+        }
+
+        .banner {
+            background-color: #01a4df;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            border-radius: 10px;
+            border: 4px solid white;
+        }
     </style>
 
     {% if isNetworkPage %}
         <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    {% endif %}
+
+    {% if isWordCloudPage %}
+        <script type="text/javascript" src="/assets/wordcloud.js"></script>
     {% endif %}
 
 </head>
@@ -147,14 +212,22 @@
         <h1>App Defaults</h1>
         <p class="subtitle">Inspired by <a href="https://listen.hemisphericviews.com/097">Hemispheric Views 097 - Duel of the Defaults!</a></p>
 
-        {% if isNetworkPage %}
+        {% if isNetworkPage or isWordCloudPage %}
         {% else %}
             <iframe src="https://player.fireside.fm/v2/6MInpziV+pRrVuoJB?theme=dark" frameborder="0" scrolling="no"></iframe>
         {% endif %}
 
+        <div class="banner">
+            <a target="_blank" href="https://hemisphericviews.bigcartel.com/product/hemispheric-views-defaults-laptop-sticker">
+                <img src="/icons/sticker_small.png" alt="App Defaults sticker"><br>
+                Get a limited edition App Defaults sticker on the Hemispheric Views store
+            </a>
+    </div>
+
         <nav>
             <a href="/">Blog Post List</a>
             <a href="/network">Network Graph</a>
+            <a href="/wordcloud">Word Cloud</a>
         </nav>
     </header>
 
@@ -171,6 +244,13 @@
         </footer>
 
     </section>
+
+    <svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" id="prami-mono">
+    <path id="path26" fill="#000000" stroke="none" d="M 250 400 C 211.610992 400 173.225006 385.355011 143.934006 356.06601 L 43.933998 256.06601 C -14.645 197.487 -14.645 102.514008 43.933998 43.934998 C 100.531998 -12.662994 191.104004 -14.578003 250 38.190979 C 308.89801 -14.576996 399.470001 -12.661011 456.06601 43.934998 C 514.64502 102.514008 514.64502 197.487 456.06601 256.06601 L 356.06601 356.06601 C 326.777008 385.355011 288.389008 400 250 400 Z M 314.186005 104.744995 C 296.924011 104.744995 282.931 118.738007 282.931 136 C 282.931 153.261993 296.924011 167.255005 314.186005 167.255005 C 331.447998 167.255005 345.44101 153.261993 345.44101 136 C 345.44101 118.738007 331.447998 104.744995 314.186005 104.744995 Z M 185.813995 104.744995 C 168.552002 104.744995 154.559006 118.738007 154.559006 136 C 154.559006 153.261993 168.552002 167.255005 185.813995 167.255005 C 203.076004 167.255005 217.069 153.261993 217.069 136 C 217.069 118.738007 203.076004 104.744995 185.813995 104.744995 Z M 192.278 201.737 C 185.242004 195.110992 174.166 195.445007 167.541 202.481995 C 160.914993 209.518005 161.248993 220.593994 168.285995 227.218994 C 168.285995 227.218994 167.518997 226.39801 168.285995 227.218994 C 168.285995 227.218994 176.128006 238.652008 182.128006 244.300995 C 188.169998 249.98999 195.735001 255.391998 202.738998 259.166992 C 216.770996 266.727997 234.5 271.022003 250 271.022003 C 265.501007 271.022003 283.229004 266.727997 297.260986 259.166992 C 311.203003 251.653015 325.096985 238.531006 334.638 223.621002 C 339.687988 215.380005 337.101013 204.605988 328.859985 199.557007 C 320.618988 194.506989 309.845001 197.093994 304.79599 205.334991 C 298.386993 216.454987 290.864014 222.855011 280.657013 228.355988 C 270.537994 233.80899 261.382996 236.022003 250 236.022003 C 238.617004 236.022003 229.462006 233.80899 219.343002 228.355988 C 214.272003 225.622986 210.445007 222.890991 206.121002 218.819 C 201.753006 214.707001 192.278 201.737 192.278 201.737 C 193.044998 202.558014 192.278 201.737 192.278 201.737 Z"></path>
+  </symbol>
+  <symbol id="music" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-music"><path d="M9 18V5l12-2v13"></path><circle cx="6" cy="18" r="3"></circle><circle cx="18" cy="16" r="3"></circle></symbol>
+</svg>
 
 </body>
 

@@ -14,7 +14,7 @@
       "url": "https://defaults.rknight.me",
       "shape": "box",
       "color": "#fdbd30",
-      "linkCount": 245
+      "linkCount": 248
     },
     {
       "id": 1,
@@ -3194,15 +3194,6 @@
       "linkCount": 0
     },
     {
-      "id": 358,
-      "label": "Jack Platten",
-      "url": "https://plttn.me/defaults",
-      "rss": "https://plttn.me/rss.xml",
-      "shape": "box",
-      "color": "#03a4df",
-      "linkCount": 0
-    },
-    {
       "id": 359,
       "label": "Karl Toller",
       "url": "https://karltoller.com/default-apps-2024",
@@ -3329,6 +3320,33 @@
       "label": "Aaron Czichon",
       "url": "https://aaronczichon.de/blog/app-defaults-2024",
       "rss": "https://aaronczichon.de/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 358,
+      "label": "Jack Platten",
+      "url": "https://jot.jack.is/defaults",
+      "rss": "https://jot.jack.is/rss.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 374,
+      "label": "Brad Dielman",
+      "url": "https://braddielman.com/posts/2024-04-13-default-apps",
+      "rss": "https://braddielman.com/feed/feed.xml",
+      "shape": "box",
+      "color": "#03a4df",
+      "linkCount": 0
+    },
+    {
+      "id": 375,
+      "label": "Alfred",
+      "url": "https://zeren.xyz/post/app-defaults",
+      "rss": "https://zeren.xyz/feed ",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0
@@ -4738,6 +4756,18 @@
     {
       "from": 1001,
       "to": 373
+    },
+    {
+      "from": 1001,
+      "to": 218
+    },
+    {
+      "from": 1001,
+      "to": 374
+    },
+    {
+      "from": 1001,
+      "to": 375
     },
     {
       "from": 2,

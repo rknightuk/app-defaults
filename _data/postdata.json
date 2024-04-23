@@ -363,7 +363,10 @@
       "https://www.thefrugalgamer.net/defaults.php",
       "https://garden.joehallenbeck.com/container/default-apps",
       "https://kost.is/2024/04/01/app-defaults",
-      "https://aaronczichon.de/blog/app-defaults-2024"
+      "https://aaronczichon.de/blog/app-defaults-2024",
+      "https://ldstephens.me/2023/11/29/my-default-apps-2024-version",
+      "https://braddielman.com/posts/2024-04-13-default-apps",
+      "https://zeren.xyz/post/app-defaults"
     ],
     "name": "App Defaults",
     "shape": "box"
@@ -3961,6 +3964,33 @@
     "date": "2024-04-12 16:36",
     "id": 373,
     "urlKey": "https://aaronczichon.de/blog/app-defaults-2024",
+    "links": []
+  },
+  "https://jot.jack.is/defaults": {
+    "name": "Jack Platten",
+    "url": "https://jot.jack.is/defaults",
+    "rss": "https://jot.jack.is/rss.xml",
+    "date": "2024-02-08 00:00",
+    "id": 358,
+    "urlKey": "https://jot.jack.is/defaults",
+    "links": []
+  },
+  "https://braddielman.com/posts/2024-04-13-default-apps": {
+    "name": "Brad Dielman",
+    "url": "https://braddielman.com/posts/2024-04-13-default-apps",
+    "rss": "https://braddielman.com/feed/feed.xml",
+    "date": "2024-04-13 23:38",
+    "id": 374,
+    "urlKey": "https://braddielman.com/posts/2024-04-13-default-apps",
+    "links": []
+  },
+  "https://zeren.xyz/post/app-defaults": {
+    "name": "Alfred",
+    "url": "https://zeren.xyz/post/app-defaults",
+    "rss": "https://zeren.xyz/feed ",
+    "date": "2024-04-23 15:26",
+    "id": 375,
+    "urlKey": "https://zeren.xyz/post/app-defaults",
     "links": []
   }
 }

@@ -1,0 +1,2 @@
+/store id=:id  /blog/:id  301
+/avgb format=:format  /feed.xml  301

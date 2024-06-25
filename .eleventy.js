@@ -7,6 +7,4 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter('stringify', (data) => {
         return JSON.stringify(data, null, "\t")
     })
-
-    eleventyConfig.addPassthroughCopy('_redirects')
 }

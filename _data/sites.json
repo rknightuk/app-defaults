@@ -380,5 +380,6 @@
     { "name": "Jack Kershaw", "url": "https://jackkershaw.net/blog/app-defaults", "rss": "https://jackkershaw.net/rss.xml", "date": "2024-05-22 16:16" },
     { "name": "Martín Morales", "url": "https://mrtnmrls.com/default-apps-2024", "rss": "https://mrtnmrls.com/rss.xml", "date": "2024-06-24 23:06" },
     { "name": "Zachary Kai", "url": "https://zacharykai.net/defaults", "rss": "https://zacharykai.net/assets/rss.xml", "date": "2024-06-26 08:39" },
-    { "name": "Paul Melero", "url": "https://graficos.net/slashes/uses", "date": "2024-07-05 01:39" }
+    { "name": "Paul Melero", "url": "https://graficos.net/slashes/uses", "date": "2024-07-05 01:39" },
+    { "name": "Jarema", "url": "https://jarema.me/blog/default-apps-2024", "rss": "https://jarema.me/rss.xml", "date": "2024-07-21 02:27" }
 ]

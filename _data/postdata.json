@@ -4,7 +4,7 @@
     "urlKey": "https://listen.hemisphericviews.com/097",
     "url": "https://listen.hemisphericviews.com/097",
     "links": [
-      "https://gabz.blog/post/my-defaults-tpq2ulkn",
+      "https://gabz.blog/posts/default-apps",
       "https://rknight.me/app-defaults",
       "https://maique.eu/2023/11/03/defaults.html",
       "https://lmika.org/2023/11/04/defaults.html",
@@ -371,13 +371,13 @@
     "name": "App Defaults",
     "shape": "box"
   },
-  "https://gabz.blog/post/my-defaults-tpq2ulkn": {
+  "https://gabz.blog/posts/default-apps": {
     "name": "Gabz",
-    "url": "https://gabz.blog/post/my-defaults-tpq2ulkn",
+    "url": "https://gabz.blog/posts/default-apps",
     "rss": "https://gabz.blog/feed.xml",
     "date": "2023-11-07 16:49",
     "id": 1,
-    "urlKey": "https://gabz.blog/post/my-defaults-tpq2ulkn",
+    "urlKey": "https://gabz.blog/posts/default-apps",
     "links": []
   },
   "https://rknight.me/app-defaults": {

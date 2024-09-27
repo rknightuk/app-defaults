@@ -386,5 +386,6 @@
     { "name": "Diogo Ferreira", "url": "https://diogoferreira.pt/uses", "rss": "https://diogoferreira.pt/rss", "date": "2024-08-12 20:52" },
     { "name": "Gabz (2024)", "url": "https://gabz.blog/posts/default-apps-2024-edition", "rss": "https://gabz.blog/feed.xml" , "date": "2024-09-03 12:30"},
     { "name": "Erlend", "url": "https://havn.blog/2024/09/12/my-app-defaults.html", "rss": "https://havn.blog/categories/english/feed.xml", "date": "2024-09-13 13:15" },
-    { "name": "Jacob Asker", "url": "https://imjacob.pika.page/posts/my-app-defaults", "rss": "https://imjacob.pika.page/posts_feed", "date": "2024-09-18 11:20" }
+    { "name": "Jacob Asker", "url": "https://imjacob.pika.page/posts/my-app-defaults", "rss": "https://imjacob.pika.page/posts_feed", "date": "2024-09-18 11:20" },
+    { "name": "myles braithwaite", "url": "https://mylesb.ca/defaults", "rss": "https://myles.social/feed.xml", "date": "2024-09-27 15:47" }
 ]

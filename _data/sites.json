@@ -388,5 +388,6 @@
     { "name": "Erlend", "url": "https://havn.blog/2024/09/12/my-app-defaults.html", "rss": "https://havn.blog/categories/english/feed.xml", "date": "2024-09-13 13:15" },
     { "name": "Jacob Asker", "url": "https://imjacob.pika.page/posts/my-app-defaults", "rss": "https://imjacob.pika.page/posts_feed", "date": "2024-09-18 11:20" },
     { "name": "myles braithwaite", "url": "https://mylesb.ca/defaults", "rss": "https://myles.social/feed.xml", "date": "2024-09-27 15:47" },
-    { "name": "Kirsty (2024)", "url": "https://nocto.com/posts/app-defaults-2024", "rss": "https://nocto.com/posts/rss.xml" , "date": "2024-11-07 10:00"}
+    { "name": "Kirsty (2024)", "url": "https://nocto.com/posts/app-defaults-2024", "rss": "https://nocto.com/posts/rss.xml" , "date": "2024-11-07 10:00"},
+    { "name": "Tobias Horvath", "url": "https://tobyx.com/2024/defaults", "rss": "https://tobyx.com/atom.xml" , "date": "2024-11-10 00:00"}
 ]

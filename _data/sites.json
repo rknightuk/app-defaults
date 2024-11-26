@@ -392,5 +392,7 @@
     { "name": "Tobias Horvath", "url": "https://tobyx.com/2024/defaults", "rss": "https://tobyx.com/atom.xml" , "date": "2024-11-10 00:00"},
     { "name": "Norangebit", "url": "https://norangeb.it/defaults", "rss": "https://norangeb.it/index.xml" , "date": "2024-11-21 00:00"},
     { "name": "Marco (2024)", "url": "https://mb.esamecar.net/2024/11/25/app-defaults-edition.html", "rss": "https://mb.esamecar.net/feed.xml" , "date": "2024-11-25 15:30"},
-    { "name": "Robb Knight (2024)", "url": "https://rknight.me/app-defaults-2024/", "rss": "https://rknight.me/feed.xml" , "date": "2024-11-25 20:26"}
+    { "name": "Robb Knight (2024)", "url": "https://rknight.me/app-defaults-2024/", "rss": "https://rknight.me/feed.xml" , "date": "2024-11-25 20:26"},
+    { "name": "Maique (2024)", "url": "https://maique.eu/2024/11/25/app-defaults.html", "rss": "https://maique.eu/feed.xml" , "date": "2024-11-26 09:04"},
+    { "name": "Leon Mika (2024)", "url": "https://lmika.org/2024/11/26/its-a-little.html", "rss": "https://lmika.org/feed.xml" , "date": "2024-11-26 09:05"}
 ]

@@ -355,7 +355,7 @@
     { "name": "Late Night Blog", "url": "https://text.tchncs.de/latenightblog/defaults", "rss": "https://text.tchncs.de/latenightblog/feed/", "date": "2024-02-05 02:18" },
     { "name": "MikeyP", "url": "https://mikeyp.com/defaults/", "rss": "http://www.mikeyp.com/feed", "date": "2024-02-06 12:00" },
     { "name": "Steve Best", "url": "https://steve-best.github.io/default-apps", "date": "2024-02-07 07:54" },
-    { "name": "Jack Platten", "url": "https://jot.jack.is/defaults/", "rss":"https://jot.jack.is/rss.xml", "date":"2024-02-08 00:00"},
+    { "name": "Jack Platten", "url": "https://jack.is/defaults", "rss":"https://jack.is/rss.xml", "date":"2024-02-08 00:00"},
     { "name": "Karl Toller", "url": "https://karltoller.com/default-apps-2024", "rss": "https://karltoller.com/feed", "date": "2024-02-08 11:37" },
     { "name": "Binary Digit", "url": "https://binarydigit.cafe/notes/app-defaults/", "rss": "https://binarydigit.cafe/index.xml", "date": "2024-02-08 16:12" },
     { "name": "Jason Velazquez", "url": "https://music.apple.com/us/playlist/app-defaults/pl.u-y95rTYq47Lr", "date": "2024-02-09 14:21", "music": true },

@@ -405,5 +405,6 @@
     { "name": "Zachery (2024)", "url": "https://blog.alpine.day/2024/12/the-defaults-2k24", "rss": "https://blog.alpine.day/rss.xml", "date": "2024-12-08 12:13" },
     { "name": "Laker (2024)", "url": "https://blog.laker.lol/posts/app-defaults-ii-return-of-the-note-taking-frenzy", "rss": "https://blog.laker.lol/posts_feed", "date": "2024-12-09 14:29" },
     { "name": "David Johnson", "url": "https://www.crossingthethreshold.net/2024/12/09/app-defaults.html", "rss": "https://www.crossingthethreshold.net/feed.xml", "date": "2024-12-10 13:08" },
-    { "name": "Vik (2024)", "url": "https://ivikrant.net/2024/12/12/default-apps-late-2024/", "rss": "https://ivikrant.net/feed/", "date": "2024-12-12 10:12"}
+    { "name": "Vik (2024)", "url": "https://ivikrant.net/2024/12/12/default-apps-late-2024/", "rss": "https://ivikrant.net/feed/", "date": "2024-12-12 10:12"},
+    { "name": "Aday Hernández", "url": "https://www.aday.design/app-defaults", "date": "2024-12-13 09:16" }
 ]

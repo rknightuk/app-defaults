@@ -406,5 +406,9 @@
     { "name": "Laker (2024)", "url": "https://blog.laker.lol/posts/app-defaults-ii-return-of-the-note-taking-frenzy", "rss": "https://blog.laker.lol/posts_feed", "date": "2024-12-09 14:29" },
     { "name": "David Johnson", "url": "https://www.crossingthethreshold.net/2024/12/09/app-defaults.html", "rss": "https://www.crossingthethreshold.net/feed.xml", "date": "2024-12-10 13:08" },
     { "name": "Vik (2024)", "url": "https://ivikrant.net/2024/12/12/default-apps-late-2024/", "rss": "https://ivikrant.net/feed/", "date": "2024-12-12 10:12"},
-    { "name": "Aday Hernández", "url": "https://www.aday.design/app-defaults", "date": "2024-12-13 09:16" }
+    { "name": "Aday Hernández", "url": "https://www.aday.design/app-defaults", "date": "2024-12-13 09:16" },
+    { "name": "Jeff Triplett (2024)", "url": "https://micro.webology.dev/2024/12/19/default-apps.html", "rss": "https://jefftriplett.com/feed.xml", "date": "2024-12-22 20:00" },
+    { "name": "Dana Byerly (2024)", "url": "https://danabyerly.com/notes/defaults-2024/", "rss": "https://danabyerly.com/feed.xml", "date": "2024-12-22 20:01" },
+    { "name": "Jarrod Blundy (2024)", "url": "https://heydingus.net/blog/2024/12/delta-of-the-defaults-2024", "rss": "https://heydingus.net/feed.rss", "date": "2024-12-22 20:02" },
+    { "name": "Matt Birchler (2024)", "url": "https://birchtree.me/blog/my-default-apps-of-2024/", "rss": "https://birchtree.me/rss/", "date": "2024-12-22 20:03" }
 ]

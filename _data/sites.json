@@ -412,5 +412,6 @@
     { "name": "Jarrod Blundy (2024)", "url": "https://heydingus.net/blog/2024/12/delta-of-the-defaults-2024", "rss": "https://heydingus.net/feed.rss", "date": "2024-12-22 20:02" },
     { "name": "Matt Birchler (2024)", "url": "https://birchtree.me/blog/my-default-apps-of-2024/", "rss": "https://birchtree.me/rss/", "date": "2024-12-22 20:03" },
     { "name": "Cory Dransfeldt (2024)", "url": "https://coryd.dev/posts/2024/my-default-apps-2024-edition", "rss": "https://feedpress.me/coryd", "date": "2024-12-23 09:43" },
-    { "name": "Chris McLeod (2024)", "url": "https://chrismcleod.dev/blog/default-apps-for-2024/", "rss": "https://chrismcleod.dev/feed.xml", "date": "2024-12-23 17:07" }
+    { "name": "Chris McLeod (2024)", "url": "https://chrismcleod.dev/blog/default-apps-for-2024/", "rss": "https://chrismcleod.dev/feed.xml", "date": "2024-12-23 17:07" },
+    { "name": "Tyler Sticka (2024)", "url": "https://tylersticka.com/journal/default-apps-2024/", "rss": "https://tylersticka.com/journal/feed.xml", "date": "2024-12-23 19:51" }
 ]

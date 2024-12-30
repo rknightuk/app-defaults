@@ -417,5 +417,6 @@
     { "name": "Charanjit Chana", "url": "https://charanj.it/defaults", "rss": "https://www.1thingaweek.com/feed/xml", "date": "2024-12-24 11:09" },
     { "name": "Kristof Zerbe (2024)", "url": "https://kiko.io/post/App-Defaults-2024/", "rss": "https://kiko.io/atom.xml", "date": "2024-12-25 12:47" },
     { "name": "gurupanguji", "url": "https://gurupanguji.com/2024/12/24/default-apps-for-2024/", "rss": "https://gurupanguji.com/feed/", "date": "2024-12-24 15:00" },
-    { "name": "Scott Macpherson", "url": "https://zerosleeps.com/blog/2024/12/29/default-apps/", "rss": "https://zerosleeps.com/feed.json", "date": "2024-12-29 04:42" }
+    { "name": "Scott Macpherson", "url": "https://zerosleeps.com/blog/2024/12/29/default-apps/", "rss": "https://zerosleeps.com/feed.json", "date": "2024-12-29 04:42" },
+    { "name": "Martin Kukolos (2024)", "url": "https://www.martinkukolos.com/posts/my-app-defaults-by-the-end-of-the-year-2024/", "rss": "https://www.martinkukolos.com/index.xml", "date": "2024-12-30 18:45" }
 ]

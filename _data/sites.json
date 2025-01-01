@@ -121,7 +121,7 @@
     { "name": "Ghordano", "url": "https://ghordano.com/2023/11/11/default-apps-2023/", "rss": "https://ghordano.com/feed/", "date": "2023-11-11 19:14" },
     { "name": "Bodo Tasche", "url": "https://bitboxer.de/2023/11/12/default-apps-2023/", "rss": "https://bitboxer.de/atom.xml", "date": "2023-11-12 09:00" },
     { "name": "Steve Makofsky", "url": "https://makoism.com/defaults/", "rss": "https://makoism.com/rss/", "date": "2023-11-12 08:46" },
-    { "name": "Mike Haynes", "url": "https://crashthearcade.com/post/3734/", "rss": "https://crashthearcade.com/feed/rss", "date": "2023-11-12 08:47" },
+    { "name": "Mike Haynes", "url": "https://crashthearcade.com/blog/app-defaults-2023/", "rss": "https://crashthearcade.com/rss/index.xml", "date": "2023-11-12 08:47" },
     { "name": "Jason Burk", "url": "https://grepjason.sh/2023/duel-of-the-defaults", "rss": "https://grepjason.sh/rss.xml", "date": "2023-11-12 18:32", "featured": true },
     { "name": "V", "url": "https://vmac.ch/posts/2023-11-05-app-default/", "rss": "https://vmac.ch/index.xml", "date": "2023-11-12 19:34" },
     { "name": "Pratik", "url": "https://microblog.pratikmhatre.com/2023/11/12/default-apps.html", "rss": "https://microblog.pratikmhatre.com/rss", "date": "2023-11-12 18:59" },
@@ -418,5 +418,6 @@
     { "name": "Kristof Zerbe (2024)", "url": "https://kiko.io/post/App-Defaults-2024/", "rss": "https://kiko.io/atom.xml", "date": "2024-12-25 12:47" },
     { "name": "gurupanguji", "url": "https://gurupanguji.com/2024/12/24/default-apps-for-2024/", "rss": "https://gurupanguji.com/feed/", "date": "2024-12-24 15:00" },
     { "name": "Scott Macpherson", "url": "https://zerosleeps.com/blog/2024/12/29/default-apps/", "rss": "https://zerosleeps.com/feed.json", "date": "2024-12-29 04:42" },
-    { "name": "Martin Kukolos (2024)", "url": "https://www.martinkukolos.com/posts/my-app-defaults-by-the-end-of-the-year-2024/", "rss": "https://www.martinkukolos.com/index.xml", "date": "2024-12-30 18:45" }
+    { "name": "Martin Kukolos (2024)", "url": "https://www.martinkukolos.com/posts/my-app-defaults-by-the-end-of-the-year-2024/", "rss": "https://www.martinkukolos.com/index.xml", "date": "2024-12-30 18:45" },
+    { "name": "Mike Haynes (2024)", "url": "https://crashthearcade.com/blog/app-defaults-2024/", "rss": "https://crashthearcade.com/rss/index.xml", "date": "2024-12-24 10:09" }
 ]

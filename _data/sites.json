@@ -445,5 +445,6 @@
     { "name": "Jeff the Curiouser", "url": "https://curiouser.au/blog/app-defaults-2024/", "rss": "https://curiouser.au/subscribe/", "date": "2025-01-04 02:00" },
     { "name": "Saadia Carbis", "url": "https://diggingforfire.blog/posts/defaults-2025/", "rss": "https://diggingforfire.blog/posts/index.xml", "date": "2025-01-05 22:30" },
     { "name": "Victor Kropp (2024)", "url": "https://victor.kropp.name/blog/2025/app-defaults/", "rss": "https://victor.kropp.name/blog/index.xml", "date": "2025-01-07 21:12" },
-    { "name": "Matt Stein (2024)", "url": "https://mattstein.com/thoughts/default-apps-2024/", "rss": "https://mattstein.com/rss.xml", "date": "2025-01-09 23:32" }
+    { "name": "Matt Stein (2024)", "url": "https://mattstein.com/thoughts/default-apps-2024/", "rss": "https://mattstein.com/rss.xml", "date": "2025-01-09 23:32" },
+    { "name": "Dan Counsell", "url": "https://www.dancounsell.com/defaults/", "date": "2025-01-13 21:23" }
 ]

@@ -447,5 +447,6 @@
     { "name": "Victor Kropp (2024)", "url": "https://victor.kropp.name/blog/2025/app-defaults/", "rss": "https://victor.kropp.name/blog/index.xml", "date": "2025-01-07 21:12" },
     { "name": "Matt Stein (2024)", "url": "https://mattstein.com/thoughts/default-apps-2024/", "rss": "https://mattstein.com/rss.xml", "date": "2025-01-09 23:32" },
     { "name": "Dan Counsell", "url": "https://www.dancounsell.com/defaults/", "date": "2025-01-13 21:23" },
-    { "name": "Andrea Contino (2025)", "url": "https://contino.com/blog/default-apps-2025", "rss": "https://gwtf.it/blog?format=rss" , "date": "2025-01-13 22:18"}
+    { "name": "Andrea Contino (2025)", "url": "https://contino.com/blog/default-apps-2025", "rss": "https://gwtf.it/blog?format=rss" , "date": "2025-01-13 22:18"},
+    { "name": "Nizzlay (2025)", "url": "https://nizzlay.com/blog/defaults-2025/", "rss": "https://nizzlay.com/atom.xml", "date": "2025-01-14 22:04"}
 ]

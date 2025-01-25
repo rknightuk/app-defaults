@@ -1,7 +1,7 @@
 [
     { "name": "Gabz", "url": "https://gabz.blog/posts/default-apps", "rss": "https://gabz.blog/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "Robb Knight", "url": "https://rknight.me/app-defaults/", "rss": "https://rknight.me/feed.xml" , "date": "2023-11-07 16:49"},
-    { "name": "Maique", "url": "https://maique.eu/2023/11/03/defaults.html", "rss": "https://maique.eu/feed.xml" , "date": "2023-11-07 16:49"},
+    { "name": "Maique", "url": "https://maique.eu/defaults", "rss": "https://maique.eu/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "Leon Mika", "url": "https://lmika.org/2023/11/04/defaults.html", "rss": "https://lmika.org/feed.xml" , "date": "2023-11-07 16:49"},
     { "name": "Zachary", "url": "https://alpine.weblog.lol/2023/11/the-defaults", "rss": "https://alpine.weblog.lol/rss.xml" , "date": "2023-11-07 16:49"},
     { "name": "Andrew Canion", "url": "https://canion.blog/2023/11/04/duel-of-the.html", "rss": "https://canion.blog/feed.xml" , "date": "2023-11-07 16:49", "featured": true },
@@ -393,7 +393,6 @@
     { "name": "Norangebit", "url": "https://norangeb.it/defaults", "rss": "https://norangeb.it/index.xml" , "date": "2024-11-21 00:00"},
     { "name": "Marco (2024)", "url": "https://mb.esamecar.net/2024/11/25/app-defaults-edition.html", "rss": "https://mb.esamecar.net/feed.xml" , "date": "2024-11-25 15:30"},
     { "name": "Robb Knight (2024)", "url": "https://rknight.me/app-defaults-2024/", "rss": "https://rknight.me/feed.xml" , "date": "2024-11-25 20:26"},
-    { "name": "Maique (2024)", "url": "https://maique.eu/2024/11/25/app-defaults.html", "rss": "https://maique.eu/feed.xml" , "date": "2024-11-26 09:04"},
     { "name": "Leon Mika (2024)", "url": "https://lmika.org/2024/11/26/its-a-little.html", "rss": "https://lmika.org/feed.xml" , "date": "2024-11-26 09:05"},
     { "name": "Robert Pfotenhauer (2024)", "url": "https://frittiert.es/articles/2024/11/app-defaults-edition-2024", "rss": "https://frittiert.es/rss.xml" , "date": "2024-11-26 09:04"},   
     { "name": "Brandon", "url": "https://brandons-journal.com/default-apps-for-2024/", "rss": "https://brandons-journal.com/feed/", "date": "2024-12-08 12:07" },

@@ -448,5 +448,6 @@
     { "name": "Dan Counsell", "url": "https://www.dancounsell.com/defaults/", "date": "2025-01-13 21:23" },
     { "name": "Andrea Contino (2025)", "url": "https://contino.com/blog/default-apps-2025", "rss": "https://gwtf.it/blog?format=rss" , "date": "2025-01-13 22:18"},
     { "name": "Nizzlay (2025)", "url": "https://nizzlay.com/blog/defaults-2025/", "rss": "https://nizzlay.com/atom.xml", "date": "2025-01-14 22:04"},
-    { "name": "macosxguru", "url": "https://bicycleforyourmind.com/app_defaults_2025", "rss": "https://bicycleforyourmind.com/feed.rss", "date": "2025-01-15 08:53" }
+    { "name": "macosxguru", "url": "https://bicycleforyourmind.com/app_defaults_2025", "rss": "https://bicycleforyourmind.com/feed.rss", "date": "2025-01-15 08:53" },
+    { "name": "Ryan Tiffany", "url": "https://www.ryantiffany.com/default-apps-2025/", "rss": "https://www.ryantiffany.com/feed/", "date": "2025-01-26 05:54" }
 ]

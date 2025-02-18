@@ -1980,8 +1980,8 @@
     {
       "id": 221,
       "label": "Dominik Höcht",
-      "url": "https://ner3y.micro.blog/defaults",
-      "rss": "https://ner3y.micro.blog/feed.xml",
+      "url": "https://ner3y.me/defaults",
+      "rss": "https://ner3y.me/feed/",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0

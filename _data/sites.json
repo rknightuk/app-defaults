@@ -455,5 +455,6 @@
     { "name": "Davey Craney", "url": "https://craney.uk/defaults", "rss": "https://craney.uk/feed.xml", "date": "2025-03-09 16:15" },
     { "name": "Joel", "url": "https://joelchrono.xyz/blog/default-apps-2025/", "rss": "https://joelchrono.xyz/feed.xml", "date": "2025-04-29 09:36" },
     { "name": "Alex Zee Comedy", "url": "https://alexzeecomedy.com/pages/defaults", "rss": "https://alexzeecomedy.com/rss.xml", "date": "2025-07-09 11:44" },
-    { "name": "Lyons in beta", "url": "https://lyonsinbeta.com/blog/app-defaults/", "rss": "https://lyonsinbeta.com/feed/feed.xml", "date": "2025-08-04 10:09" }
+    { "name": "Lyons in beta", "url": "https://lyonsinbeta.com/blog/app-defaults/", "rss": "https://lyonsinbeta.com/feed/feed.xml", "date": "2025-08-04 10:09" },
+    { "name": "Chai", "url": "https://axoga.to/blog/apps-i-use-2024", "rss": "https://axoga.to/blog.xml", "date": "2025-08-20 15:37" }
 ]

@@ -457,5 +457,6 @@
     { "name": "Alex Zee Comedy", "url": "https://alexzeecomedy.com/pages/defaults", "rss": "https://alexzeecomedy.com/rss.xml", "date": "2025-07-09 11:44" },
     { "name": "Lyons in beta", "url": "https://lyonsinbeta.com/blog/app-defaults/", "rss": "https://lyonsinbeta.com/feed/feed.xml", "date": "2025-08-04 10:09" },
     { "name": "Chai", "url": "https://axoga.to/blog/apps-i-use-2024", "rss": "https://axoga.to/blog.xml", "date": "2025-08-20 15:37" },
-    { "name": "Story Spooler", "url": "https://www.storyspooler.com/app-defaults-2025/", "rss": "https://www.storyspooler.com/rss/", "date": "2025-08-28 22:30" }
+    { "name": "Story Spooler", "url": "https://www.storyspooler.com/app-defaults-2025/", "rss": "https://www.storyspooler.com/rss/", "date": "2025-08-28 22:30" },
+    { "name": "internetSCOUT", "url": "https://www.internet-scout.de/meine-app-standards-auf-macos-2025/", "rss": "https://www.internet-scout.de/rss/", "date": "2025-10-29 12:20" }
 ]

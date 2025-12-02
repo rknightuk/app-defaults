@@ -465,5 +465,6 @@
     { "name": "Chris McLeod (2025)", "url": "https://chrismcleod.dev/blog/default-apps-for-2025/", "rss": "https://chrismcleod.dev/feed.xml", "date": "2025-12-02 13:26" },
     { "name": "Marco (2025)", "url": "https://mb.esamecar.net/2025/12/02/defaults.html", "rss": "https://mb.esamecar.net/feed.xml" , "date": "2025-12-02 13:27"},
     { "name": "Andrew Canion (2025)", "url": "https://canion.blog/2025/12/01/defaults.html", "rss": "https://canion.blog/feed.xml" , "date": "2025-12-02 13:28", "featured": true },
-    { "name": "Scott Willsey (2025)", "url": "https://scottwillsey.com/default-apps-2025/", "rss": "https://scottwillsey.com/rss.xml", "date": "2025-12-02 13:29" }
+    { "name": "Scott Willsey (2025)", "url": "https://scottwillsey.com/default-apps-2025/", "rss": "https://scottwillsey.com/rss.xml", "date": "2025-12-02 13:29" },
+    { "name": "Lou Plummer (2025)", "url": "https://appaddict.app/post/appaddict-s-default-tech-stack-third-edition", "rss": "https://appaddict.app/feed.atom", "date": "2025-12-02 14:32" }
 ]

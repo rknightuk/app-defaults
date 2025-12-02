@@ -37,7 +37,7 @@
     {
       "id": 3,
       "label": "Maique",
-      "url": "https://maique.eu/2023/11/03/defaults.html",
+      "url": "https://maique.eu/defaults",
       "rss": "https://maique.eu/feed.xml",
       "shape": "box",
       "color": "#03a4df",
@@ -1980,8 +1980,8 @@
     {
       "id": 221,
       "label": "Dominik Höcht",
-      "url": "https://ner3y.micro.blog/defaults",
-      "rss": "https://ner3y.micro.blog/feed.xml",
+      "url": "https://ner3y.me/defaults",
+      "rss": "https://ner3y.me/feed/",
       "shape": "box",
       "color": "#03a4df",
       "linkCount": 0

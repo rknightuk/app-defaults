@@ -6,7 +6,7 @@
     "links": [
       "https://gabz.blog/posts/default-apps",
       "https://rknight.me/app-defaults",
-      "https://maique.eu/2023/11/03/defaults.html",
+      "https://maique.eu/defaults",
       "https://lmika.org/2023/11/04/defaults.html",
       "https://alpine.weblog.lol/2023/11/the-defaults",
       "https://canion.blog/2023/11/04/duel-of-the.html",
@@ -388,7 +388,7 @@
     "id": 2,
     "urlKey": "https://rknight.me/app-defaults",
     "links": [
-      "https://maique.eu/2023/11/03/defaults.html",
+      "https://maique.eu/defaults",
       "https://lmika.org/2023/11/04/defaults.html",
       "https://canion.blog/2023/11/04/duel-of-the.html",
       "https://www.andycarolan.com/appdefaults",
@@ -416,13 +416,13 @@
       "https://joshuawold.com/app-defaults"
     ]
   },
-  "https://maique.eu/2023/11/03/defaults.html": {
+  "https://maique.eu/defaults": {
     "name": "Maique",
-    "url": "https://maique.eu/2023/11/03/defaults.html",
+    "url": "https://maique.eu/defaults",
     "rss": "https://maique.eu/feed.xml",
     "date": "2023-11-07 16:49",
     "id": 3,
-    "urlKey": "https://maique.eu/2023/11/03/defaults.html",
+    "urlKey": "https://maique.eu/defaults",
     "links": [
       "https://lmika.org/2023/11/04/defaults.html",
       "https://canion.blog/2023/11/04/duel-of-the.html",
@@ -2581,13 +2581,13 @@
       "https://chrisglass.com/2023/11/28/default-apps"
     ]
   },
-  "https://ner3y.micro.blog/defaults": {
+  "https://ner3y.me/defaults/": {
     "name": "Dominik Höcht",
-    "url": "https://ner3y.micro.blog/defaults",
-    "rss": "https://ner3y.micro.blog/feed.xml",
+    "url": "https://ner3y.me/defaults/",
+    "rss": "https://ner3y.me/feed/",
     "date": "2023-11-30 08:33",
     "id": 221,
-    "urlKey": "https://ner3y.micro.blog/defaults",
+    "urlKey": "https://ner3y.me/defaults/",
     "links": []
   },
   "https://social.jasonheppler.org/2023/11/29/default-apps-for.html": {

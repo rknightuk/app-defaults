@@ -460,5 +460,10 @@
     { "name": "Story Spooler", "url": "https://www.storyspooler.com/app-defaults-2025/", "rss": "https://www.storyspooler.com/rss/", "date": "2025-08-28 22:30" },
     { "name": "internetSCOUT", "url": "https://www.internet-scout.de/meine-app-standards-auf-macos-2025/", "rss": "https://www.internet-scout.de/rss/", "date": "2025-10-29 12:20" },
     { "name": "Jeff Triplett (2025)", "url": "https://micro.webology.dev/2025/10/29/default-apps-here-are-my/", "rss": "https://jefftriplett.com/feed.xml", "date": "2025-10-30 12:26" },
-    { "name": "Leon Mika (2025)", "url": "https://lmika.org/2025/11/04/delta-of-the-defaults.html", "rss": "https://lmika.org/feed.xml" , "date": "2025-11-04 09:11"}
+    { "name": "Leon Mika (2025)", "url": "https://lmika.org/2025/11/04/delta-of-the-defaults.html", "rss": "https://lmika.org/feed.xml" , "date": "2025-11-04 09:11"},
+    { "name": "Cory Dransfeldt (2025)", "url": "https://www.coryd.dev/posts/2025/my-default-apps-2025-edition", "rss": "https://feedpress.me/coryd", "date": "2025-12-02 13:25" },
+    { "name": "Chris McLeod (2025)", "url": "https://chrismcleod.dev/blog/default-apps-for-2025/", "rss": "https://chrismcleod.dev/feed.xml", "date": "2025-12-02 13:26" },
+    { "name": "Marco (2025)", "url": "https://mb.esamecar.net/2025/12/02/defaults.html", "rss": "https://mb.esamecar.net/feed.xml" , "date": "2025-12-02 13:27"},
+    { "name": "Andrew Canion (2025)", "url": "https://canion.blog/2025/12/01/defaults.html", "rss": "https://canion.blog/feed.xml" , "date": "2025-12-02 13:28", "featured": true },
+    { "name": "Scott Willsey (2025)", "url": "https://scottwillsey.com/default-apps-2025/", "rss": "https://scottwillsey.com/rss.xml", "date": "2025-12-02 13:29" }
 ]

@@ -483,5 +483,6 @@
     { "name": "Hervé Weltzer", "url": "https://herve.alsace/default-apps-2025/", "rss": "https://herve.alsace/feed/", "date": "2025-12-19 20:48" },
     { "name": "Olly Headey", "url": "https://olly.world/app-defaults-2025", "rss": "https://olly.world/feed.xml", "date": "2025-12-21 23:16" },
     { "name": "Yee Chie", "url": "https://yeechie.nl/app-defaults-2025", "rss": "https://yeechie.nl/feed.xml", "date": "2025-12-21 23:17" },
-    { "name": "Harrison", "url": "https://harrisongg.com/app-defaults-2025", "rss": "https://harrisongg.com/feed.xml", "date": "2025-12-21 23:18" }
+    { "name": "Harrison", "url": "https://harrisongg.com/app-defaults-2025", "rss": "https://harrisongg.com/feed.xml", "date": "2025-12-21 23:18" },
+    { "name": "Aaron Czichon (2025)", "url": "https://aaronczichon.de/blog/36-app-defaults-2025/", "rss": "https://aaronczichon.de/rss.xml", "date": "2025-12-22 16:17" }
 ]

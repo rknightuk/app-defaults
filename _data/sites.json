@@ -485,5 +485,8 @@
     { "name": "Yee Chie", "url": "https://yeechie.nl/app-defaults-2025", "rss": "https://yeechie.nl/feed.xml", "date": "2025-12-21 23:17" },
     { "name": "Harrison", "url": "https://harrisongg.com/app-defaults-2025", "rss": "https://harrisongg.com/feed.xml", "date": "2025-12-21 23:18" },
     { "name": "Aaron Czichon (2025)", "url": "https://aaronczichon.de/blog/36-app-defaults-2025/", "rss": "https://aaronczichon.de/rss.xml", "date": "2025-12-22 16:17" },
-    { "name": "May (2025)", "url": "https://github.com/MayMeow/MayMeow/blob/v2025.0.0/_pages/defaults.md", "date": "2025-12-25 12:50" }
+    { "name": "May (2025)", "url": "https://github.com/MayMeow/MayMeow/blob/v2025.0.0/_pages/defaults.md", "date": "2025-12-25 12:50" },
+    { "name": "Jatan Mehta", "url": "https://journal.jatan.space/default-apps-2025/", "rss": "https://journal.jatan.space/rss/", "date": "2026-12-30 23:14" },
+    { "name": "Split Signal", "url": "https://www.splitsignal.org/posts/default-apps-2025", "rss": "https://www.splitsignal.org/posts_feed", "date": "2026-12-30 23:14" },
+    { "name": "Eric Walker (2025)", "url": "https://runs.lol/2025/12/26/2025-application-defaults", "rss": "https://runs.lol/rss.xml", "date": "2026-12-30 23:16"}
 ]

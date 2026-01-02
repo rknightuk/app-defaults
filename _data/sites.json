@@ -416,6 +416,7 @@
     { "name": "Charanjit Chana", "url": "https://charanj.it/defaults", "rss": "https://www.1thingaweek.com/feed/xml", "date": "2024-12-24 11:09" },
     { "name": "Kristof Zerbe (2024)", "url": "https://kiko.io/post/App-Defaults-2024/", "rss": "https://kiko.io/atom.xml", "date": "2024-12-25 12:47" },
     { "name": "gurupanguji", "url": "https://gurupanguji.com/2024/12/24/default-apps-for-2024/", "rss": "https://gurupanguji.com/feed/", "date": "2024-12-24 15:00" },
+    { "name": "spasic (2024)", "url": "https://spasic.me/posts/my-app-defaults-dec-2024-edition", "rss": "https://spasic.me/posts_feed", "date": "2024-12-26 10:32" },
     { "name": "Scott Macpherson", "url": "https://zerosleeps.com/blog/2024/12/29/default-apps/", "rss": "https://zerosleeps.com/feed.json", "date": "2024-12-29 04:42" },
     { "name": "Martin Kukolos (2024)", "url": "https://www.martinkukolos.com/posts/my-app-defaults-by-the-end-of-the-year-2024/", "rss": "https://www.martinkukolos.com/index.xml", "date": "2024-12-30 18:45" },
     { "name": "Mike Haynes (2024)", "url": "https://crashthearcade.com/blog/app-defaults-2024/", "rss": "https://crashthearcade.com/rss/index.xml", "date": "2024-12-24 10:09" },
@@ -452,6 +453,7 @@
     { "name": "Trey Hunner", "url": "https://treyhunner.com/2025/01/my-default-apps-of-2024/", "rss": "https://treyhunner.com/atom.xml", "date": "2025-01-22 14:30" },
     { "name": "Ryan Tiffany", "url": "https://www.ryantiffany.com/default-apps-2025/", "rss": "https://www.ryantiffany.com/feed/", "date": "2025-01-26 05:54" },
     { "name": "Daryl Sun (2025)", "url": "https://blog.darylsun.page/2025/01/25/se-6-app-defaults-2025", "rss": "https://blog.darylsun.page/rss.xml", "date": "2025-01-25 15:05" },
+    { "name": "spasic (2025)", "url": "https://spasic.me/posts/my-app-defaults-mar-2025-edition", "rss": "https://spasic.me/posts_feed", "date": "2025-03-06 10:32" },
     { "name": "Sara Jakša (2024)", "url": "https://sarajaksa.eu/2024/12/my-default-apps/", "rss": "https://sarajaksa.eu/rss.xml", "date": "2024-12-14 00:00" },
     { "name": "Davey Craney", "url": "https://craney.uk/defaults", "rss": "https://craney.uk/feed.xml", "date": "2025-03-09 16:15" },
     { "name": "Joel", "url": "https://joelchrono.xyz/blog/default-apps-2025/", "rss": "https://joelchrono.xyz/feed.xml", "date": "2025-04-29 09:36" },
@@ -489,5 +491,7 @@
     { "name": "Jatan Mehta", "url": "https://journal.jatan.space/default-apps-2025/", "rss": "https://journal.jatan.space/rss/", "date": "2025-12-30 23:14" },
     { "name": "Split Signal", "url": "https://www.splitsignal.org/posts/default-apps-2025", "rss": "https://www.splitsignal.org/posts_feed", "date": "2025-12-30 23:14" },
     { "name": "Eric Walker (2025)", "url": "https://runs.lol/2025/12/26/2025-application-defaults", "rss": "https://runs.lol/rss.xml", "date": "2025-12-30 23:16" },
-    { "name": "Dylan", "url": "https://dylan.weblog.lol/2025/12/default-apps", "rss": "https://dylan.weblog.lol/rss.xml", "date": "2025-12-31 19:48" }
+    { "name": "Dylan", "url": "https://dylan.weblog.lol/2025/12/default-apps", "rss": "https://dylan.weblog.lol/rss.xml", "date": "2025-12-31 19:48" },
+    { "name": "Jason Becker (2026)", "url": "https://json.blog/2026/01/01/defaults-at-the-start-of.html", "rss": "https://json.blog/rss", "date": "2026-01-02 10:31" },
+    { "name": "spasic (2026)", "url": "https://spasic.me/posts/my-app-defaults-jan-2026-edition", "rss": "https://spasic.me/posts_feed", "date": "2026-01-02 10:32" }
 ]

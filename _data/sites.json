@@ -493,5 +493,6 @@
     { "name": "Eric Walker (2025)", "url": "https://runs.lol/2025/12/26/2025-application-defaults", "rss": "https://runs.lol/rss.xml", "date": "2025-12-30 23:16" },
     { "name": "Dylan", "url": "https://dylan.weblog.lol/2025/12/default-apps", "rss": "https://dylan.weblog.lol/rss.xml", "date": "2025-12-31 19:48" },
     { "name": "Jason Becker (2026)", "url": "https://json.blog/2026/01/01/defaults-at-the-start-of.html", "rss": "https://json.blog/rss", "date": "2026-01-02 10:31" },
-    { "name": "spasic (2026)", "url": "https://spasic.me/posts/my-app-defaults-jan-2026-edition", "rss": "https://spasic.me/posts_feed", "date": "2026-01-02 10:32" }
+    { "name": "spasic (2026)", "url": "https://spasic.me/posts/my-app-defaults-jan-2026-edition", "rss": "https://spasic.me/posts_feed", "date": "2026-01-02 10:32" },
+    { "name": "Chris Coyier (2026)", "url": "https://chriscoyier.net/2026/01/03/default-apps-early-2026/", "rss": "https://chriscoyier.net/feed/", "date": "2026-01-05 09:26" }
 ]

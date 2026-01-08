@@ -166,7 +166,7 @@
     { "name": "Kevin Wammer", "url": "https://cliophate.wtf/posts/default-apps", "rss": "https://cliophate.wtf/feed", "date": "2023-11-23 18:49" },
     { "name": "Chris Enns", "url": "https://chrisenns.com/2023/11/app-defaults/", "rss": "https://chrisenns.com/feed.xml", "date": "2023-11-23 13:48" },
     { "name": "Abhinav", "url": "https://arkoinad.com/posts/default_apps_2023.html", "rss": "https://arkoinad.com/rss.xml", "date": "2023-11-23 16:06" },
-    { "name": "Floh Gro", "url": "https://flohgro.com/productivity/app-defaults-2023/", "rss": "https://flohgro.com/feed/", "date": "2023-11-24 14:16" },
+    { "name": "Floh Gro", "url": "https://flohgro.com/productivity/app-defaults-2023/", "rss": "https://flohgro.com/atom.xml", "date": "2023-11-24 14:16" },
     { "name": "James Doc", "url": "https://jamesdoc.com/blog/2023/defaults-in-2023/", "rss": "https://jamesdoc.com/blog/feed.xml", "date": "2023-11-24 17:13" },
     { "name": "Chris Coyier", "url": "https://chriscoyier.net/2023/11/25/default-apps-2023/", "rss": "https://chriscoyier.net/feed/", "date": "2023-11-26 08:03" },
     { "name": "Matt Cool", "url": "https://mattcool.tech/posts/default-apps-2023", "rss": "https://mattcool.tech/rss.xml", "date": "2023-11-26 08:05" },
@@ -503,5 +503,6 @@
     { "name": "Reilly Spitzfaden", "url": "https://reillyspitzfaden.com/notes/2026/01/app-defaults-2025/", "rss": "https://reillyspitzfaden.com/feed.xml", "date": "2026-01-07 15:44" },
     { "name": "Otávio Cordeiro (2025)", "url": "https://otavio.cc/posts/defaults-in-december-2025", "rss": "https://otavio.cc/rss", "date": "2026-01-08 11:07" },
     { "name": "David Bushell", "url": "https://dbushell.com/2026/01/08/app-defaults/", "rss": "https://dbushell.com/rss.xml", "date": "2026-01-08 15:40" },
-    { "name": "Matt Birchler (2025)", "url": "https://birchtree.me/blog/my-app-defaults-in-2025-a-few-days-late/", "rss": "https://birchtree.me/rss/", "date": "2026-01-08 20:16" }
+    { "name": "Matt Birchler (2025)", "url": "https://birchtree.me/blog/my-app-defaults-in-2025-a-few-days-late/", "rss": "https://birchtree.me/rss/", "date": "2026-01-08 20:16" },
+    { "name": "Floh Gro", "url": "https://flohgro.com/blog/app-defaults-2026/", "rss": "https://flohgro.com/atom.xml", "date": "2026-01-08 20:20" }
 ]

@@ -501,5 +501,6 @@
     { "name": "Robb Knight (2026)", "url": "https://rknight.me/app-defaults-2026/", "rss": "https://rknight.me/feed.xml" , "date": "2026-01-07 08:59" },
     { "name": "Cobb", "url": "https://cobb.land/app-defaults/", "rss": "https://cobb.land/feed.xml" , "date": "2026-01-07 09:00" },
     { "name": "Reilly Spitzfaden", "url": "https://reillyspitzfaden.com/notes/2026/01/app-defaults-2025/", "rss": "https://reillyspitzfaden.com/feed.xml", "date": "2026-01-07 15:44" },
-    { "name": "Otávio Cordeiro (2025)", "url": "https://otavio.cc/posts/defaults-in-december-2025", "rss": "https://otavio.cc/rss", "date": "2026-01-08 11:07" }
+    { "name": "Otávio Cordeiro (2025)", "url": "https://otavio.cc/posts/defaults-in-december-2025", "rss": "https://otavio.cc/rss", "date": "2026-01-08 11:07" },
+    { "name": "David Bushell", "url": "https://dbushell.com/2026/01/08/app-defaults/", "rss": "https://dbushell.com/rss.xml", "date": "2026-01-08 15:40" }
 ]

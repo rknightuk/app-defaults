@@ -461,6 +461,7 @@
     { "name": "Lyons in beta", "url": "https://lyonsinbeta.com/blog/app-defaults/", "rss": "https://lyonsinbeta.com/feed/feed.xml", "date": "2025-08-04 10:09" },
     { "name": "Chai", "url": "https://axoga.to/blog/apps-i-use-2024", "rss": "https://axoga.to/blog.xml", "date": "2025-08-20 15:37" },
     { "name": "Story Spooler", "url": "https://www.storyspooler.com/app-defaults-2025/", "rss": "https://www.storyspooler.com/rss/", "date": "2025-08-28 22:30" },
+    { "name": "Eric Gregorich", "url": "https://focustivity.blog/default-apps-october-24-2025/", "rss": "https://focustivity.blog/rss/", "date": "2025-10-24 12:00:00" },
     { "name": "internetSCOUT", "url": "https://www.internet-scout.de/meine-app-standards-auf-macos-2025/", "rss": "https://www.internet-scout.de/rss/", "date": "2025-10-29 12:20" },
     { "name": "Jeff Triplett (2025)", "url": "https://micro.webology.dev/2025/10/29/default-apps-here-are-my/", "rss": "https://jefftriplett.com/feed.xml", "date": "2025-10-30 12:26" },
     { "name": "Leon Mika (2025)", "url": "https://lmika.org/2025/11/04/delta-of-the-defaults.html", "rss": "https://lmika.org/feed.xml" , "date": "2025-11-04 09:11"},
@@ -509,6 +510,7 @@
     { "name": "Aleks Hudochenkov", "url": "https://hudochenkov.com/posts/app-defaults-2026/", "rss": "https://hudochenkov.com/feed.xml", "date": "2026-01-11 10:57" },
     { "name": "Thord D. Hedengren (2026)", "url": "https://bored.horse/post/app-defaults-early-2026/", "rss": "https://bored.horse/feed.xml", "date": "2026-01-12 10:44" },
     { "name": "Dan Baker", "url": "https://ritual.sh/blog/app-defaults-2026/", "rss": "https://ritual.sh/blog/feed.xml", "date": "2026-01-13 18:55" },
-    { "name": "Adam Chamberlin", "url": "https://adamchamberlin.info/2026/01/app-defaults-2026/", "rss": "https://adamchamberlin.info/feed/rss.xml", "date": "2026-01-14" },
-    { "name": "Andrew Marder", "url": "https://andrewmarder.net/defaults/", "rss": "https://andrewmarder.net/rss.xml", "date": "2026-01-15" }
+    { "name": "Adam Chamberlin", "url": "https://adamchamberlin.info/2026/01/app-defaults-2026/", "rss": "https://adamchamberlin.info/feed/rss.xml", "date": "2026-01-14 12:00:00" },
+    { "name": "Andrew Marder", "url": "https://andrewmarder.net/defaults/", "rss": "https://andrewmarder.net/rss.xml", "date": "2026-01-15 12:00:00" },
+    { "name": "Eric Gregorich (2026)", "url": "https://focustivity.blog/default-apps-january-11-2026/", "rss": "https://focustivity.blog/rss/", "date": "2026-01-21 11:19" }
 ]

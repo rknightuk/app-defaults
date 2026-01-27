@@ -512,5 +512,6 @@
     { "name": "Dan Baker", "url": "https://ritual.sh/blog/app-defaults-2026/", "rss": "https://ritual.sh/blog/feed.xml", "date": "2026-01-13 18:55" },
     { "name": "Adam Chamberlin", "url": "https://adamchamberlin.info/2026/01/app-defaults-2026/", "rss": "https://adamchamberlin.info/feed/rss.xml", "date": "2026-01-14 12:00:00" },
     { "name": "Andrew Marder", "url": "https://andrewmarder.net/defaults/", "rss": "https://andrewmarder.net/rss.xml", "date": "2026-01-15 12:00:00" },
-    { "name": "Eric Gregorich (2026)", "url": "https://focustivity.blog/default-apps-january-11-2026/", "rss": "https://focustivity.blog/rss/", "date": "2026-01-21 11:19" }
+    { "name": "Eric Gregorich (2026)", "url": "https://focustivity.blog/default-apps-january-11-2026/", "rss": "https://focustivity.blog/rss/", "date": "2026-01-21 11:19" },
+    { "name": "Ste Grainer", "url": "https://stegrainer.com/journal/2026/app-defaults", "rss": "https://stegrainer.com/journal/rss.xml", "date": "2026-01-27 15:38" }
 ]

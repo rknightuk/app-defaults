@@ -514,5 +514,6 @@
     { "name": "Andrew Marder", "url": "https://andrewmarder.net/defaults/", "rss": "https://andrewmarder.net/rss.xml", "date": "2026-01-15 12:00:00" },
     { "name": "Eric Gregorich (2026)", "url": "https://focustivity.blog/default-apps-january-11-2026/", "rss": "https://focustivity.blog/rss/", "date": "2026-01-21 11:19" },
     { "name": "Ste Grainer", "url": "https://stegrainer.com/journal/2026/app-defaults", "rss": "https://stegrainer.com/journal/rss.xml", "date": "2026-01-27 15:38" },
-    { "name": "Blake Watson (2026)", "url": "https://blakewatson.com/journal/default-apps-2026/", "rss": "https://blakewatson.com/feed.xml", "date": "2026-01-28 08:40" }
+    { "name": "Blake Watson (2026)", "url": "https://blakewatson.com/journal/default-apps-2026/", "rss": "https://blakewatson.com/feed.xml", "date": "2026-01-28 08:40" },
+    { "name": "Shiveen Pandita (2026)", "url": "https://shiveenp.com/blog/default-apps-2026/", "rss": "https://shiveenp.com/feed/feed.xml", "date": "2026-01-29 21:40" }
 ]

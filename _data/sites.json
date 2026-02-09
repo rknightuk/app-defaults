@@ -518,5 +518,6 @@
     { "name": "Shiveen Pandita (2026)", "url": "https://shiveenp.com/blog/default-apps-2026/", "rss": "https://shiveenp.com/feed/feed.xml", "date": "2026-01-29 21:40" },
     { "name": "Loura (2026)", "url": "https://heyloura.com/2026/01/30/app-defaults.html", "rss": "https://heyloura.com/feed.xml", "date": "2026-01-30 13:55" },
     { "name": "Chris S", "url": "https://blog.metagame.hk/default-apps-for-2026/", "rss": "https://blog.metagame.hk/rss/", "date": "2026-02-02 14:48" },
-    { "name": "Peter", "url": "https://peter.briggs.seattle.wa.us/page/app-defaults/", "rss": "https://peter.briggs.seattle.wa.us/feed.xml", "date": "2026-02-05 23:41" }
+    { "name": "Peter", "url": "https://peter.briggs.seattle.wa.us/page/app-defaults/", "rss": "https://peter.briggs.seattle.wa.us/feed.xml", "date": "2026-02-05 23:41" },
+    { "name": "Gabz", "url": "https://gabz.blog/posts/default-apps-2026-so-far", "rss": "https://gabz.blog/posts_feed" , "date": "2026-02-09 10:59"}
 ]

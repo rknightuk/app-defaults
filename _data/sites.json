@@ -522,5 +522,6 @@
     { "name": "Gabz", "url": "https://gabz.blog/posts/default-apps-2026-so-far", "rss": "https://gabz.blog/posts_feed" , "date": "2026-02-09 10:59"},
     { "name": "Lee Perry", "url": "https://l.prry.uk/defaults", "rss": "https://l.prry.uk/feed.rss" , "date": "2026-02-04 22:30"},
     { "name": "Gobino", "url": "https://gobino.be/my-app-defaults-for-2026/", "rss": "https://gobino.be/feed/", "date": "2025-01-02 08:49" },
-    { "name": "Matthew", "url": "https://matchamakes.net/blogposts/defaults.html", "date": "2026-02-19 16:30" }
+    { "name": "Matthew", "url": "https://matchamakes.net/blogposts/defaults.html", "date": "2026-02-19 16:30" },
+    { "name": "Alexandre Mouriec", "url": "https://alexandremouriec.com/blog/2026-app-defaults/", "rss": "https://alexandremouriec.com/blog/feed.xml", "date": "2026-03-11 11:06" }
 ]

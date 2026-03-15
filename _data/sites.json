@@ -381,7 +381,7 @@
     { "name": "Martín Morales", "url": "https://mrtnmrls.com/default-apps-2025", "rss": "https://mrtnmrls.com/rss.xml", "date": "2024-06-24 23:06" },
     { "name": "Zachary Kai", "url": "https://zacharykai.net/defaults", "rss": "https://zacharykai.net/assets/rss.xml", "date": "2024-06-26 08:39" },
     { "name": "Paul Melero", "url": "https://graficos.net/slashes/uses", "date": "2024-07-05 01:39" },
-    { "name": "Jarema", "url": "https://jarema.me/blog/default-apps-2024", "rss": "https://jarema.me/rss.xml", "date": "2024-07-21 02:27" },
+    { "name": "Jarema", "url": "https://jarema.me/blog/2024/07/app-defaults-2024", "rss": "https://jarema.me/rss.xml", "date": "2024-07-21 02:27" },
     { "name": "Sarah Mak", "url": "https://sarahmakmq.com/tech-gear/", "rss": "https://sarahmakmq.com/index.xml", "date": "2024-08-10 16:14" },
     { "name": "Diogo Ferreira", "url": "https://diogoferreira.pt/uses", "rss": "https://diogoferreira.pt/rss", "date": "2024-08-12 20:52" },
     { "name": "Gabz (2024)", "url": "https://gabz.blog/posts/default-apps-2024-edition", "rss": "https://gabz.blog/feed.xml" , "date": "2024-09-03 12:30"},
@@ -523,5 +523,6 @@
     { "name": "Lee Perry", "url": "https://l.prry.uk/defaults", "rss": "https://l.prry.uk/feed.rss" , "date": "2026-02-04 22:30"},
     { "name": "Gobino", "url": "https://gobino.be/my-app-defaults-for-2026/", "rss": "https://gobino.be/feed/", "date": "2025-01-02 08:49" },
     { "name": "Matthew", "url": "https://matchamakes.net/blogposts/defaults.html", "date": "2026-02-19 16:30" },
-    { "name": "Alexandre Mouriec", "url": "https://alexandremouriec.com/blog/2026-app-defaults/", "rss": "https://alexandremouriec.com/blog/feed.xml", "date": "2026-03-11 11:06" }
+    { "name": "Alexandre Mouriec", "url": "https://alexandremouriec.com/blog/2026-app-defaults/", "rss": "https://alexandremouriec.com/blog/feed.xml", "date": "2026-03-11 11:06" },
+    { "name": "Jarema (2026)", "url": "https://jarema.me/blog/2026/03/app-defaults/", "rss": "https://jarema.me/rss.xml", "date": "2026-03-15 13:00" }
 ]

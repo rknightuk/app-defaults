@@ -530,5 +530,6 @@
     { "name": "Alvin Cheng (2026)", "url": "https://alvinintheroom.com/posts/my-default-apps-jan-2026", "rss": "https://alvinintheroom.com/posts_feed", "date": "2026-05-22 19:16"},
     { "name": "Marty Day (2026)", "url": "https://blast-o-rama.com/2026/06/01/app-defaults-2026/", "rss": "https://www.blast-o-rama.com/feed/", "date": "2026-06-02 09:10" },
     { "name": "Jim Mock", "url": "https://jimbo.lol/defaults", "rss": "https://jimbo.lol/feed.xml", "date": "2026-06-30 15:25"},
-    { "name": "Kaamkiya", "url": "https://kaamkiya.dev/defaults", "rss": "https://kaamkiya.dev/feeds/rss.xml", "date": "2026-07-23 13:40" }
+    { "name": "Kaamkiya", "url": "https://kaamkiya.dev/defaults", "rss": "https://kaamkiya.dev/feeds/rss.xml", "date": "2026-07-23 13:40" },
+    { "name": "Denys Rodivilin", "url": "https://denys.computer/blog/my-defaults-2026/", "rss": "https://denys.computer/rss.xml", "date": "2026-09-07 00:00" }
 ]

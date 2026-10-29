@@ -531,5 +531,6 @@
     { "name": "Marty Day (2026)", "url": "https://blast-o-rama.com/2026/06/01/app-defaults-2026/", "rss": "https://www.blast-o-rama.com/feed/", "date": "2026-06-02 09:10" },
     { "name": "Jim Mock", "url": "https://jimbo.lol/defaults", "rss": "https://jimbo.lol/feed.xml", "date": "2026-06-30 15:25"},
     { "name": "Kaamkiya", "url": "https://kaamkiya.dev/defaults", "rss": "https://kaamkiya.dev/feeds/rss.xml", "date": "2026-07-23 13:40" },
-    { "name": "Denys Rodivilin", "url": "https://denys.computer/blog/my-defaults-2026/", "rss": "https://denys.computer/rss.xml", "date": "2026-09-07 00:00" }
+    { "name": "Denys Rodivilin", "url": "https://denys.computer/blog/my-defaults-2026/", "rss": "https://denys.computer/rss.xml", "date": "2026-09-07 00:00" },
+    { "name": "Derek Salmon", "url": "https://pikselkraft.fr/default-app/", "rss": "https://pikselkraft.fr/rss.xml", "date": "2026-10-28 22:00" }
 ]

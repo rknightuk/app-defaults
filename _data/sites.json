@@ -536,5 +536,6 @@
     { "name": "Saurabh Kumar", "url": "https://saurabh-kumar.com/articles/2026/10/default-apps-2026/", "rss": "https://saurabh-kumar.com/index.xml", "date": "2026-11-02 09:21" },
     { "name": "Gabz (2026) ", "url": "https://gabz.blog/posts/default-apps-late-2026", "rss": "https://gabz.blog/feed.xml", "date": "2026-11-03 08:43" },
     { "name": "Andrew Canion (2026) ", "url": "https://canion.pika.page/posts/default-apps-2026", "rss": "https://canion.blog/feed.xml" , "date": "2026-11-03 08:44", "featured": true },
-    { "name": "Harvey ", "url": "https://hrv3y.xyz/posts/app-defaults-2026/", "rss": "https://hrv3y.xyz/feed.xml", "date": "2026-11-03 08:45" }
+    { "name": "Harvey ", "url": "https://hrv3y.xyz/posts/app-defaults-2026/", "rss": "https://hrv3y.xyz/feed.xml", "date": "2026-11-03 08:45" },
+    { "name": "Iván", "url": "https://eevan.pika.page/posts/app-defaults-2026", "rss": "https://eevan.pika.page/posts_feed", "date": "2026-11-03 10:48" }
 ]

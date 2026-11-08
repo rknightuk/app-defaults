@@ -473,7 +473,7 @@
     { "name": "Paweł Orzech (2025)", "url": "https://pawel.orzech.me/2025/12/07/my-defaults.html", "rss": "https://pawel.orzech.me/feed.json" , "date": "2025-12-07 09:08"},
     { "name": "L. Carlos Pando (2025)", "url": "https://blog.luiscarlospando.com/personal/2025/12/app-defaults-2025/", "rss": "https://blog.luiscarlospando.com/feed/", "date": "2025-12-08 09:53" },
     { "name": "Jason", "url": "https://cool-as-heck.blog/app-defaults-2025", "rss": "https://cool-as-heck.blog/feed.xml", "date": "2025-12-08 09:53" },
-    { "name": "Abhinav (2025)", "url": "https://abhinavsarkar.net/notes/2025-default-apps/", "rss": "https://notes.abhinavsarkar.net/feed.atom", "date": "2025-12-08 13:31" },
+    { "name": "Abhinav (2025)", "url": "https://abhinavsarkar.net/notes/2025-default-apps/", "rss": "https://abhinavsarkar.net/all.atom", "date": "2025-12-08 13:31" },
     { "name": "Nate (2025)", "url": "https://nate.mecca1.net/posts/2025-12-09_defaults-2025/", "rss": "https://nate.mecca1.net/index.xml", "date": "2025-12-09 12:20" },
     { "name": "Aman Mittal (2025)", "url": "https://amanhimself.dev/blog/default-apps-2025/", "rss": "https://amanhimself.dev/rss.xml", "date": "2025-12-10 12:30" },
     { "name": "Patrick Gentry (2025)", "url": "https://pdgentry.me/2025/12/14/updated-app-defaults-december.html", "rss": "https://pdgentry.me/feed.xml", "date": "2025-12-15 08:29" },
@@ -537,5 +537,6 @@
     { "name": "Gabz (2026) ", "url": "https://gabz.blog/posts/default-apps-late-2026", "rss": "https://gabz.blog/feed.xml", "date": "2026-11-03 08:43" },
     { "name": "Andrew Canion (2026) ", "url": "https://canion.pika.page/posts/default-apps-2026", "rss": "https://canion.blog/feed.xml" , "date": "2026-11-03 08:44", "featured": true },
     { "name": "Harvey ", "url": "https://hrv3y.xyz/posts/app-defaults-2026/", "rss": "https://hrv3y.xyz/feed.xml", "date": "2026-11-03 08:45" },
-    { "name": "Iván", "url": "https://eevan.pika.page/posts/app-defaults-2026", "rss": "https://eevan.pika.page/posts_feed", "date": "2026-11-03 10:48" }
+    { "name": "Iván", "url": "https://eevan.pika.page/posts/app-defaults-2026", "rss": "https://eevan.pika.page/posts_feed", "date": "2026-11-03 10:48" },
+    { "name": "Abhinav (2026)", "url": "https://abhinavsarkar.net/notes/2026-default-apps/", "rss": "https://abhinavsarkar.net/all.atom", "date": "2025-12-08 13:31" },
 ]
